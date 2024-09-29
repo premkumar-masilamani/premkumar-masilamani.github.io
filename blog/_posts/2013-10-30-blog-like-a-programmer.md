@@ -103,7 +103,7 @@ Below is the technology stack that runs this blog.
 8. Disqus - A client-side commenting system to enable commenting feature  
 9. VIM - VI Improved. My favorite editor for writing blog posts  
 10. GitHub - A free hosting service that serves the HTML for this website  
-11. BigRock - The DNS registrar in which the domain name smileprem.com is registered  
+11. BigRock - The DNS registrar in which the domain name premkumarmasilamani.com is registered  
 
 I used the very basic template that comes with Jekyll. I have plans to customize it in the future and also to add a custom search engine to my blog. I explored private pay-as-you-go hosting options as well. I may move my blog to private hosting sometime in the future when the blog grows big or if there are issues with GitHub hosting. But, that migration would be a breeze for me.  
 
