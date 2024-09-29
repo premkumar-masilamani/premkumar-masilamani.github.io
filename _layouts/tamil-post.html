@@ -1,0 +1,29 @@
+---
+layout: tamil-default
+---
+<div>
+  <h2>{{ page.title }}</h2>
+  {{ page.date | date_to_string }}
+  <br/>
+  {{ content }}
+</div>
+<div>
+  {% if page.previous.url %} 
+    <a href="{{page.previous.url}}">&lt;&lt; Older</a>
+  {% else %}
+    Older
+  {% endif %}
+  &nbsp;
+  {% if page.next.url %} 
+    <a href="{{page.next.url}}">Newer &gt;&gt;</a>
+  {% else %}
+    Newer
+  {% endif %}
+</div>
+<br/><hr/>
+<div>
+  <br/>
+  {% include tamil-subscribe.html %}
+  <br/>
+</div>
+<br/>
