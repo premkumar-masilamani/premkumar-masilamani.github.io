@@ -14,13 +14,13 @@ english:
   email: premkumar.masilamani.2020@gmail.com
 
 tamil:
-  title: Premkumar Masilamani
-  tagline: On a journey called Life
-  author: Premkumar Masilamani
-  url: https://tamil.smileprem.com
-  img-path: http://localhost:4000/tamil/public/images
-  download-path: http://localhost:4000/tamil/public/downloads
-  newsletter: https://eepurl.com/dE1QD1
+  title: பிரேம்குமார் மாசிலாமணி
+  tagline: என் வாழ்வென்னும் பயணத்தில்...
+  author: பிரேம்குமார் மாசிலாமணி
+  url: https://www.premkumarmasilamani.com/tamil
+  img-path: https://www.premkumarmasilamani.com/tamil/public/images
+  download-path: https://www.premkumarmasilamani.com/tamil/public/downloads
+  newsletter: https://eepurl.com/dE1xBb
   email: premkumar.masilamani.2020@gmail.com
 
 urls:
