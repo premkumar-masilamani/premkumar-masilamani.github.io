@@ -1,26 +1,17 @@
 ---
 layout: tamil-default
 ---
+
 <div>
   <h2>{{ page.title }}</h2>
   {{ page.date | date_to_string }}
-  <br/>
+  <br/><br/>
+  <a href="{{ site.url }}">முகப்பு</a>&nbsp;&gt;&nbsp;<a href="{{ site.tamil.url }}">வலைப்பதிவுகள்</a>
   {{ content }}
+  <a href="{{ site.url }}">முகப்பு</a>&nbsp;&gt;&nbsp;<a href="{{ site.tamil.url }}">வலைப்பதிவுகள்</a>
 </div>
-<div>
-  {% if page.previous.url %} 
-    <a href="{{page.previous.url}}">&lt;&lt; Older</a>
-  {% else %}
-    Older
-  {% endif %}
-  &nbsp;
-  {% if page.next.url %} 
-    <a href="{{page.next.url}}">Newer &gt;&gt;</a>
-  {% else %}
-    Newer
-  {% endif %}
-</div>
-<br/><hr/>
+<br/>
+<hr/>
 <div>
   <br/>
   {% include tamil-subscribe.html %}
