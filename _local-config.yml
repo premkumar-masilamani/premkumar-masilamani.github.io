@@ -1,0 +1,42 @@
+title: Premkumar Masilamani
+tagline: On a journey called Life
+url: http://localhost:4000
+copyright: copyleft @ 2009.
+
+english:
+  title: Premkumar Masilamani
+  tagline: On a journey called Life
+  author: Premkumar Masilamani
+  url: http://localhost:4000/blog
+  img-path: http://localhost:4000/blog/public/images
+  download-path: http://localhost:4000/blog/public/downloads
+  newsletter: https://eepurl.com/dE1QD1
+  email: premkumar.masilamani.2020@gmail.com
+
+tamil:
+  title: Premkumar Masilamani
+  tagline: On a journey called Life
+  author: Premkumar Masilamani
+  url: http://localhost:4000/tamil
+  img-path: http://localhost:4000/tamil/public/images
+  download-path: http://localhost:4000/tamil/public/downloads
+  newsletter: https://eepurl.com/dE1QD1
+  email: premkumar.masilamani.2020@gmail.com
+
+urls:
+  linkedin: https://www.linkedin.com/in/premkumarmasilamani
+  github: https://github.com/premkumar-masilamani
+  coach: https://cal.com/coachprem/chemistry-session
+
+include:
+  - "_pages"
+
+plugins:
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+paginate: 1000
+
+permalink: /:title/
