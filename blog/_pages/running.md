@@ -1,7 +1,7 @@
 ---
 layout: english-page
 date: 2015-03-01
-permalink: /running.html
+permalink: /blog/running/
 ---
 
 ### Barefoot 21K Runs

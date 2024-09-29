@@ -1,7 +1,7 @@
 ---
 layout: english-page
 date: 2022-01-01
-permalink: /books.html
+permalink: /blog/books/
 ---
 
 ### Books I enjoyed reading
