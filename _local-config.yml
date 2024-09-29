@@ -1,18 +1,32 @@
-title: smileprem
-tagline: on a journey called life
+title: Premkumar Masilamani
+tagline: On a journey called Life
 url: http://localhost:4000
-#logo: add-some-logo-here
 copyright: copyleft @ 2009.
 
-author: Premkumar Masilamani
-email: premkumar.masilamani.2020@gmail.com
-mobile: xxx-xxx-xxxx
+english:
+  title: Premkumar Masilamani
+  tagline: On a journey called Life
+  author: Premkumar Masilamani
+  url: http://localhost:4000/blog
+  img-path: http://localhost:4000/blog/public/images
+  download-path: http://localhost:4000/blog/public/downloads
+  newsletter: https://eepurl.com/dE1QD1
+  email: premkumar.masilamani.2020@gmail.com
 
-social:
-  name: Premkumar Masilamani
-  links:
-    - https://www.linkedin.com/in/premkumarmasilamani
-    - https://github.com/smileprem
+tamil:
+  title: Premkumar Masilamani
+  tagline: On a journey called Life
+  author: Premkumar Masilamani
+  url: http://localhost:4000/tamil
+  img-path: http://localhost:4000/tamil/public/images
+  download-path: http://localhost:4000/tamil/public/downloads
+  newsletter: https://eepurl.com/dE1QD1
+  email: premkumar.masilamani.2020@gmail.com
+
+urls:
+  linkedin: https://www.linkedin.com/in/premkumarmasilamani
+  github: https://github.com/premkumar-masilamani
+  coach: https://cal.com/coachprem/chemistry-session
 
 include:
   - "_pages"
@@ -26,14 +40,3 @@ plugins:
 paginate: 1000
 
 permalink: /:title/
-
-img-path: http://localhost:4000/public/images
-download-path: http://localhost:4000/public/downloads
-
-newsletter: https://eepurl.com/dE1QD1
-
-home-page-url: https://www.smileprem.com
-software-architect-url: https://www.linkedin.com/in/premkumarmasilamani
-english-blog-url: https://blog.smileprem.com/
-tamil-blog-url: https://tamil.smileprem.com/
-life-coach-url: https://cal.com/coachprem/chemistry-session

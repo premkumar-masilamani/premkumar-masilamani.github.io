@@ -1,6 +1,9 @@
-title: smileprem
-tagline: on a journey called life
-url: https://blog.smileprem.com
+# TO_BE_UPDATED
+
+title: Premkumar Masilamani
+tagline: On a journey called Life
+url: https://www.premkumarmasilamani.com
+#logo: add-some-logo-here
 copyright: copyleft @ 2009.
 
 author: Premkumar Masilamani
@@ -11,7 +14,7 @@ social:
   name: Premkumar Masilamani
   links:
     - https://www.linkedin.com/in/premkumarmasilamani
-    - https://github.com/smileprem
+    - https://github.com/premkumar-masilamani
 
 include:
   - "_pages"
@@ -26,13 +29,13 @@ paginate: 1000
 
 permalink: /:title/
 
-img-path: https://blog.smileprem.com/public/images
-download-path: https://blog.smileprem.com/public/downloads
+img-path: https://www.premkumarmasilamani.com/public/images
+download-path: https://www.premkumarmasilamani.com/public/downloads
 
 newsletter: https://eepurl.com/dE1QD1
 
-home-page-url: https://www.smileprem.com
+home-page-url: https://www.premkumarmasilamani.com
 software-architect-url: https://www.linkedin.com/in/premkumarmasilamani
-english-blog-url: https://blog.smileprem.com/
+english-blog-url: https://www.premkumarmasilamani.com/blog
 tamil-blog-url: https://tamil.smileprem.com/
 life-coach-url: https://cal.com/coachprem/chemistry-session
