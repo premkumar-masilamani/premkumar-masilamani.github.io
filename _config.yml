@@ -7,9 +7,9 @@ english:
   title: Premkumar Masilamani
   tagline: On a journey called Life
   author: Premkumar Masilamani
-  url: https://www.premkumarmasilamani.com/blog
-  img-path: https://www.premkumarmasilamani.com/blog/public/images
-  download-path: https://www.premkumarmasilamani.com/blog/public/downloads
+  url: https://www.premkumarmasilamani.com/english
+  img-path: https://www.premkumarmasilamani.com/english/public/images
+  download-path: https://www.premkumarmasilamani.com/english/public/downloads
   newsletter: https://eepurl.com/dE1QD1
   email: premkumar.masilamani.2020@gmail.com
 
@@ -33,10 +33,9 @@ include:
 
 plugins:
   - jekyll-paginate
-  - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
 
 paginate: 1000
 
-permalink: /:title/
+permalink: /:categories/:title/

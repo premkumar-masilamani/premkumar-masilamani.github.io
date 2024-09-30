@@ -1,7 +1,7 @@
 ---
 layout: common-empty
 date: 2023-10-11
-permalink: /blog/feed.xml
+permalink: /english/feed.xml
 ---
 
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">

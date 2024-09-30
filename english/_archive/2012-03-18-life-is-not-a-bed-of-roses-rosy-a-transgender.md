@@ -7,7 +7,7 @@ redirect_from:
     - /2012/03/life-is-not-bed-of-roses-rosy.html
 ---
 
-**This is a guest post by Sruthi Kitcha. Read her [here](http://penurheart.blogspot.com/). Thank you Sruthi.**  
+**This is a guest post by Sruthi Kitcha. Thank you Sruthi.**  
 
 It was a gloomy Sunday afternoon. I was on the way to the weekly meeting at Sangama Office. I saw a bird flying from tree to tree looking for an apt place to set its nest. It somehow seemed like my life. I’m a homeless wanderer right now seeking a nest. With so many thoughts flooding the mind, I reached the office. It was warm to see known faces and lovely smiles spread across those faces.   
   
