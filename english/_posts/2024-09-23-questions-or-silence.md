@@ -27,7 +27,7 @@ I was wondering what could be the next evolution in coaching?.
 
 3) No Silence --> Lot of Silence --> Only Silence?
 
-I am imagining a futuristic version of life coaching, where two people get to meet each other. One person becomes a coach and another a client.
+I am imagining a futuristic version of life coaching, where one person becomes a coach and another a client.
 
 > They meet each other, exchange no words, only silence, pure non-verbal communication, the client gets the solution or clarity they were looking for, the coach feels happiness and gratitude, they shake hands, and move on.
 
@@ -35,7 +35,7 @@ Wouldn't that be a wonderful coaching session? What would you name, such a pract
 
 Your mind may be racing with the reasons why this wouldn't work and how absurd this imagination is. I understand that. My mind has the same doubts too.
 
-However, this is not new. There were many spiritual leaders, who demonstrated this phenomenon many times over, as documented in the non-scientific, religious, and spiritual texts. So far, I've rejected all of the spiritual leaders, simply because I could not understand them. Now, I see them as a life coach, than a spiritual leader. I begin to believe that this form of coaching is possible. Don't ask me why or how?. I have no idea.
+However, this is not new. There were many spiritual leaders, who demonstrated this phenomenon many times over, as documented in the non-scientific, religious, and spiritual texts. So far, I've rejected all spiritual leaders, simply because I could not understand them. Now, I have begun to understand a bit, but not completely yet. I see them as a life coach, than spiritual leaders. I believe this form of coaching is possible. Don't ask me why or how?. I have no idea.
 
 Only thing I know from my coaching practice is that,
  
