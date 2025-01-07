@@ -4,7 +4,7 @@ title: A Goodbye Email from a Hardcore Programmer
 date: 2013-11-21
 category: english
 ---
-I quit TCS. Today is my last day. I wanted my final goodbye email to be very special, unique and resemble what I did in TCS. This is what I sent to my colleagues today :)  
+I quit TCS. Today is my last day. I wanted my final goodbye email to be very special, unique and resemble what I did in TCS. This is what I sent to my colleagues today :)
 
 <div align="left" class="java">
   <style type="text/css">
@@ -153,7 +153,7 @@ I quit TCS. Today is my last day. I wanted my final goodbye email to be very spe
 
 <font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#7f0055"><b>if&nbsp;</b></font><font color="#000000">(</font><font color="#000000">foundTheRightOne</font><font color="#000000">())&nbsp;{</font><br />
 
-<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">marryHer</font><font color="#000000">(</font><font color="#2a00ff">&#34;Sangavi&#34;</font><font color="#000000">)</font><font color="#000000">;</font><br />
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">marryHer</font><font color="#000000">(</font><font color="#2a00ff">&#34;Love of my life&#34;</font><font color="#000000">)</font><font color="#000000">;</font><br />
 
 <font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">}</font><br />
 
@@ -205,9 +205,11 @@ I quit TCS. Today is my last day. I wanted my final goodbye email to be very spe
 
 <font color="#ffffff">&nbsp;&nbsp;</font><font color="#7f0055"><b>public&nbsp;static&nbsp;</b></font><font color="#7f0055"><b>void&nbsp;</b></font><font color="#000000">pleaseKeepInTouch</font><font color="#000000">()&nbsp;{</font><br />
 
-<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">viaBlog</font><font color="#000000">(</font><font color="#2a00ff">&#34;<a href="https://www.emailmeform.com/builder/form/bi73zffJbc078cHP6p6fhfr" target="_blank">{{site.url}}/contact/</a>&#34;</font><font color="#000000">)</font><font color="#000000">;</font><br />
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">viaWebsite</font><font color="#000000">(</font><font color="#2a00ff">&#34;<a href="{{site.url}}" target="_blank">{{site.url}}</a>&#34;</font><font color="#000000">)</font><font color="#000000">;</font><br />
 
-<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">viaLinkedIn</font><font color="#000000">(</font><font color="#2a00ff">&#34;<a href="{{site.linkedin}}" target="_blank">{{site.social.links[0]}}</a>&#34;</font><font color="#000000">)</font><font color="#000000">;</font><br />
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">viaLinkedIn</font><font color="#000000">(</font><font color="#2a00ff">&#34;<a href="{{site.linkedin}}" target="_blank">{{site.urls.linkedin}}</a>&#34;</font><font color="#000000">)</font><font color="#000000">;</font><br />
+
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">viaGitHub</font><font color="#000000">(</font><font color="#2a00ff">&#34;<a href="{{site.linkedin}}" target="_blank">{{site.urls.github}}</a>&#34;</font><font color="#000000">)</font><font color="#000000">;</font><br />
 
 <font color="#3f7f5f">&nbsp;&nbsp;&nbsp;&nbsp;// viaFacebook("i-do-not-use-facebook");</font><br />
 
@@ -215,14 +217,14 @@ I quit TCS. Today is my last day. I wanted my final goodbye email to be very spe
 
 <font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#7f0055"><b>if&nbsp;</b></font><font color="#000000">(</font><font color="#000000">emergency</font><font color="#000000">)&nbsp;{</font><br />
 
-<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">viaPhone</font><font color="#000000">(</font><font color="#2a00ff">&#34;<a href="tel:{{site.mobile}}">{{site.mobile}}</a>&#34;</font><font color="#000000">)</font><font color="#000000">;</font><br />
+<font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">viaPhone</font><font color="#000000">(</font><font color="#2a00ff">&#34;you-would-know-the-number&#34;</font><font color="#000000">)</font><font color="#000000">;</font><br />
 
 <font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#000000">}</font><br />
 
 <font color="#ffffff">&nbsp;&nbsp;</font><font color="#000000">}</font><br />
 
 <font color="#000000">}</font></code>
-    
+
    </td>
   <!-- end source code -->
    </tr>
