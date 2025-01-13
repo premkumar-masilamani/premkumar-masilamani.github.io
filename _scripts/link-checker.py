@@ -36,6 +36,7 @@ def find_broken_urls(directory):
                 file_path = os.path.join(root, file)
                 urls = get_urls_from_html(file_path)
                 for url in urls:
+                    print("checking url: ", url)
                     if not is_valid_url(url):
                         broken_urls.append((file_path, url))
     return broken_urls
