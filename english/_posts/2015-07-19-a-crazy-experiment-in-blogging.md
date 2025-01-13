@@ -7,7 +7,7 @@ category: english
 
 If I could read your thoughts.
 
-> Did I click the wrong link?. Why does this blog look like 90's website?. 
+> Did I click the wrong link?. Why does this blog look like 90's website?.
 
 We'll get the answers soon. Before that - One question.
 
@@ -41,23 +41,23 @@ Now, It's different. Too much noise out there. Blogs are content providers and w
 
 There is a new measure of success associated with blogs. "hits, visits, page views". They are not called readers anymore. Only visitors. Who cares. All I need is the incoming traffic to my blog and viral shares. The more traffic I get, the more money I can make out of it. The recent trend is collecting emails and spamming your Inbox. Email List = Money.
 
-> Have you seen any decent blog recently - that does not ask for your email, does not sell you a product, and **does provide full feed** in RSS/Atom? A blog that is not interested in web traffic? 
+> Have you seen any decent blog recently - that does not ask for your email, does not sell you a product, and **does provide full feed** in RSS/Atom? A blog that is not interested in web traffic?
 
-I wish things stayed as simple as it was. 
+I wish things stayed as simple as it was.
 
 ### The Crazy Blog Experiment
 
 What happens when I take a relatively **successful** blog (approx. 300 - 400 readers per day) and tear apart all the components that are considered to fuel the "so-called success" of this blog?
 
-Elegant Design - Removed it. (Only HTML, Not even CSS)  
-Beautiful fonts - Removed it. (System default fonts)  
-Catchy Images - Removed it. (No more copyright violations)  
-Good Commenting System - Removed it. (Added a contact form instead)  
-Mobile Responsive Blog - By default HTML is responsive.  
+Elegant Design - Removed it. (Only HTML, Not even CSS)
+Beautiful fonts - Removed it. (System default fonts)
+Catchy Images - Removed it. (No more copyright violations)
+Good Commenting System - Removed it. (Added a contact form instead)
+Mobile Responsive Blog - By default HTML is responsive.
 
-> Now, there is nothing left in this blog. Except for the bare metal. Except for the words that I wrote. 
+> Now, there is nothing left in this blog. Except for the bare metal. Except for the words that I wrote.
 
-I am sure there will be a huge drop in the traffic. Many visitors won't come back. I am not bothered about those visitors. I want to see how many people are interested in what I write. I don't need the comments on the fly. It does not serve any purpose to me. There is no commenting system in place. There is only a contact form. If my readers want to contact me, he/she has to make an effort to fill in a simple form. I am sure they will. 
+I am sure there will be a huge drop in the traffic. Many visitors won't come back. I am not bothered about those visitors. I want to see how many people are interested in what I write. I don't need the comments on the fly. It does not serve any purpose to me. There is no commenting system in place. There is only a contact form. If my readers want to contact me, he/she has to make an effort to fill in a simple form. I am sure they will.
 
 ### What will I get out of this experiment?
 
@@ -65,10 +65,10 @@ I already started reaping the benefits of this experiment even before I publishe
 
 1. I thought I wrote long blog posts. But most of my blog posts are short. Styled in 600 pixels width and filled with images. I was in an illusion.
 
-2. The majority of the images used in my blogs are downloaded from the internet. I was probably violating the copyright of someone's art. I removed almost all of them. I retained only a few with proper attribution to the artists. 
+2. The majority of the images used in my blogs are downloaded from the internet. I was probably violating the copyright of someone's art. I removed almost all of them. I retained only a few with proper attribution to the artists.
 
 3. I designed this blog. I thought, I was all about logic and did not have an eye for creative design. When all the distractions were removed, I liked the end product. The current design of this blog.
 
 I hope to see a change in the reader's count. Good or Bad. I want to retain this blog design at least for a year.
 
-If you want to know the "free" tech stack that's running this blog, please read this article [Blog like a Programmer]({{site.url}}/blog-like-a-programmer/). If that sounds too technical, you may want to try blogger.com.
+If you want to know the "free" tech stack that's running this blog, please read this article [Blog like a Programmer]({{site.url}}/english/blog-like-a-programmer/). If that sounds too technical, you may want to try blogger.com.
