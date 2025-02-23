@@ -1,11 +1,11 @@
 ---
 layout: english-post
 title: 5 Months of Raw Vegan Experiment
+cover-image: 5-months-raw-vegan-transformation.jpg
+cover-image-credit: Photos by Premkumar Masilamani
 date: 2013-08-05
 category: english
 ---
-
-![5 Months Raw Vegan Transformation]({{site.english.img-path}}/5-months-raw-vegan-transformation.jpg)
 
 25th August 2012 - Some seemingly very unimportant events happened in my life. I couldn't tie my shoelaces while sitting in a chair. I was huffing & puffing when I was done. Yeah. I had a big belly. I could not believe the condition of my physique. I started thinking. Just like the butterfly effect in Chaos Theory, this event triggered a series of events in my life, which led me to change my lifestyle drastically. I started doing one little thing at a time.
 

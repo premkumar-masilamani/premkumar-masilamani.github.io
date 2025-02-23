@@ -1,6 +1,8 @@
 ---
 layout: english-post
 title: Something Better?
+cover-image: something-better.jpg
+cover-image-credit: Generated using Meta AI in Whatsapp
 date: 2024-08-22
 category: english
 ---
