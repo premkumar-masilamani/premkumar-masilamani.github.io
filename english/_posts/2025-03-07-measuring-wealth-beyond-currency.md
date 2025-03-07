@@ -3,7 +3,7 @@ layout: english-post
 title: Measuring Wealth Beyond Currency
 cover-image: dollar-gold-eggs.jpg
 cover-image-credit: Generated using Meta AI in Whatsapp
-date: 2025-03-06
+date: 2025-03-07
 category: english
 ---
 
