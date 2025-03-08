@@ -51,6 +51,8 @@ The question we should ask is,
 
 If the number of ounces increases over time, then net worth has grown. If not, then what appears to be a net worth increase may simply be an illusion caused by inflation.
 
+How do you measure your wealth?
+
 #### Notes
 
 - This article is a **simplistic reduction argument** of a perspective, ignoring market volatility, monetary policies, and supply/demand factors.
