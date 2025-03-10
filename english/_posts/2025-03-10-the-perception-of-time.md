@@ -62,8 +62,6 @@ They must perceive time differently. Time slows down for the man near the black 
 
 This is what physicists concluded, purely because - without this notion, none of their formulae work. The speed of light is fixed and they cannot explain the behavior of a fast-moving object or an object near huge gravitational pull without stretching or shrinking the time.
 
-> The repeat the question again - Is time actually slowing down, or is the duration between events increasing?
-
 ### Perception in Physics
 
 All of the convincing explanations for time dilation involves, the perception of time relative to the observer. (i.e.) The person near the black hole or in a rocket perceives the time the same as us, on earth. Is that true?. We don't know. No one ever went to a black hole.
