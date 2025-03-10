@@ -1,6 +1,8 @@
 # Phony targets ensure commands associated with target are run regardless of file state.
 .PHONY: run
 run:
+	@echo "Deleting _site folder..."
+	rm -rf _site
 	@CONTAINER_ID=$$(docker ps -aq -f name=premkumar-masilamani); \
 	if [ ! -z "$$CONTAINER_ID" ]; then \
 		echo "Stopping and removing existing container: premkumar-masilamani (ID: $$CONTAINER_ID)"; \
