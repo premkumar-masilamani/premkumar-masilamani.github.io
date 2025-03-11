@@ -1,7 +1,7 @@
 ---
 layout: english-post
 title: The Inevitability of Entropy
-cover-image: time-dilation.jpg
+cover-image: entropy.jpg
 cover-image-credit: Generated using Meta AI in Whatsapp
 date: 2025-03-11
 category: english
@@ -39,7 +39,7 @@ Our Earth receives energy from the Sun continuously in the form of light and hea
 
 Have you ever wondered what happens to that much energy from the sun?. About 30% is reflected back to space and 70% is absorbed by the atmosphere, land, and oceans.
 
-A large portion of the energy from the sun, are used by the plants along with nutrients from the soil & carbon from the atmosphere to grow (photosynthesis), the herbivores eat the plants, the carnivores eat the herbivores, and when the animals and plants die, they decompose and return as nutrients to the soil. The plants use nutrients from the soil, carbon from the air, and energy from the sun to grow again. The cycle continues.
+A large portion of the energy from the sun, are used by the plants along with nutrients from the soil and carbon from the atmosphere to grow (photosynthesis), the herbivores eat the plants, the carnivores eat the herbivores, and when the animals and plants die, they decompose and return as nutrients to the soil. The plants use nutrients from the soil, carbon from the air, and energy from the sun to grow again. The cycle continues.
 
 Life forms in earth are effective at absorbing and dissipating energy from the sun. (i.e.) absorbing concentrated high energy photos and dissipating weak radiations out to the space. In other words, order to disorder.
 
@@ -51,13 +51,11 @@ Literally no plants, animals, fishes, microbes. Nothing. No life form that can u
 
 All those energy from the sun, would heat up the earth slowly, with no plants to absorb CO2, the earth's temperature would become warmer and warmer, heating the planet at an accelerated rate, resulting in loss of oceans, reduction in tectonic plate movements, slowly losing the atmosphere - in a few million years, the planet would be completely dry and in a few billion years, our cool blue planet Earth could look like Mars.
 
-How fascinating is this theory?
-
-In a sense, we could say
+How fascinating is this theory? In a sense, we could say
 
 > It's not the Earth that sustains life. It's Life that sustains Earth.
 
-What a wonderful realization?
+What a wonderful realization!
 
 ### Entropy in the Universe
 
@@ -95,9 +93,9 @@ Let's take a couple of social systems and view them through the lens of entropy.
 
 #### Communism
 
-Communism imposes order through centralized control of production & consumption of goods and services, and equal wealth distribution to eliminate social / economic / class inequalities, so that everyone would be living harmoniously with each other.
+Communism imposes order through centralized control of production and consumption of goods and services, and equal wealth distribution to eliminate social / economic / class inequalities, so that everyone would be living harmoniously with each other.
 
-- The drawback here is **the order**. Communism envisons **a perpetual low entropy social system**, which is against the very nature of the universe, eventually leading to the demise or reformation to another social system.
+The drawback here is **the order**. Communism envisons **a perpetual low entropy social system**, which is against the very nature of the universe, eventually leading to the demise or reformation to another social system.
 
 #### Capitalism
 
