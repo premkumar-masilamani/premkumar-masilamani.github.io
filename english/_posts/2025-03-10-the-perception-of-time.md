@@ -19,21 +19,21 @@ However, this measurement of time will not be consistent. One person may walk fa
 
 If you don't understand the above statement, please think, there is a reliable way to measure a time at atomic levels.
 
-Time is a theoretical concept, humans devised to make sense of the sequence of events that happen around us. It messes up my mind, when physicists dilate, stretch, and stop this theoretical concept, in their explanations and formulae, as if it's a real thing like gravity or electromagnetism.
+Time is a theoretical concept, we humans devised to make sense of the sequence of events that happen around us. It messes up my mind, when physicists dilate, stretch, and stop this theoretical concept, in their explanations and formulae, as if it's a real thing like gravity or electromagnetism.
 
 ### What is Time Dilation?
 
-Time dilation is the phenomenon where time slows down relative to an observer due to high velocity (special relativity) or strong gravitational fields (general relativity).
+> Time dilation is the phenomenon where time slows down relative to an observer due to high velocity (special relativity) or strong gravitational fields (general relativity).
 
 I hope you have seen Interstellar movie, where the lead character Cooper travels close to a black hole, and when he comes back, his daughter Murphy is much older than him. They say in the movie, time slows down near black holes. That's time dilation.
 
-Let's take the simple example and build the concept from there
+Let's take a simple example and build the concept from there
 
 - A man walks a mile in 15 mins.
 - The same man roller skates a mile in 5 mins.
 - The same man walks a mile underwater, in the ocean bed in 2 hours.
 
-If I ask your observation about this example, what would you say?.
+If I ask for your observation about this example, what would you say?.
 
 I'd say, the man moves faster on roller skates and moves slower underwater, due to the changes in the environment. I'd never ever in my wildest imagination, would say that the time moves faster for the man on roller skates and moves slower for the man underwater. You'd laugh. Yeah.
 
@@ -71,7 +71,7 @@ Again, the experiment proved the effect but didn't explain the cause. Why do gra
 
 ### Human Perception in Time Dilation
 
-Let's take an extreme example. A person is born blind, dumb, deaf, and paralyzed completely, and survives on medical support. Technically, there is no input from the outside world that goes to him. It's just dark and silent. But his brain is active.
+Let's take an extreme example. A person is born blind, dumb, deaf, and completely paralyzed, and survives on medical support. Technically, there is no input from the outside world that goes to him. It's just dark and silent. But his brain is active.
 
 There are no perceivable events in his life. So, there is no duration between the events. How would he perceive time?
 
@@ -81,8 +81,7 @@ Would he feel any difference in being near a black hole or a faraway planet?.
 
 Explain to him in first principles, what exactly is happening, since he doesn't have a concept of time.
 
-### Time Dilation from First Principles
-
+Time Dilation from First Principles
 All physical interactions/movements must slow down including the vibrations of atoms, movements of free objects, orbiting of planets, the movement of light, near high gravitational pull, or at high speed. That's one way of visualizing everything slowing down around us.
 
 Oh wait, we have to exclude light from this list - otherwise, all our formulae will fail. All our experiments already proved that the light speed is constant. Hmm... Okay.
@@ -94,9 +93,9 @@ I don't know anything more than this. If anyone has a clear explanation of the c
 If time can move slower or faster depending on the speed and gravity, how far can we stretch the concept of time dilation?
 
 - If time can move slower, is there a place in the universe where the time stops?
-- If time can move faster, is there a place in the universe where time is infinitely fast, to the point the concept of time breaks down? The time is so fast that the whole universe is born and dead infinitely in a vicious cycle before even we could conceive that this is happening. To an external observer, it would appear as if nothing is happening, the time stops.
+- If time can move faster, is there a place in the universe where time is infinitely fast, to the point the concept of time breaks down? The time is so fast that the whole universe is born and dead infinitely in a vicious cycle before we could even conceive that this is happening. To an external observer, it would appear as if nothing is happening, the time stops.
 - If infinitely fast time and frozen time would look very similar, can we conceive this as a circle of time?. Infinitely fast -> Still -> Slow -> Fast -> Infinitely fast
-- If the circle of time exists and the universe flows through the circle of time, Is there any way possible for us to even observe this?
+- If the circle of time exists and the universe flows through the circle of time, Is there any possible way for us to observe this?
 - If any of the above is not possible due to physical constraints, what are the practical limits on how fast/slow time can go relative to time on Earth? Can we define a boundary for time dilation?
 
 ### Conclusion
