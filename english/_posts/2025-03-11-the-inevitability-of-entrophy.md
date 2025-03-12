@@ -95,7 +95,7 @@ Let's take a couple of social systems and view them through the lens of entropy.
 
 Communism imposes order through centralized control of production and consumption of goods and services, and equal wealth distribution to eliminate social / economic / class inequalities, so that everyone would be living harmoniously with each other.
 
-The drawback here is **the order**. Communism envisons **a perpetual low entropy social system**, which is against the very nature of the universe, eventually leading to the demise or reformation to another social system.
+The drawback here is **the order**. Communism envisions **a perpetual low entropy social system**, which is against the very nature of the universe, eventually leading to the demise or reformation to another social system.
 
 #### Capitalism
 
@@ -103,7 +103,7 @@ Capitalism thrives on free-market competition and decentralized control which ai
 
 Though capitalism starts as **a high entropy social system**, eventually the wealth concentrates in the hands of a few, thus **creating low entropy**, which is against nature and the system collapses and then restarts. So, cycles of prosperity and cycles of destruction are inevitable in a capitalistic society.
 
-I am not here to advise which social system is best for humans. I am merely pointing out that you can also view the social system through the context of entropy. Instead of rejecting the idea of entropy, embrace it and figure out control the degree or disorder.
+I am not here to advise which social system is best for humans. I am merely pointing out that you can also view the social system through the context of entropy. Instead of rejecting the idea of entropy, embrace it and figure out how to control the degree of disorder.
 
 What do you think of Entropy?.  Where else you could apply this entropy lens?. Philosophy?. Let me know, if you find interesting viewpoints.
 
