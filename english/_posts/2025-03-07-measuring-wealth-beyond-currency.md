@@ -33,7 +33,7 @@ This is the simplest explanation of **inflation**. Though the net worth has incr
 
 With that understanding of inflation and purchasing power, we would be fooling ourselves with inflated numbers if we measured our net worth only in terms of currencies. We need a third entity to measure the purchasing power of the currency. It could be eggs, oil, broccoli, chicken, gold, silver, or a piece of land in a specific place. It could literally be anything that has some intrinsic value.
 
-I'm using gold to measure my net worth. Why?. Because gold is not cheap like eggs and not over-priced like Bitcoin. It's globally recognized and easily traded. It has been a store of value for thousands of years and no other currency has lived that long.
+I'm using gold to measure my net worth. Why?. Because gold is not cheap like eggs and not overpriced like Bitcoin. It's globally recognized and easily traded. It has been a store of value for thousands of years and no other currency has lived that long.
 
 Let’s apply the same logic to gold,
 

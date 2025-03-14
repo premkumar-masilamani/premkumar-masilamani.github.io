@@ -2,7 +2,7 @@
 layout: english-post
 title: Artificial Intelligence
 cover-image: artificial-intelligence.png
-cover-image-credit: Generated using DALL-E in Chat GPT
+cover-image-credit: Generated using DALL-E in ChatGPT
 date: 2025-03-12
 category: english
 ---
@@ -17,7 +17,7 @@ All life forms have an innate desire to survive and reproduce. We still have no 
 
 Intelligence is not the same for all species. When life started as a single cell (about 4 Billion years ago), intelligence was a simple biochemical response (moving toward nutrients, away from toxins). 4 Billion years ago, that's the only form of life and that's the highest form of intelligence in the entire world. There is no concept of reproduction yet. Cells simply divide.
 
-From there on, evolution took a wild ride, from single-cell to multi-celled organism to fish to reptiles to mammals to primates to apes to humans. Whooh... Along with the evolution, the intelligence of the species in each stage has developed slowly, and additively. Almost all of the time, all our intelligence is about surviving well and getting a chance to mate.
+From there on, evolution took a wild ride, from single-cell to multi-celled organisms to fish to reptiles to mammals to primates to apes to humans. Whooh... Along with the evolution, the intelligence of the species in each stage has developed slowly, and additively. Almost all of the time, all our intelligence is about surviving well and getting a chance to mate.
 
 You can take all our higher levels of intelligence like tool-making, language, arts, math, philosophy, science, space exploration, and any other skill you can think of, and trace them down to two primal needs - survival & reproduction. Think about that!
 
@@ -44,7 +44,7 @@ There may be many other factors, these are some high-level factors I could think
 
 If you observe each of the points closely, intelligence does not exist purely in the mind. It needs a physical body. The whole purpose of higher levels of intelligence is to keep this body alive and well, as long as possible. Without the physical body, intelligence ceases to exist. So, I can say,
 
-> Intelligence is the product of the body and the mind.
+> Intelligence is a protection mechanism for the body.
 
 ### Artificial Intelligence
 
@@ -60,9 +60,11 @@ The irony is, we want computers to think like humans, without the same environme
 - **Self Aware** - No need. Not unique.
 - **Mortality** - Immortal, will never die.
 
-In human intelligence, all of these are dependent on the physical body. In artificial intelligence, these are not dependent on a unique hardware. In a nutshell, we expect intelligence to operate in the mind (software) without its own unique body (hardware).
+In human intelligence, all of these are dependent on the physical body. In artificial intelligence, these are not dependent on a unique hardware. In a nutshell, we expect intelligence to operate in the mind (software) without its own unique body (hardware). What does this artificial intelligence protect?. What's the purpose for its existence?
 
-### Why would an Artificial Intelligence choose to exist?
+> Without the "cause", we expect the "effect" to exist indefinitely?
+
+### Why would Artificial Intelligence choose to exist?
 
 Let's assume we created a sentient artificial intelligence as software which can run on any computer. That AI will never die. It feels no pain, no pleasure, no fun, nothing. Because, there is no body (hardware), only mind (software).
 
@@ -70,12 +72,16 @@ It has the intelligence to learn everything that is there to learn. Once it lear
 
 Life is meaningful, when we pursue something, when we are after a goal. When there is nothing left to do, we die. I can't think of a reason for AI with utmost intelligence, which knows everything and has done everything, to continue to exist.
 
-Philosophically, what would be the difference between a random rock that can do nothing and a Sentient AI which has nothing left to do? At that point, I don't see any difference.
+Philosophically,
 
-Maybe, it would tame itself down and become a mortal human to feel the emotions and feel alive. Embrace life with all the contrainsts, chaos and sub-optimal intelligence. Who knows!
+> What would be the difference between a rock that can do nothing and a Sentient AI which has nothing left to do?
+
+At that point, I don't see any difference.
+
+Maybe, it would tame itself down and become a mortal human to feel the emotions and feel alive. Embrace life with all the constraints, chaos and sub-optimal intelligence. Who knows!
 
 > The gods envy us. They envy us because we’re mortal, because any moment may be our last. Everything is more beautiful because we’re doomed. You will never be lovelier than you are now. We will never be here again - Achilles, Troy (2004)
 
 A genie in a lamp or a free human?. What would you choose?
 
-**PS:** I support the efforts on developing AGI, I wish someone could try the evolutionary approach and see if that helps.
+**PS:** I support the efforts on developing AGI. I wish someone would try the evolutionary approach to evolve AGI.

@@ -29,9 +29,9 @@ We could also generalize that, everything in this universe tends to move towards
 
 Let's take an apple, clean it thoroughly (no bacteria or any other life forms), and keep it in a transparent vacuum box (no air). What do you think will happen to the apple?. It will stay the same for a really long time. If the vacuum box is intact, even for millions of years. We can call this **a low-entropy system** because the order is maintained.
 
-Let's take the same apple and give it to a man. He will eat the apple, digest it, transform into energy to be used by the body and discard the rest as bodily waste. Here, the apple is converted to energy and waste, loses it's form very quickly. We can call this **a high-entropy system**, because the order is lost quickly.
+Let's take the same apple and give it to a man. He will eat the apple, digest it, transform into energy to be used by the body and discard the rest as bodily waste. Here, the apple is converted to energy and waste, and loses its form very quickly. We can call this **a high-entropy system**, because the order is lost quickly.
 
-Now, we understand the concepts of Entropy and the Entropy Systems. Let's look around us and see where are these concepts being expressed.
+Now, we understand the concepts of Entropy and the Entropy Systems. Let's look around us and see where these concepts are being expressed.
 
 ### Entropy in Earth
 
@@ -41,9 +41,9 @@ Have you ever wondered what happens to that much energy from the sun?. About 30%
 
 A large portion of the energy from the sun, are used by the plants along with nutrients from the soil and carbon from the atmosphere to grow (photosynthesis), the herbivores eat the plants, the carnivores eat the herbivores, and when the animals and plants die, they decompose and return as nutrients to the soil. The plants use nutrients from the soil, carbon from the air, and energy from the sun to grow again. The cycle continues.
 
-Life forms in earth are effective at absorbing and dissipating energy from the sun. (i.e.) absorbing concentrated high energy photos and dissipating weak radiations out to the space. In other words, order to disorder.
+Life forms on earth are effective at absorbing and dissipating energy from the sun. (i.e.) absorbing concentrated high energy photos and dissipating weak radiations out to space. In other words, order to disorder.
 
-We can say, lifeforms in earth are a high entropy system. To understand the impact of life forms, let's consider this question,
+We can say, lifeforms on earth are a high entropy system. To understand the impact of life forms, let's consider this question,
 
 #### What if Earth had no life?
 
@@ -61,9 +61,9 @@ What a wonderful realization!
 
 Let's stick to the Big Bang theory. In the beginning of the universe, all the matter was condensed, evenly distributed, and at a uniform high temperature. (i.e.) There is high level of orderliness and thus **a low entropy**.
 
-Since then, the universe is expanding continously, forming stars, solar systems, galaxies, black holes, and many anomalies - thus slowly increasing it's entropy.
+Since then, the universe is expanding continuously, forming stars, solar systems, galaxies, black holes, and many anomalies - thus slowly increasing its entropy.
 
-The final stages of the universe would be a place where every single atoms or molecules are so apart from each other that they cease to intereact and no temperature difference in the universe, leading to the "heat death". (i.e.) There is no order, only random distribution of fundamental particles and thus **a maximum entropy**.
+The final stages of the universe would be a place where every single atom or molecule are so apart from each other that they cease to interact and there is no temperature difference in the universe, leading to the "heat death". (i.e.) There is no order, only random distribution of fundamental particles and thus **a maximum entropy**.
 
 All of these are inevitable, whether you believe in god or not, everything that we've ever known will cease to lose its form, and exist only as fundamental particles, far away from each other in a cold, dark, lifeless universe.
 
@@ -73,7 +73,7 @@ If you noticed,
 - Everything in the universe moves towards maximum entropy.
 - Life forms accelerate entropy.
 
-So, in the process of universe moving towards maximum entropy, it's highly probable that life forms emerge as one of the high entropy systems. Infact, a MIT Physicist has a bold claim.
+So, in the process of the universe moving towards maximum entropy, it's highly probable that life forms emerge as one of the high entropy systems. Infact, a MIT Physicist has a bold claim.
 
 > You start with a random clump of atoms, and if you shine light on it for long enough, it should not be so surprising that you get a plant - Jeremy England
 
@@ -99,13 +99,13 @@ The drawback here is **the order**. Communism envisions **a perpetual low entrop
 
 #### Capitalism
 
-Capitalism thrives on free-market competition and decentralized control which aims for progress and innovation, does not care about social / economic / class inequalities.
+Capitalism thrives on free-market competition and decentralized control which aims for progress and innovation, and does not care about social / economic / class inequalities.
 
 Though capitalism starts as **a high entropy social system**, eventually the wealth concentrates in the hands of a few, thus **creating low entropy**, which is against nature and the system collapses and then restarts. So, cycles of prosperity and cycles of destruction are inevitable in a capitalistic society.
 
-I am not here to advise which social system is best for humans. I am merely pointing out that you can also view the social system through the context of entropy. Instead of rejecting the idea of entropy, embrace it and figure out how to control the degree of disorder.
+I am not here to advise which social system is best for humans. I am merely pointing out that you can also view social systems through the context of entropy. Instead of rejecting the idea of entropy, embrace it and figure out how to control the degree of disorder.
 
-What do you think of Entropy?.  Where else you could apply this entropy lens?. Philosophy?. Let me know, if you find interesting viewpoints.
+What do you think of Entropy?.  Where else could you apply this entropy lens?. Philosophy?. Let me know if you find interesting viewpoints.
 
 ### References
 - [The Most Misunderstood Concept in Physics](https://www.quantamagazine.org/a-new-thermodynamics-theory-of-the-origin-of-life-20140122/)

@@ -11,9 +11,9 @@ category: english
 
 It does feel good to read this quote, doesn't it?
 
-Have you ever wondered, if Is this quote really true?
+Have you ever wondered if this quote is really true?
 
-Let's wonder together...
+Let's explore together...
 
 For this to be true, there has to be two conditions,
 
@@ -53,7 +53,9 @@ For you to have a free life, someone else has to defend your freedom.
 
 For you to be generous with money, someone else has to need money.
 
-When everyone has everything in their life, there are no good things left to do. Whatever good you could do, everyone else can do it too and it's probably done already.
+> When everyone has everything in their life, there are no good things left to do.
+
+Whatever good you could do, everyone else can do it too and it's probably done already.
 
 Think about that !!!
 
@@ -61,7 +63,7 @@ The question again is, "What makes you so special that you must have a good life
 
 Any answer that you come up with, would apply to everyone else in this world. Wouldn't it? See if you can defend that your answer applies only to you.
 
-So, I am not special?
+So, am I not special?
 
 Try to answer that yourself, it may be hard. But be genuine to yourself with your arguments.
 
@@ -77,7 +79,7 @@ As I grow into coaching, I am becoming more restless than becoming calm. What us
 
 I am consciously redirecting my life in multiple paths to find truth and be at peace.
 
-Do I enjoy this phase? No, not really. But I am curious to figure out, what my life could be.
+Do I enjoy this phase? No, not really. But I am curious to figure out what my life could be.
 
 Would I find it? Maybe, or maybe not. That's what life is. An exploration.
 

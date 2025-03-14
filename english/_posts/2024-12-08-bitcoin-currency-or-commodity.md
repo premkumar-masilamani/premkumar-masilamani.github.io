@@ -22,15 +22,15 @@ What's a currency? Let's think like a layman. You don't need an economics degree
 * **Moderated supply** - The currency gets damaged, lost, counterfeited, or even hoarded. There has to be a consistent supply of currency in the market to keep the economy functioning.
 * **Backed by the government** - There has to be a trusted institution that manages the value of the currency by appropriate controls (interest rates, economic policies, laws against counterfeiting, protection from fraud, etc).
 
-> What's the difference between US Dollars and Iranian Rial?. It's the US government's military power. Nothing more.
+> What's the difference between US Dollars and Iranian Rials?. It's the US government's military power. Nothing more.
 
 Does bitcoin have these properties?
 * Available to everyone - No.
 * Stable value - No.
 * Moderated supply - No, fixed supply.
-* Backed by government - No.
+* Backed by the government - No.
 
-For any technology to be mass-adopted, it should either fix an existing problem or improve our lives. With fiat currencies, I can send money to anyone in the world or conduct a trade almost immediately (depending on the country you live). All of us are, so used to credit/debit cards, mobile payments, UPI, etc.
+For any technology to be mass-adopted, it should either fix an existing problem or improve our lives. With fiat currencies, I can send money to anyone in the world or conduct a trade almost immediately (depending on the country you live). All of us are so used to credit/debit cards, mobile payments, UPI, etc.
 Bitcoin is nowhere close to that immediate transaction (minimum 10 mins).
 
 With the current state, Bitcoin can never replace the banking/payment institutions. So, what do we do?. Come up with a Layer-2 solution to improve the scale (rollups, sidechains, etc).
@@ -41,7 +41,7 @@ With the current state, Bitcoin can never replace the banking/payment institutio
 
 What's a commodity?. Let's think in layman's terms, again.
 
-It's a goods produced with human effort, which can be consumed directly or used to produce other products. Ex., Rice, Wheat, Soy, and Coffee beans - which can be consumed directly. Gold, Silver, and Crude Oil - which can be used to produce other products (typically higher priced products)
+It's a usable product produced with human effort, which can be consumed directly or used to produce other products. Ex., Rice, Wheat, Soy, and Coffee beans - which can be consumed directly. Gold, Silver, and Crude Oil - which can be used to produce other products (typically higher priced products)
 
 * **Usage** - There must be a well-defined usage for the commodity.
 * **Require efforts to produce** - There has to be efforts to produce the commodity. Ex. Sea water cannot be a commodity, because it's freely available to anyone in the coastal region. But Fish is a perishable commodity because it requires human efforts to catch them.
@@ -71,7 +71,7 @@ I would prefer to use a digital currency which
 
 We all know what the first car looked like, in the late 1800s. Would anyone want to drive that car for day-to-day usage today?. No. Definitely not me. Similarly, Satoshi showed us what's possible with digital currency. It's up to us to take it forward, improve it, evolve it to something practically usable, instead of religiously holding on to Bitcoin.
 
-> Bitcoin did it's job. Let's move on.
+> Bitcoin did its job. Let's move on.
 
 ### Disclaimer
 

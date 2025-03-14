@@ -17,7 +17,7 @@ However, this measurement of time will not be consistent. One person may walk fa
 
 > 1 second = the duration of 9,192,631,770 cycles of microwave radiation to be emitted during the transition between two energy levels of a cesium-133 atom
 
-If you don't understand the above statement, please think, there is a reliable way to measure a time at atomic levels.
+If you don't understand the above statement, please think, there is a reliable way to measure time at atomic levels.
 
 Time is a theoretical concept, we humans devised to make sense of the sequence of events that happen around us. It messes up my mind, when physicists dilate, stretch, and stop this theoretical concept, in their explanations and formulae, as if it's a real thing like gravity or electromagnetism.
 
@@ -25,7 +25,7 @@ Time is a theoretical concept, we humans devised to make sense of the sequence o
 
 > Time dilation is the phenomenon where time slows down relative to an observer due to high velocity (special relativity) or strong gravitational fields (general relativity).
 
-I hope you have seen Interstellar movie, where the lead character Cooper travels close to a black hole, and when he comes back, his daughter Murphy is much older than him. They say in the movie, time slows down near black holes. That's time dilation.
+I hope you have seen the Interstellar movie, where the lead character Cooper travels close to a black hole, and when he comes back, his daughter Murphy is much older than him. They say in the movie, time slows down near black holes. That's time dilation.
 
 Let's take a simple example and build the concept from there
 
@@ -57,7 +57,7 @@ When I observe from Earth, the human near the black hole lives longer and the hu
 
 You can see the difference in lifespan (effect), but you don't know the reason (cause).
 
-When the scientists, say, "The time is relative. They observe time differently. Time slows down for the man near the black hole and moves faster for a man on a faraway planet".
+When scientists say, "Time is relative. They observe time differently. Time slows down for the man near the black hole and moves faster for a man on a faraway planet".
 
 The natural question would be, "Yeah, I see that. Can you explain why?"
 
@@ -81,7 +81,8 @@ Would he feel any difference in being near a black hole or a faraway planet?.
 
 Explain to him in first principles, what exactly is happening, since he doesn't have a concept of time.
 
-Time Dilation from First Principles
+### Time Dilation from First Principles
+
 All physical interactions/movements must slow down including the vibrations of atoms, movements of free objects, orbiting of planets, the movement of light, near high gravitational pull, or at high speed. That's one way of visualizing everything slowing down around us.
 
 Oh wait, we have to exclude light from this list - otherwise, all our formulae will fail. All our experiments already proved that the light speed is constant. Hmm... Okay.
@@ -92,7 +93,7 @@ I don't know anything more than this. If anyone has a clear explanation of the c
 
 If time can move slower or faster depending on the speed and gravity, how far can we stretch the concept of time dilation?
 
-- If time can move slower, is there a place in the universe where the time stops?
+- If time can move slower, is there a place in the universe where time stops?
 - If time can move faster, is there a place in the universe where time is infinitely fast, to the point the concept of time breaks down? The time is so fast that the whole universe is born and dead infinitely in a vicious cycle before we could even conceive that this is happening. To an external observer, it would appear as if nothing is happening, the time stops.
 - If infinitely fast time and frozen time would look very similar, can we conceive this as a circle of time?. Infinitely fast -> Still -> Slow -> Fast -> Infinitely fast
 - If the circle of time exists and the universe flows through the circle of time, Is there any possible way for us to observe this?
@@ -100,4 +101,4 @@ If time can move slower or faster depending on the speed and gravity, how far ca
 
 ### Conclusion
 
-This is one of the elusive concepts in Physics, I wish the scientists could have explained it better. Every time, I come across this concept, I have more questions than answers. I hope someone knowledgeable would find this article and enlighten me with simple answers.
+This is one of the elusive concepts in Physics, I wish the scientists could have explained it better. Every time I come across this concept, I have more questions than answers. I hope someone knowledgeable would find this article and enlighten me with simple answers.
