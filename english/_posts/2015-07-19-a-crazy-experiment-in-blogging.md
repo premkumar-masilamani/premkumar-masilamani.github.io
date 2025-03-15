@@ -7,7 +7,7 @@ category: english
 
 If I could read your thoughts.
 
-> Did I click the wrong link?. Why does this blog look like 90's website?.
+> Did I click the wrong link?. Why does this blog look like a 90's website?.
 
 We'll get the answers soon. Before that - One question.
 
@@ -39,11 +39,11 @@ Earlier, blogs were a simple personal online diary. We felt good writing in it. 
 
 Now, It's different. Too much noise out there. Blogs are content providers and we are content creators.  We create content that would be liked and shared by the readers. We write catchy titles. We add beautiful images and videos because the readers are not patient enough to read. We make list-based blogs in every niche because they get shared more. Some people write long content because it gets shared too. In a way, readers dictate what they want to see on our blog.
 
-There is a new measure of success associated with blogs. "hits, visits, page views". They are not called readers anymore. Only visitors. Who cares. All I need is the incoming traffic to my blog and viral shares. The more traffic I get, the more money I can make out of it. The recent trend is collecting emails and spamming your Inbox. Email List = Money.
+There is a new measure of success associated with blogs. "hits, visits, page views". They are not called readers anymore. Only visitors. Who cares? All I need is the incoming traffic to my blog and viral shares. The more traffic I get, the more money I can make out of it. The recent trend is collecting emails and spamming your Inbox. Email List = Money.
 
 > Have you seen any decent blog recently - that does not ask for your email, does not sell you a product, and **does provide full feed** in RSS/Atom? A blog that is not interested in web traffic?
 
-I wish things stayed as simple as it was.
+I wish things stayed as simple as they were.
 
 ### The Crazy Blog Experiment
 
@@ -67,8 +67,8 @@ I already started reaping the benefits of this experiment even before I publishe
 
 2. The majority of the images used in my blogs are downloaded from the internet. I was probably violating the copyright of someone's art. I removed almost all of them. I retained only a few with proper attribution to the artists.
 
-3. I designed this blog. I thought, I was all about logic and did not have an eye for creative design. When all the distractions were removed, I liked the end product. The current design of this blog.
+3. I designed this blog. I thought I was all about logic and did not have an eye for creative design. When all the distractions were removed, I liked the end product. The current design of this blog.
 
-I hope to see a change in the reader's count. Good or Bad. I want to retain this blog design at least for a year.
+I hope to see a change in the reader's count. Good or Bad. I want to retain this blog design for at least a year.
 
 If you want to know the "free" tech stack that's running this blog, please read this article [Blog like a Programmer]({{site.url}}/english/blog-like-a-programmer/). If that sounds too technical, you may want to try blogger.com.

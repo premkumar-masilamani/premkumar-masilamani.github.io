@@ -7,13 +7,13 @@ category: english
 
 ### What is Dhyanalinga?
 
-It is a place dedicated to meditation, consecrated by Sadhguru Jaggi Vasudev using Prana Prathishta - a complicated process by which all seven chakras are energized to their peak and locked inside the structure. It is said that this was the first complete Dhyanalinga in over 2000 years and it's been estimated that the energy will be contained within this structure for at least the next 5000 years. This place is located around 30 km from Coimbatore, inside the forest. There are frequent bus/cab services available from Coimbatore.
+It is a place dedicated to meditation, consecrated by Sadhguru Jaggi Vasudev using Prana Pratishta - a complicated process by which all seven chakras are energized to their peak and locked inside the structure. It is said that this was the first complete Dhyanalinga in over 2000 years and it's been estimated that the energy will be contained within this structure for at least the next 5000 years. This place is located around 30 km from Coimbatore, inside the forest. There are frequent bus/cab services available from Coimbatore.
 
 ### My Experience with Dhyanalinga
 
-Since then, I have decided to be open to other's religious/supernatural / cult / cosmic being / spiritual beliefs, I've been in many discussions with many of my friends with alternate belief systems. I did not criticize or evaluate their belief system with my rational thinking process, instead, I just listened. I got to know so much information that I did not know before. One such discussion was about people having different experiences with Dhyanalinga's energy. Thanks to Dinesh for providing me the complete picture of the process that was involved in creating this Dhyanalinga. Though I did not understand many of the concepts - I know now, the rough idea behind this structure. I decided to find that out by myself.
+Since then, I have decided to be open to others' religious/supernatural / cult / cosmic being / spiritual beliefs, I've been in many discussions with many of my friends with alternate belief systems. I did not criticize or evaluate their belief system with my rational thinking process, instead, I just listened. I got to know so much information that I did not know before. One such discussion was about people having different experiences with Dhyanalinga's energy. Thanks to Dinesh for providing me the complete picture of the process that was involved in creating this Dhyanalinga. Though I did not understand many of the concepts - I know now, the rough idea behind this structure. I decided to find that out by myself.
 
-Me, my wife, my cousin, and three of their friends set out to Dhyanalinga in a car and a bike. The route to this place was really lovely with green trees/vegetation on both sides. We reached the place in mid-noon with the scorching sun above our heads. This place has to be maintained in complete silence. So they collected the cameras, cell phones other items in the entrance itself. It's free. I have used the pictures I got from the Internet on this blog to give you a visual experience.
+Me, my wife, my cousin, and three of their friends set out to Dhyanalinga in a car and a bike. The route to this place was really lovely with green trees/vegetation on both sides. We reached the place in mid-noon with the scorching sun above our heads. This place has to be maintained in complete silence. So they collected the cameras, cell phones and other items in the entrance itself. It's free. I have used the pictures I got from the Internet on this blog to give you a visual experience.
 
 You are welcomed and greeted by the volunteers. If you are a first-time visitor to Dhyanalinga, you will be shown a small documentary movie about Dhyanalinga. I would suggest you watch it.
 
@@ -39,17 +39,17 @@ I strongly suggest you take a dip, whether you are religious or not. It's a love
 
 There are volunteers everywhere to guide you to the places and to answer your questions. The old volunteer in front of this temple explained that this is the feminine form of Lingam. You can worship Linga Bhairavi as you would do to other Hindu gods. There are requests made to her, in exchange for flowers and poojas. A typical Hindu establishment. I seriously do not see a need for this temple inside a meditation place.
 
-I saw a lot of foreigners in saffron dresses doing poojas, offering flowers, doing meditations, etc. A typical scene in an Ashram. She offered me Neem Leaves and Lilly flowers inside the temple. I was supposed to eat the Neem Leaves. It was more bitter than the Bitter Gourd. Luckily they sold *Pasiparuppu Payasam* just outside the temple for Rs. 10. With the help of the payasam, I could eat three Neem leaves. Even though we knew the benefits of Neem leaves, this was my first successful attempt at eating them. I was proud!
+I saw a lot of foreigners in saffron dresses doing poojas, offering flowers, doing meditations, etc. A typical scene in an Ashram. She offered me Neem Leaves and Lily flowers inside the temple. I was supposed to eat the Neem Leaves. It was more bitter than the Bitter Gourd. Luckily they sold *Pasi Paruppu Payasam* just outside the temple for Rs. 10. With the help of the payasam, I could eat three Neem leaves. Even though we knew the benefits of Neem leaves, this was my first successful attempt at eating them. I was proud!
 
 ### Nandhi
 
 ![Nandhi]({{site.english.img-path}}/dhyanalinga-nandi.jpg)
 
-We saw a small beautiful artificial pond with Lillies and Goldfishes, on the way to Dhyanalinga and spent some time walking around the pond, watching the flowers and fishes. It was good. A big 15-foot Nandhi interrupted us at Dhyanalinga's entrance. It is made up of a metal alloy, filled with herbs inside, consecrated by a ceremony. It was painted in pitch black color and looks majestic than the Charging Bull in front of New York Stock Exchange. We were not allowed to touch or climb the Nandhi.
+We saw a small beautiful artificial pond with Lillies and Goldfishes, on the way to Dhyanalinga and spent some time walking around the pond, watching the flowers and fishes. It was good. A big 15-foot Nandhi interrupted us at Dhyanalinga's entrance. It is made up of a metal alloy, filled with herbs inside, consecrated by a ceremony. It was painted in pitch black color and looks more majestic than the Charging Bull in front of the New York Stock Exchange. We were not allowed to touch or climb the Nandhi.
 
 ### Sarva Dharma Sthamba
 
-![Sarva Tharma Sthamba]({{site.english.img-path}}/dhyanalinga-sarva-dharma-sthamba.jpg)
+![Sarva Dharma Sthamba]({{site.english.img-path}}/dhyanalinga-sarva-dharma-sthamba.jpg)
 
 We saw *Sarva Dharma Sthamba*, just before the entrance, signifying singularity or union of all religions. This stone has inscriptions of symbols of Hinduism, Islam, Christianity, Jainism, Taoism, Zoroastrianism, Judaism, Buddhism, and Shinto welcoming people from all religious beliefs. I am not sure how many people notice this Sthamba. I did not see a single person looking or checking this out. Maybe this should be placed in a more strategic place or should be made more attractive - to convey the message.
 

@@ -9,7 +9,7 @@ I passed the *Google Certified Professional - Cloud Architect* exam on July 24, 
 
 ![Google Certified Professional - Cloud Architect]({{site.english.img-path}}/premkumar-masilamani-professional-cloud-architect.jpg)
 
-Like everyone else, I googled for preparation tips from those who were certified already. I was overwhelmed by the amount of information that I had to consume (online courses, documentation, videos, etc.). Even though this is a professional-level certification, I wasn't really sure, that I have to subject myself to so much mundane reading and watching. I have been working with the Google Cloud Platform for about **a year and a half**, completely hands-on on a good number of services. So, I thought I should be able to clear the exam even without preparation. But, I didn't take chances anyway.
+Like everyone else, I googled for preparation tips from those who were certified already. I was overwhelmed by the amount of information that I had to consume (online courses, documentation, videos, etc.). Even though this is a professional-level certification, I wasn't really sure that I have to subject myself to so much mundane reading and watching. I have been working with the Google Cloud Platform for about **a year and a half**, completely hands-on on a good number of services. So, I thought I should be able to clear the exam even without preparation. But, I didn't take chances anyway.
 
 So, I crafted my own plan. Here you go.
 
@@ -21,13 +21,13 @@ Mandatory - [Architecting with Google Cloud Platform Specialization](https://www
 
 Optional - [Developing Applications with Google Cloud Platform Specialization](https://www.coursera.org/specializations/developing-apps-gcp)
 
-If you are not pressed for time, I would suggest you complete both the courses. 
+If you are not pressed for time, I would suggest you complete both the courses.
 
-**Pro Tip:** While studying these courses, make a lot of notes. I prefer an A5 size notebook and a fountain pen. Use whatever note-taking method is comfortable for you. You can review these notes on the last day of your preparation. 
+**Pro Tip:** While studying these courses, make a lot of notes. I prefer an A5 size notebook and a fountain pen. Use whatever note-taking method is comfortable for you. You can review these notes on the last day of your preparation.
 
 ### 2. Flowcharts in GCP
 
-This is the only section of the preparation, where you need to know the decision tree by heart. Do it even if you don't like to memorize and thank me later. 
+This is the only section of the preparation, where you need to know the decision tree by heart. Do it even if you don't like to memorize and thank me later.
 
 [A GCP flowchart a day](https://medium.com/google-cloud/a-gcp-flowchart-a-day-2d57cc109401)
 
@@ -55,7 +55,7 @@ Imagine them as your real customers and create real-world solutions for them. Co
 
 ### 5. Review GCP documentation
 
-If you already completed the previous 4 steps and still have time left, you could review the GCP documentation. 
+If you already completed the previous 4 steps and still have time left, you could review the GCP documentation.
 
 [Google Cloud Platform Documentation](https://cloud.google.com/docs/)
 
@@ -63,13 +63,13 @@ If you already completed the previous 4 steps and still have time left, you coul
 
 ### 6. Google Next Videos
 
-Entirely for your leisure and learning. Please don't watch every one of the videos. Scroll through the list, pick and watch what interests you. 
+Entirely for your leisure and learning. Please don't watch every one of the videos. Scroll through the list, pick and watch what interests you.
 
 [Google Cloud Next '17 - All Sessions](https://www.youtube.com/playlist?list=PLIivdWyY5sqI8RuUibiH8sMb1ExIw0lAR)
 
 [All Sessions - Google Cloud Next '18](https://www.youtube.com/playlist?list=PLBgogxgQVM9v0xG0QTFQ5PTbNrj8uGSS-)
 
-**Pro Tip:** You could easily train yourself to watch the videos 2X faster. Start with 1.25X, then 1.5X, then 1.75X and sky is the limit. I can comprehend easily with 1.75X speed. You could go faster or slower. Speed is not the objective, comprehension is.
+**Pro Tip:** You could easily train yourself to watch the videos 2X faster. Start with 1.25X, then 1.5X, then 1.75X and sky's the limit. I can comprehend easily with 1.75X speed. You could go faster or slower. Speed is not the objective, comprehension is.
 
 ### References for continuous learning
 <ul>

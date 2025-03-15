@@ -13,16 +13,16 @@ Think -> Write -> Think -> Write ...
 
 Or if you imagine a queuing system in the brain (i.e.), one part of the brain is thinking, and the other part of the brain is coordinating the writing, then the thoughts would accumulate faster than we could write. As far as I can tell from my experience of writing, the amount of memory available in my brain to hold the thoughts is probably very little. I don't recall having a queue of thoughts to write, and in most cases, I forget what I thought a moment before.
 
-[Queue] Think, Store, Think, Store, Think, Store ... (fast)  
+[Queue] Think, Store, Think, Store, Think, Store ... (fast)
 [Writing] Retrieve, Write, Retrieve, Write ... (slow)
 
-Writing is surely the slowest way to convert thoughts to words. Every writer in this world knows this. But this is the only available option to humans for thousands of years. There was nothing else that we could do. As the most intelligent species on the planet, can't I create a device that allows me to convert our thoughts to words faster? Oh no... Our ego is hurt.
+Writing is surely the slowest way to convert thoughts to words. Every writer in this world knows this. But this has been the only available option to humans for thousands of years. There was nothing else that we could do. As the most intelligent species on the planet, can't I create a device that allows me to convert our thoughts to words faster? Oh no... Our ego is hurt.
 
 No, no, no... you are wrong. Writing slowly is better for you. It helps you to think clearly. How? What makes us think that thinking slowly is the best way to think clearly?
 
 Imagine your brain as a computer, and the thoughts are the data that are fed to the computer for processing. If the computer is from the '90s with only a few GHz processing capacity, you would struggle to process all the thoughts. What if your brain is a supercomputer which can process a ton of data in a microsecond, would the assumption still be the same?
 
-[Thinking Slowly] Think, Pause, Evaluate, Think, Pause, Evaluate ...  
+[Thinking Slowly] Think, Pause, Evaluate, Think, Pause, Evaluate ...
 [Thinking Fast] Think, Evaluate, Think, Evaluate, Think, Evaluate ...
 
 "Think" phase is magic. The "Evaluate" phase is probably the same in both cases, your capacity to process the thoughts. What's up with this "Pause" phase? As if magically there will be some sort of revelation while we wait for the next thought. We don't know how the thoughts originate, so waiting for the next brilliant thought is equivalent to praying to God - give me something, make my life better. This gets philosophical. Let's not divert.

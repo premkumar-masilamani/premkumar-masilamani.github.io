@@ -7,7 +7,7 @@ category: english
 
 It was a confusing period of my life. Everything was going well and nothing was going well at the same time. From other's perspectives, I had a successful career, a wealthy life, good health, a happy family, etc. There was nothing anyone could complain about in my life. But deep inside, there was a void. There was a question,
 
-> "How many times am I going to repeat my yesterday?"
+> "How many times am I going to repeat yesterday?"
 
 The answer wasn't very fulfilling. At the same time, I have no idea what I am looking for... I reached out to a friend, and mentor coach Arvind Ramasundaram for help. He spoke to me for a while and suggested I become a life coach.
 

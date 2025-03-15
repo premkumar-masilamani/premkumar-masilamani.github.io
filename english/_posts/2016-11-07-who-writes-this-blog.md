@@ -7,7 +7,7 @@ category: english
 
 > Who writes this blog?
 
-A question that's haunting me in recent days. 
+A question that's haunting me in recent days.
 
 Think about these scenarios.
 
@@ -17,19 +17,18 @@ Think about these scenarios.
 
 * Replace that audible voice with an image or a movie. You need to interpret what you see and write down in your own words. What you write depends on what you see. You do have the choice to use the words you like. When there is no image, there is nothing to write. Who writes now?. Maybe, you and whoever shows those images to you?. Great!.
 
-* Now, there is no image. Only your thoughts. Who writes now?. Definitely you. Right?. Because no one else is involved. 
+* Now, there is no image. Only your thoughts. Who writes now?. Definitely you. Right?. Because no one else is involved.
 
-If I may ask, how do those thoughts originate?. Who/What put those vivid images/scenes in your mind as "thoughts"?. Can you voluntarily bring about a completely new thought in your mind?.  
+If I may ask, how do those thoughts originate?. Who/What put those vivid images/scenes in your mind as "thoughts"?. Can you voluntarily bring about a completely new thought in your mind?.
 
-A major chunk of your creation (let's say writing) are thoughts in your mind. The act of translation to a language is minor. If you do not know how the major chunk happens, can you claim ownership of your creation?. 
+A major chunk of your creation (let's say writing) are thoughts in your mind. The act of translation to a language is minor. If you do not know how the major chunk happens, can you claim ownership of your creation?.
 
-I don't. I am simply a tool to express the words which like to be expressed.
+I don't. I am simply a tool to express the words that like to be expressed.
 
-Never bother about what you write, as long as you are truthful to yourself. 
+Never bother about what you write, as long as you are truthful to yourself.
 
-Don't tie yourself to those words. 
+Don't tie yourself to those words.
 
-Let go of the ownership. 
+Let go of the ownership.
 
 Feel Free !!!.
-

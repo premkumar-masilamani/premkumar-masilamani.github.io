@@ -1,6 +1,6 @@
 ---
 layout: english-post
-title: Bio-metric Credit cards
+title: Biometric Credit cards
 date: 2009-03-04
 category: english
 ---
@@ -9,7 +9,7 @@ I hate carrying multiple credit cards in my wallet. We must get rid of these pla
 
 Think about this. We don’t need any external items to uniquely identify us. Right? Each one of us has unique features like fingerprints or retinas. Why can’t we use them?
 
-Retina scan is one of the oldest & most secure bio-metrics available today. The blood vessels on the back of everyone’s eye have a unique pattern. The retina scan uses a light source to illuminate the blood vessels which are then photographed and analyzed. They use a coupler to examine the pattern.
+Retina scan is one of the oldest & most secure biometrics available today. The blood vessels on the back of everyone’s eye have a unique pattern. The retina scan uses a light source to illuminate the blood vessels which are then photographed and analyzed. They use a coupler to examine the pattern.
 
 Faking a human retina at this moment is impossible. I read somewhere that the error rate of retinal scans is one in ten million whereas for fingerprints, it's one in 500.
 
@@ -17,7 +17,7 @@ OK. Let me come to the point. I want to have a centralized database of retinal s
 
 There must be a touchscreen in front of me. If I have multiple credit cards, the computer should display all the credit cards that I have. I can choose any one credit/debit card for that specific transaction.
 
-At this moment retinal scan is slow. But that’s not an excuse. That’s a limitation that we need to overcome. I firmly believe that in the future, retinal scans will be faster than the bar-code scanner.
+At this moment the retinal scan is slow. But that’s not an excuse. That’s a limitation that we need to overcome. I firmly believe that in the future, retinal scans will be faster than the bar-code scanner.
 
 This is not just for financial purposes. The database can be used to map the customer’s social security number, driving license, credit history, criminal background, etc.
 

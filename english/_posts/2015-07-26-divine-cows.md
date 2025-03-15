@@ -5,9 +5,9 @@ date: 2015-07-26
 category: english
 ---
 
-**Divine** - of, relating to, or characterizing God or a deity.  
+**Divine** - of, relating to, or characterizing God or a deity.
 
-(In the below discussion, "you" is not you. "You" is a person who owns a dairy farm)
+(In the discussion below, "you" is not you. "You" is a person who owns a dairy farm)
 
 **Me:** Hey friend. I heard that you are setting up a new business. Congrats. What's the business?
 
@@ -35,17 +35,17 @@ category: english
 
 **Me:** Oh... So, you will let the calf drink the milk first and take whatever is left out?
 
-**You:** Which world are you in? I will remove the calf from the mother as soon as it is born. I will suck out last the drop of milk with the sophisticated machines.
+**You:** Which world are you in? I will remove the calf from the mother as soon as it is born. I will suck out the last drop of milk with the sophisticated machines.
 
-**Me:** Seriously?. She goes through 270 days of pregnancy, followed by the painful birth, and does not get time to spend with her newborn. All she can do is - let you suck all her milk. That's cruel, man. 
+**Me:** Seriously?. She goes through 270 days of pregnancy, followed by the painful birth, and does not get time to spend with her newborn. All she can do is - let you suck all her milk. That's cruel, man.
 
-**You:** Yeah. It is tough even for us to separate the mother from her newborn. Having a calf around will put a big dent in my profits. 
+**You:** Yeah. It is tough even for us to separate the mother from her newborn. Having a calf around will put a big dent in my profits.
 
 **Me:** That's bad. This will be the toughest time for her. I hope time will heal these torturous memories from her.
 
 **You:** I don't think so.
 
-**Me:** Why not?. 
+**Me:** Why not?.
 
 **You:** She will be injected with painful growth hormones frequently so that she will produce more milk and She will be impregnated again.
 
@@ -53,9 +53,9 @@ category: english
 
 **You:** It's not just the second time, my friend. She will be pregnant and give birth every year, as long as she can give birth and as long as she can lactate.
 
-**Me:** That's the cruelest thing that can happen to any animal. Never mind the divine one. 
+**Me:** That's the cruelest thing that can happen to any animal. Never mind the divine one.
 
-**You:** It's business, my friend. What do you expect me to do with her, without sucking her milk?. 
+**You:** It's business, my friend. What do you expect me to do with her, without sucking her milk?.
 
 **Me:** She goes through this torture every day? Is there a time, a single day in her life - that she is happy? Out of this misery?
 

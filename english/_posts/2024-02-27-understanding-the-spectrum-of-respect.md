@@ -12,7 +12,7 @@ Here is a recent conversation with my co-brother (paraphrased)
 **Him:** I understand, but overall, do you respect him?
 **Me:** I don't know how to answer that question. Do you need an average of the qualities I respect and the qualities I don't? If the result is positive, I respect him and if it's negative I don't. Is that what you are looking for?
 
-The conversation did not go anywhere. Both were re-iterating our version of respecting someone. I failed to make him understand my point, while I consciously did not agree with his viewpoint.
+The conversation did not go anywhere. Both were reiterating our version of respecting someone. I failed to make him understand my point, while I consciously did not agree with his viewpoint.
 
 > **Respect** - a feeling of deep admiration for someone or something elicited by their abilities, qualities, or achievements.
 
@@ -38,9 +38,9 @@ Positive to negative.
 
 Most people that we respect have many good qualities that we admire, some qualities that we tolerate, and the rest are hidden from us. As long as they are floating between the "admiration" and "tolerance" parts of the spectrum, we are comfortable ignoring the "tolerance" part and focusing on the "admiration" part. Because we are good people :)
 
-The moment, we discover the "can't tolerate" part, most people switch sides and don't respect them at all. Look at what happened in the US after Jeffrey Esptein's list was released. Quite a lot of "so-called good people" received bad press and many of them were disowned by their friends, co-workers, etc. What happened to the respect they had before?
+The moment we discover the "can't tolerate" part, most people switch sides and don't respect them at all. Look at what happened in the US after Jeffrey Esptein's list was released. Quite a lot of "so-called good people" received bad press and many of them were disowned by their friends, co-workers, etc. What happened to the respect they had before?
 
-Imagine you have a very skilled carpenter who works in your house regularly. You like his skills, work ethic, and quality of the finished products, you naturally respect his work and even recommend him to your neighbors. If you come to know that he is a pedophile, what happens? Would you still hire him? Would you still recommend him to your neighbors? You don't have to answer anyone, simply answer to yourself.
+Imagine you have a very skilled carpenter who works in your house regularly. You like his skills, work ethic, and quality of the finished products, you naturally respect his work and even recommend him to your neighbors. If you come to know that he is a pedophile, what happens? Would you still hire him? Would you still recommend him to your neighbors? You don't have to answer anyone, simply answer yourself.
 
 The point of this discussion is,
 

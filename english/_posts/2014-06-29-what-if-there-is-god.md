@@ -9,7 +9,7 @@ Saturday evening, the Soccer game is yet to start and unfortunately, there are n
 
 **Assumption:** God exists. He creates, manages, and destroys everything that we know. (Definitely not in a way that **any religion** preaches)
 
-**Explanation:** This is an "abductive argument" that tries to infer a reason for a present phenomenon. I just explain one of the million other possibilities. The "Logical Positivists" will discard this argument immediately. However, going by "the theory of falsification" we should not discard a theory just because there is sound evidence against your theory. It simply means that there is something out there, that the theory cannot account for. (To know more about science, please read *Understand Philosophy of Science* by Mel Thompson)
+**Explanation:** This is an "abductive argument" that tries to infer a reason for a present phenomenon. I just explain one of the million other possibilities. The "Logical Positivists" will discard this argument immediately. However, going by "the theory of falsification" we should not discard a theory just because there is sound evidence against your theory. It simply means that there is something out there that the theory cannot account for. (To know more about science, please read *Understand Philosophy of Science* by Mel Thompson)
 
 The theory of the god or the origin of everything is not completely known. It's an abstract concept at this moment. It is impossible to explain an abstract concept to another person without using an analogy. So, I picked up an analogy. - The Video Games and Artificial Intelligence. Please relate the analogy to the world that we live in.
 
@@ -27,9 +27,9 @@ Viola - there was light. Remember he was the one who set up the voice commands?
 
 He chose a beautiful, cool, blue planet - The Earth, for his game. He has to create the characters in his game. He already has a working model of randomness in creating the environment. He wants to apply the same concept to create living beings. He created the smallest form of living being in large numbers, the ancestors to cyanobacteria, and let it spread across every possible place on earth. That organism can survive with the energy from the environment and sunlight.
 
-He allowed **mutation** to happen in the lowest degree over a long period - to test their survival abilities. He cannot wait around for the characters in the game to develop and mature right?. So, he speeds up the time in the universe. Something like one century in the world is equal to one second in God's world. Soon enough, the world was filled with so much of diverse living beings, the perfect ecosystem, the proper recycling of energy, and sustained balance in life.
+He allowed **mutation** to happen in the lowest degree over a long period - to test their survival abilities. He cannot wait around for the characters in the game to develop and mature right?. So, he speeds up the time in the universe. Something like one century in the world is equal to one second in God's world. Soon enough, the world was filled with so many diverse living beings, the perfect ecosystem, the proper recycling of energy, and sustained balance in life.
 
-Next, he wanted to create a life form in his image but did not want to disrupt the existing mutation process. So, he picked up a species and carefully allowed ONLY the mutations that would make that species evolve into his form. He gave them the ability to think and the free will to decide their own life(Artificial Intelligence). God became curious to see - what will the humans do with their extraordinary ability to think.
+Next, he wanted to create a life form in his image but did not want to disrupt the existing mutation process. So, he picked up a species and carefully allowed ONLY the mutations that would make that species evolve into his form. He gave them the ability to think and the free will to decide their own life(Artificial Intelligence). God became curious to see - what will the humans do with their extraordinary ability to think?
 
 One unanswered question to the theory of evolution.
 
@@ -45,7 +45,7 @@ He sets the game in automatic mode. He sets up listener programs that will infor
 
 When the learning of any human in the game of life is not complete, but his/her lifetime ends - god puts them back into the game. The knowledge acquired by every human being will not be the same. God defines the exit criteria/rules to check if the human's learning is complete or not. He does not manually pick every dead human and assign him another life on earth. He sets certain rules and automates the process of re-birth. The process of getting out and coming back to the game of life is the same for everyone. Check the uniformity of the near-death experiences (NDE), past life regressions, astral projection experiences, etc. Everyone reports a similar feeling of leaving their body, floating toward a bright light, etc. Can you relate?
 
-Every single experience of every single human being is recorded in a medium called "Collective Consciousness". With specific training, some humans can tap into the collective consciousness and tell exactly what happened in the past. I witnessed such an event in my life. I have no doubts about the ability of humans to tap into the past. About the future? It did not happen yet.
+Every single experience of every single human being is recorded in a medium called "Collective Consciousness". With specific training, some humans can tap into the collective consciousness and tell exactly what happened in the past. I witnessed such an event in my life. I have no doubts about the ability of humans to tap into the past. About the future? It has not happened yet.
 
 Along with life on earth, God created multiple games in different planes. These games will be running simultaneously. Though there are defined boundaries for the game, it is always possible for the objects from one game to communicate with objects from another game. After all, everything is connected. Isn't it? Can you relate to the **parallel universe or multiverse** concept?
 
@@ -67,7 +67,7 @@ By design, you cannot. If you go through the specific process defined by God, yo
 
 ### What is the process of communicating to god?
 
-There are millions of ways to communicate with god. I don't have the knowledge of all of them. You can start with a prayer if you believe in God or Meditation if you don't believe in God at the moment. The next steps will be revealed to you. Most probably the process and the experience with god will be different for everyone.
+There are millions of ways to communicate with god. I don't have the knowledge of all of them. You can start with a prayer if you believe in God or Meditation if you don't believe in God at the moment. The next steps will be revealed to you. Most probably the process and the experience with God will be different for everyone.
 
 ### What happens when I deny god?
 
@@ -75,11 +75,11 @@ Nothing. You live and you die. You are born again. The cycle continues.
 
 ### Why should I believe in rebirth?
 
-Birth, Death & Rebirth is a personal experience. You cannot communicate with a person, while he is going through these process. You can, of course, die to experience death and rebirth. But, you will not remember anything when you are born again. There is no need for you to believe. If you believe this, you will accelerate your learning.
+Birth, Death & Rebirth is a personal experience. You cannot communicate with a person, while he is going through this process. You can, of course, die to experience death and rebirth. But, you will not remember anything when you are born again. There is no need for you to believe. If you believe this, you will accelerate your learning.
 
 ### If God exists, Why are there wars & famine?
 
-That was not God's intention. That's something that we, humans manifested with the powers given to us. Do you think, that humans cannot stop these by any means?
+That was not God's intention. That's something that we humans manifested with the powers given to us. Do you think that humans cannot stop these by any means?
 
 ### I understand, Why can't God help us a little?
 

@@ -9,13 +9,13 @@ category: english
 
 **Early Rising Tip:** Go to bed when You're sleepy (and only when you're sleepy) and get up with an alarm clock at a fixed time (7 days per week). The catch is - irrespective of when you go to bed, you always wake up at a fixed time. No excuses. The first few days will be tough and you may feel tired throughout the waking hours. Once your brain realizes that there will be no sleep after the fixed time, it will push you to sleep early. The natural cycle of sleep will set in. I had 100% success with this technique.
 
-**48-Day Challenge:** Starting today, I am going to wake up at 5 AM daily (irrespective of weekends, travels, parties, night outs). Why 48 days? It counts to one Mandalam. Though there is a religious interpretation/usage of Mandalam for doing poojas, it was originally developed by Siddhars as a measure of time for medication. If you do any specific task at a specific time consistently for 48 days, it becomes a habit. So, I choose to wake up daily at 5 AM for 48 days - to make this a permanent habit for me. If I miss a day, I will restart from Day 1.
+**48-Day Challenge:** Starting today, I am going to wake up at 5 AM daily (irrespective of weekends, travels, parties, night outs). Why 48 days? It counts as one Mandalam. Though there is a religious interpretation/usage of Mandalam for doing poojas, it was originally developed by Siddhars as a measure of time for medication. If you do any specific task at a specific time consistently for 48 days, it becomes a habit. So, I choose to wake up daily at 5 AM for 48 days - to make this a permanent habit for me. If I miss a day, I will restart from Day 1.
 
 **PS:** You may see many references on the internet that 21 days is enough to forge a habit. Since I am going to do this for the rest of my life, I chose 48 days for my experiment.
 
 ### What to do with the extra hours?
 
-It's not the waking up time that makes you successful, but what you do in those extra hours does. So, We need a plan to utilize those extra hours to work towards our goals or passion or health acquiring more knowledge or improving meditation skills, etc. Here is what I planned for the extra hours.
+It's not the waking up time that makes you successful, but what you do in those extra hours does. So, We need a plan to utilize those extra hours to work towards our goals or passion or health, acquiring more knowledge or improving meditation skills, etc. Here is what I planned for the extra hours.
 
 **My Morning List:**
 
@@ -40,6 +40,6 @@ I may find some other distractions to my To-Do list in the coming 48 days. I wil
 
 ### Why this experiment?
 
-I am beginning to feel content with myself, and happy with my life. A thought of unknown origin tells me that it's time to give back. But, I don't know what to give or how to give. I am searching for a meaning for my life, even though my conscious atheist self, says that there is no meaning. I want to organize my lifestyle and channel my energy in proper ways so I may find many excellent & exciting ideas/opportunities that my entire life would not be enough to complete. Feeling excited as I write this.
+I am beginning to feel content with myself, and happy with my life. A thought of unknown origin tells me that it's time to give back. But, I don't know what to give or how to give. I am searching for a meaning for my life, even though my conscious atheist self says that there is no meaning. I want to organize my lifestyle and channel my energy in proper ways so I may find many excellent & exciting ideas/opportunities that my entire life would not be enough to complete. Feeling excited as I write this.
 
 **PS:** Today I woke up at 4.47 AM and did tasks 0 - 5 :)

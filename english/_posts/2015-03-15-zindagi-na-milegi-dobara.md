@@ -9,7 +9,7 @@ I urge everyone to watch this movie, irrespective of your Hindi knowledge. The o
 
 I am not here to review the movie or rate it. This movie triggered a lot of emotions in me. We are all running behind something, running for more money, running for promotions, running for a big house, running to have a peaceful retirement, running to die rich - while forgetting the whole reason behind it - **Life**.
 
-Why do most of us spend the youthful days of our lives in corporate cubicles and hoping to have a peaceful life after we retire?
+Why do most of us spend the youthful days of our lives in corporate cubicles hoping to have a peaceful life after we retire?
 
 Why do we content ourselves with three weeks of vacation per year and get into the rat race for the rest of the year?.
 
@@ -29,11 +29,11 @@ I am not asking everyone to stop everything and backpack to Europe or Australia.
 
 I liked the entire movie, but one question struck me so hard... really hard that I paused and sunk into deep thoughts.
 
-![Zindagi Na Milegi Dobara]({{site.english.img-path}}/zindagi-na-milegi-dobara-soul-question.jpg)  
+![Zindagi Na Milegi Dobara]({{site.english.img-path}}/zindagi-na-milegi-dobara-soul-question.jpg)
 
 **Do you write anything to feed your own soul?**
 
-I always thought of myself as a writer. A fearless writer. But, when I confronted this explicit question - I couldn't say YES with my whole heart.
+I always thought of myself as a writer. A fearless writer. But, when I confronted this explicit question - I couldn't say YES with all my whole heart.
 
 **What does this mean?**
 

@@ -7,39 +7,39 @@ category: english
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Z7dLU6fk9QY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-When was the last time, I spoke to the rose plants while watering them in the morning?
+When was the last time I spoke to the rose plants while watering them in the morning?
 
-When was the last time, I read a book aloud on the terrace, while the early morning sunlight rejuvenated my uncovered body?
+When was the last time I read a book aloud on the terrace, while the early morning sunlight rejuvenated my uncovered body?
 
-When was the last time, I climbed, jumped, hugged, kissed a big tree?
+When was the last time I climbed, jumped, hugged, kissed a big tree?
 
 When was the last time, I sauntered in the rain, enjoying the chillness without having to worry about the smartphone?
 
-When was the last time, we parked our bicycles on the roadside and chatted with friends for hours?
+When was the last time we parked our bicycles on the roadside and chatted with friends for hours?
 
-When was the last time, we simply gathered and played Cricket, Kabadi, Wall-Tennis all weekend?
+When was the last time we simply gathered and played Cricket, Kabadi, Wall-Tennis all weekend?
 
-When was the last time, we went to the beach, enjoyed playing with the waves, without taking a picture?
+When was the last time we went to the beach, enjoyed playing with the waves, without taking a picture?
 
-When was the last time, I went to a library and spent the whole day reading?
+When was the last time I went to a library and spent the whole day reading?
 
-When was the last time, I coded throughout the night, without checking the social media?
+When was the last time I coded throughout the night, without checking social media?
 
-When was the last time, I wrote a poem in Tamil while enjoying the conversation with the moon?
+When was the last time I wrote a poem in Tamil while enjoying the conversation with the moon?
 
-When was the last time, I reread the same book because it was too good?
+When was the last time I reread the same book because it was too good?
 
-When was the last time, I simply enjoyed solitude and stillness in my life?
+When was the last time I simply enjoyed solitude and stillness in my life?
 
 And many more ...
 
 I lived that life !!!
 
-Now, 
+Now,
 
 I don't remember my closest school friend's kid's name, but I know my senior manager's dog's name.
 
-I don't remember my cousin's birthday, but I know the birthday of a random person I met in Las Vegas. 
+I don't remember my cousin's birthday, but I know the birthday of a random person I met in Las Vegas.
 
 I don't remember how many were in my college gang, but I know 1000+ friends on Facebook.
 
@@ -49,9 +49,9 @@ When I pause and look back at my life, I remember only the events that made me t
 
 In this finite life, why should I waste my time doing things that do not matter in the end?.
 
-I am going after those precious little experiences that will make me smile on my deathbed. 
+I am going after those precious little experiences that will make me smile on my deathbed.
 
-I am erasing my presence in the digital world and embracing the real world for every need of mine. 
+I am erasing my presence in the digital world and embracing the real world for every need of mine.
 
 > I am making a big decision to stay small, deliberately.
 
@@ -83,14 +83,14 @@ Losing contacts does not mean losing friends. I am merely severing one of the co
 
 **Intellectual Debates** - Facebook helped me to get into intellectual discussions with my friends on various topics - science, religion, politics, reservations, women's rights, relationships, etc. I get a fresh and diverse perspective on each of the issues. I also came to know more about my friends, their beliefs, their political views, etc. Every discussion made me a little wiser.
 
-**A lot of memories** - Facebook is the repository of all significant life events in the past years. There are times when I have nothing else to do, so I simply go back to my timeline or friend's timelines to look at the memorable events. Thus, spending more time on Social Media. Now, all my data would live on a local hard disk. 
+**A lot of memories** - Facebook is the repository of all significant life events in the past years. There are times when I have nothing else to do, so I simply go back to my timeline or friend's timelines to look at the memorable events. Thus, spending more time on Social Media. Now, all my data would live on a local hard disk.
 
 **A platform to showcase my creation** - I made a lot of friends and followers on social media, over the years. My friends are my best critics, who helped me to groom my writing over the years. Thanks to all my friends for all the constructive feedback.
 
 ### What will I gain?
 
-1. Quality time with family and friends. 
-2. One less distraction from life. 
+1. Quality time with family and friends.
+2. One less distraction from life.
 3. Privacy of my data.
 
 ### Will I be ultimately out of the digital world?
@@ -99,7 +99,7 @@ No. I love writing. I will continue to blog at the below websites. You can subsc
 
 1. [{{ site.english.title }}]({{ site.english.url }})
 2. [&#2965;&#2985;&#2997;&#3009;]({{ site.tamil.url }})
-3. ~~Raw Vegan Recipes~~ - I deleted the website. I am no longer a raw vegan. I would suggest, doing the opposite. Follow a Paleo lifestyle.
+3. ~~Raw Vegan Recipes~~ - I deleted the website. I am no longer a raw vegan. I would suggest doing the opposite. Follow a Paleo lifestyle.
 
 I will also retain my [LinkedIn]({{site.social.links[0]}}) account for my professional growth.
 
