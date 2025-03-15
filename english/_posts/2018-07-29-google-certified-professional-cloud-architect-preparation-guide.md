@@ -39,7 +39,7 @@ This is the only section of the preparation, where you need to know the decision
 
 If you are already a solutions architect, you must have created quite a lot of architectures for many cloud providers, and you could skip this section. If that's not you, please pay more attention to this. Irrespective of the certification results, you will be doing this as a profession anyway.
 
-[Cloud Solutions Architecture Reference](http://gcp.solutions/)
+[Cloud Solutions Architecture Reference](https://cloud.google.com/solutions)
 
 Go through every single architecture; evaluate each one of them. See, if you can come up with a better solution, with the latest offerings from GCP. Quite frankly many of them are outdated. Use this as a training ground to create solutions for a wide variety of industries. You will love this.
 
@@ -74,7 +74,7 @@ Entirely for your leisure and learning. Please don't watch every one of the vide
 ### References for continuous learning
 <ul>
     <li><a target="_blank" href="https://cloud.google.com/community/">Google Cloud Platform Community</a></li>
-    <li><a target="_blank" href="https://cloud.google.com/blog/big-data/">GOOGLE CLOUD BIG DATA AND MACHINE LEARNING BLOG</a></li>
+    <li><a target="_blank" href="https://cloud.google.com/blog/products/data-analytics">Google Data Analytics Blog</a></li>
     <li><a target="_blank" href="https://www.gcppodcast.com/about/">Google Cloud Platform Podcast</a></li>
     <li><a target="_blank" href="https://cloudplatform.googleblog.com/">Google Cloud Platform Blog</a></li>
     <li><a target="_blank" href="https://kubernetes.io/blog/">Kubernetes Blog</a></li>
