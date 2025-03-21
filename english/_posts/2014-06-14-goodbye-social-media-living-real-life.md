@@ -103,13 +103,6 @@ No. I love writing. I will continue to blog at the below websites. You can subsc
 
 I will also retain my [LinkedIn]({{site.social.links[0]}}) account for my professional growth.
 
-### What happens to the Facebook groups?
-
-I don't know. I treasure the association with the below groups. I need to talk to the admin and establish other means to get only the most essential information from the group. Let's see how that unfolds for me.
-
-1. [Live Your Legend](https://www.facebook.com/groups/LYLcreatorsguild/)
-2. [Bangalore Runners](https://www.facebook.com/groups/233302930081964/)
-
 ### When will I erase my digital presence?
 
 I am planning to delete all my social media accounts by June 16th, 2014, from 23:00 to 23:59 IST. This time is needed to back up the data, hand over the admin responsibilities, establish alternate login methods for the websites with social media OAuth logins, allow friends to download any of their tagged pictures, etc.
