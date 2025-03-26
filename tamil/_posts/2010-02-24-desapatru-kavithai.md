@@ -1,5 +1,5 @@
 ---
-layout: tamil-post
+layout: tamil/post
 title: தேசபற்று.
 date: 2010-02-24
 category: tamil

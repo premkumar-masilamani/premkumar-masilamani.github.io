@@ -1,11 +1,11 @@
 ---
-layout: english-post
+layout: english/post
 title: Love for Books
 date: 2024-08-19
 category: english
 ---
 
-**Me**: "Ara, You should read every day."  
+**Me**: "Ara, You should read every day."
 **My daughter**: Hmm... Okay... 😏 😏 😏
 
 Nothing changed.
@@ -20,6 +20,6 @@ After a couple of months of my daughter watching me read every night, she asked,
 
 Fast forward to now, we have a small library. My daughter designed a hanging bookshelf for her, started making custom handmade bookmarks for me, and reads every day including the weekends.
 
-Everything has changed. 😍 😍 😍 
- 
+Everything has changed. 😍 😍 😍
+
 Coaching can have a positive impact on you and the people around you. Would you like to explore what coaching can do for you?

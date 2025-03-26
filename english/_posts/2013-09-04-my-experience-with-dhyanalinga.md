@@ -1,5 +1,5 @@
 ---
-layout: english-post
+layout: english/post
 title: My Experience with Dhyanalinga
 date: 2013-09-04
 category: english

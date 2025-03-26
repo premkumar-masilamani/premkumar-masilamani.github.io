@@ -1,5 +1,5 @@
 ---
-layout: tamil-post
+layout: tamil/post
 title: தண்ணீர் தேசம் - புத்தகவிமர்சனம்.
 date: 2011-01-11
 category: tamil

@@ -1,5 +1,5 @@
 ---
-layout: english-post
+layout: english/post
 title: Running Software Without Hardware - A Thought Experiment
 date: 2012-03-25
 category: english

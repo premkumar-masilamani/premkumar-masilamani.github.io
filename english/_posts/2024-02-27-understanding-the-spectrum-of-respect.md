@@ -1,5 +1,5 @@
 ---
-layout: english-post
+layout: english/post
 title: Understanding the Spectrum of Respect
 date: 2024-02-27
 category: english

@@ -1,5 +1,5 @@
 ---
-layout: tamil-post
+layout: tamil/post
 title: எனது மதுரை நினைவுகள் - புத்தகவிமர்சனம்.
 date: 2010-09-12
 category: tamil

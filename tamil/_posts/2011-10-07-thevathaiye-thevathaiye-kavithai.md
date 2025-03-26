@@ -1,5 +1,5 @@
 ---
-layout: tamil-post
+layout: tamil/post
 title: தேவதையே தேவதையே.
 date: 2011-10-07
 category: tamil

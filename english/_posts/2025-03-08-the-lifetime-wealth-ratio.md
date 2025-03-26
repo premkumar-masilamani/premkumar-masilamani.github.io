@@ -1,5 +1,5 @@
 ---
-layout: english-post
+layout: english/post
 title: The Lifetime Wealth Ratio
 cover-image: lifetime-wealth-ratio.jpg
 cover-image-credit: Generated using Meta AI in Whatsapp

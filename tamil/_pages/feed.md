@@ -1,5 +1,5 @@
 ---
-layout: common-empty
+layout: common/empty
 date: 2023-10-11
 permalink: /tamil/feed.xml
 ---
@@ -15,13 +15,13 @@ permalink: /tamil/feed.xml
 		<lastBuildDate>{{ site.time | date_to_rfc822  }}</lastBuildDate>
 		<atom:link href="{{ site.tamil.url }}/feed.xml" rel="self" type="application/rss+xml" />
 		<docs>https://cyber.law.harvard.edu/rss/rss.html</docs>
-		<generator>Jekyll Liquid Template in Github</generator>		
+		<generator>Jekyll Liquid Template in Github</generator>
 		<managingEditor>{{ site.tamil.email }} ({{ site.tamil.author }})</managingEditor>
 		<webMaster>{{ site.tamil.email }} ({{ site.tamil.author }})</webMaster>
 		{% for post in site.categories.tamil limit:1000 %}
 			<item>
 				<title>{{ post.title | xml_escape }}</title>
-				<link>{{ site.tamil.url }}{{ post.url }}</link>
+				<link>{{ site.url }}{{ post.url }}</link>
 				<description>{{ post.content | xml_escape }}</description>
 			{% if post.author-name != null %}
 				<author>{{ post.author-email }} ({{ post.author-name }})</author>
@@ -30,7 +30,7 @@ permalink: /tamil/feed.xml
 			{% endif %}
 				<category>{{ post.category }}</category>
 				<pubDate>{{ post.date | date_to_rfc822  }}</pubDate>
-				<guid>{{ site.tamil.url }}{{ post.url }}</guid>
+				<guid>{{ site.url }}{{ post.url }}</guid>
 			</item>
 		{% endfor %}
 	</channel>

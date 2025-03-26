@@ -1,5 +1,5 @@
 ---
-layout: tamil-post
+layout: tamil/post
 title: ரொம்ப அழகா இருக்கு.
 date: 2011-08-15
 category: tamil

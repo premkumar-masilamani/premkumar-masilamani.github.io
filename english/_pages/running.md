@@ -1,5 +1,5 @@
 ---
-layout: english-page
+layout: english/page
 date: 2015-03-01
 permalink: /english/running/
 ---
@@ -9,7 +9,7 @@ permalink: /english/running/
 <ol>
   <li><p><a href="{{site.english.img-path}}/running/2015-coimbatore-marathon-21k.jpg">Coimbatore Marathon</a> (04-Oct-2015)</p></li>
   <li><p><a href="{{site.english.img-path}}/running/2017-tiburon-marathon-21k.jpg">Tiburon Half Marathon</a> (01-Oct-2017)</p></li>
-</ol>  
+</ol>
 
 ### Barefoot 10K Runs
 
@@ -32,4 +32,4 @@ permalink: /english/running/
   <li><p><a href="{{site.english.img-path}}/running/2015-beat-the-heat-run-10k.jpg">Beat The Heat Run</a> (14-Mar-2015)</p></li>
   <li><p><a href="{{site.english.img-path}}/running/2015-british-10k.jpg">British 10K London Run</a> (12-Jul-2015)</p></li>
   <li><p><a href="{{site.english.img-path}}/running/2015-run-for-anaimalais.jpg">Run For Anaimalais</a> (06-Sep-2015)</p></li>
-</ol>  
+</ol>

@@ -1,5 +1,5 @@
 ---
-layout: english-post
+layout: english/post
 title: Becoming a Life Coach
 date: 2024-08-16
 category: english

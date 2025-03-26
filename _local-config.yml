@@ -8,8 +8,8 @@ english:
   tagline: On a journey called Life
   author: Premkumar Masilamani
   url: http://localhost:4000/english
-  img-path: http://localhost:4000/english/public/images
-  download-path: http://localhost:4000/english/public/downloads
+  img-path: http://localhost:4000/downloads/images
+  download-path: http://localhost:4000/downloads/files
   newsletter: https://eepurl.com/dE1QD1
   email: premkumar.masilamani.2020@gmail.com
 
@@ -18,8 +18,8 @@ tamil:
   tagline: என் வாழ்வென்னும் பயணத்தில்...
   author: பிரேம்குமார் மாசிலாமணி
   url: http://localhost:4000/tamil
-  img-path: http://localhost:4000/tamil/public/images
-  download-path: http://localhost:4000/tamil/public/downloads
+  img-path: http://localhost:4000/downloads/images
+  download-path: http://localhost:4000/downloads/files
   newsletter: https://eepurl.com/dE1xBb
   email: premkumar.masilamani.2020@gmail.com
 

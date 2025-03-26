@@ -1,5 +1,5 @@
 ---
-layout: tamil-post
+layout: tamil/post
 title: ரஜினி பேரக் கேட்டாலே - புத்தகவிமர்சனம்.
 date: 2011-02-23
 category: tamil

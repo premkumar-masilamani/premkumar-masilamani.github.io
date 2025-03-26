@@ -1,5 +1,5 @@
 ---
-layout: english-post
+layout: english/post
 title: Life Coach? You?
 date: 2024-08-18
 category: english

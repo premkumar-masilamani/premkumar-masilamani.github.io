@@ -1,5 +1,5 @@
 ---
-layout: english-post
+layout: english/post
 title: Falling in Love with RSS again
 date: 2015-02-17
 category: english

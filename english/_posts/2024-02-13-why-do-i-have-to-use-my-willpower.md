@@ -1,5 +1,5 @@
 ---
-layout: english-post
+layout: english/post
 title: Why do I have to use my willpower?
 date: 2024-02-13
 category: english

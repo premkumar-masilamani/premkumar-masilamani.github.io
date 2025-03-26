@@ -1,5 +1,5 @@
 ---
-layout: english-post
+layout: english/post
 title: The Journey of Thoughts to Words
 date: 2024-01-28
 category: english

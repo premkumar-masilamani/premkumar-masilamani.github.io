@@ -1,5 +1,5 @@
 ---
-layout: tamil-post
+layout: tamil/post
 title: திருநங்கைகள் உலகம் - புத்தகவிமர்சனம்.
 date: 2012-05-02
 category: tamil

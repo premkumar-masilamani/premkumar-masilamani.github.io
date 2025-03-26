@@ -1,5 +1,5 @@
 ---
-layout: english-post
+layout: english/post
 title: A Crazy Experiment In Blogging
 date: 2015-07-20
 category: english

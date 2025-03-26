@@ -1,5 +1,5 @@
 ---
-layout: tamil-page
+layout: tamil/page
 date: 2022-01-01
 permalink: /tamil/books/
 ---
@@ -15,18 +15,18 @@ permalink: /tamil/books/
   <li><a target="_blank" href="https://www.google.com/search?q=எனது+மதுரை+நினைவுகள்">எனது மதுரை நினைவுகள்</a> எழுதியவர்: மனோகர் தேவதாஸ்</li>
   <li><a target="_blank" href="https://www.google.com/search?q=ரஜினி+பேரக்+கேட்டாலே">ரஜினி பேரக் கேட்டாலே</a> எழுதியவர்: காயத்ரி ஸ்ரீகாந்த்</li>
   <li><a target="_blank" href="https://www.google.com/search?q=வேடிக்கை+பார்ப்பவன்">வேடிக்கை பார்ப்பவன்</a> எழுதியவர்: நா.முத்துக்குமார்</li>
-</ul>  
+</ul>
 
 #### அறிவியல்
 <ul>
   <li><a target="_blank" href="https://www.google.com/search?q=அணு+அதிசயம்+அற்புதம்+அபாயம்">அணு - அதிசயம், அற்புதம், அபாயம்</a> எழுதியவர்: N.ராமதுரை</li>
-</ul>  
+</ul>
 
 #### வரலாறு
 <ul>
   <li><a target="_blank" href="https://www.google.com/search?q=கி.மு.+கி.பி.">கி.மு. கி.பி.</a> எழுதியவர்: மதன்</li>
   <li><a target="_blank" href="https://www.google.com/search?q=தமிழகத்தின்+மரபுக்+கலைகள்">தமிழகத்தின் மரபுக் கலைகள்</a> எழுதியவர்: எழிலவன்</li>
-</ul>  
+</ul>
 
 #### நாவல்
 <ul>
@@ -34,15 +34,14 @@ permalink: /tamil/books/
   <li><a target="_blank" href="https://www.google.com/search?q=கள்ளிக்காட்டு+இதிகாசம்">கள்ளிக்காட்டு இதிகாசம்</a> எழுதியவர்: வைரமுத்து</li>
   <li><a target="_blank" href="https://www.google.com/search?q=மெலுஹாவின்+அமரர்கள்">மெலுஹாவின் அமரர்கள்</a> எழுதியவர்: அமிஷ்</li>
   <li><a target="_blank" href="https://www.google.com/search?q=பொன்னியின்+செல்வன்">பொன்னியின் செல்வன்</a> எழுதியவர்: கல்கி கிருஷ்ணமூர்த்தி</li>
-</ul>  
+</ul>
 
 #### யதார்த்தம்
 <ul>
   <li><a target="_blank" href="https://www.google.com/search?q=திருநங்கைகள்+உலகம்">திருநங்கைகள் உலகம்</a> எழுதியவர்: பால் சுயம்பு</li>
-</ul>  
+</ul>
 
 #### கட்டுரைகள்
 <ul>
   <li><a target="_blank" href="https://www.google.com/search?q=அணிலாடும்+முன்றில்">அணிலாடும் முன்றில்</a> எழுதியவர்: நா.முத்துக்குமார்</li>
 </ul>
-

@@ -1,5 +1,5 @@
 ---
-layout: tamil-post
+layout: tamil/post
 title: மணக்க போகும் பெண்ணுக்கு.
 date: 2010-09-26
 category: tamil

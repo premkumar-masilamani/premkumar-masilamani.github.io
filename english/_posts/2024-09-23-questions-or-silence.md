@@ -1,5 +1,5 @@
 ---
-layout: english-post
+layout: english/post
 title: Questions or Silence?
 cover-image: questions-silence.jpg
 cover-image-credit: Generated using Meta AI in Whatsapp

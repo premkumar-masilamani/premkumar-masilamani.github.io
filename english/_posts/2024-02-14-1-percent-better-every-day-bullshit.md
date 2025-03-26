@@ -1,5 +1,5 @@
 ---
-layout: english-post
+layout: english/post
 title: 1 Percent Better Everyday?. Bull Shit!
 date: 2024-02-14
 category: english

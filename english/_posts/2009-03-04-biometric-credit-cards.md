@@ -1,5 +1,5 @@
 ---
-layout: english-post
+layout: english/post
 title: Biometric Credit cards
 date: 2009-03-04
 category: english

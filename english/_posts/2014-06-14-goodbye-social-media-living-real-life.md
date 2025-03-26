@@ -1,5 +1,5 @@
 ---
-layout: english-post
+layout: english/post
 title: Goodbye, Social Media - I am going to live a Real Life
 date: 2014-06-14
 category: english

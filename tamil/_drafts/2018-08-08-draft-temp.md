@@ -1,5 +1,5 @@
 ---
-layout: tamil-post
+layout: tamil/post
 title: temp
 date: 2018-08-08
 category: tamil

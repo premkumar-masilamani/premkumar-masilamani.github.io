@@ -1,5 +1,5 @@
 ---
-layout: tamil-post
+layout: tamil/post
 title: தமிழகத்தின் மரபுக் கலைகள் - புத்தகவிமர்சனம்.
 date: 2013-08-06
 category: tamil

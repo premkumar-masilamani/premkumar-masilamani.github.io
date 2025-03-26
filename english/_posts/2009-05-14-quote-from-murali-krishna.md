@@ -1,5 +1,5 @@
 ---
-layout: english-post
+layout: english/post
 title: Quote from Murali Krishna
 date: 2009-05-14
 category: english

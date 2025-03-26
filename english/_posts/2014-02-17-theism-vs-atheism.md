@@ -1,5 +1,5 @@
 ---
-layout: english-post
+layout: english/post
 title: Theism Vs Atheism
 date: 2014-02-17
 category: english

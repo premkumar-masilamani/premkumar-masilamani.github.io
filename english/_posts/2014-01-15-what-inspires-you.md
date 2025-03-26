@@ -1,5 +1,5 @@
 ---
-layout: english-post
+layout: english/post
 title: What Inspires You?
 date: 2014-01-15
 category: english

@@ -1,5 +1,5 @@
 ---
-layout: english-post
+layout: english/post
 title: I wish
 date: 2011-10-25
 category: english

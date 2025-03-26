@@ -1,5 +1,5 @@
 ---
-layout: tamil-post
+layout: tamil/post
 title: பிரிவென்னும் ஒரு சொல்.
 date: 2011-12-26
 category: tamil

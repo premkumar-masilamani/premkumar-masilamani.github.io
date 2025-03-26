@@ -1,5 +1,5 @@
 ---
-layout: english-post
+layout: english/post
 title: One Morning In My Life
 date: 2010-03-26
 category: english

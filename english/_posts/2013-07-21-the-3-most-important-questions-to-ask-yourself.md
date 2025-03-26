@@ -1,5 +1,5 @@
 ---
-layout: english-post
+layout: english/post
 title: The 3 Most Important Questions to Ask Yourself
 date: 2013-07-21
 category: english

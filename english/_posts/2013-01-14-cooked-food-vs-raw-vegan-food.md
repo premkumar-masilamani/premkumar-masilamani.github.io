@@ -1,5 +1,5 @@
 ---
-layout: english-post
+layout: english/post
 title: Cooked Food Vs Raw Vegan Food
 date: 2013-01-14
 category: english

@@ -1,5 +1,5 @@
 ---
-layout: english-post
+layout: english/post
 title: Goodbye, Daddy!
 date: 2022-09-06
 category: english

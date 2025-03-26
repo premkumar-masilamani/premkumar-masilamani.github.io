@@ -1,13 +1,13 @@
 ---
-layout: english-post
+layout: english/post
 title: The Hero
 date: 2014-04-21
 category: english
 ---
 
-**Book:** The Hero  
-**Author:** Rhonda Byrne  
-**ISBN-13:** 978-1471133442  
+**Book:** The Hero
+**Author:** Rhonda Byrne
+**ISBN-13:** 978-1471133442
 
 I read all the books by Rhonda Byrne. The first book "The Secret" gives a glimpse of "The Law of Attraction". The second book "The Power" talks about "The Law of Love" - love, gratitude, giving & belief. This is essentially the same LOA in a different flavor. The third book "The Magic" talks purely about gratitude and the practical ways to incorporate gratitude into all aspects of our life. All three books were theoretical, with few quotes from real people. The fourth book "The Hero" is completely different from the previous books.
 
@@ -33,7 +33,7 @@ She analyzed the life history of all these 12 people and saw a common pattern - 
 3. The Quest
 4. The Victory.
 
-The only difference is that - instead of narrating the complete story of one person, she takes a specific stage in "The Map" and explains what each of those 12 people did in those circumstances, how they fought the odds against them, how they seized the opportunities, how hard they worked and the freedom that they enjoy right now. The idea is good, but for some reason, I could not remember more than a couple of stories.  
+The only difference is that - instead of narrating the complete story of one person, she takes a specific stage in "The Map" and explains what each of those 12 people did in those circumstances, how they fought the odds against them, how they seized the opportunities, how hard they worked and the freedom that they enjoy right now. The idea is good, but for some reason, I could not remember more than a couple of stories.
 
 She followed the same pattern, same layout, same designs, same fonts in her fourth book also. It's time to change that. When compared to "The Secret", this book stands nowhere. She did attempt to inspire us with a map, but it's not so successful in penetrating our mind. The book was sold so many copies, just for her name, not for its contents (simply the way, I bought this book).
 

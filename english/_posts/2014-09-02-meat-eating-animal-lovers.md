@@ -1,5 +1,5 @@
 ---
-layout: english-post
+layout: english/post
 title: Meat-Eating Animal Lovers
 date: 2014-09-02
 category: english

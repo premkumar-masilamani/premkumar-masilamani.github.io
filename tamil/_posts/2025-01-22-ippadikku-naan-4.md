@@ -1,5 +1,5 @@
 ---
-layout: tamil-post
+layout: tamil/post
 title: இப்படிக்கு நான் - 4
 date: 2025-01-22
 category: tamil

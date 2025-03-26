@@ -1,5 +1,5 @@
 ---
-layout: english-post
+layout: english/post
 title:  What's Wrong With My Phone?
 date: 2015-04-21
 category: english

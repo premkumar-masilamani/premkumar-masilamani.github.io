@@ -1,5 +1,5 @@
 ---
-layout: english-post
+layout: english/post
 title: The Obesity Code
 date: 2018-04-15
 category: english

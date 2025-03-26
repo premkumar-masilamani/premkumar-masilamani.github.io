@@ -1,5 +1,5 @@
 ---
-layout: tamil-post
+layout: tamil/post
 title: அவள்.
 date: 2011-08-30
 category: tamil

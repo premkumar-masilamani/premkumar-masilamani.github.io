@@ -1,5 +1,5 @@
 ---
-layout: tamil-post
+layout: tamil/post
 title: முதல் காதல்.
 date: 2012-02-05
 category: tamil

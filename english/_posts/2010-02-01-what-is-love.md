@@ -1,5 +1,5 @@
 ---
-layout: english-post
+layout: english/post
 title: What is love?
 date: 2010-02-01
 category: english

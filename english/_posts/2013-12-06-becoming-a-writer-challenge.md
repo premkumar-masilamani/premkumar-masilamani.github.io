@@ -1,5 +1,5 @@
 ---
-layout: english-post
+layout: english/post
 title: Becoming a Writer - A Lifetime Challenge
 date: 2013-12-06
 category: english

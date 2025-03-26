@@ -1,5 +1,5 @@
 ---
-layout: english-post
+layout: english/post
 title: Division by Fraction
 date: 2020-02-02
 category: english

@@ -1,5 +1,5 @@
 ---
-layout: english-post
+layout: english/post
 title: The Secret Letters of the Monk Who Sold His Ferrari
 date: 2012-03-04
 category: english

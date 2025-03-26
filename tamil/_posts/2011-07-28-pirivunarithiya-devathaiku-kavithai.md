@@ -1,5 +1,5 @@
 ---
-layout: tamil-post
+layout: tamil/post
 title: பிரிவுணர்த்திய தேவதைக்கு.
 date: 2011-07-28
 category: tamil

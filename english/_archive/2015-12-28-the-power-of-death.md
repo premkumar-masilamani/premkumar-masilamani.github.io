@@ -1,17 +1,17 @@
 ---
-layout: english-post
+layout: english/post
 title: The Power Of Death
 date: 2015-12-28
 category: english
 ---
 
-**Book:** The Power Of Death - A Radical Path to Personal Transformation and Spiritual Enlightenment  
-**Author:** Gabriel Dee  
-**ISBN-13:** 978-1515019916  
+**Book:** The Power Of Death - A Radical Path to Personal Transformation and Spiritual Enlightenment
+**Author:** Gabriel Dee
+**ISBN-13:** 978-1515019916
 
 I generally don't read any books that sound negative. I simply don't want to waste my time reading half of the book and then close it. This book is an exception. I did not go after this book. The author contacted me and asked if I am willing to read the book and review. I paused for a moment and said OK.
 
-Gabriel Dee - This is not his original name. He changed everything about himself. I liked the message from him - **The message is important, not the messenger**. I felt so moved that I removed all the references to myself from my own personal website. I will eventually change the domain name of my personal website, as soon as I get a good alternative. Not many authors have had so much influence on me from a single book. 
+Gabriel Dee - This is not his original name. He changed everything about himself. I liked the message from him - **The message is important, not the messenger**. I felt so moved that I removed all the references to myself from my own personal website. I will eventually change the domain name of my personal website, as soon as I get a good alternative. Not many authors have had so much influence on me from a single book.
 
 This book has nuggets of wisdom spread all over. Simple quotes that make you think very deeply. Many times, I stopped and re-read those simple quotes to grasp the message. Simple and powerful - a deadly combination. This comes naturally to the author. I should probably collect all those quotes and publish it in a separate blog post.
 

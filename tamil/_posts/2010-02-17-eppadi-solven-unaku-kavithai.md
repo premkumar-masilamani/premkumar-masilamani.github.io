@@ -1,5 +1,5 @@
 ---
-layout: tamil-post
+layout: tamil/post
 title: எப்படி சொல்வேன் உனக்கு?
 date: 2010-02-17
 category: tamil

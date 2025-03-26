@@ -1,5 +1,5 @@
 ---
-layout: tamil-post
+layout: tamil/post
 title: விண்ணைத்தாண்டி வருவாயா - திரைவிமர்சனம்.
 date: 2010-03-14
 category: tamil

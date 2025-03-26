@@ -1,5 +1,5 @@
 ---
-layout: tamil-post
+layout: tamil/post
 title: மூன்றாம் உலகப் போர் - புத்தகவிமர்சனம்.
 date: 2018-08-08
 category: tamil

@@ -1,5 +1,5 @@
 ---
-layout: tamil-post
+layout: tamil/post
 title: லிண்ட்சே லோஹன் w/o மாரியப்பன் - புத்தகவிமர்சனம்.
 date: 2015-02-11
 category: tamil

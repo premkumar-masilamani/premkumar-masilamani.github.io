@@ -1,19 +1,19 @@
 ---
-layout: english-post
+layout: english/post
 title: Born to Run
 date: 2014-06-25
 category: english
 ---
 
-**Book:** Born to Run  
-**Author:** Christopher McDougall  
+**Book:** Born to Run
+**Author:** Christopher McDougall
 **ISBN-13:** 978-1861978776
 
 I read many books which inspired me to such an extent that changed my life forever, for good. This book happened in reverse order. I became a barefoot runner first, felt immediate improvements on my knee pain, started researching more about barefoot running and then got hold of this amazing book, "Born to Run" by Christopher McDougall. Now, I am 100% convinced and happy with the decision of becoming a barefoot runner. Thank you, Christopher !!!
 
 > 'A bible for the barefoot running community' - **Ben Fogle, Telegraph.**
 
-I expected a typical how-to book of barefoot running. But, this book is different. This is the story of a man's quest to find the perfect way to run injury free. On his extraordinary quest, he finds the Tarahumara Tribes, who runs for hundreds of miles without rest, while enjoying every minute of the run in the deep rocky Copper Canyons in Mexico. The entire book reads like a novel about the greatest, toughest race the world has ever seen. I had a little difficulty in reading many of the Mexican, Raramuri (the actual name of Tarahumara Tribe) names and the Spanish text that appears throughout the book. You become used to it after few chapters. 
+I expected a typical how-to book of barefoot running. But, this book is different. This is the story of a man's quest to find the perfect way to run injury free. On his extraordinary quest, he finds the Tarahumara Tribes, who runs for hundreds of miles without rest, while enjoying every minute of the run in the deep rocky Copper Canyons in Mexico. The entire book reads like a novel about the greatest, toughest race the world has ever seen. I had a little difficulty in reading many of the Mexican, Raramuri (the actual name of Tarahumara Tribe) names and the Spanish text that appears throughout the book. You become used to it after few chapters.
 
 Our author Christopher McDougall (6 feet 4 inches, 230 pounds) was repeatedly getting hurt whenever he attempted to run. Dr. Joe Torg (co-author of "The Running Athlete") advised him not to run at all. Our author was disappointed. While he was in Mexico, he came to know about a mysterious man "Caballo Blanco" - the White Horse (an American who lives in Copper Canyons, after learning the Raramuri traditions). He spent next few months in Mexico, worked along with Caballo to conduct the most amazing race. A race between the Raramuri tribes and the best athletes from America. This book sums up all his experience in the Copper Canyons of Mexico.
 
@@ -21,7 +21,7 @@ I got to know a lot (a serious lot) about the Raramuri tribes, their tradition, 
 
 They remember that running was mankind's first fine art. The art of combining our breath, mind, and muscles to fluid self-propulsion in wild terrain. And what were the initial designs in the cave paintings?. The Running Man. Distance running was the way we survived and thrived and spread across the planet. We ran to eat, and avoid being eaten. We are all Running People.
 
-The Raramuri don't wear shoes. They don't get hurt. Period. 
+The Raramuri don't wear shoes. They don't get hurt. Period.
 
 > Shoes block pain, not impact!. Pain teaches us to run comfortably!. From the moment you start going barefoot, you will change the way you run - **Barefoot Ken Bob**
 
@@ -39,7 +39,7 @@ Which is the only animal in the world that can run for the longest duration, som
 
 Which is the only animal in the world that can sweat (dissipate heat) while running?.
 
-It's us. Homo Sapiens. 
+It's us. Homo Sapiens.
 
 Running was the superpower that made us human - which means its a superpower all humans possess. If you don't think you were born to run, you are not only denying history. You are denying who you are.
 
