@@ -4,14 +4,16 @@ date: 2015-03-01
 permalink: /english/running/
 ---
 
-### Barefoot 21K Runs
+# Barefoot running
+
+## 21K Runs
 
 <ol>
   <li><p><a href="{{site.english.img-path}}/running/2015-coimbatore-marathon-21k.jpg">Coimbatore Marathon</a> (04-Oct-2015)</p></li>
   <li><p><a href="{{site.english.img-path}}/running/2017-tiburon-marathon-21k.jpg">Tiburon Half Marathon</a> (01-Oct-2017)</p></li>
 </ol>
 
-### Barefoot 10K Runs
+## 10K Runs
 
 <ol>
   <li><p><a href="{{site.english.img-path}}/running/2014-tcs-10k.jpg">TCS World 10K</a> (18-May-2014)</p></li>
