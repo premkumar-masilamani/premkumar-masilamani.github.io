@@ -55,13 +55,13 @@ I am erasing my presence in the digital world and embracing the real world for e
 
 > I am making a big decision to stay small, deliberately.
 
-### Why do I blame Social Media?
+## Why do I blame Social Media?
 
 I have strong opinions about everything. I can't resist exciting conversations.  Once triggered, I am a mad bull, trying to get everyone to accept my point of view (right or wrong - who cares). I am merely eliminating the distractions from my life one by one, starting with social media.
 
 > Focus is nothing more than eliminating distractions
 
-### Why can't I reduce the time spent on Social Media?
+## Why can't I reduce the time spent on Social Media?
 
 There is an insatiable urge to **share** every little event in my life. When I go to a new place, my first thought is, "Wow. Nice Place. Post the picture on Facebook". When I start any activity, there is a voice in my head that tells me to share it on Facebook immediately. It does not stop with sharing. After I shared something special, I kept looking for the "likes" & "comments" from my friends. The more "likes" I get, the happier I am. If I don't get likes for something close to my heart, that triggers confusion in my mind.
 
@@ -69,7 +69,7 @@ Yes. I want to be "liked." Like every other human being. But the cost that I pay
 
 > I don't like the "need" to be heard by others.
 
-### What would I lose?
+## What would I lose?
 
 **A lot of contacts** - A quick look at my digital presence surprised me. I am on 20+ social networks. It took me close to an hour to delete my data from those websites. Here is a snapshot of the major players.
 
@@ -87,13 +87,13 @@ Losing contacts does not mean losing friends. I am merely severing one of the co
 
 **A platform to showcase my creation** - I made a lot of friends and followers on social media, over the years. My friends are my best critics, who helped me to groom my writing over the years. Thanks to all my friends for all the constructive feedback.
 
-### What will I gain?
+## What will I gain?
 
 1. Quality time with family and friends.
 2. One less distraction from life.
 3. Privacy of my data.
 
-### Will I be ultimately out of the digital world?
+## Will I be ultimately out of the digital world?
 
 No. I love writing. I will continue to blog at the below websites. You can subscribe to these blogs if you find them useful.
 
@@ -103,14 +103,14 @@ No. I love writing. I will continue to blog at the below websites. You can subsc
 
 I will also retain my [LinkedIn]({{site.social.links[0]}}) account for my professional growth.
 
-### When will I erase my digital presence?
+## When will I erase my digital presence?
 
 I am planning to delete all my social media accounts by June 16th, 2014, from 23:00 to 23:59 IST. This time is needed to back up the data, hand over the admin responsibilities, establish alternate login methods for the websites with social media OAuth logins, allow friends to download any of their tagged pictures, etc.
 
-### Will I come back to the digital world?
+## Will I come back to the digital world?
 
 I don't know. Maybe. But, not until the end of the year 2014.
 
-### How can I be contacted?
+## How can I be contacted?
 
 I will be available via the contact form on this website. If you know me personally, you would already have my mobile number. Just call me :)

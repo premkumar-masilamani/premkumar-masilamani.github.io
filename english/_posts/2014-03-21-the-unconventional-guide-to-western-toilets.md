@@ -15,7 +15,7 @@ I started with squatting on top of the western toilets. I am very healthy and I 
 
 Out of nowhere, I got the idea for the below posture. Theists can call it - "Divine Intervention" :)
 
-### Posture 1
+## Posture 1
 
 ![Western Toilets Posture 1]({{site.english.img-path}}/using-western-toilets-posture-1.jpg)
 
@@ -25,7 +25,7 @@ When you try this posture, please keep your legs as wide as possible. You can re
 2. If you are in this posture for a long time, you can feel the strain in your arms. I suggest sitting in a normal position and only when you get the urge, to move to this position to defecate. It's effective.
 3. If you have a big belly or high BP or are pregnant, please don't attempt this posture. This is not for you guys.
 
-### Posture 2
+## Posture 2
 
 ![Western Toilets Posture 2]({{site.english.img-path}}/using-western-toilets-posture-2.jpg)
 
@@ -33,7 +33,7 @@ This is the enhanced version of the previous posture. This posture reduces the s
 
 Both of these postures will not work if you are overweight or cannot bend down for some reason. Squatty Potty may help.
 
-### Squatty Potty
+## Squatty Potty
 
 Squatty Potty works on the same principle of bringing the torso closer to the thighs. I didn't order Squatty Potty. But testing the concept with a sturdy plastic stool. It works as promised. If you are big and heavy, this is the most viable option for you. It also has minor inconveniences.
 

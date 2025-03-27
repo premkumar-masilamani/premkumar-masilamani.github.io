@@ -11,7 +11,7 @@ I got roughly 2-3 hours daily, which I used mostly for learning purposes, tappin
 
 Most of the changes that I experienced are internal - changes in my thought process and my perception of the world. I don't have the means to measure it or even to show that these changes are related to myself waking up early. But, I can simply attribute all the changes in the last few weeks to the new habit - "Rising Early" - based on simple reasoning.
 
-### Internal Changes
+## Internal Changes
 
 **Discovered my love for programming** - During my college days, I was crazy about the C programming language. Graphics & Pointers are my favorite. I used to program just for the sake of programming till 3-4 AM in the morning, most of the days. I used to develop small utilities in Visual Basic for myself. Eventually along the way, after 9 years in the corporate world - I lost that interest and even started hating the IT industry for the petty politics and exploitation at every level. There were days when I enjoyed working on interesting projects with AMEX, Toyota, Legal & General, etc.
 
@@ -41,7 +41,7 @@ It works perfectly for me. It gives me more confidence that I can put 100% of my
 
 Man being a social creature, must depend on others for life and love. I decided to consider her and minimize the impact on her with my challenges and experiments. I am going to experimentally try less than 100% from my next challenge onward. Let's see how it goes.
 
-### External Changes
+## External Changes
 
 * **Got an offer for a job** with a 100% hike in salary. Yes. They doubled my salary. I never thought this was possible. I am planning to join the new company soon.
 
@@ -63,7 +63,7 @@ Man being a social creature, must depend on others for life and love. I decided 
 
 * **BedTime Stories** - I know this is completely irrelevant to the context here. But, we started reading fiction stories to each other in bed, before we slept. We make sure we go to bed 30 minutes earlier than usual. I kinda like this. Rekindling the storyteller in each of us :)
 
-### Any disadvantages?
+## Any disadvantages?
 
 I must tell you there are cons to this challenge.
 
@@ -75,10 +75,10 @@ If you are planning to take up this challenge for some time, please make sure th
 
 **Vacations** - You will have a tough time following the rituals when you are on a special occasion or spending the night at a relative's home. I used to do multiple things in the morning and I don't like carrying everything, everywhere (laptop, books, journals, etc). I used to carry only Amazon Kindle and stick to reading e-books.
 
-### Would I do it differently next time?
+## Would I do it differently next time?
 
 Yes. I would not stick to 100%. I will think through the possible obstacles to the challenge, evaluate them, and avoid this challenge on specific days. Maybe I would say, "Wake up at 5 AM, at least 5 times a week". I may choose a sleep-late/wake-up-late pattern on travel days, vacations, special occasions, or when guests are at home, etc.
 
-### Was this Challenge Successful?
+## Was this Challenge Successful?
 
 A hell of a YES. This is not a challenge that needs to be completed and thrown away. This is a habit that should be developed and adhered to until the end of our lives. I would follow an easy version of this challenge for the rest of my life.

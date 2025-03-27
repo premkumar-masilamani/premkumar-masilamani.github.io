@@ -32,27 +32,27 @@ Let's come to the present. We all eat cooked food and know the long list of dise
 
 Here are some of the key points discussed in all the debates "Cooked Vs Raw"
 
-### Digestive Enzymes are destroyed in Cooking
+## Digestive Enzymes are destroyed in Cooking
 
 This is the most discussed  topic. Our scientists so far, claimed that all enzymes from the plant foods are destroyed in Hydrochloric acid (HCl) secreted in our stomach, except for digestive enzymes from **Papaya, Pineapple, and Kiwi fruit.** So, eating these, the energy of a heavy meat-based diet is good for digestion. However, a recent unconfirmed study says that the food stays in the body for roughly 45 minutes, before being subjected to HCl treatment. So, the digestive enzymes are being absorbed and used by our body. More research is needed.
 
-### Vitamin B12 deficiency in Raw Vegan Foods
+## Vitamin B12 deficiency in Raw Vegan Foods
 
 This special vitamin is needed for normal functioning of the brain, nervous system and formation of blood. The daily requirement is roughly 2.5 mg. This vitamin is produced by bacteria and it's not available in most of the plant sources. True. However, recent research claims that **Chlorella, Miso, and  Nutritional yeast** do have vitamin B12. These are regional foods and are not available throughout the world. So, many raw foodists adjust this deficiency with vitamin supplements (either daily or weekly). However, we could get this vitamin from **a cup of milk/curd/yogurt.** This would be the simplest way. Even if you switch to raw food and do not consume vitamin B12, it may take up to three years for your body to show the symptoms of this deficiency.
 
-### You need to eat more with Raw Vegan Foods
+## You need to eat more with Raw Vegan Foods
 
 That is 100% true. Due to the low calorific value of raw foods, we need to eat more and more often. It was tough millions of years ago. With the abundance of food sources available right next to  our door, this should not be a problem. Even with cooked food, the experts suggest we eat six small meals rather than 3 large meals. With Raw Vegan foods, we will be forced to follow that pattern, which is good for us. Isn't it?
 
-### Reversal of chronic diseases with Raw Vegan Food
+## Reversal of chronic diseases with Raw Vegan Food
 
 Many people claim to have reversed chronic diseases like diabetes, heart disease, arthritis, and even some types of cancer in a few weeks to a few months of eating raw vegan food. Scientific human trials are needed to confirm these claims.
 
-### Extreme Endurance with Raw Vegan Foods
+## Extreme Endurance with Raw Vegan Foods
 
 Once I saw the above video and was inspired to know more about raw foods, I stumbled upon Brendan Brazier, who is the author of "The Thrive Diet" and a professional Ironman Triathlon athlete. (It's a triathlon race consisting of a 3.86 km swim, a 180.25 km bicycle ride, and a marathon 42.2 km run, raced in that order and without a break. He could complete this race within 9 hours. I never knew such things were possible with Vegan foods.
 
-### Anti-Aging with Raw Foods:
+## Anti-Aging with Raw Foods:
 
 Hundreds of living shreds of evidence are available throughout the world in many countries. Below is one such example.
 

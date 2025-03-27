@@ -9,13 +9,13 @@ I came back from the UK recently and have to stay in my friend's home which has 
 
 It's not that I am new to Indian Toilets. I have been using it since my childhood. I started using Western Toilets about 9 years ago. Only when I got a chance to use the Indian and Western, one after the other - I could realize the difference. Have a look at the below diagram which shows the anal-rectal angle, while sitting and squatting. I don't need to explain which one would be a better posture for this job.
 
-### Anal Rectal Angle while Sitting and Squatting
+## Anal Rectal Angle while Sitting and Squatting
 
 ![Anal Rectal Angle - Sitting Vs Squatting]({{site.english.img-path}}/anal-rectal-angle-sitting-squatting-comparison.jpg)
 
 ![Indian Vs Western Toilet]({{site.english.img-path}}/indian-vs-western-toilet.jpg)
 
-### What's Next
+## What's Next
 
 * Install an Indian toilet (or any eastern-type squatting toilet) in your home.
 * Use a Squat Toilet Utility like Squatty Potty. You don't need to pay so much for a simple device. There are cheaper alternatives available in the market. Just google. I never used this personally. So, I cannot comment on this. Just try, if you cannot do option 1.

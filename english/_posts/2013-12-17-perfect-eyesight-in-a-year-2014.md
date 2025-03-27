@@ -11,7 +11,7 @@ I regularly misplaced my eyeglasses somewhere in our house and would need my wif
 
 There are too many products and procedures out there that claim to improve my eyesight. I don't want to try all of them. I selected the below means (mostly by references from friends and my own experiences). I need to have a specific plan which I can stick to, daily. The lovely thing is that I don't have one. I am going to juggle through these items and eventually find a perfect plan for me. Only one strict rule - I must do at least one of these, every day.
 
-### Eye Exercises
+## Eye Exercises
 
 How can I be so confident that eye exercises help?. Because I know. I attended a week-long free training at [The School for Perfect Eyesight](https://eyecare.sriaurobindoashram.org/), Sri Aurobindo Ashram, Pondicherry, way back in Sep 2009. This training is based on Dr. Bates's Method. With the simple exercises mentioned below, my eyesight was improved from -3.00 diopters to -2.75 diopters in both eyes. In just one week!. The training required a little bit of determination (two times a day and no glasses are allowed throughout the week). The teachers advised me to continue the training for at least 6 months and avoid wearing glasses at all possible times. I did not follow that advice. Result? - Now with -3.5 diopters.
 
@@ -31,7 +31,7 @@ Exercises 1 - reserved for sunny days.
 Exercises 2 - 7 daily.
 Exercises 8 & 9 - as and when time permits.
 
-### School For Perfect Eye Sight
+## School For Perfect Eye Sight
 
 **Website:** https://eyecare.sriaurobindoashram.org/
 **Address:** 2A, Lally Tollendal St, White Town, Puducherry - 605002.
@@ -41,7 +41,7 @@ Exercises 8 & 9 - as and when time permits.
 **Working Hours:** 8 To 11 A.M. and 3 To 5 P.M. (IST)
 **Holidays:** Monday
 
-### During Office hours
+## During Office hours
 
 Since I work with computers, I must wear glasses all the time while I am in the office, which is not suggested by Dr. William H. Bates. I don't know any other way at this moment. But I am going to follow a few other tips in the office to reduce the strain caused by the computer screen.
 
@@ -51,11 +51,11 @@ Since I work with computers, I must wear glasses all the time while I am in the 
 
 **Wash Eyes Regularly** - When working on computers for a long time, it is advised to wash our eyes 3 - 4 times during the day with ordinary water or saline water. I bought two eye cups (google - you can get it for a few dollars) - one for home and another for office. I will use regular drinking water for washing my eyes. I am thinking about doing this, whenever I use the washrooms. If this is not possible, just sprinkling water would help.
 
-### Pinhole Glasses
+## Pinhole Glasses
 
 Merchants claim that wearing pinhole glasses for 15 minutes a day will improve your eyesight. Ophthalmologists refuse that this is not possible. Neither of them is ready to do a clinical trial. User reviews are mixed (as with any product or service). I don't know if this would improve my eyesight and if that improvement would be permanent. The only way to find the truth is to try it. I ordered it. I will follow up with a review of this product. I am planning to use this glass while reading books (at least 15 Minutes a day).
 
-### Nutrition
+## Nutrition
 
 Just like bodybuilding, retraining the eyes to see normally requires more than just exercises. Nutrition. The American Optometric Associations website mentions that the below nutrients are needed to maintain good eye health.
 
@@ -68,11 +68,11 @@ Just like bodybuilding, retraining the eyes to see normally requires more than j
 
 I am planning to have at least one meal or snack every day which has all of these nutrients. I collected the top 10 foods in each nutrient and put them together in this [text file]({{ site.english.download-path }}/nutrients-for-eyesight.txt). Please feel free to use this file as a reference.
 
-### Other means?
+## Other means?
 
 These are all the things that are in my mind, right now. I may add other practices, and products for improving my eyesight as I get to know more. If you know any tips that could help me, please let me know.
 
-### Disclaimer
+## Disclaimer
 
 I frequently get many emails for suggestions and appointments to **The School For Perfect Eyesight**.
 

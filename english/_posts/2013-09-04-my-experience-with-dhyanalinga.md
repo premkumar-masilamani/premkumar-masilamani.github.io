@@ -5,11 +5,11 @@ date: 2013-09-04
 category: english
 ---
 
-### What is Dhyanalinga?
+## What is Dhyanalinga?
 
 It is a place dedicated to meditation, consecrated by Sadhguru Jaggi Vasudev using Prana Pratishta - a complicated process by which all seven chakras are energized to their peak and locked inside the structure. It is said that this was the first complete Dhyanalinga in over 2000 years and it's been estimated that the energy will be contained within this structure for at least the next 5000 years. This place is located around 30 km from Coimbatore, inside the forest. There are frequent bus/cab services available from Coimbatore.
 
-### My Experience with Dhyanalinga
+## My Experience with Dhyanalinga
 
 Since then, I have decided to be open to others' religious/supernatural / cult / cosmic being / spiritual beliefs, I've been in many discussions with many of my friends with alternate belief systems. I did not criticize or evaluate their belief system with my rational thinking process, instead, I just listened. I got to know so much information that I did not know before. One such discussion was about people having different experiences with Dhyanalinga's energy. Thanks to Dinesh for providing me the complete picture of the process that was involved in creating this Dhyanalinga. Though I did not understand many of the concepts - I know now, the rough idea behind this structure. I decided to find that out by myself.
 
@@ -17,7 +17,7 @@ Me, my wife, my cousin, and three of their friends set out to Dhyanalinga in a c
 
 You are welcomed and greeted by the volunteers. If you are a first-time visitor to Dhyanalinga, you will be shown a small documentary movie about Dhyanalinga. I would suggest you watch it.
 
-### Theerth Kund
+## Theerth Kund
 
 Next is to have a dip in the holy pond to energize yourself and dissipate the heat. You need to shower yourself before getting into the pond. They will provide you with a saffron color towel. You are supposed to remove all the clothing and wear only this towel. They charge Rs. 20 for each person.
 
@@ -33,7 +33,7 @@ This above place is only for Men. There is a separate pond called <b>Chandra Kun
 
 I strongly suggest you take a dip, whether you are religious or not. It's a lovely experience.
 
-### Linga Bhairavi Temple
+## Linga Bhairavi Temple
 
 ![Linga Bhairavi Temple]({{site.english.img-path}}/dhyanalinga-linga-bhairavi-temple.jpg)
 
@@ -41,19 +41,19 @@ There are volunteers everywhere to guide you to the places and to answer your qu
 
 I saw a lot of foreigners in saffron dresses doing poojas, offering flowers, doing meditations, etc. A typical scene in an Ashram. She offered me Neem Leaves and Lily flowers inside the temple. I was supposed to eat the Neem Leaves. It was more bitter than the Bitter Gourd. Luckily they sold *Pasi Paruppu Payasam* just outside the temple for Rs. 10. With the help of the payasam, I could eat three Neem leaves. Even though we knew the benefits of Neem leaves, this was my first successful attempt at eating them. I was proud!
 
-### Nandhi
+## Nandhi
 
 ![Nandhi]({{site.english.img-path}}/dhyanalinga-nandi.jpg)
 
 We saw a small beautiful artificial pond with Lillies and Goldfishes, on the way to Dhyanalinga and spent some time walking around the pond, watching the flowers and fishes. It was good. A big 15-foot Nandhi interrupted us at Dhyanalinga's entrance. It is made up of a metal alloy, filled with herbs inside, consecrated by a ceremony. It was painted in pitch black color and looks more majestic than the Charging Bull in front of the New York Stock Exchange. We were not allowed to touch or climb the Nandhi.
 
-### Sarva Dharma Sthamba
+## Sarva Dharma Sthamba
 
 ![Sarva Dharma Sthamba]({{site.english.img-path}}/dhyanalinga-sarva-dharma-sthamba.jpg)
 
 We saw *Sarva Dharma Sthamba*, just before the entrance, signifying singularity or union of all religions. This stone has inscriptions of symbols of Hinduism, Islam, Christianity, Jainism, Taoism, Zoroastrianism, Judaism, Buddhism, and Shinto welcoming people from all religious beliefs. I am not sure how many people notice this Sthamba. I did not see a single person looking or checking this out. Maybe this should be placed in a more strategic place or should be made more attractive - to convey the message.
 
-### Dhyanalinga
+## Dhyanalinga
 
 Finally, we are into Dhyanalinga. The side walls on the path to Dhyanalinga have stone sculptures depicting many scenes in Hindu mythologies. This is not congruent with the Sarva Dharma Sthamba we saw outside. The volunteers allow people to go inside Dhyanalinga in batches, every five minutes. There are 27 enclosures on the sidewalls of Dhyanalinga. You can either sit inside the enclosures or in the open space for meditation. The five-minute time is for the people who just came to visit. If you want to meditate longer, you can do it. No one will disturb your meditation.
 
@@ -65,7 +65,7 @@ I was surprised to see the pillar-less construction of such a big dome. My surpr
 
 I occupied one of the enclosures and started to meditate. I expected some sort of energy to flow through me or a sudden relaxation or calmness in the body and mind, as it happened to many others. But nothing happened. I slept. I woke up when I heard the sound of people walking out for the next batch. That was a big disappointment for me. I came to Dhyanalinga with an open mind to experience it. The above statement by Sadhguru is not true in all cases. But, I heard from my close friend that he felt the energy (he never lies for anything in life). So, I can conclude that the above statement may be true for a few people (maybe religious?). The objective failed, but the experiment was a success. I enjoyed the trip to Dhyanalinga.
 
-### Why should You visit Dhyanalinga?
+## Why should You visit Dhyanalinga?
 
 * The architecture and construction techniques are nothing short of any other marvelous constructions in the world. It's a must-see if you like to travel.
 * The refreshingly chill holy dip in Surya Kund. This is the best and I loved it.

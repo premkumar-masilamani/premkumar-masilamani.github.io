@@ -11,7 +11,7 @@ category: english
 
 The change - going raw vegan was drastic and very effective. I was a voracious meat eater. Switching immediately to the opposite side of the spectrum would be very tough. So, I stopped eating meat from Jan 1, 2013. After a month, I started eating raw vegan food for breakfast for two weeks, then for two weeks for dinner, and eventually for all three meals in the day. From 1st March 2013, I was on a 100% raw vegan diet. After being on this diet for 5 months, you can see the results in the above picture.
 
-### How does that feel? Good or Bad?
+## How does that feel? Good or Bad?
 
 **Physique:** The first noticeable change was my physique. I lost almost all of the extra fat from my body and I did lose a few pounds of lean muscle as well. It felt amazing when I lost a few inches off my waist. My body felt very light, I could walk fast, and climb upstairs with ease. Before this diet, while on the streets, I used to tuck in my stomach or hold my breath to make my chest look bigger - when I saw a beautiful girl on the other side or a man bigger than me. That became my nature and I do it unconsciously. After being a raw vegan, I don't have any issues with my body and don't do any of those acts in public. I lost 20 Kg in 5 months.
 
@@ -27,6 +27,6 @@ This is a problem specific to India and surrounding countries with related cultu
 
 **Self-Confidence:** Especially when you know that you can do something that 99% of the people around you cannot do, your self-confidence soars to the high sky. Overcoming social pressure is the next plateau for your self-confidence. You will know you can do things even if the whole world is against your idea. This raw vegan diet brought me self-control, reduced procrastination, and improved my self-confidence greatly. Following the Raw Vegan Diet equals reading hundreds of self-development books. Trust me.
 
-### Was the experiment successful?
+## Was the experiment successful?
 
 I do have a lot of obese/overweight friends who complain about the impossibility of losing weight. The whole idea behind this experiment is to find a reliable and healthy means to lose weight and when I lose weight, my friends will get inspired. I did lose weight. The very funny thing is that my friends still complain about being overweight and ignore me and my diet plan as **Outcasts**. I am no longer an ordinary human being with an ordinary appetite. I laughed at myself. Nevertheless, I was blogging the efforts along the way. If it inspires one person in the world, I would consider my experiment a successful one.

@@ -7,7 +7,7 @@ date: 2025-03-08
 category: english
 ---
 
-### Financial Competency
+## Financial Competency
 
 > Financial Competency - the knowledge, skills, attitude, and behavior an individual demonstrates when making decisions about their personal finances
 
@@ -25,7 +25,7 @@ Just by looking at the net worth, we can say that person B is doing well financi
 
 That’s when I came across a concept called the [Lifetime Wealth Ratio (LWR)](https://budgetsaresexy.com/total-lifetime-earnings-wealth-ratio/) from a blog *Budgets Are Sexy*.
 
-### What Is the Lifetime Wealth Ratio?
+## What Is the Lifetime Wealth Ratio?
 
 > Lifetime Wealth Ratio = Net Worth / Total Lifetime Income
 
@@ -43,7 +43,7 @@ What about the unexpected financial situations?.
 - Getting divorced and 50% of your net worth evaporates overnight. You could've done better. That's a decrease in your net worth. Include it.
 - Unexpected medical expenses, wiping out all your savings. That's life. That's a decrease in your net worth. Include it.
 
-#### Example 1
+### Example 1
 Micheal is a software engineer, who started with a $50K salary, and gradually moved up to six-figure salary over the years.
 - Over 15 years, he earned $1.5 million in income.
 - His current worth is $900K
@@ -51,7 +51,7 @@ Micheal is a software engineer, who started with a $50K salary, and gradually mo
 
 Micheal has managed to turn 60% of his income into his wealth.
 
-#### Example 2
+### Example 2
 Ryan works in a Fortune 500 Company, starts with a whopping $500K salary, and quickly moves up to a seven-figure salary over the years.
 - Over 15 years, he earned $10 million in income.
 - His current worth is $1 million
@@ -61,7 +61,7 @@ Ryan has managed to turn 10% of his income into his wealth.
 
 Who do you think is better at managing their finances? (i.e.) financially competent?
 
-### What Is Your Lifetime Wealth Ratio?
+## What Is Your Lifetime Wealth Ratio?
 
 Below is a completely made-up scale, to make you feel miserable, force you to learn personal finance and be competent. This is in no way an accurate reflection of your financial competency. Just for fun :)
 
@@ -75,7 +75,7 @@ Below is a completely made-up scale, to make you feel miserable, force you to le
 
 Would you calculate your **Lifetime Wealth Ratio**?
 
-### Final Thoughts
+## Final Thoughts
 
 The net worth is just a snapshot, but the Lifetime Wealth Ratio (LWR) shows how well you’ve handled your money over time, and whether you’re really making the most of what you’ve earned.
 

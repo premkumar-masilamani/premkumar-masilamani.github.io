@@ -29,7 +29,7 @@ So, I don't need a smartphone. But, no one understands me. My cousin says, "_Hey
 
 Hmmm... that's an interesting description of my phone.
 
-### Have I ever used a smartphone?
+## Have I ever used a smartphone?
 
 Yeah. I did use Blackberry and Android phones for a few years. It was too much of a distraction for me. I kept checking the phone even when there was nothing new. Instant messaging, instant emails, instant social media push notifications, location-based services, concierge services, instant answers to any question - I had too much power at my disposal. However, I didn't become smart. The phone was becoming smart. I simply developed a strong dependency on smartphones. The moment my phone was out of charge, all the **perceived power of information** was gone. I have no clue what to do next. I was back to the original dumbness I was born with.
 
@@ -41,7 +41,7 @@ Now the phone is dumb. Did I become smart? That's too dumb a question to ask. I 
 
 What a relief man!!!. At least, I know for sure that I will never have Smartphone Separation Anxiety. Too bad that the scientists have coined a new word for this madness. This is real. Check the references section below for the link to the actual research article.
 
-### Conclusion?
+## Conclusion?
 
 There is a minuscule population of smart users who use smartphones for better productivity. Let them go on. For the rest of us, we could try making our phone distraction-free for a few days and see if that helps.
 

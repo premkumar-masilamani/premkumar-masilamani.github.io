@@ -45,7 +45,7 @@ There is a new measure of success associated with blogs. "hits, visits, page vie
 
 I wish things stayed as simple as they were.
 
-### The Crazy Blog Experiment
+## The Crazy Blog Experiment
 
 What happens when I take a relatively **successful** blog (approx. 300 - 400 readers per day) and tear apart all the components that are considered to fuel the "so-called success" of this blog?
 
@@ -59,7 +59,7 @@ Mobile Responsive Blog - By default HTML is responsive.
 
 I am sure there will be a huge drop in the traffic. Many visitors won't come back. I am not bothered about those visitors. I want to see how many people are interested in what I write. I don't need the comments on the fly. It does not serve any purpose to me. There is no commenting system in place. There is only a contact form. If my readers want to contact me, he/she has to make an effort to fill in a simple form. I am sure they will.
 
-### What will I get out of this experiment?
+## What will I get out of this experiment?
 
 I already started reaping the benefits of this experiment even before I published this blog post.
 

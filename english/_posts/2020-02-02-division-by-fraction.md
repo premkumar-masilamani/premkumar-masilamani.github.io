@@ -15,7 +15,7 @@ Let us get the basics straight.
 
 Let us use even numbers to explain the concepts.
 
-#### Problem 1
+### Problem 1
 
 > 4/2 = 2
 
@@ -27,7 +27,7 @@ Let us use even numbers to explain the concepts.
 
 Four divided by two equals two.
 
-#### Problem 2
+### Problem 2
 
 > 4/4 = 1
 
@@ -39,7 +39,7 @@ Four divided by two equals two.
 
 Four divided by four equals one.
 
-#### Problem 3
+### Problem 3
 
 > 4/1 = 4
 
@@ -53,7 +53,7 @@ Four divided by one equals four.
 
 So far, everything is clear. What happens when we divide the number by a fraction?
 
-#### Problem 4
+### Problem 4
 
 > 4/(1/2) = 8
 

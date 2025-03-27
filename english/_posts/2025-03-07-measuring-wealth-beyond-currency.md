@@ -7,7 +7,7 @@ date: 2025-03-07
 category: english
 ---
 
-### Measuring Wealth in Currency
+## Measuring Wealth in Currency
 
 Most people measure their net worth in terms of their local currency. I was doing that too, for many years. What's the problem with that? Let me illustrate with an example.
 
@@ -29,7 +29,7 @@ Instead of keeping cash, if you had invested $100 in the market at a **10% annua
 
 This is the simplest explanation of **inflation**. Though the net worth has increased a lot in terms of dollars, the real-world purchasing power has not.
 
-### Measuring Wealth in Gold
+## Measuring Wealth in Gold
 
 With that understanding of inflation and purchasing power, we would be fooling ourselves with inflated numbers if we measured our net worth only in terms of currencies. We need a third entity to measure the purchasing power of the currency. It could be eggs, oil, broccoli, chicken, gold, silver, or a piece of land in a specific place. It could literally be anything that has some intrinsic value.
 
@@ -53,7 +53,7 @@ If the number of ounces increases over time, then net worth has grown. If not, t
 
 How do you measure your wealth?
 
-#### Notes
+### Notes
 
 - This article is a **simplistic reduction argument** of a perspective, ignoring market volatility, monetary policies, and supply/demand factors.
 - The numbers used are **approximate and illustrative**, not precise calculations.

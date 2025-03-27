@@ -7,13 +7,13 @@ date: 2024-12-08
 category: english
 ---
 
-### Satoshi's Vision
+## Satoshi's Vision
 
 > A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution. (Bitcoin [whitepaper](https://bitcoin.org/bitcoin.pdf))
 
 Bitcoin is a digital currency used to send/receive money from anyone on the planet without the need for a third party or banking institutions. That's all there is to Bitcoin.
 
-### Bitcoin as a Currency
+## Bitcoin as a Currency
 
 What's a currency? Let's think like a layman. You don't need an economics degree to figure that out.
 
@@ -37,7 +37,7 @@ With the current state, Bitcoin can never replace the banking/payment institutio
 
 **Q:**  What exactly are the differences between banking institutions and Layer 2 Scaling Solutions? Please ignore the emotional, political, and human greed aspects. Let's discuss only the functional elements.
 
-### Bitcoin as a Commodity
+## Bitcoin as a Commodity
 
 What's a commodity?. Let's think in layman's terms, again.
 
@@ -52,14 +52,14 @@ Does bitcoin have these properties?
 
 As of today, Bitcoin is hoarded like a commodity with no practical use for it. We are hoping some use will emerge in the future or someone else will buy from us. Doesn't feel right to me.
 
-### Current State of Bitcoin
+## Current State of Bitcoin
 
 * **Currency or Commodity?** - As of today, it's neither a currency nor a commodity, without a well defined usage. Bitcoin is simply a number in a distributed database, which is difficult to produce and infinitely difficult to fake or break.
 * **Centralization?** - With an unrealistic interest from large financial institutions and governments, bitcoin is being accumulated in a few places like Spot ETFs, Governments, and Whales, which is completely opposite of what Satoshi envisioned. Bitcoin is no longer distributed to the general public.
 * **No Practical Usage** - No stellar developments are happening in the Bitcoin space to compete with Visa/Mastercard etc. Nothing to drive public adoption of Bitcoin usage. When our grandmas and grandpas can use Bitcoin easily - yes, only then Bitcoin is actually competing with the fiat currencies. Until then, it's a fantasy.
 * **Greater Fool Theory at Work** - The only reason the governments and financial institutions are accumulating overpriced bitcoin is that there will be "a greater fool" in the future who would buy from them for a higher price. _We all know how this would end, when there are no fools left._
 
-### My expectation from Bitcoin
+## My expectation from Bitcoin
 
 Nothing. A big thank you to Satoshi & team for pioneering a digital currency proof-of-concept and making it wildly successful.
 
@@ -73,6 +73,6 @@ We all know what the first car looked like, in the late 1800s. Would anyone want
 
 > Bitcoin did its job. Let's move on.
 
-### Disclaimer
+## Disclaimer
 
 I love Bitcoin. I understand the risks and I have investments in the Crypto space. I sense a euphoria among the public without a deeper understanding of Bitcoin/Blockchain. This is to warn the innocent public who wishes to make a quick buck with their hard-earned money. Please discuss this with a fiduciary before investing in the Crypto space.

@@ -7,7 +7,7 @@ category: english
 
 > A single thought can change the course of your life. **-Unknown**
 
-### Running with Shoes
+## Running with Shoes
 
 It was one rainy day in April 2014. We were sitting in Maria Cafe in Bangalore, talking about a whole bunch of things that would not make sense to any sane man.
 
@@ -41,7 +41,7 @@ Could shoes be the reason?
 
 I decided to find out.
 
-### Barefoot Running
+## Barefoot Running
 
 I still remember that day, that moment, that feeling, being out barefoot for the first time, after a decade.
 

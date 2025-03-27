@@ -7,7 +7,7 @@ date: 2025-03-12
 category: english
 ---
 
-### What is Intelligence?
+## What is Intelligence?
 
 > Intelligence is the ability to understand, learn, and think.
 
@@ -25,7 +25,7 @@ The point here is,
 
 > Without intelligence, there is no life. Without life, there is no intelligence
 
-### Human Intelligence
+## Human Intelligence
 
 Among all the species in this world right now, human intelligence is the most advanced. The intelligence of the rest of the species put together, wouldn't even be close to what we have.
 
@@ -46,7 +46,7 @@ If you observe each of the points closely, intelligence does not exist purely in
 
 > Intelligence is a protection mechanism for the body.
 
-### Artificial Intelligence
+## Artificial Intelligence
 
 We all know what it is, don't we?. We humans see the benefits of our advanced intelligence and also notice the slow pace with which it grows. We want to improve our intelligence faster. Much faster than evolution ever did.
 
@@ -64,7 +64,7 @@ In human intelligence, all of these are dependent on the physical body. In artif
 
 > Without the "cause", we expect the "effect" to exist indefinitely?
 
-### Why would Artificial Intelligence choose to exist?
+## Why would Artificial Intelligence choose to exist?
 
 Let's assume we created a sentient artificial intelligence as software which can run on any computer. That AI will never die. It feels no pain, no pleasure, no fun, nothing. Because, there is no body (hardware), only mind (software).
 

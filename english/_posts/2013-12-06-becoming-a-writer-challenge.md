@@ -14,7 +14,7 @@ Me?. Becoming a Writer? Yes. That has been in my mind for many years. I simply l
 
 I mercilessly killed all other drafts which did not pass this evaluation. In 2013, I wrote 25 articles + 10 deleted drafts. Statistically, I got inspired to write on **9% of the days** this year. If I continue to write consistently, I may be able to publish a 350-page book in 10 years. Does not look good to me! I decided to write more.
 
-### Goals Vs Rituals
+## Goals Vs Rituals
 
 With many different challenges that I completed this year, I slowly realized the difference between focusing on goals Vs focusing on the rituals.
 
@@ -35,7 +35,7 @@ I want to do everything that a writer could do. That's me. When it comes to imag
 
 But, the only way to accomplish any of those goals is to focus on realistic rituals. Hmm. Let's get real, here.
 
-### Writing Rituals
+## Writing Rituals
 
 I want to keep my rituals simple, and realistic and do not demand a lot of my time & energy. This is very important to keep up with the rituals daily. Below is my new ritual starting today, until the end of 2014.
 
@@ -43,7 +43,7 @@ I want to keep my rituals simple, and realistic and do not demand a lot of my ti
 
 **No Goals. Only one simple ritual.** Cool. Right?. This ritual roughly translates to 55 hrs of writing. This practice will instill a "dedicated writing habit" in me, which will help me to become a professional writer in the future.
 
-### Other Questions
+## Other Questions
 
 **Will I publish a blog post 4 times a week?**
 

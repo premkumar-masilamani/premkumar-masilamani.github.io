@@ -7,11 +7,11 @@ category: english
 
 [If you are not a programmer, this article may not interest you. Please skip and do something useful]
 
-### What is a blog?
+## What is a blog?
 
 A personal website through which a person expresses his opinions/ideas with the world regularly.
 
-### What constitutes a simple, basic blog?
+## What constitutes a simple, basic blog?
 
 Below are the basic components of any blogging system.
 
@@ -21,13 +21,13 @@ Below are the basic components of any blogging system.
 
 I am not bothered about the awesome SEO plugins / other helpful plugins that help in many aspects of blogging. I am concerned only about the basic blog. All I need is a simple web page to express my ideas.
 
-### Do I need a CMS / Server side engine?
+## Do I need a CMS / Server side engine?
 
 Except for the comments section, the rest of the blog is static. I am not bothered about the comments anyway. It takes too much of your time away from blogging. If you need them, there are client-side commenting systems available (like Disqus, Facebook comments, etc). So, I don't need a server-side code that connects to a database, executes the plugins, and creates the web page on the fly for every request to a web page (even with caching), when all I need is a set of a simple HTML file.
 
 There is an argument that says, *Infrastructure is cheap nowadays. The computing and storage abilities skyrocketed. We can use as much as we want*. Yes. It is. But, just because I have too much fuel, I would not travel 10 miles extra to the office every day. I always prefer the shortest possible route. How about you?. And again, that's a personal choice. I am not saying that what is being done is wrong, all I say is that I don't need all of those.
 
-### What I did not like in regular blogging systems?
+## What I did not like in regular blogging systems?
 
 These are the two components of any regular blogging system which I do not prefer to use. However, thousands of fellow bloggers would die to use these. :)
 
@@ -57,17 +57,17 @@ Where all I need is
 
 Do you see the point? Most don't mind these additional markups. I do mind when I edit the blog posts.
 
-### Alternatives - Static Site Generators
+## Alternatives - Static Site Generators
 
 Static Site Generator is a program that generates a complete HTML website as output. The input would be a few configuration files, layout files, and markdown or simple HTML files. You can simply upload these HTML files to any web server and your blog is live. Whoah...
 
 I could find hundreds of SSGs written in various languages (ruby, python, node.js, javascript, java, etc) in the open source area. Since I do not know most of the programming languages but decided to learn any one of them - I chose the most widely used SSG. Jekyll, which powers GitHub. Seeing hundreds of plugins/websites out there for Jekyll already, I was confident that I would not be stuck with any problem for a long time.
 
-### Markdown
+## Markdown
 
 Markdown is a program or a plugin that transforms the plain text to a valid HTML / XHTML. As with any open source, there are many alternatives. I choose to use "red carpet" since this is the default Markdown processor that comes with Jekyll. The HTML produced by Markdown is the bare minimum HTML needed to render the page effectively in any browser. You have the option of using HTML directly in the Markdown text files if you feel that is needed.
 
-### Advantages of Static Site Generators
+## Advantages of Static Site Generators
 
 Some of the key advantages of using SSG are
 
@@ -80,7 +80,7 @@ Some of the key advantages of using SSG are
 
 And many more ...
 
-### Disadvantages of Static Site Generators
+## Disadvantages of Static Site Generators
 
 Some of the disadvantages of SSG are
 
@@ -89,7 +89,7 @@ Some of the disadvantages of SSG are
 
 I feel that the second point is what keeps me interested in migrating to SSG. If there was a very simple website that claims to do everything and anyone can create a blog with that - I would probably have not tried that option :)
 
-### What powers this blog?
+## What powers this blog?
 
 Below is the technology stack that runs this blog.
 
@@ -109,7 +109,7 @@ I used the very basic template that comes with Jekyll. I have plans to customize
 
 If this sounds too technical, you may want to try blogger.com.
 
-### What difference did it make in my writing?
+## What difference did it make in my writing?
 
 **Less Distraction** - I have the habit of previewing the blog now and then and correcting the look and feel as I write. This has changed. I write from the VIM editor in the Unix console. I prefer to keep it in full screen and viola - there are no distractions. I could concentrate only on writing. I felt that I wrote more in the console than on a web page. Too early to conclude. Let's wait till I post at least 50+ posts this way.  I still have to preview and edit the blog post at the end. But that's now a single task after I complete the writing.
 

@@ -34,7 +34,7 @@ It's their personal choice. Who am I to comment?
 
 Right. I am writing this post, just to understand the reason behind it.
 
-### Do "fat acceptance" people love being fat?
+## Do "fat acceptance" people love being fat?
 
 I don't think so. At least, I did not like being fat when I was overweight. For a while, let's forget reality. Let's assume a few scenarios.
 
@@ -50,7 +50,7 @@ No. I am not. It's a very basic human tendency to stay in the comfort zone and 9
 
 All they need is a consistent source of inspiration and encouragement to improve their health.
 
-### Is fat acceptance good?
+## Is fat acceptance good?
 
 Yes and No.
 
@@ -60,7 +60,7 @@ No. It's not good to accept & love your obese body. Be discontent with your body
 
 > Encouraging an obese person to be happy with their body is encouraging them to stay unhealthy. - Unknown
 
-### The Most Amazing Transformation
+## The Most Amazing Transformation
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qX9FSZJu448?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

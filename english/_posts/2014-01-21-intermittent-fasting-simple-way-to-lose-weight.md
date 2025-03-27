@@ -15,7 +15,7 @@ I have been waiting for this moment where I can discuss with my wife about weigh
 
 However, the raw vegan diet would be very tough on her at this moment. I suggested a very simple and reliable way to lose weight and gain muscle mass as well.
 
-### Intermittent Fasting
+## Intermittent Fasting
 
 Before I explain what this is, let's see how our body digests and absorbs the energy from food.
 
@@ -27,7 +27,7 @@ The Fasted State does not start until about 12 hours after our last meal. Assumi
 
 I guess you would have got a hint, by now. This "Intermittent Fasting" is not a diet. This is just a schedule of when you should eat so that you get the benefits of the natural fat-burning state of your body.
 
-### Daily Intermittent Fasting
+## Daily Intermittent Fasting
 
 There are hundreds of ways to do Intermittent Fasting. Google it. The one I am interested in is the Daily Intermittent Fasting (LeanGains Method), promoted by Martin Berkhan. In a nutshell, below is the schedule.
 
@@ -40,7 +40,7 @@ The below diagram depicts the typical week of intermittent fasting.
 
 ![Intermittent Fasting States]({{site.english.img-path}}/leangains-daily-intermittent-fasting.jpg)
 
-### Questions
+## Questions
 
 1) **Skipping breakfast? Are you nuts?**
 I am not skipping breakfast. I am eating a late breakfast. (i.e.) breaking the fast a little later.

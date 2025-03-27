@@ -7,7 +7,7 @@ date: 2025-03-11
 category: english
 ---
 
-### What is Entropy?
+## What is Entropy?
 
 > Entropy is a measure of disorder or randomness within a system
 
@@ -25,7 +25,7 @@ We could also generalize that, everything in this universe tends to move towards
 
 > Order to Chaos is the natural order!
 
-### What are Entropy Systems?
+## What are Entropy Systems?
 
 Let's take an apple, clean it thoroughly (no bacteria or any other life forms), and keep it in a transparent vacuum box (no air). What do you think will happen to the apple?. It will stay the same for a really long time. If the vacuum box is intact, even for millions of years. We can call this **a low-entropy system** because the order is maintained.
 
@@ -33,7 +33,7 @@ Let's take the same apple and give it to a man. He will eat the apple, digest it
 
 Now, we understand the concepts of Entropy and the Entropy Systems. Let's look around us and see where these concepts are being expressed.
 
-### Entropy in Earth
+## Entropy in Earth
 
 Our Earth receives energy from the Sun continuously in the form of light and heat (photons). Roughly 174 petawatts of energy every second, which could power the whole world for over an hour.
 
@@ -45,7 +45,7 @@ Life forms on earth are effective at absorbing and dissipating energy from the s
 
 We can say, lifeforms on earth are a high entropy system. To understand the impact of life forms, let's consider this question,
 
-#### What if Earth had no life?
+### What if Earth had no life?
 
 Literally no plants, animals, fishes, microbes. Nothing. No life form that can use the energy from the sun.
 
@@ -57,7 +57,7 @@ How fascinating is this theory? In a sense, we could say
 
 What a wonderful realization!
 
-### Entropy in the Universe
+## Entropy in the Universe
 
 Let's stick to the Big Bang theory. In the beginning of the universe, all the matter was condensed, evenly distributed, and at a uniform high temperature. (i.e.) There is high level of orderliness and thus **a low entropy**.
 
@@ -87,17 +87,17 @@ Those life form's entropy could be high or low compared to humans. Those civiliz
 
 Ok. Enough of Physics. Let's switch context.
 
-### Entropy in Social Systems
+## Entropy in Social Systems
 
 Let's take a couple of social systems and view them through the lens of entropy.
 
-#### Communism
+### Communism
 
 Communism imposes order through centralized control of production and consumption of goods and services, and equal wealth distribution to eliminate social / economic / class inequalities, so that everyone would be living harmoniously with each other.
 
 The drawback here is **the order**. Communism envisions **a perpetual low entropy social system**, which is against the very nature of the universe, eventually leading to the demise or reformation to another social system.
 
-#### Capitalism
+### Capitalism
 
 Capitalism thrives on free-market competition and decentralized control which aims for progress and innovation, and does not care about social / economic / class inequalities.
 
@@ -107,6 +107,6 @@ I am not here to advise which social system is best for humans. I am merely poin
 
 What do you think of Entropy?.  Where else could you apply this entropy lens?. Philosophy?. Let me know if you find interesting viewpoints.
 
-### References
+## References
 - [The Most Misunderstood Concept in Physics](https://www.quantamagazine.org/a-new-thermodynamics-theory-of-the-origin-of-life-20140122/)
 - [A New Physics Theory of Life](https://www.youtube.com/watch?v=DxL2HoqLbyA)

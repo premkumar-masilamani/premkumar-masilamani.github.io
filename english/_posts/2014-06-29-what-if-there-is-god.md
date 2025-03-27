@@ -49,65 +49,65 @@ Every single experience of every single human being is recorded in a medium call
 
 Along with life on earth, God created multiple games in different planes. These games will be running simultaneously. Though there are defined boundaries for the game, it is always possible for the objects from one game to communicate with objects from another game. After all, everything is connected. Isn't it? Can you relate to the **parallel universe or multiverse** concept?
 
-### What is the purpose of the Game of Life?
+## What is the purpose of the Game of Life?
 
 Learning. You are put into the game to learn, experience, and acquire as much knowledge as possible. You can choose not to. You have free will. But, you will be put back into the game as long as your learning is not complete. Every human being will go to the same place at the end, though not at the same pace.
 
-### Why should I learn?
+## Why should I learn?
 
 That's what your creator wants you to do. You still have the choice not to learn. But, you do not have the choice of birth, death, and rebirth. If you wish to escape, you must learn.
 
-### What is the need for Collective Consciousness?
+## What is the need for Collective Consciousness?
 
 Who develops an Artificial Intelligence game without capturing the experiences acquired through the game? Right?. But, what is God going to do with it? I do not (possibly may not) know the need for collective consciousness while I am on Earth, in the game of life. When I transcend to the next plane after completing my learning, possibly more will be revealed to me.
 
-### Why can't I feel God?
+## Why can't I feel God?
 
 By design, you cannot. If you go through the specific process defined by God, you can feel and communicate with him. To accept that such a process exists, you need multiple lifetimes of experiences.
 
-### What is the process of communicating to god?
+## What is the process of communicating to god?
 
 There are millions of ways to communicate with god. I don't have the knowledge of all of them. You can start with a prayer if you believe in God or Meditation if you don't believe in God at the moment. The next steps will be revealed to you. Most probably the process and the experience with God will be different for everyone.
 
-### What happens when I deny god?
+## What happens when I deny god?
 
 Nothing. You live and you die. You are born again. The cycle continues.
 
-### Why should I believe in rebirth?
+## Why should I believe in rebirth?
 
 Birth, Death & Rebirth is a personal experience. You cannot communicate with a person, while he is going through this process. You can, of course, die to experience death and rebirth. But, you will not remember anything when you are born again. There is no need for you to believe. If you believe this, you will accelerate your learning.
 
-### If God exists, Why are there wars & famine?
+## If God exists, Why are there wars & famine?
 
 That was not God's intention. That's something that we humans manifested with the powers given to us. Do you think that humans cannot stop these by any means?
 
-### I understand, Why can't God help us a little?
+## I understand, Why can't God help us a little?
 
 Why should God help us? We have all the means to change every little inconvenience that we do not like. Are we saying that we are the most powerful and dominant species in this world and yet cluelessly powerless to live in peace and harmony? If that is the case, according to the evolution theory, we will soon perish and a more conscious, powerful, and loving species will evolve from us.
 
 Tell me one good reason that only humans should dominate, but not the other species.
 
-### Because God loves us right?
+## Because God loves us right?
 
 Again, Why?. In God's world, there is no love, no hate, no good, and no bad. We, humans, manifested these emotions. We intuitively know the best version of ourselves. Loving & helping each other, not disturbing the ecosystems, living a balanced life in nature. We attribute all the human qualities to an entity called "God" and expect God to behave in the way that we are supposed to live. How weird?
 
-### So, we are on our own?
+## So, we are on our own?
 
 Yes. Pretty much. If you need help from God, you can get it. But, it takes time and effort.
 
-### Who is Satan?
+## Who is Satan?
 
 Our imagination. We need a reason for deviating from a loving, caring life. Satan is the reason that we invented to support our current lifestyle.
 
-### What is hell?
+## What is hell?
 
 Who said anything about hell? God did not create hell in his game. We created miniature hells in our world.
 
-### If there is no hell, I can do anything that I want.
+## If there is no hell, I can do anything that I want.
 
 Technically, you can. However, the quality of your next birth will depend on the quality of your current life. Hindus call this "Karma".
 
-### When will the game end?
+## When will the game end?
 
 When God thinks about it.
 

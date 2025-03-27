@@ -13,7 +13,7 @@ Like everyone else, I googled for preparation tips from those who were certified
 
 So, I crafted my own plan. Here you go.
 
-### 1. Coursera Courses
+## 1. Coursera Courses
 
 I completed Google-recommended specialization courses in Coursera.
 
@@ -25,7 +25,7 @@ If you are not pressed for time, I would suggest you complete both the courses.
 
 **Pro Tip:** While studying these courses, make a lot of notes. I prefer an A5 size notebook and a fountain pen. Use whatever note-taking method is comfortable for you. You can review these notes on the last day of your preparation.
 
-### 2. Flowcharts in GCP
+## 2. Flowcharts in GCP
 
 This is the only section of the preparation, where you need to know the decision tree by heart. Do it even if you don't like to memorize and thank me later.
 
@@ -35,7 +35,7 @@ This is the only section of the preparation, where you need to know the decision
 
 **Pro Tip:** Download all the flowchart images on your mobile phone, for a quick review, anytime.
 
-### 3. Review the GCP Solutions
+## 3. Review the GCP Solutions
 
 If you are already a solutions architect, you must have created quite a lot of architectures for many cloud providers, and you could skip this section. If that's not you, please pay more attention to this. Irrespective of the certification results, you will be doing this as a profession anyway.
 
@@ -45,7 +45,7 @@ Go through every single architecture; evaluate each one of them. See, if you can
 
 **Pro Tip:** Don't just glance through the architecture diagrams, even if it looks straightforward. Absorb the picture in your mind and quickly scribble them as little boxes without looking at the actual diagram. The act of drawing it on a notepad reinforces that architecture deep into your consciousness.
 
-### 4. Create solutions for all 4  Case Studies
+## 4. Create solutions for all 4  Case Studies
 
 Imagine them as your real customers and create real-world solutions for them. Complete, Exhaustive Solutions. Draw the architecture. Write down why you chose a specific service vs. other possibilities. Write down how your solution is highly scalable and reliable and what the limitations are. The document that you create could be a simple scratchpad with jotted-down notes. However, it should contain enough information to produce a complete, detailed solutions architecture diagram.
 
@@ -53,7 +53,7 @@ Imagine them as your real customers and create real-world solutions for them. Co
 
 **Pro Tip:** These case studies may be used in the actual certification exam. If you get the same case study for your certification exam, you should not spend time reading the case study. You should already have the solution in your mind and ace all the questions, right away.
 
-### 5. Review GCP documentation
+## 5. Review GCP documentation
 
 If you already completed the previous 4 steps and still have time left, you could review the GCP documentation.
 
@@ -61,7 +61,7 @@ If you already completed the previous 4 steps and still have time left, you coul
 
 **Pro Tip:** Focus on the concepts, quick start, and FAQ.
 
-### 6. Google Next Videos
+## 6. Google Next Videos
 
 Entirely for your leisure and learning. Please don't watch every one of the videos. Scroll through the list, pick and watch what interests you.
 
@@ -71,7 +71,7 @@ Entirely for your leisure and learning. Please don't watch every one of the vide
 
 **Pro Tip:** You could easily train yourself to watch the videos 2X faster. Start with 1.25X, then 1.5X, then 1.75X and sky's the limit. I can comprehend easily with 1.75X speed. You could go faster or slower. Speed is not the objective, comprehension is.
 
-### References for continuous learning
+## References for continuous learning
 <ul>
     <li><a target="_blank" href="https://cloud.google.com/community/">Google Cloud Platform Community</a></li>
     <li><a target="_blank" href="https://cloud.google.com/blog/products/data-analytics">Google Data Analytics Blog</a></li>

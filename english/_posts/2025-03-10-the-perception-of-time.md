@@ -7,7 +7,7 @@ date: 2025-03-10
 category: english
 ---
 
-### What is time?
+## What is time?
 
 > Time = duration between two events
 
@@ -21,7 +21,7 @@ If you don't understand the above statement, please think, there is a reliable w
 
 Time is a theoretical concept, we humans devised to make sense of the sequence of events that happen around us. It messes up my mind, when physicists dilate, stretch, and stop this theoretical concept, in their explanations and formulae, as if it's a real thing like gravity or electromagnetism.
 
-### What is Time Dilation?
+## What is Time Dilation?
 
 > Time dilation is the phenomenon where time slows down relative to an observer due to high velocity (special relativity) or strong gravitational fields (general relativity).
 
@@ -69,7 +69,7 @@ Again, the experiment proved the effect but didn't explain the cause. Why do gra
 
 > Is time actually slowing down, or is the duration between events increasing?
 
-### Human Perception in Time Dilation
+## Human Perception in Time Dilation
 
 Let's take an extreme example. A person is born blind, dumb, deaf, and completely paralyzed, and survives on medical support. Technically, there is no input from the outside world that goes to him. It's just dark and silent. But his brain is active.
 
@@ -81,7 +81,7 @@ Would he feel any difference in being near a black hole or a faraway planet?.
 
 Explain to him in first principles, what exactly is happening, since he doesn't have a concept of time.
 
-### Time Dilation from First Principles
+## Time Dilation from First Principles
 
 All physical interactions/movements must slow down including the vibrations of atoms, movements of free objects, orbiting of planets, the movement of light, near high gravitational pull, or at high speed. That's one way of visualizing everything slowing down around us.
 
@@ -89,7 +89,7 @@ Oh wait, we have to exclude light from this list - otherwise, all our formulae w
 
 I don't know anything more than this. If anyone has a clear explanation of the cause behind time dilation under gravity or high velocity, please let me know.
 
-### More Questions on Time Dilation
+## More Questions on Time Dilation
 
 If time can move slower or faster depending on the speed and gravity, how far can we stretch the concept of time dilation?
 
@@ -99,6 +99,6 @@ If time can move slower or faster depending on the speed and gravity, how far ca
 - If the circle of time exists and the universe flows through the circle of time, Is there any possible way for us to observe this?
 - If any of the above is not possible due to physical constraints, what are the practical limits on how fast/slow time can go relative to time on Earth? Can we define a boundary for time dilation?
 
-### Conclusion
+## Conclusion
 
 This is one of the elusive concepts in Physics, I wish the scientists could have explained it better. Every time I come across this concept, I have more questions than answers. I hope someone knowledgeable would find this article and enlighten me with simple answers.
