@@ -3,25 +3,21 @@ layout: english/default
 ---
 
 <div>
-  <h2>{{ page.title }}</h2>
-  {{ page.date | date_to_string }}
+  <h1>{{ page.title }}</h1>
+  <span class="page-date">{{ page.date | date_to_string }}</span>
   <br/><br/>
   <a href="{{ site.url }}">home</a>&nbsp;&gt;&nbsp;<a href="{{ site.english.url }}">blogs</a>
   {% if page.cover-image %}
     <br/><br/>
     <div>
         <img src="{{site.english.img-path}}/{{ page.cover-image }}" alt="{{ page.title }}"/>
-        <div style="text-align: center;"><small>{{ page.cover-image-credit }}</small></div>
+        <div class="cover-image-credit"><small>{{ page.cover-image-credit }}</small></div>
     </div>
   {% endif %}
   {{ content }}
   <a href="{{ site.url }}">home</a>&nbsp;&gt;&nbsp;<a href="{{ site.english.url }}">blogs</a>
 </div>
-<br/>
 <hr/>
 <div>
-  <br/>
   {% include english/subscribe.html %}
-  <br/>
 </div>
-<br/>

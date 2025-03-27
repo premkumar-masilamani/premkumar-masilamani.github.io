@@ -1,26 +1,65 @@
 <style>
-    html {
-        display: table;
-        margin: auto;
-    }
 
-    body {
-        display: table-cell;
-        max-width: 600px;
-        padding: 5px;
-        line-height: 1.5;
-    }
+html {
+    display: table;
+    margin: auto;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 16px; /* 1rem = 16px */
+}
 
-    img {
-        max-width: 100%;
-    }
+body {
+    display: table-cell;
+    max-width: 768px;
+    padding: 5px;
+    font-size: 1.125rem; /* 18px for better readability */
+    line-height: 1.8;
+    color: #683919;
+    background-color: #FCEDD5;
+}
 
-    small {
-      color: gray;
-    }
+small {
+    font-size: 0.875rem; /* 14px */
+    color: gray;
+}
 
-    td, th {
-        border: 1px solid grey;
-        padding: 5px;
-    }
+a {
+    color: #005faa; /* Deep blue */
+    text-decoration: none;
+}
+
+a:hover {
+    color: #004280; /* Darker blue on hover */
+    text-decoration: underline;
+}
+
+blockquote {
+    font-size: 1.25rem; /* 20px */
+    font-style: italic;
+    border-left: 5px solid #7E766A;
+    padding-left: 1rem;
+    margin: 1.5rem 0;
+}
+
+img {
+    max-width: 100%;
+}
+
+td, th {
+    border: 1px solid grey;
+    padding: 5px;
+}
+
+.cover-image-credit {
+    text-align: center;
+}
+
+.page-date {
+    color: #7E766A;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    html { font-size: 14px; } /* Scale down on smaller screens */
+}
+
 </style>
