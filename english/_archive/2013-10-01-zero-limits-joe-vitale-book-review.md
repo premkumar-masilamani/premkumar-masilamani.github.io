@@ -13,7 +13,7 @@ The previous book that I read, [Attract Money Now]({{site.url}}/english/attract-
 
 The co-author Ihaleakala Hew Len worked as a psychiatrist in a highly secured ward dedicated to mentally ill criminals at Hawaii State Hospital. Every criminal is chained and placed in separate rooms. There was a high level of violence between the criminals and the doctors. Many hospital staff and doctors called in sick - most of them never want to work in that section. However, Dr. Hew Len cured every one of the patients without ever seeing them !!!. Yes. He never met any patient in person. Hard to believe that right?. Yes. For me too. Dr. Hew Len explains that he used the Ho'oponopono method to cure the patients.
 
-### What is the Ho'oponopono method?
+## What is the Ho'oponopono method?
 
 Before understanding the Ho'oponopono method, you must be clear about two things. *Responsibility & Reality.*
 
@@ -23,7 +23,7 @@ Before understanding the Ho'oponopono method, you must be clear about two things
 
 Imagine this, you walk in the "Las Vegas Strip", enjoying the casinos and having fun with your friends. Suddenly, out of nowhere an insane homeless guy shouts at you and even tries to attack you,  you too are responsible for that event. A part of you was not right and it was in sync with the part of the homeless guy - thus creating an experience for both of you.
 
-### Ho'oponopono Method
+## Ho'oponopono Method
 
 This method is based on love and forgiveness. When something happens to you and it does not feel right for you, you can clean that part of you with love and forgiveness. When the cleansing is complete the experience reverses. You will be surrounded by peace. It is done by simply saying these four sentences in your mind or out loud, when you rehearse the experience in your mind or when that event is happening.
 I Love You.

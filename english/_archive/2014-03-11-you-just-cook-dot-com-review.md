@@ -9,7 +9,7 @@ You love cooking?. Great. Go on. Read.
 
 You don't like cooking?. Wait. Still, read this. You may change your mind.
 
-### Steps in Cooking
+## Steps in Cooking
 
 1. Choose the recipe.
 2. List down the ingredients.
@@ -44,7 +44,7 @@ Trust me, the taste was amazing. Not sure, if that's because of my wife's touch 
 
 What made my wife happy was the follow-up call from youjustcook.com to check if the recipe had come out well. I am surprised too !. We are planning to order regularly.
 
-### Who is running the show?
+## Who is running the show?
 
 This service is started by two Software Engineers **Suyesh & Hashi** who are very passionate about cooking. Here is what they say about the experience.
 

@@ -17,15 +17,15 @@ Stibel says that *The Internet is a brain*. This is because the Internet (unlike
 
 This book is divided into four sections with multiple chapters.
 
-### Part I - Building the Brain:
+## Part I - Building the Brain:
 
 From a scientific perspective, he explains the human brain's thinking capability and its limitations. Three most important things to the brain: information storage, processing, and communication with other neurons. As of now, the Internet does information storage and communication. Cloud computing does processing.  What would happen, if we upgrade the Internet with Cloud computing?. We can achieve what MapReduce did for Google.
 
-### Part II - Internet Intelligence:
+## Part II - Internet Intelligence:
 
 The human brain does not calculate all the possible combinations of output for making a decision. It makes the decision with little information (Instinct?). It's very good at predicting where the cricket ball will land after a sixer without knowing its velocity, trajectory path etc, rather than predicting the weather next day. To process very little information, you don't need supercomputers. You get the idea?. Also, he talks about "Creative Destruction" in a separate chapter. How neurons lose the connections after maturing into a complete brain is analogous to the way many websites/companies disappear from the web.
 
-### Part III - The Brain behind the Web:
+## Part III - The Brain behind the Web:
 
 He compares the websites to memes. iN a chapter, he discusses how the search engines work (primarily Google) and the competition between the websites to appear on the first page of the search results are analogous to the Survival of the fittest - Darwinism. He is one of the men behind the algorithm that propels Google's Adsense. He discusses the importance of understanding the language to select the right ads based on the keywords. Very Interesting!.
 
@@ -37,7 +37,7 @@ Metcalfe's law is discussed in detail and why it did not work. He defines the st
 
 Further, he discusses in detail about the Social Networks and the advantages "facebook" has over the other similar sites. Very interesting to see where the web is going !.
 
-### Part IV - Internet:
+## Part IV - Internet:
 This is a very interesting section of the entire book, which discusses where the Internet is heading to?. Some of the predictions are...
 * Internet algorithms will mature and start discarding/penalizing links that are irrelevant, unnatural or fake. (W3C or ICANN?)
 * Websites will pull information from various sites to create collages of new information, dynamically (a semantic web).

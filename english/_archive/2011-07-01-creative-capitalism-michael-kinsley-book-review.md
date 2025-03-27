@@ -11,7 +11,7 @@ category: english
 
 January 24, 2008 - The World Economic Forum, Davos, Switzerland. A speech by Bill Gates, one of the most successful entrepreneurs & philanthropist created a whirlwind in the business circles. Gates proposed a new idea of making capitalism work for the poor and needy in the developing world. He coined the term "Creative Capitalism". This book is a compilation of discussions, blogs, critics by 43 well known successful business leaders, economists etc around the topic. Micheal Kinsley did a pretty good job in compiling 300+ pages with thought-provoking ideas, approaches to Creative Capitalism. Many of you may have seen Gates speech on YouTube or read the transcription on the Microsoft website. But, after reading this entire book, you will have complete knowledge, different thinking and a birds-eye view of this topic. About the pros and cons of what was proposed by Bill Gates. Many of the business leaders do not agree with his idea of Creative Capitalism (with valid statistics and business ethics). Some, do agree with Bill Gates.
 
-### Here is the cheat sheet of Creative Capitalism
+## Here is the cheat sheet of Creative Capitalism
 
 1. Markets respond only to "demand", not to "need".
 2. The world is getting better, but not fast enough and not for everyone. For ex., Climate change will impose the worst effect on those least responsible for it.

@@ -33,7 +33,7 @@ We were taught by the society, our parents, our grandparents for generations tha
 
 The man who delivered thousands of babies in a regular way felt that this process could be improved. He made small, simple changes to the childbirth process and helped 1000+ babies to transition to the world from their mother's womb in a pleasant, enjoyable way. All you need is a lot of patience, compassion, love for the baby and let nature do its job in its own time. No need to rush and interfere.
 
-### Birth without violence
+## Birth without violence
 
 Some of the small changes he did were
 

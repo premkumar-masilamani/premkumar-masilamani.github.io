@@ -92,7 +92,7 @@ From the previous net worth calculation, it is clear that I need to learn to man
 
 **Wealth principle 17** - Rich people constantly learn and grow. Poor people think they already know.
 
-### Interesting quotes from the book:
+## Interesting quotes from the book:
 
 * Never have a ceiling on your income.
 

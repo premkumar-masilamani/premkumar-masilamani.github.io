@@ -11,13 +11,13 @@ A few years pass. Some of you change the companies, some of you change the work 
 
 A few more years pass, your friend's list explodes and you hardly know where your closest college friend works. Even though you are in touch with them via any of the social networks, there is never a need to know/remember who is working where, until you plan to change the job or your friends ask you to refer him/her to any specific job/company. Right?.
 
-### Problem Statement
+## Problem Statement
 
 I have 1000+ friends on Facebook (I know 90% of them in person). In recent times, I get a lot of resumes from my friends, asking me to refer them or any of their friends for a job opening. Most of the time, these requests are not specific to a job or a company. It would be a generic request to pass the resumes to my friends. I hardly know 3 - 4 friends company names by heart.
 
 But, If I know, where each of my friends works, their position, and their location - it would be very helpful for me to refer the right person to the right organization. It would actually benefit my friend as well as the company that he might join.
 
-### Solution
+## Solution
 
 I looked around to see if there were any apps/services that would give me that specific details. I could not find any. I could have used LinkedIn, but not many of my friends are in. So, I wrote a small single-page app that pulls your Facebook friend's work history and presents it in a tabular format. I wrote this for myself.
 

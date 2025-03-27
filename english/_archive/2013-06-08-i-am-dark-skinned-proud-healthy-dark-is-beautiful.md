@@ -18,13 +18,13 @@ Then comes a series of invasions by white skinned people up to the latest Britis
 
 ... and there are 100s of other reasons. This preference for fairer skin is prevalent in many other countries as well.
 
-### History of fairness creams in India
+## History of fairness creams in India
 
 Hindustan Lever Limited launched "Fair & Lovely" in 1978, exploiting the Indian obsession with fairer skin tone. It is called the mother of all fairness creams in India. Now, the same product is selling in 38 countries worldwide, generating most of the income from South Asia. The current market is flooded with so many international/local brands. Nevertheless, all fairness cream advertisements are based on the mantra, *If you buy this fairness product, you will make your family proud, you will look beautiful, and you will secure a wonderful husband* - What an insult to the Indian Women?.
 
 Just a thought - What would have happened, if these products were launched during the British Empire?. *How dare you want Indians to look like British?*... ha ha ha ha... Who knows, next "Fair & Lovely" commercial can come up with this scheme - *We got fairer and we got our freedom*.
 
-### What's Next?
+## What's Next?
 
 My suggestion is this - Please don't let them dictate, how should you look, how should you smell, how should you dress. It's your body. You know the basics to keep it clean. That's more than enough. Let your mantra be - *Clean & Healthy*. Please don't imagine yourself in someone else's body. No one in the world is worthy of it.
 

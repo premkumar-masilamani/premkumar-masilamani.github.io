@@ -21,7 +21,7 @@ Here is a gist of what he teaches in the book. I would suggest you read the comp
 
 > You are sitting in the middle of a magnificent, lush, green garden. This garden is filled with the most spectacular flowers you have ever seen. The environment is supremely tranquil and silent. In the center of this garden stands a towering red lighthouse, six stories high. Suddenly from the lighthouse, comes out a nine-foot tall, nine-hundred pound Japanese Sumo wrestler who casually wanders into the garden. He wears nothing but a pink wire cable covering his private parts. He slips on a shiny gold stopwatch and falls to the ground with an enormous thud. The Sumo wrestler is rendered unconscious and lies there, silent and still. After a while, he awakens by the fragrance of the fresh yellow roses blooming nearby. Through the bushes at the very edge of the garden, he observes a long winding path covered by millions of sparkling diamonds. This path leads him down the road of everlasting joy and eternal bliss.
 
-### 1. Master Your Mind
+## 1. Master Your Mind
 
 The garden in the fable represents your mind. Like the fresh, fragrant roses in the garden, fill your mind with pleasant, happy and positive thoughts. Good gardeners don't allow the weeds to take root in their garden. So, do not allow any negative thoughts to wander in your mind. You cannot afford the luxury of even a single thought. He gives some techniques to do that.
 
@@ -31,7 +31,7 @@ The garden in the fable represents your mind. Like the fresh, fragrant roses in 
 
 **The Secret of the Lake:** Everyone should have goals. If you don't have one in your life, sit down and think about it. Once you are sure about your goals, you need to find a calm place to sit and visualize in your mind screen a movie, in which all your goals are achieved and you are experiencing eternal joy. I do it differently. As soon as I finish meditation, I close my eyes with my palms and I see nothing but darkness. I visualize my goals as a movie in that dark screen. Try!
 
-### 2. Follow Your Purpose
+## 2. Follow Your Purpose
 
 The lighthouse in the fable represents your purpose in life. You will never be able to hit a target that you cannot see. So, figure out your goals. WRITE them down in a paper. When you do that you send a flag to your mind that these thoughts are far more important than the other 60,000 thoughts. Your mind will become acutely aware of your goals and start realizing it. This is science. You can follow the five steps.
 
@@ -45,7 +45,7 @@ The lighthouse in the fable represents your purpose in life. You will never be a
 
 **Enjoy the journey:** Do not fix your eyes on the destination only. Enjoy the route to your destination. Enjoy every happiness that you can while you are practicing the above.
 
-### 3. Practice Kaizen
+## 3. Practice Kaizen
 
 The Japanese word Kaizen means constant and never-ending improvement. The sumo wrestler symbolizes the constant self-improvement and personal expansion. People grow the most when they enter the Zone of the Unknown. He urges us to do the things that we fear and suggests 10 ancient rituals for a radiant living. Just follow these rituals for 30 days and your life will begin to change drastically. Here are they.
 
@@ -69,7 +69,7 @@ The Japanese word Kaizen means constant and never-ending improvement. The sumo w
 
 **Ritual of Simplicity:** This ritual requires you to live a simple life. Focus only on your priorities, those activities that are truly meaningful. Your life will be uncluttered, rewarding and exceptionally peaceful. This doesn't mean that you should not strive to be rich and wealthy. If that is what you want, go for it. Make sure that you spend time on actions which tops your priority list and close to your heart. Don't just chase money.
 
-### 4. Power of discipline
+## 4. Power of discipline
 
 The pink wire cable which covers the private parts of the Japanese Sumo wrestler symbolizes the discipline, self-control that you should have in your life. Robin says, "When you control your thoughts, you control your mind. When you control your mind, you control your life. Once you reach the stage of being in total control of your life, you become the master of your destiny". You slowly nurture the embryo of self-discipline day by day and one day you will have the enormous willpower to do the things that seem impossible.
 
@@ -77,7 +77,7 @@ The pink wire cable which covers the private parts of the Japanese Sumo wrestler
 
 **Vow of Silence:** He suggests us to go on an entire day without speaking, except for the answers to the direct questions. Whenever you feel the urge to speak, suppress it. It will help to improve your willpower. Somehow, I don't buy into that concept. I am not going to try this.
 
-### 5. Respect Your Time
+## 5. Respect Your Time
 
 The shiny gold stopwatch symbolizes your time, the most precious commodity. "Being an excellent time manager doesn't mean that you have to become a workaholic. On the contrary, time mastery allows more time to do the things that you would love to do and the things which are meaningful to you. Time mastery leads to life mastery. Guard your time well. Remember, it's a non-renewable resource". Some of the things that you may do are
 
@@ -87,7 +87,7 @@ The shiny gold stopwatch symbolizes your time, the most precious commodity. "Bei
 
 **Deathbed Mentality:** I have heard this from Steve Jobs as well. "What would you do, if this is your last day in your life?" Ask this question every morning and let it decide the course of action for the entire day. I am personally not into this. If today was my last day, I would spend all the time with my love, family, and friends, roam around, enjoy and have fun. I would never think about work. Is that what he suggests? I don't think so. Also, I would not prefer to think about death every morning.
 
-### 6. Selflessly Serve Others
+## 6. Selflessly Serve Others
 
 The fresh yellow roses in the garden symbolize the essential virtue of an enlightened living - Serving others. "The quality of your life will come down to the quality of your contribution". When you work to improve the lives of others, you indirectly elevating the life of yours. He suggests a few tips to start serving others.
 
@@ -97,7 +97,7 @@ The fresh yellow roses in the garden symbolize the essential virtue of an enligh
 
 **Cultivate Richer Relationships:** Should I even describe this technique?. Develop a richer relationship with friends and family. It doesn't matter how many friends you have in life, what matters is with whom you can have a belly-busting laugh at sometimes for no reason. Go for it.
 
-### 7. Embrace the Present
+## 7. Embrace the Present
 
 The long winding path studded with millions of diamonds represents the final virtue of the fable. Living the Present. Happiness is the journey, not the destination. Some of the things to remember are
 
