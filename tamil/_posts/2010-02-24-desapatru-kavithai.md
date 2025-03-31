@@ -1,6 +1,6 @@
 ---
 layout: tamil/post
-title: தேசபற்று.
+title: தேசபற்று
 date: 2010-02-24
 category: tamil
 ---

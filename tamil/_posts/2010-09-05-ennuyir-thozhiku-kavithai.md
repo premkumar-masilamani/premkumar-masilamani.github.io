@@ -1,6 +1,6 @@
 ---
 layout: tamil/post
-title: என்னுயிர் தோழிக்கு.
+title: என்னுயிர் தோழிக்கு
 date: 2010-09-05
 category: tamil
 ---

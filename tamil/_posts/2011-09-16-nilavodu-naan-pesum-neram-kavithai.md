@@ -1,6 +1,6 @@
 ---
 layout: tamil/post
-title: நிலவோடு நான் பேசும் நேரம்.
+title: நிலவோடு நான் பேசும் நேரம்
 date: 2011-09-16
 category: tamil
 ---

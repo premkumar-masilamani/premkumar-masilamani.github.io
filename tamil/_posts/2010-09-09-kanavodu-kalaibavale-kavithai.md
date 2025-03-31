@@ -1,6 +1,6 @@
 ---
 layout: tamil/post
-title: கனவோடு கலைபவளே.
+title: கனவோடு கலைபவளே
 date: 2010-09-09
 category: tamil
 ---

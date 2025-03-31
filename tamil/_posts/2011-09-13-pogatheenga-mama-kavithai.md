@@ -1,6 +1,6 @@
 ---
 layout: tamil/post
-title: போகாதீங்க மாமா.
+title: போகாதீங்க மாமா
 date: 2011-09-13
 category: tamil
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tamil/post
-title: மீண்டும் ஒரு மின்னல்.
+title: மீண்டும் ஒரு மின்னல்
 date: 2011-07-12
 category: tamil
 ---

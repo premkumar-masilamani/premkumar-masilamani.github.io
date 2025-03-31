@@ -1,6 +1,6 @@
 ---
 layout: tamil/post
-title: ஒரு ஹைக்கூ கவிதை.
+title: ஒரு ஹைக்கூ கவிதை
 date: 2009-03-06
 category: tamil
 ---

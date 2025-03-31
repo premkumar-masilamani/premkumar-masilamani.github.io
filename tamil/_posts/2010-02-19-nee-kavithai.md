@@ -1,6 +1,6 @@
 ---
 layout: tamil/post
-title: நீ.
+title: நீ
 date: 2010-02-19
 category: tamil
 ---

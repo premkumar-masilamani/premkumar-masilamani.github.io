@@ -1,6 +1,6 @@
 ---
 layout: tamil/post
-title: ஒரு கவிதையின் பயணம்.
+title: ஒரு கவிதையின் பயணம்
 date: 2011-08-18
 category: tamil
 ---

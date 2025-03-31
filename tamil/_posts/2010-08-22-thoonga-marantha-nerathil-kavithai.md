@@ -1,6 +1,6 @@
 ---
 layout: tamil/post
-title: தூங்க மறந்த நேரத்தில்.
+title: தூங்க மறந்த நேரத்தில்
 date: 2010-08-22
 category: tamil
 ---

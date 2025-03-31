@@ -1,6 +1,6 @@
 ---
 layout: tamil/post
-title: அவள்.
+title: அவள்
 date: 2011-08-30
 category: tamil
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tamil/post
-title: கவிதைகளும் கவுண்டமணியும்.
+title: கவிதைகளும் கவுண்டமணியும்
 date: 2010-03-04
 category: tamil
 ---

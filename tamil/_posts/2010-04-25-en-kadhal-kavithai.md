@@ -1,6 +1,6 @@
 ---
 layout: tamil/post
-title: என் காதல்.
+title: என் காதல்
 date: 2010-04-25
 category: tamil
 ---
