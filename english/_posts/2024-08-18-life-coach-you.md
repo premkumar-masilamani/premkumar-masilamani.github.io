@@ -1,13 +1,13 @@
 ---
 layout: english/post
-title: Life Coach? You?
+title: Coach? You?
 date: 2024-08-18
 category: english
 ---
 
 > ஆரம்பிச்ச அஞ்சு நிமிஷத்துல கலாய்ப்ப, நீயெல்லாம் லைப் கோச்சா டா? ஓ***
 
-**Translation**: Within 5 mins, you'll bully the new person. You are a Life Coach now, huh? F***
+**Translation**: Within 5 mins, you'll bully the new person. You are a Coach now, huh? F***
 
 Comment from my school friend.
 

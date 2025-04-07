@@ -1,6 +1,6 @@
 ---
 layout: english/post
-title: Becoming a Life Coach
+title: Becoming a Coach
 date: 2024-08-16
 category: english
 ---
@@ -9,9 +9,9 @@ It was a confusing period of my life. Everything was going well and nothing was 
 
 > "How many times am I going to repeat yesterday?"
 
-The answer wasn't very fulfilling. At the same time, I have no idea what I am looking for... I reached out to a friend, and mentor coach Arvind Ramasundaram for help. He spoke to me for a while and suggested I become a life coach.
+The answer wasn't very fulfilling. At the same time, I have no idea what I am looking for... I reached out to a friend, and mentor coach Arvind Ramasundaram for help. He spoke to me for a while and suggested I become a Coach.
 
-"Life Coach?... Me?..." I was laughing hard. After many months of training and coaching 50+ people, here I am, a Life Coach...
+"Coach?... Me?..." I was laughing hard. After many months of training and coaching 50+ people, here I am, a Coach...
 
 Have I found my true calling?... Hell no... I am still searching, but this time with an awareness of who I am and what I can do... Yes. I coach and get coached regularly.
 

@@ -36,7 +36,7 @@ Everybody needs the motivation to achieve their goals. As humans, we cannot be h
 
 11. **Replace your Habits** - Many of us have unhealthy or not-so-good habits, which we want to stop. Those habits cannot be killed instantly. They must be replaced with a new, healthy & positive one.
 
-12. **Get some Coaching** - I have been hearing this advice from almost all of the self-help gurus out there. I never had a life coach in my life. But, beginning to think that I should have one. I am getting into intellectual conversations with few of my friends which helps me to clarify my thinking and made to make substantial changes in my life. If I could benefit from my friends, I would definitely benefit from a coach. I shall get one soon.
+12. **Get some Coaching** - I have been hearing this advice from almost all of the self-help gurus out there. I never had a coach in my life. But, beginning to think that I should have one. I am getting into intellectual conversations with few of my friends which helps me to clarify my thinking and made to make substantial changes in my life. If I could benefit from my friends, I would definitely benefit from a coach. I shall get one soon.
 
 13. **Perform Rituals** - My favorite lesson from Robin Sharma. After I started to wake up at 5 AM daily, I began my morning rituals and understand by practice, the importance of rituals. It does not matter how much time you spend on rituals. It could be 5 minutes or 3 hrs (like me). What matters is that you do it consistently to see the benefits. You can see the rituals that I perform [here]({{site.url}}/english/48-days-challenge-wake-up-at-5-am-daily/).
 

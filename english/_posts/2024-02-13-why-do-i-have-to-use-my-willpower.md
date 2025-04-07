@@ -40,7 +40,7 @@ The stone tied to your legs could be your past traumas, beliefs, or something th
 
 I have tried Option 1, but that's not a long-term solution. That's tiring as I age.
 
-I am trying Option 2, through life coaching, meditation, and a lot of questioning around my reality. I am hoping for an internal realization, to be able to exactly pinpoint this belief is what caused me to do this activity or that trauma is what's preventing me from doing that activity. Once I bring that trauma or belief to my awareness, clearing it is easy. I don't know if this is possible. You wouldn't know if you didn't even try. Would you?
+I am trying Option 2, through coaching, meditation, and a lot of questioning around my reality. I am hoping for an internal realization, to be able to exactly pinpoint this belief is what caused me to do this activity or that trauma is what's preventing me from doing that activity. Once I bring that trauma or belief to my awareness, clearing it is easy. I don't know if this is possible. You wouldn't know if you didn't even try. Would you?
 
 The objective here is to NOT have to use willpower. To get to that point, I have to use MORE willpower to stay afloat and try to untie the stones. A paradox of life.
 
