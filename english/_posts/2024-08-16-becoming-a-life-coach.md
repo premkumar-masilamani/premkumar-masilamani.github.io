@@ -19,4 +19,6 @@ Every coaching session peels a layer of doubt, and uncertainty and brings you cl
 
 In software engineering terms, your life is a recursive function with no exit condition. You will figure out the exit condition in one of the iterations, but you won't know which one. How exciting and adventurous your life would be if you understood this?
 
-Are you lost?
+Are you lost? Need help?
+
+Let's find ourselves, together!
