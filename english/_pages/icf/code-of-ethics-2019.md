@@ -16,6 +16,8 @@ The following ethical standards are applied to the professional activities of IC
 
 ---
 
+**Section I, Clause 1**
+
 As an ICF Professional, I:
 
 ```
@@ -51,7 +53,7 @@ As an ICF Professional, I:
 #### My coaching Client(s) and Sponsor(s)
 
 - **Client(s):** The person being coached (individual or group).
-- **Sponsor(s):** The person(s) or organization paying for or authorizing the coaching. Often HR, a manager, or leadership in corporate settings.
+- **Sponsor(s):** The person(s) or organization paying for or authorizing the coaching. Often HR, a manager, or leadership team in corporate settings.
 
   ✅ **Scenario:**
   A leadership coach works with a senior manager (client) but is contracted by the organization (sponsor). Both need clarity on what will be shared (e.g., progress vs. content).
@@ -63,7 +65,7 @@ As an ICF Professional, I:
   - It's forward-focused and client-led.
   - It's not therapy, consulting, or mentoring.
 
-- **Potential Value:** Outcomes clients can expect, but not guaranteed.
+- **Potential Value:** Outcomes clients can expect, but **not guaranteed**.
   - Improved self-awareness.
   - Better decision-making.
   - Goal clarity and achievement.
@@ -135,6 +137,8 @@ As an ICF Professional, I:
 Please re-read the section 1, clause 1 to ensure that you understood every word!
 
 ---
+
+**Section I, Clause 2**
 
 As an ICF Professional, I:
 
