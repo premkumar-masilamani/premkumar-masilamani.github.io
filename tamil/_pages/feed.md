@@ -1,8 +1,10 @@
 ---
 layout: common/empty
 date: 2023-10-11
+category: tamil
 permalink: /tamil/feed.xml
 ---
+
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
 	<channel>
 		<title>{{ site.tamil.title }}</title>

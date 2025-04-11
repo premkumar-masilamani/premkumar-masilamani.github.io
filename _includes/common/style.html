@@ -42,12 +42,36 @@ blockquote {
 
 img {
     max-width: 100%;
-    border-radius: 0.625rem; /* Equivalent to 10px */
+    max-height: 100%;
+    width: auto;
+    height: auto;
+    border-radius: 0.625rem;
+    object-fit: contain;
+    display: block;
+    margin: auto;
 }
 
 td, th {
     border: 1px solid grey;
     padding: 5px;
+}
+
+pre {
+  overflow-x: auto;            /* Allow horizontal scroll if needed */
+  background-color: #f4f4f4;
+  padding: 1rem;
+  border-radius: 6px;
+  max-width: 100%;
+  box-sizing: border-box;
+  margin: 1rem 0;
+}
+
+pre code {
+  display: block;
+  white-space: pre-wrap;       /* Wrap long lines */
+  word-break: break-word;      /* Break long words */
+  overflow-wrap: break-word;
+  font-family: monospace;
 }
 
 .cover-image-credit {

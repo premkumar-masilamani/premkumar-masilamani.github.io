@@ -19,3 +19,19 @@ date: 2015-03-01
     {% endfor %}
   </ul>
 {% endfor %}
+
+<h2>பக்கங்கள்</h2>
+
+{% assign exclude_pages = "404.md,feed.md,sitemap.xml,index.html" | split: "," %}
+<ul>
+  {% for page in site.pages %}
+    {% assign filename = page.path | split: "/" | last %}
+    {% unless exclude_pages contains filename %}
+      {% if page.url contains "/tamil/" %}
+        <li>
+          <a href="{{ page.url }}">{{ page.title | default: filename }}</a>
+        </li>
+      {% endif %}
+    {% endunless %}
+  {% endfor %}
+</ul>

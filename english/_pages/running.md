@@ -1,10 +1,10 @@
 ---
 layout: english/page
+title: Barefoot Running
 date: 2015-03-01
+category: english
 permalink: /english/running/
 ---
-
-# Barefoot running
 
 ## 21K Runs
 

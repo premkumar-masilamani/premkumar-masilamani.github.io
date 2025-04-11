@@ -1,6 +1,7 @@
 ---
 layout: common/empty
 date: 2023-10-11
+category: english
 permalink: /english/feed.xml
 ---
 
