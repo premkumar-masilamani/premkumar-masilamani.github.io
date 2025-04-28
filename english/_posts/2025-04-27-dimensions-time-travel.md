@@ -77,8 +77,7 @@ In simple terms, time travel is going back in time.
 4. Time is the duration between the beginning and the end
 5. Let's divide the time into 1000 slices for simple imagination/calculation
 6. Let's assume we are in slice 10.
-
-Time moves forward with no effort. (i.e) it automatically moves from slice 10 to slice 11 and so on.
+7. Time moves forward with no effort. (i.e) it automatically moves from slice 10 to slice 11 and so on.
 
 When we intend to travel back in time, we are essentially saying, let's move the universe from slice 10 to slice 9. (i.e.) every single atom, subatomic particle, and dark matter should be moved in space (3 dimensions) to its previous state - Slice 9.
 
@@ -122,7 +121,7 @@ For this to happen, the very first slice of time, the universe splits into two. 
 
 There will be one copy of universes for each state change in the universe (i.e.) one electron moved a bit in one atom in the entire universe. This action of creating a copy of an universe would break all the existing laws of physics. And each copy of the universe has a real mass that occupies real space. So, we need infinite space to store the infinite copies of the universe.
 
-> Every place in this universe at every slice of time must exist simultaneously. (i.e.) the past, the present, and the future - all exist simultaneously.
+> Every place in this universe at every slice of time must exist simultaneously. (i.e.) the past, the present, and the future - all must exist simultaneously.
 
 ### Thought 2
 
