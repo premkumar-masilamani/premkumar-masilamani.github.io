@@ -12,7 +12,7 @@ I've decided not to write book reviews and possibly affect your experience by se
 ## Biography
 
 - [Maybe You Should Talk To Someone](https://amzn.to/40cN4em) by Lori Gottlieb
-- [When Breath Becomes Air](https://amzn.to/3C6SWxB) by Eckhart Tolle
+- [When Breath Becomes Air](https://amzn.to/3C6SWxB) by Paul Kalanithi
 
 ## Company Biography
 
