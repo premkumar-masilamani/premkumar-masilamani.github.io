@@ -24,7 +24,7 @@ Everybody needs the motivation to achieve their goals. As humans, we cannot be h
 
 5. **Just be Unexpected** - Do what makes you tick. Write, Collaborate, Create. Do anything you want. Creativity does not mean originality. Build upon others work, create a better version of it or simply share others work, if you don't have a clue about creativity. Don't let the "*Originality*" idea prevent you from doing something good.
 
-6. **Act Like a Hero** - Damn. I do this from my childhood. Whenever I go to a movie and impressed with the hero, I think myself as the hero in the movie. I feel awesome. Without heroes, we are plain simple boring people. Choose as many heroes as you want, and try to act like one (doesn't mean to jump like Spiderman)
+6. **Act Like a Hero** - I do this from my childhood. Whenever I go to a movie and impressed with the hero, I think myself as the hero in the movie. I feel awesome. Without heroes, we are plain simple boring people. Choose as many heroes as you want, and try to act like one (doesn't mean to jump like Spiderman)
 
 7. **Say NO to yourself** - Seriously?. Yes. Sometimes. Especially when it comes to discipline. Your body and mind will come up with creative questions to keep you in the bed. Don't listen to them. Say NO. Become your own disciple. Do 2 things daily that you don't want to do. Assume that those are the orders from your guru version of yourself. Do it, no matter what you think.
 

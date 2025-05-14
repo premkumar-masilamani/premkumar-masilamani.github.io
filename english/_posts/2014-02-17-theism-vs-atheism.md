@@ -13,7 +13,7 @@ You are surprised to see that so many people do not like or enjoy being in the v
 
 It looks awkward to you. You want to tell them that there is no such place (though you don't know for sure and your knowledge is limited to your senses and logic). You too start driving fast to help them. Those cars without drivers soon get along with each other, make a stop now and then, and discuss those believers and followers (mostly either criticizing or making fun of them, rarely trying to help them). Your little group neither has a name nor any rules. You devise new instruments to make your life and other's lives easier. With the advances in your brain and the technology that it devised, you reaffirm that such an oasis does not exist. The distance between your group and the believer's group increases.
 
-En route, you see little groups of car owners who are not interested in the race but enjoy being together, happily singing, dancing, helping each other, taking care of each other, etc. They just live in the moment. You are surprised to see them and choose to be with them for a while to learn their lifestyle. However, their lifestyle looks too dumb, lazy & unproductive to you. You soon leave the place to join your group.
+En route, you see little groups of car owners who are not interested in the race but enjoy being together, happily singing, dancing, helping each other, taking care of each other, etc. They just live in the moment. You are surprised to see them and choose to be with them for a while to learn their lifestyle. However, their lifestyle looks too lazy & unproductive to you. You soon leave the place to join your group.
 
 No one knows about that Oasis.
 

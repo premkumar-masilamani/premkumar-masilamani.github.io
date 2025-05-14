@@ -38,7 +38,7 @@ Right. I am writing this post, just to understand the reason behind it.
 
 I don't think so. At least, I did not like being fat when I was overweight. For a while, let's forget reality. Let's assume a few scenarios.
 
-If I tell FA people, "Give me $100. I will turn you into a curvy voluptuous female forever. You don't have to do anything". How many FA people will give me $100? I guess everyone. No one is going to tell me, "Fuck off. I love being fat".
+If I tell FA people, "Give me $100. I will turn you into a curvy voluptuous female forever. You don't have to do anything". How many FA people will give me $100? I guess everyone. No one is going to tell me, "I love being fat".
 
 Even if I increase the amount to $1000, I don't expect much of a difference, except that poor people will take time to earn that money.
 

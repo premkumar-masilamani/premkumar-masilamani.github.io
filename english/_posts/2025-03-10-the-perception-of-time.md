@@ -71,7 +71,7 @@ Again, the experiment proved the effect but didn't explain the cause. Why do gra
 
 ## Human Perception in Time Dilation
 
-Let's take an extreme example. A person is born blind, dumb, deaf, and completely paralyzed, and survives on medical support. Technically, there is no input from the outside world that goes to him. It's just dark and silent. But his brain is active.
+Let's take an extreme example. A person is born blind, mute, deaf, and completely paralyzed, and survives on medical support. Technically, there is no input from the outside world that goes to him. It's just dark and silent. But his brain is active.
 
 There are no perceivable events in his life. So, there is no duration between the events. How would he perceive time?
 

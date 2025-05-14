@@ -2,7 +2,6 @@
 VENV = venv
 PYTHON = $(VENV)/bin/python
 PIP = $(VENV)/bin/pip
-SCRIPT = link_checker.py
 
 # Default target
 all: run
@@ -17,7 +16,8 @@ deps: $(VENV)
 
 # Run the script inside the virtual environment
 run: deps
-	$(PYTHON) $(SCRIPT)
+	$(PYTHON) link_checker.py
+	$(PYTHON) profanity_checker.py
 
 # Clean the virtual environment
 clean:

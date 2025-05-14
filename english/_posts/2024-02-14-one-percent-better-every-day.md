@@ -26,7 +26,7 @@ Simple interest makes it easier. You decide 1% is one page. You read one page on
 
 > Human abilities don't scale exponentially, they scale linearly.
 
-Apply this logic to running, lifting weights, programming, learning new languages, making sales calls - any damn thing, in any form. You will hit a ceiling. You cannot scale beyond that. There is an inherent limit on human capabilities. It would vary between individuals, but there is a limit. If there is no limit, you are GOD.
+Apply this logic to running, lifting weights, programming, learning new languages, making sales calls - anything, in any form. You will hit a ceiling. You cannot scale beyond that. There is an inherent limit on human capabilities. It would vary between individuals, but there is a limit. If there is no limit, you are GOD.
 
 Has any self-help guru published a daily schedule for improving themselves continuously for 1 year? No. You can't even measure this 1%. This "1% better every day" does not work. At best, it works only for the initial few days. Then why is this concept so popular?
 
@@ -42,7 +42,7 @@ What else uses these three aspects?. **A pyramid scheme**. They use mathematical
 
 No No No... You misunderstood the whole idea behind this concept. It's not about mathematics, it's about improving yourself every day.
 
-Then, just fucking stop using mathematics.
+Then, just stop using mathematics.
 
 To me,
 

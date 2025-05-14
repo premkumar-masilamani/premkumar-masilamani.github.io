@@ -18,7 +18,7 @@ You don't like cooking?. Wait. Still, read this. You may change your mind.
 5. Clean, cut, chop etc. (most time-consuming process of cooking, esp. non-veg)
 6. Cook. (make an art!)
 
-If you look at it, the majority of your time is spent in preparation, rather than the actual process of cooking. I remember, my wife spending close to 2 hrs in preparation to cook "Malai Koftha". She was damn tired and very happy at the same time. I loved it but never asked her to prepare "Malai Koftha" again. I don't want her to strain so much for a dish. If you ever stepped into the kitchen, you know it already. The steps 2-5 are what keeps most of us away from the kitchen. At least me and all the guys that I know.
+If you look at it, the majority of your time is spent in preparation, rather than the actual process of cooking. I remember, my wife spending close to 2 hrs in preparation to cook "Malai Koftha". She was very tired and very happy at the same time. I loved it but never asked her to prepare "Malai Koftha" again. I don't want her to strain so much for a dish. If you ever stepped into the kitchen, you know it already. The steps 2-5 are what keeps most of us away from the kitchen. At least me and all the guys that I know.
 
 What if there is a service, which takes care of every aspect of preparation and allows you to enjoy cooking, just cooking?.
 

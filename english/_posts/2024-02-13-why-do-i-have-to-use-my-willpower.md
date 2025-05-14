@@ -20,7 +20,7 @@ One day, I decided to stop smoking and drinking and was a te-totaller for 5 year
 
 But, there are a couple of problems... Yeah, of course, otherwise I would not be writing this post.
 
-**Willpower** - The amount of available willpower I have reduces as I age. When I was young, right out of college with no responsibilities, I could move mountains. After marriage, kids, managing the family, and working at a startup in Silicon Valley, every responsibility takes a portion of my willpower. Forget moving mountains, I find it hard to move my ass from the couch.
+**Willpower** - The amount of available willpower I have reduces as I age. When I was young, right out of college with no responsibilities, I could move mountains. After marriage, kids, managing the family, and working at a startup in Silicon Valley, every responsibility takes a portion of my willpower. Forget moving mountains, I find it hard to move from the couch.
 
 **Habits** - All self-help gurus say this, "_Do something continuously for X day and it will become your habit. You will start doing it naturally_". X could be 48 days to a year. So, by this definition, I should be a te-totaller, eating a perfect diet, having a perfect body, running, and exercising regularly. But that's not the case. What's missing from this definition is - the circumstances.
 

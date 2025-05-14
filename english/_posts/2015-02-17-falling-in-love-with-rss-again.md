@@ -39,11 +39,11 @@ Wow... I kinda liked it. I went ahead and subscribed to all the blogs and websit
 
 It's a whole new world out here. Almost every blog or website gives me goodies (an e-book, e-course, PDF reports, etc) for simply handing over my email address to them.
 
-I gave my email address to every damn blog that gave a goodie, downloaded every one of them, and saved them for later reading. I even enabled the email subscription option on all my blogs, immediately.
+I gave my email address to every blog that gave a goodie, downloaded every one of them, and saved them for later reading. I even enabled the email subscription option on all my blogs, immediately.
 
 I was singing, "Ooh la la la... Let's go dancin'..."
 
-Very soon, I understood the marketing and money behind the email lists. Damn.
+Very soon, I understood the marketing and money behind the email lists.
 
 Almost every one of the blogs has something to sell. They wrote very lengthy emails to convince me with all the "facts" to prove that their product would improve my life forever. A lot of times they redirected me to their pitching page with either a very lengthy text + testimonials or a video. The most frustrating thing is that - irrespective of the product, every pitching page looks the same. Follows the same pattern. Like Zebras. Sucks!!!
 
