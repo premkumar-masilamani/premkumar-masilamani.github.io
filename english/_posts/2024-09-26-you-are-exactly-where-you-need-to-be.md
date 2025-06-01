@@ -11,7 +11,7 @@ What?.
 
 Don't want to travel back in time?
 
-Let's go to Palestine, Israel, Ukraine, or Russia and tell the young men, women, and children who are being tortured and killed for reasons beyond their control, "You are exactly where you need to be"
+Let's go to Palestine, Israel, Ukraine, or Russia and tell the young men, women, and children who are being tortured and killed for reasons beyond their control and tell them, "You are exactly where you need to be"
 
 Or go to the victims of violence, and abuse (fill in with any atrocity that you could think of), a few moments before the violence and tell them, directly looking into their eyes, "You are exactly where you need to be"
 
@@ -19,7 +19,7 @@ Unless you are a narcissistic psychopath, no sane human being would say such mea
 
 You could blame me for being negative.
 
-Why not tell the quote to American President Donald J. Trump, on the impossible escape from the recent assassination attempts. He would probably be fine with the quote.
+Tell the quote to American President Donald J. Trump, on the miraculous escape from the recent assassination attempts. He would probably be happy with the quote.
 
 Yeah, you're right. But you won't tell the same quote to John F. Kennedy, would you?
 
@@ -33,7 +33,7 @@ You should mourn/grieve the situation and need someone to console you.
 
 You should have the skills and ability to escape the situation by yourself.
 
-The most important condition - This can be validated only by looking backward. (only in a few cases).
+The most important condition - This can be validated only by looking backward.
 
 Let's say a victim of violent gang rape, become a visionary and works to improve the safety of women across the world. She even received a Nobel Prize. Do you think, she was exactly where she needed to be, being gang raped by monsters? I don't think so.
 

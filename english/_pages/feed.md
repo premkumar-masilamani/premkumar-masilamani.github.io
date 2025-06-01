@@ -5,7 +5,7 @@ category: english
 permalink: /english/feed.xml
 ---
 
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 	<channel>
 		<title>{{ site.english.title }}</title>
 		<link>{{ site.english.url }}</link>
@@ -24,8 +24,7 @@ permalink: /english/feed.xml
 			<item>
 				<title>{{ post.title | xml_escape }}</title>
 				<link>{{ site.url }}{{ post.url }}</link>
-				<description><![CDATA[ {{ post.content | xml_escape }} ]]></description>
-				<content:encoded><![CDATA[ {{ post.content | xml_escape }} ]]></content:encoded>
+				<description>{{ post.content | xml_escape }}</description>
 			{% if post.author-name != null %}
 				<author>{{ post.author-email }} ({{ post.author-name }})</author>
 			{% else %}
