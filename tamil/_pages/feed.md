@@ -1,22 +1,22 @@
 ---
 layout: common/empty
-date: 2023-10-11
+date: 2025-06-01
 category: tamil
 permalink: /tamil/feed.xml
 ---
 
-<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 	<channel>
 		<title>{{ site.tamil.title }}</title>
 		<link>{{ site.tamil.url }}</link>
 		<description>{{ site.tamil.tagline }}</description>
 		<copyright>{{site.copyright}}</copyright>
 		<category>Blogs</category>
-		<language>en-us</language>
+		<language>ta-US</language>
 		<pubDate>{{ site.time | date_to_rfc822  }}</pubDate>
 		<lastBuildDate>{{ site.time | date_to_rfc822  }}</lastBuildDate>
 		<atom:link href="{{ site.tamil.url }}/feed.xml" rel="self" type="application/rss+xml" />
-		<docs>https://cyber.law.harvard.edu/rss/rss.html</docs>
+		<docs>https://www.rssboard.org/rss-specification</docs>
 		<generator>Jekyll Liquid Template in Github</generator>
 		<managingEditor>{{ site.tamil.email }} ({{ site.tamil.author }})</managingEditor>
 		<webMaster>{{ site.tamil.email }} ({{ site.tamil.author }})</webMaster>
@@ -32,7 +32,7 @@ permalink: /tamil/feed.xml
 			{% endif %}
 				<category>{{ post.category }}</category>
 				<pubDate>{{ post.date | date_to_rfc822  }}</pubDate>
-				<guid>{{ site.url }}{{ post.url }}</guid>
+				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
 			</item>
 		{% endfor %}
 	</channel>
