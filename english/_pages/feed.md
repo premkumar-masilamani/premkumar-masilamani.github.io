@@ -8,7 +8,7 @@ permalink: /english/feed.xml
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
 	<channel>
 		<title>{{ site.english.title }}</title>
-		<link>{{ site.english.url }}</link>
+		<link>{{ site.english.url | xml_escape }}</link>
 		<description>{{ site.english.tagline }}</description>
 		<copyright>{{site.copyright}}</copyright>
 		<category>Blogs</category>
@@ -23,7 +23,7 @@ permalink: /english/feed.xml
 		{% for post in site.categories.english limit:100 %}
 			<item>
 				<title>{{ post.title | xml_escape }}</title>
-				<link>{{ site.url }}{{ post.url }}</link>
+				<link>{{ site.url }}{{ post.url | xml_escape }}</link>
 				<description>{{ post.content | xml_escape }}</description>
 			{% if post.author-name != null %}
 				<author>{{ post.author-email }} ({{ post.author-name }})</author>
