@@ -1,23 +1,29 @@
-This [website](http://www.premkumarmasilamani.com) is built with Jekyll, hosted on GitHub pages with pure HTML only. (No CSS, Javascript)     
+# Premkumar Masilamani – Personal Website
 
-All the artifacts in this repository are opensource. You can fork this repo and use it as you wish.  
+This [website](http://www.premkumarmasilamani.com) is built with **Jekyll**, runs on **GitHub Pages**, and intentionally uses **HTML only** - no CSS or JavaScript.
 
-I would be extremely happy, if you link back to the site when, you use the content in your website/blogs (not mandatory though)  
+Everything in this repository is **open source**. Feel free to **fork, modify, and repurpose** the content as you wish.
 
-Remember this quote always:  
+I’d appreciate a link back, though it’s not mandatory. Attribution is goodwill, not obligation.
 
-> If you have an apple & I have an apple & if we exchange apples - we both will have one apple each  
-  If you have an idea & I have an idea & if we exchange ideas - we both will have two ideas each  
+---
 
-Let open source be the de-facto for every industry in this world.  
+> If you have an apple and I have an apple and we exchange these apples then you and I will still each have one apple.
+But if you have an idea and I have an idea and we exchange these ideas, then each of us will have two ideas. - **George Bernard Shaw**
 
-Thanks,  
-Premkumar Masilamani.
+Let’s normalize open-source collaboration across every industry.
 
-**Commands for local operations:** 
+Thanks for being here,
+**Premkumar Masilamani**
 
-- To run the website locally using docker, run the below command in a terminal
-`make run`
+---
 
-- To stop the website locally using docker, run the below command in a terminal
-`make stop`
+## Local Development
+
+To run the site locally using Docker:
+
+```bash
+make run
+```
+
+That’s it.

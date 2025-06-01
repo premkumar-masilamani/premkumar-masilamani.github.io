@@ -1,7 +1,52 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon file on custom folder attributes
+Icon?
+
+# Thumbnails
+._*
+
+# macOS directory service stores
+.Spotlight-V100
+.Trashes
+
+# Files that might appear on external volumes
+.VolumeIcon.icns
+
+# Zed editor backups (typically ends with .save or similar temp extensions)
+*.save
+*.tmp
+*.bak
+*~
+
+# Jekyll build output
 _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+
+# Node dependencies (if using JS tooling)
+node_modules/
+
+# Ruby dependencies
+vendor/bundle/
 .bundle/
-vendor/
-_scripts/.venv/
+Gemfile.lock
+
+# Logs
+*.log
+
+# Environment and credentials
+.env
+*.env
+.env.*
+
+# VS Code or other editors, in case Zed delegates to them
+.vscode/
+.idea/
+
+# Optional: ignore any local configuration or deployment files
+_config.local.yml
