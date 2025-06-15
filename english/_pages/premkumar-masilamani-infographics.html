@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Premkumar Masilamani | Coach & Software Architect</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&display=swap" rel="stylesheet">
+    <!--
+    Narrative & Structure Plan:
+    1.  Introduction/Hook: "The Software Architect of Potential." Big, bold stats to establish dual expertise. Includes profile picture placeholder.
+    2.  The Coaching Journey: Focus on credentials, philosophy, and impact using cards.
+    3.  The Synergy Bridge: A visual flow diagram connecting architectural skills to coaching competencies.
+    4.  Career Timeline: A clean, vertical timeline of the 20-year tech journey, now integrating the coaching journey at the start and detailed company-specific tech experience.
+    5.  Global Experience: Simple, clean representation of work in the US, UK, and India.
+    6.  Call to Action: Contact information.
+
+    Color Palette Selection:
+    -   Chosen Palette: "Brilliant Blues" for a professional, vibrant, and trustworthy feel.
+    -   HEX Codes Used: #004AAD (Primary), #0079C2 (Secondary), #00AEEF (Accent), #9DD9F3 (Light Accent), #111827 (Text), #FFFFFF (Background).
+
+    Visualization Choices & Justification (NO SVG/MERMAID USED):
+    -   Hook Stats (20+ Years, 150+ Hours): Goal: Inform. Chosen Viz: Single Big Number (HTML/CSS). Justification: Maximum impact for key data points.
+    -   Coaching Credentials: Goal: Organize. Chosen Viz: Icon-based list (Unicode chars in HTML/CSS). Justification: Clean, scannable grouping of related items.
+    -   Synergy Flow: Goal: Organize/Relationships. Chosen Viz: Flow-style Diagram (HTML/CSS Flexbox). Justification: Clearly illustrates the mapping between two distinct skill sets without using SVG or Mermaid.
+    -   Career Path: Goal: Change over time. Chosen Viz: Vertical Timeline (HTML/CSS). Justification: Classic, intuitive way to show chronological progression, now with more detailed entries.
+    -   Global Experience: Goal: Inform/Change by location. Chosen Viz: Flag Icon Cards (Unicode chars in HTML/CSS). Justification: Simple, clean, and universally understood representation of international experience.
+
+    CONFIRMATION: NEITHER Mermaid JS NOR SVG were used anywhere in this output. All visuals are rendered using Chart.js (Canvas) or structured HTML/CSS with Tailwind.
+    -->
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f8fafc;
+        }
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 500px;
+            margin-left: auto;
+            margin-right: auto;
+            height: 300px;
+            max-height: 400px;
+        }
+        @media (min-width: 768px) {
+            .chart-container {
+                height: 350px;
+            }
+        }
+        .gradient-text {
+            background: linear-gradient(to right, #0079C2, #004AAD);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        /* Print-specific styles for PDF export */
+        @media print {
+            @page {
+                size: landscape; /* Set page to landscape orientation */
+                margin: 0.5in; /* Reduce margins for better content fit */
+            }
+            body {
+                background-color: #FFFFFF !important; /* Ensure white background for print */
+                color: #000000 !important; /* Ensure black text for readability */
+                -webkit-print-color-adjust: exact; /* Ensure background colors are printed */
+                print-color-adjust: exact;
+            }
+            .container {
+                max-width: none; /* Allow container to expand for print */
+                width: 100%; /* Ensure full width usage */
+                margin: 0;
+                padding: 0;
+            }
+            .chart-container {
+                max-width: 100%; /* Ensure charts use available print width */
+                height: auto; /* Allow height to adjust */
+            }
+            /* Adjust specific elements for print if needed */
+            section, header, footer {
+                page-break-inside: avoid; /* Prevent breaking sections across pages */
+            }
+            h1, h2, h3, p {
+                color: #000000 !important; /* Force text color to black for print */
+            }
+        }
+    </style>
+</head>
+<body class="text-gray-900">
+
+    <div class="container mx-auto p-4 md:p-8 max-w-7xl">
+
+        <header class="text-center py-12">
+            <div class="mb-6">
+                <img src="https://media.licdn.com/dms/image/v2/D5603AQEyaXART55Spg/profile-displayphoto-shrink_200_200/B56ZUn0VXqHQAc-/0/1740129785803?e=1755734400&v=beta&t=3v93WHKpdCQpUUWgc7uBfCfi9_7qrf1FK6r0ssx3NxE" alt="Premkumar Masilamani Profile Picture" class="rounded-full mx-auto shadow-md w-36 h-36 object-cover">
+            </div>
+            <h1 class="text-4xl md:text-6xl font-black tracking-tight gradient-text">Premkumar Masilamani</h1>
+            <p class="mt-4 text-xl md:text-2xl font-light text-gray-600">ICF Accredited Coach & Principal Software Architect</p>
+        </header>
+
+        <section class="grid grid-cols-1 md:grid-cols-2 gap-8 text-center my-12">
+            <div class="bg-white rounded-2xl shadow-lg p-8 transform hover:scale-105 transition-transform duration-300">
+                <p class="text-7xl font-black text-[#004AAD]">20+</p>
+                <p class="mt-2 text-2xl font-semibold text-gray-700">Years of Tech Leadership</p>
+                <p class="mt-2 text-gray-500">Building scalable software systems and high-performing teams from the ground up.</p>
+            </div>
+            <div class="bg-white rounded-2xl shadow-lg p-8 transform hover:scale-105 transition-transform duration-300">
+                <p class="text-7xl font-black text-[#0079C2]">150+</p>
+                <p class="mt-2 text-2xl font-semibold text-gray-700">Hours of Impactful Coaching</p>
+                <p class="mt-2 text-gray-500">Empowering professionals to unlock their full potential and achieve their goals.</p>
+            </div>
+        </section>
+
+        <section id="coaching" class="my-16 md:my-24">
+            <div class="text-center mb-12">
+                <h2 class="text-4xl font-bold tracking-tight">The Coaching Journey</h2>
+                <p class="mt-3 text-lg text-gray-600 max-w-3xl mx-auto">My coaching philosophy is rooted in the belief that everyone holds the potential for growth. I partner with clients to unlock that potential, fostering clarity, resilience, and actionable strategies for success.</p>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                <div class="bg-white rounded-lg shadow-md p-6">
+                    <p class="text-3xl mb-3">🏆</p>
+                    <h3 class="font-bold text-xl mb-2">ICF Accredited (ACC)</h3>
+                    <p class="text-gray-600">Adhering to the highest global standards of professional and ethical coaching. Currently awaiting PCC certification.</p>
+                </div>
+                <div class="bg-white rounded-lg shadow-md p-6">
+                    <p class="text-3xl mb-3">🎯</p>
+                    <h3 class="font-bold text-xl mb-2">Transformational Impact</h3>
+                    <p class="text-gray-600">Guiding individuals through significant life transitions, personal growth, and professional development across all walks of life.</p>
+                </div>
+                <div class="bg-white rounded-lg shadow-md p-6">
+                    <p class="text-3xl mb-3">🤝</p>
+                    <h3 class="font-bold text-xl mb-2">Client-Centric Approach</h3>
+                    <p class="text-gray-600">Utilizing deep listening and powerful questioning to foster self-discovery, goal setting, and accountability.</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="synergy" class="my-16 md:my-24 bg-white rounded-2xl shadow-xl p-8 md:p-12">
+            <div class="text-center mb-12">
+                <h2 class="text-4xl font-bold tracking-tight">The Synergy of Skills</h2>
+                <p class="mt-3 text-lg text-gray-600 max-w-3xl mx-auto">My experience as a software architect directly enhances my coaching. Designing complex software systems and leading technical teams has honed the same skills needed to architect personal and professional growth.</p>
+            </div>
+            <div class="flex flex-col md:flex-row items-center justify-center space-y-8 md:space-y-0 md:space-x-8">
+                <div class="w-full md:w-2/5 text-center p-6 bg-sky-50 rounded-lg">
+                    <h3 class="text-2xl font-bold text-[#004AAD]">Software Architect Mindset</h3>
+                    <ul class="mt-4 space-y-3 text-left">
+                        <li class="flex items-start"><span class="text-[#004AAD] mr-2">✔</span><span>System Design & Big Picture Vision</span></li>
+                        <li class="flex items-start"><span class="text-[#004AAD] mr-2">✔</span><span>Solving Complex, Ambiguous Problems</span></li>
+                        <li class="flex items-start"><span class="text-[#004AAD] mr-2">✔</span><span>Building & Mentoring Global Teams</span></li>
+                        <li class="flex items-start"><span class="text-[#004AAD] mr-2">✔</span><span>Creating Scalable, Efficient Solutions</span></li>
+                    </ul>
+                </div>
+                <div class="text-5xl font-thin text-[#0079C2] transform md:-rotate-0">
+                    →
+                </div>
+                <div class="w-full md:w-2/5 text-center p-6 bg-sky-50 rounded-lg">
+                    <h3 class="text-2xl font-bold text-[#0079C2]">Coaching Competency</h3>
+                    <ul class="mt-4 space-y-3 text-left">
+                        <li class="flex items-start"><span class="text-[#0079C2] mr-2">✔</span><span>Co-creating Client's Strategic Vision</span></li>
+                        <li class="flex items-start"><span class="text-[#0079C2] mr-2">✔</span><span>Navigating Career & Leadership Challenges</span></li>
+                        <li class="flex items-start"><span class="text-[#0079C2] mr-2">✔</span><span>Fostering Growth and Accountability</span></li>
+                        <li class="flex items-start"><span class="text-[#0079C2] mr-2">✔</span><span>Empowering Actionable Goal Achievement</span></li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section id="timeline" class="my-16 md:my-24">
+            <div class="text-center mb-12">
+                <h2 class="text-4xl font-bold tracking-tight">A 20-Year Technical Foundation & Coaching Journey</h2>
+                <p class="mt-3 text-lg text-gray-600 max-w-3xl mx-auto">A comprehensive view of my career evolution, bridging deep technical expertise with dedicated coaching practice.</p>
+            </div>
+            <div class="relative max-w-2xl mx-auto">
+                <div class="absolute left-1/2 top-0 bottom-0 w-0.5 bg-gray-200"></div>
+
+                <div class="relative mb-8">
+                    <div class="absolute left-1/2 -ml-3 w-6 h-6 rounded-full bg-[#0079C2] border-4 border-white z-10"></div>
+                    <div class="md:ml-auto md:w-5/12 p-4 bg-white shadow-md rounded-lg">
+                        <h3 class="font-bold">Coaching & Personal Development</h3>
+                        <p class="text-sm text-gray-600">ICF Accredited Coach (ACC) | 2023 - Present</p>
+                    </div>
+                </div>
+
+                <div class="relative mb-8">
+                    <div class="absolute left-1/2 -ml-3 w-6 h-6 rounded-full bg-[#004AAD] border-4 border-white z-10"></div>
+                    <div class="ml-auto md:ml-0 md:w-5/12 p-4 bg-white shadow-md rounded-lg">
+                        <h3 class="font-bold">Sibros Technologies</h3>
+                        <p class="text-sm text-gray-600 italic">Automotive</p>
+                        <p class="text-sm text-gray-600">US | 2020 - 2023</p>
+                    </div>
+                </div>
+
+                <div class="relative mb-8">
+                    <div class="absolute left-1/2 -ml-3 w-6 h-6 rounded-full bg-[#004AAD] border-4 border-white z-10"></div>
+                    <div class="md:ml-auto md:w-5/12 p-4 bg-white shadow-md rounded-lg">
+                        <h3 class="font-bold">Helix RE, Inc.</h3>
+                        <p class="text-sm text-gray-600 italic">AEC/Real Estate Tech</p>
+                        <p class="text-sm text-gray-600">US | 2017 - 2020</p>
+                    </div>
+                </div>
+
+                <div class="relative mb-8">
+                    <div class="absolute left-1/2 -ml-3 w-6 h-6 rounded-full bg-[#004AAD] border-4 border-white z-10"></div>
+                    <div class="ml-auto md:ml-0 md:w-5/12 p-4 bg-white shadow-md rounded-lg">
+                        <h3 class="font-bold">TESCO</h3>
+                        <p class="text-sm text-gray-600 italic">Retail</p>
+                        <p class="text-sm text-gray-600">UK | 2014 - 2017</p>
+                    </div>
+                </div>
+
+                <div class="relative mb-8">
+                    <div class="absolute left-1/2 -ml-3 w-6 h-6 rounded-full bg-[#004AAD] border-4 border-white z-10"></div>
+                    <div class="md:ml-auto md:w-5/12 p-4 bg-white shadow-md rounded-lg">
+                        <h3 class="font-bold">Legal & General</h3>
+                        <p class="text-sm text-gray-600 italic">Insurance/Financial Services</p>
+                        <p class="text-sm text-gray-600">UK | 2011 - 2013</p>
+                    </div>
+                </div>
+
+                <div class="relative mb-8">
+                    <div class="absolute left-1/2 -ml-3 w-6 h-6 rounded-full bg-[#004AAD] border-4 border-white z-10"></div>
+                    <div class="ml-auto md:ml-0 md:w-5/12 p-4 bg-white shadow-md rounded-lg">
+                        <h3 class="font-bold">American Express</h3>
+                        <p class="text-sm text-gray-600 italic">Financial Services</p>
+                        <p class="text-sm text-gray-600">US | 2007 - 2009</p>
+                    </div>
+                </div>
+
+                <div class="relative mb-8">
+                    <div class="absolute left-1/2 -ml-3 w-6 h-6 rounded-full bg-[#004AAD] border-4 border-white z-10"></div>
+                    <div class="md:ml-auto md:w-5/12 p-4 bg-white shadow-md rounded-lg">
+                        <h3 class="font-bold">Tata Consultancy Services</h3>
+                        <p class="text-sm text-gray-600 italic">IT Consulting</p>
+                        <p class="text-sm text-gray-600">India | 2004 - 2007</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="global" class="my-16 md:my-24">
+            <div class="text-center mb-12">
+                <h2 class="text-4xl font-bold tracking-tight">Global Collaboration & Leadership</h2>
+                <p class="mt-3 text-lg text-gray-600 max-w-3xl mx-auto">Experience leading and collaborating with teams and clients across diverse cultural and geographical landscapes.</p>
+            </div>
+             <div class="grid grid-cols-1 md:grid-cols-3 gap-8 text-center">
+                <div class="bg-white rounded-lg shadow-md p-6">
+                    <p class="text-5xl">�🇸</p>
+                    <h3 class="font-bold text-xl mt-3">United States</h3>
+                </div>
+                <div class="bg-white rounded-lg shadow-md p-6">
+                    <p class="text-5xl">🇬🇧</p>
+                    <h3 class="font-bold text-xl mt-3">United Kingdom</h3>
+                </div>
+                <div class="bg-white rounded-lg shadow-md p-6">
+                    <p class="text-5xl">🇮🇳</p>
+                    <h3 class="font-bold text-xl mt-3">India</h3>
+                </div>
+            </div>
+        </section>
+
+        <footer class="text-center py-12 border-t mt-16">
+            <h2 class="text-3xl font-bold">Let's Connect</h2>
+            <p class="my-4 text-gray-600">I'm passionate about helping individuals and organizations thrive. <br/>Let's explore how we can work together.</p>
+            <div class="flex justify-center items-center space-x-6">
+                <a href="mailto:premkumar.masilamani.2020@gmail.com" class="text-[#004AAD] hover:text-[#0079C2] font-semibold">premkumar.masilamani.2020@gmail.com</a>
+                <span class="text-gray-300">|</span>
+                <a href="https://www.linkedin.com/in/premkumar-masilamani/" target="_blank" class="text-[#004AAD] hover:text-[#0079C2] font-semibold">LinkedIn</a>
+                 <span class="text-gray-300">|</span>
+                <a href="https://premkumarmasilamani.com" target="_blank" class="text-[#004AAD] hover:text-[#0079C2] font-semibold">premkumarmasilamani.com</a>
+            </div>
+        </footer>
+
+    </div>
+
+    <script>
+        function wrapLabel(label, maxWidth) {
+            if (typeof label !== 'string' || label.length <= maxWidth) {
+                return label;
+            }
+            const words = label.split(' ');
+            const lines = [];
+            let currentLine = '';
+            words.forEach(word => {
+                if ((currentLine + word).length > maxWidth) {
+                    lines.push(currentLine.trim());
+                    currentLine = '';
+                }
+                currentLine += word + ' ';
+            });
+            lines.push(currentLine.trim());
+            return lines;
+        }
+
+        const sharedChartOptions = {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+                legend: {
+                    position: 'bottom',
+                    labels: {
+                        font: {
+                            size: 14,
+                            family: 'Inter'
+                        }
+                    }
+                },
+                tooltip: {
+                    callbacks: {
+                        title: function(tooltipItems) {
+                            const item = tooltipItems[0];
+                            let label = item.chart.data.labels[item.dataIndex];
+                            if (Array.isArray(label)) {
+                                return label.join(' ');
+                            }
+                            return label;
+                        }
+                    },
+                    bodyFont: {
+                        size: 14,
+                        family: 'Inter'
+                    },
+                    titleFont: {
+                        size: 16,
+                        family: 'Inter'
+                    }
+                }
+            }
+        };
+
+        // Charts removed as per user request
+        // const qaEffortCtx = document.getElementById('qaEffortChart').getContext('2d');
+        // new Chart(qaEffortCtx, {
+        //     type: 'doughnut',
+        //     data: {
+        //         labels: ['QA Effort Reduced', 'Remaining Effort'],
+        //         datasets: [{
+        //             label: 'QA Effort Distribution',
+        //             data: [20, 80],
+        //             backgroundColor: [
+        //                 '#00AEEF',
+        //                 '#E5E7EB',
+        //             ],
+        //             borderColor: '#FFFFFF',
+        //             borderWidth: 4,
+        //             hoverOffset: 8
+        //         }]
+        //     },
+        //     options: {
+        //         ...sharedChartOptions,
+        //         cutout: '70%',
+        //     }
+        // });
+
+        // const timeReductionCtx = document.getElementById('timeReductionChart').getContext('2d');
+        // new Chart(timeReductionCtx, {
+        //     type: 'bar',
+        //     data: {
+        //         labels: ['Before (Weeks)', 'After (Days)'],
+        //         datasets: [{
+        //             label: 'Time in units',
+        //             data: [56, 5],
+        //             backgroundColor: [
+        //                 '#0079C2',
+        //                 '#00AEEF',
+        //             ],
+        //             borderColor: [
+        //                  '#004AAD',
+        //                  '#0079C2',
+        //             ],
+        //             borderWidth: 2,
+        //             borderRadius: 5,
+        //         }]
+        //     },
+        //     options: {
+        //         ...sharedChartOptions,
+        //          scales: {
+        //             y: {
+        //                 beginAtZero: true,
+        //                  ticks: {
+        //                     callback: function(value) {
+        //                         return value + (this.getLabelForValue(value) === 'Before (Weeks)' ? ' weeks' : ' days')
+        //                     }
+        //                 }
+        //             }
+        //         },
+        //         plugins: {
+        //            ...sharedChartOptions.plugins,
+        //            legend: {
+        //                display: false
+        //            }
+        //         }
+        //     }
+        // });
+    </script>
+</body>
+</html>
+�
