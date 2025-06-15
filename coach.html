@@ -5,32 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Premkumar Masilamani | Coach & Software Architect</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&display=swap" rel="stylesheet">
-    <!--
-    Narrative & Structure Plan:
-    1.  Introduction/Hook: "The Software Architect of Potential." Big, bold stats to establish dual expertise. Includes profile picture placeholder.
-    2.  The Coaching Journey: Focus on credentials, philosophy, and impact using cards.
-    3.  The Synergy Bridge: A visual flow diagram connecting architectural skills to coaching competencies.
-    4.  Career Timeline: A clean, vertical timeline of the 20-year tech journey, now integrating the coaching journey at the start and detailed company-specific tech experience.
-    5.  Global Experience: Simple, clean representation of work in the US, UK, and India.
-    6.  Call to Action: Contact information.
-
-    Color Palette Selection:
-    -   Chosen Palette: "Brilliant Blues" for a professional, vibrant, and trustworthy feel.
-    -   HEX Codes Used: #004AAD (Primary), #0079C2 (Secondary), #00AEEF (Accent), #9DD9F3 (Light Accent), #111827 (Text), #FFFFFF (Background).
-
-    Visualization Choices & Justification (NO SVG/MERMAID USED):
-    -   Hook Stats (20+ Years, 150+ Hours): Goal: Inform. Chosen Viz: Single Big Number (HTML/CSS). Justification: Maximum impact for key data points.
-    -   Coaching Credentials: Goal: Organize. Chosen Viz: Icon-based list (Unicode chars in HTML/CSS). Justification: Clean, scannable grouping of related items.
-    -   Synergy Flow: Goal: Organize/Relationships. Chosen Viz: Flow-style Diagram (HTML/CSS Flexbox). Justification: Clearly illustrates the mapping between two distinct skill sets without using SVG or Mermaid.
-    -   Career Path: Goal: Change over time. Chosen Viz: Vertical Timeline (HTML/CSS). Justification: Classic, intuitive way to show chronological progression, now with more detailed entries.
-    -   Global Experience: Goal: Inform/Change by location. Chosen Viz: Flag Icon Cards (Unicode chars in HTML/CSS). Justification: Simple, clean, and universally understood representation of international experience.
-
-    CONFIRMATION: NEITHER Mermaid JS NOR SVG were used anywhere in this output. All visuals are rendered using Chart.js (Canvas) or structured HTML/CSS with Tailwind.
-    -->
     <style>
         body {
             font-family: 'Inter', sans-serif;
@@ -56,34 +33,32 @@
             -webkit-text-fill-color: transparent;
         }
 
-        /* Print-specific styles for PDF export */
         @media print {
             @page {
-                size: landscape; /* Set page to landscape orientation */
-                margin: 0.5in; /* Reduce margins for better content fit */
+                size: landscape;
+                margin: 0.5in;
             }
             body {
-                background-color: #FFFFFF !important; /* Ensure white background for print */
-                color: #000000 !important; /* Ensure black text for readability */
-                -webkit-print-color-adjust: exact; /* Ensure background colors are printed */
+                background-color: #FFFFFF !important;
+                color: #000000 !important;
+                -webkit-print-color-adjust: exact;
                 print-color-adjust: exact;
             }
             .container {
-                max-width: none; /* Allow container to expand for print */
-                width: 100%; /* Ensure full width usage */
+                max-width: none;
+                width: 100%;
                 margin: 0;
                 padding: 0;
             }
             .chart-container {
-                max-width: 100%; /* Ensure charts use available print width */
-                height: auto; /* Allow height to adjust */
+                max-width: 100%;
+                height: auto;
             }
-            /* Adjust specific elements for print if needed */
             section, header, footer {
-                page-break-inside: avoid; /* Prevent breaking sections across pages */
+                page-break-inside: avoid;
             }
             h1, h2, h3, p {
-                color: #000000 !important; /* Force text color to black for print */
+                color: #000000 !important;
             }
         }
     </style>
@@ -120,17 +95,17 @@
             </div>
             <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
                 <div class="bg-white rounded-lg shadow-md p-6">
-                    <p class="text-3xl mb-3">🏆</p>
+                    <p class="text-3xl mb-3">&#x1F3C6;</p>
                     <h3 class="font-bold text-xl mb-2">ICF Accredited (ACC)</h3>
                     <p class="text-gray-600">Adhering to the highest global standards of professional and ethical coaching. Currently awaiting PCC certification.</p>
                 </div>
                 <div class="bg-white rounded-lg shadow-md p-6">
-                    <p class="text-3xl mb-3">🎯</p>
+                    <p class="text-3xl mb-3">&#x1F3AF;</p>
                     <h3 class="font-bold text-xl mb-2">Transformational Impact</h3>
                     <p class="text-gray-600">Guiding individuals through significant life transitions, personal growth, and professional development across all walks of life.</p>
                 </div>
                 <div class="bg-white rounded-lg shadow-md p-6">
-                    <p class="text-3xl mb-3">🤝</p>
+                    <p class="text-3xl mb-3">&#x1F91D;</p>
                     <h3 class="font-bold text-xl mb-2">Client-Centric Approach</h3>
                     <p class="text-gray-600">Utilizing deep listening and powerful questioning to foster self-discovery, goal setting, and accountability.</p>
                 </div>
@@ -146,22 +121,22 @@
                 <div class="w-full md:w-2/5 text-center p-6 bg-sky-50 rounded-lg">
                     <h3 class="text-2xl font-bold text-[#004AAD]">Software Architect Mindset</h3>
                     <ul class="mt-4 space-y-3 text-left">
-                        <li class="flex items-start"><span class="text-[#004AAD] mr-2">✔</span><span>System Design & Big Picture Vision</span></li>
-                        <li class="flex items-start"><span class="text-[#004AAD] mr-2">✔</span><span>Solving Complex, Ambiguous Problems</span></li>
-                        <li class="flex items-start"><span class="text-[#004AAD] mr-2">✔</span><span>Building & Mentoring Global Teams</span></li>
-                        <li class="flex items-start"><span class="text-[#004AAD] mr-2">✔</span><span>Creating Scalable, Efficient Solutions</span></li>
+                        <li class="flex items-start"><span class="text-[#004AAD] mr-2">&#x2714;</span><span>System Design & Big Picture Vision</span></li>
+                        <li class="flex items-start"><span class="text-[#004AAD] mr-2">&#x2714;</span><span>Solving Complex, Ambiguous Problems</span></li>
+                        <li class="flex items-start"><span class="text-[#004AAD] mr-2">&#x2714;</span><span>Building & Mentoring Global Teams</span></li>
+                        <li class="flex items-start"><span class="text-[#004AAD] mr-2">&#x2714;</span><span>Creating Scalable, Efficient Solutions</span></li>
                     </ul>
                 </div>
                 <div class="text-5xl font-thin text-[#0079C2] transform md:-rotate-0">
-                    →
+                    &#x2192;
                 </div>
                 <div class="w-full md:w-2/5 text-center p-6 bg-sky-50 rounded-lg">
                     <h3 class="text-2xl font-bold text-[#0079C2]">Coaching Competency</h3>
                     <ul class="mt-4 space-y-3 text-left">
-                        <li class="flex items-start"><span class="text-[#0079C2] mr-2">✔</span><span>Co-creating Client's Strategic Vision</span></li>
-                        <li class="flex items-start"><span class="text-[#0079C2] mr-2">✔</span><span>Navigating Career & Leadership Challenges</span></li>
-                        <li class="flex items-start"><span class="text-[#0079C2] mr-2">✔</span><span>Fostering Growth and Accountability</span></li>
-                        <li class="flex items-start"><span class="text-[#0079C2] mr-2">✔</span><span>Empowering Actionable Goal Achievement</span></li>
+                        <li class="flex items-start"><span class="text-[#0079C2] mr-2">&#x2714;</span><span>Co-creating Client's Strategic Vision</span></li>
+                        <li class="flex items-start"><span class="text-[#0079C2] mr-2">&#x2714;</span><span>Navigating Career & Leadership Challenges</span></li>
+                        <li class="flex items-start"><span class="text-[#0079C2] mr-2">&#x2714;</span><span>Fostering Growth and Accountability</span></li>
+                        <li class="flex items-start"><span class="text-[#0079C2] mr-2">&#x2714;</span><span>Empowering Actionable Goal Achievement</span></li>
                     </ul>
                 </div>
             </div>
@@ -246,154 +221,114 @@
             </div>
              <div class="grid grid-cols-1 md:grid-cols-3 gap-8 text-center">
                 <div class="bg-white rounded-lg shadow-md p-6">
-                    <p class="text-5xl">�🇸</p>
+                    <p class="text-5xl">&#x1F1FA;&#x1F1F8;</p>
                     <h3 class="font-bold text-xl mt-3">United States</h3>
                 </div>
                 <div class="bg-white rounded-lg shadow-md p-6">
-                    <p class="text-5xl">🇬🇧</p>
+                    <p class="text-5xl">&#x1F1EC;&#x1F1E7;</p>
                     <h3 class="font-bold text-xl mt-3">United Kingdom</h3>
                 </div>
                 <div class="bg-white rounded-lg shadow-md p-6">
-                    <p class="text-5xl">🇮🇳</p>
+                    <p class="text-5xl">&#x1F1EE;&#x1F1F3;</p>
                     <h3 class="font-bold text-xl mt-3">India</h3>
                 </div>
             </div>
         </section>
 
-        <footer class="text-center py-12 border-t mt-16">
-            <h2 class="text-3xl font-bold">Let's Connect</h2>
-            <p class="my-4 text-gray-600">I'm passionate about helping individuals and organizations thrive. <br/>Let's explore how we can work together.</p>
-            <div class="flex justify-center items-center space-x-6">
-                <a href="mailto:premkumar.masilamani.2020@gmail.com" class="text-[#004AAD] hover:text-[#0079C2] font-semibold">premkumar.masilamani.2020@gmail.com</a>
-                <span class="text-gray-300">|</span>
-                <a href="https://www.linkedin.com/in/premkumar-masilamani/" target="_blank" class="text-[#004AAD] hover:text-[#0079C2] font-semibold">LinkedIn</a>
-                 <span class="text-gray-300">|</span>
-                <a href="https://premkumarmasilamani.com" target="_blank" class="text-[#004AAD] hover:text-[#0079C2] font-semibold">premkumarmasilamani.com</a>
+        <section id="recent-insights" class="my-16 md:my-24 bg-white rounded-2xl shadow-xl p-8 md:p-12">
+            <div class="text-center mb-12">
+                <h2 class="text-4xl font-bold tracking-tight">Recent Insights & Engagements</h2>
+                <p class="mt-3 text-lg text-gray-600 max-w-3xl mx-auto">Stay updated with my latest thoughts on technology, leadership, and personal growth, as shared on LinkedIn or my blog.</p>
             </div>
-        </footer>
+            <div id="blog-posts-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <p class="col-span-full text-center text-gray-500">Loading recent posts...</p>
+            </div>
+            <p class="mt-8 text-center text-gray-600 text-sm">For the latest updates and full articles, please visit my <a href="https://www.linkedin.com/in/premkumar-masilamani/recent-activity/posts/" target="_blank" class="text-[#004AAD] hover:underline">LinkedIn profile</a> or <a href="https://www.premkumarmasilamani.com/english/" target="_blank" class="text-[#004AAD] hover:underline">personal blog</a>.</p>
+        </section>
+
+        <section id="discovery-call" class="my-16 md:my-24 bg-white rounded-2xl shadow-xl p-8 md:p-12 text-center">
+            <h2 class="text-4xl font-bold tracking-tight">Book a Discovery Call</h2>
+            <p class="mt-3 text-lg text-gray-600 max-w-3xl mx-auto">Ready to explore how my unique blend of coaching and software expertise can benefit you or your organization?</p>
+            <a href="https://topmate.io/premkumar_masilamani/1296699" target="_blank" class="inline-block mt-8 bg-[#004AAD] hover:bg-[#0079C2] text-white font-bold py-4 px-8 rounded-lg transition-colors duration-300 shadow-md text-xl">
+                Schedule Your Free Discover Call Today
+            </a>
+        </section>
 
     </div>
 
     <script>
-        function wrapLabel(label, maxWidth) {
-            if (typeof label !== 'string' || label.length <= maxWidth) {
-                return label;
-            }
-            const words = label.split(' ');
-            const lines = [];
-            let currentLine = '';
-            words.forEach(word => {
-                if ((currentLine + word).length > maxWidth) {
-                    lines.push(currentLine.trim());
-                    currentLine = '';
+        // Function to fetch and display blog posts from RSS feed
+        async function fetchBlogPosts() {
+            const rssFeedUrl = 'https://www.premkumarmasilamani.com/english/feed.xml';
+            const container = document.getElementById('blog-posts-container');
+            container.innerHTML = '<p class="col-span-full text-center text-gray-500">Loading recent posts...</p>';
+
+            try {
+                const response = await fetch(rssFeedUrl);
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
                 }
-                currentLine += word + ' ';
-            });
-            lines.push(currentLine.trim());
-            return lines;
+                const xmlText = await response.text();
+                const parser = new DOMParser();
+                const xmlDoc = parser.parseFromString(xmlText, 'text/xml');
+
+                const items = xmlDoc.querySelectorAll('item');
+                let postsHtml = '';
+                const maxPosts = 3;
+
+                if (items.length === 0) {
+                    postsHtml = '<p class="col-span-full text-center text-gray-500">No blog posts found.</p>';
+                } else {
+                    for (let i = 0; i < Math.min(items.length, maxPosts); i++) {
+                        const item = items[i];
+                        const title = item.querySelector('title')?.textContent || 'No Title';
+                        const link = item.querySelector('link')?.textContent || '#';
+                        const pubDate = item.querySelector('pubDate')?.textContent;
+                        let formattedDate = 'No Date';
+
+                        if (pubDate) {
+                            try {
+                                const dateObj = new Date(pubDate);
+                                formattedDate = dateObj.toLocaleDateString('en-US', {
+                                    year: 'numeric',
+                                    month: 'long',
+                                    day: 'numeric'
+                                });
+                            } catch (e) {
+                                console.error('Error parsing date:', pubDate, e);
+                            }
+                        }
+
+                        // For RSS feeds, description or content:encoded usually holds the main text.
+                        // For simplicity, we'll use a placeholder description if actual content is complex.
+                        const description = item.querySelector('description')?.textContent || 'Click to read the full post...';
+                        const cleanDescription = new DOMParser().parseFromString(description, 'text/html').body.textContent || description;
+                        const shortDescription = cleanDescription.length > 120 ? cleanDescription.substring(0, 117) + '...' : cleanDescription;
+
+                        postsHtml += `
+                            <div class="bg-gray-50 rounded-lg p-6 shadow-sm flex flex-col justify-between">
+                                <div>
+                                    <h3 class="font-bold text-xl mb-2">${title}</h3>
+                                    <p class="text-gray-600 text-sm">${shortDescription}</p>
+                                </div>
+                                <div class="mt-4 text-xs text-gray-500">
+                                    <span>Published: ${formattedDate}</span>
+                                    <br><a href="${link}" target="_blank" rel="noopener noreferrer" class="text-[#0079C2] hover:underline">Read More</a>
+                                </div>
+                            </div>
+                        `;
+                    }
+                }
+                container.innerHTML = postsHtml;
+
+            } catch (error) {
+                console.error('Error fetching or parsing RSS feed:', error);
+                container.innerHTML = '<p class="col-span-full text-center text-red-500">Failed to load recent posts. Please try again later.</p>';
+            }
         }
 
-        const sharedChartOptions = {
-            responsive: true,
-            maintainAspectRatio: false,
-            plugins: {
-                legend: {
-                    position: 'bottom',
-                    labels: {
-                        font: {
-                            size: 14,
-                            family: 'Inter'
-                        }
-                    }
-                },
-                tooltip: {
-                    callbacks: {
-                        title: function(tooltipItems) {
-                            const item = tooltipItems[0];
-                            let label = item.chart.data.labels[item.dataIndex];
-                            if (Array.isArray(label)) {
-                                return label.join(' ');
-                            }
-                            return label;
-                        }
-                    },
-                    bodyFont: {
-                        size: 14,
-                        family: 'Inter'
-                    },
-                    titleFont: {
-                        size: 16,
-                        family: 'Inter'
-                    }
-                }
-            }
-        };
-
-        // Charts removed as per user request
-        // const qaEffortCtx = document.getElementById('qaEffortChart').getContext('2d');
-        // new Chart(qaEffortCtx, {
-        //     type: 'doughnut',
-        //     data: {
-        //         labels: ['QA Effort Reduced', 'Remaining Effort'],
-        //         datasets: [{
-        //             label: 'QA Effort Distribution',
-        //             data: [20, 80],
-        //             backgroundColor: [
-        //                 '#00AEEF',
-        //                 '#E5E7EB',
-        //             ],
-        //             borderColor: '#FFFFFF',
-        //             borderWidth: 4,
-        //             hoverOffset: 8
-        //         }]
-        //     },
-        //     options: {
-        //         ...sharedChartOptions,
-        //         cutout: '70%',
-        //     }
-        // });
-
-        // const timeReductionCtx = document.getElementById('timeReductionChart').getContext('2d');
-        // new Chart(timeReductionCtx, {
-        //     type: 'bar',
-        //     data: {
-        //         labels: ['Before (Weeks)', 'After (Days)'],
-        //         datasets: [{
-        //             label: 'Time in units',
-        //             data: [56, 5],
-        //             backgroundColor: [
-        //                 '#0079C2',
-        //                 '#00AEEF',
-        //             ],
-        //             borderColor: [
-        //                  '#004AAD',
-        //                  '#0079C2',
-        //             ],
-        //             borderWidth: 2,
-        //             borderRadius: 5,
-        //         }]
-        //     },
-        //     options: {
-        //         ...sharedChartOptions,
-        //          scales: {
-        //             y: {
-        //                 beginAtZero: true,
-        //                  ticks: {
-        //                     callback: function(value) {
-        //                         return value + (this.getLabelForValue(value) === 'Before (Weeks)' ? ' weeks' : ' days')
-        //                     }
-        //                 }
-        //             }
-        //         },
-        //         plugins: {
-        //            ...sharedChartOptions.plugins,
-        //            legend: {
-        //                display: false
-        //            }
-        //         }
-        //     }
-        // });
+        // Call the function when the DOM is fully loaded
+        document.addEventListener('DOMContentLoaded', fetchBlogPosts);
     </script>
 </body>
 </html>
-�
