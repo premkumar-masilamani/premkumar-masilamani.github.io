@@ -69,6 +69,7 @@
 
         <header class="text-center py-12">
             <div class="mb-6">
+                <!-- Profile image URL is now externalized -->
                 <img src="https://www.premkumarmasilamani.com/downloads/images/profile/premkumar-masilamani.jpg" alt="Premkumar Masilamani Profile Picture" class="rounded-full mx-auto shadow-md w-36 h-36 object-cover">
             </div>
             <h1 class="text-4xl md:text-6xl font-black tracking-tight gradient-text">Premkumar Masilamani</h1>
@@ -83,7 +84,7 @@
             </div>
             <div class="bg-white rounded-2xl shadow-lg p-8 transform hover:scale-105 transition-transform duration-300">
                 <p class="text-7xl font-black text-[#0079C2]">200+</p>
-                <p class="mt-2 text-2xl font-semibold text-gray-700">Hours of Impactful Coaching</p>
+                <p class="mt-2 text-2xl font-semibold text-gray-700">Hours of Transformational Coaching</p>
                 <p class="mt-2 text-gray-500">Guiding professionals to break through barriers, realize their full potential and create meaningful, lasting change.</p>
             </div>
         </section>
@@ -144,7 +145,7 @@
 
         <section id="timeline" class="my-16 md:my-24">
             <div class="text-center mb-12">
-                <h2 class="text-4xl font-bold tracking-tight">20 Years of Tech Leadership, Evolved into Coaching Mastery</h2>
+                <h2 class="text-4xl font-bold tracking-tight">Two Decades in Tech. A Future in Transformation.</h2>
                 <p class="mt-3 text-lg text-gray-600 max-w-3xl mx-auto">A career shaped by building software systems, leading global teams and solving complex challenges, now devoted to empowering others through transformational coaching.</p>
             </div>
             <div class="relative max-w-2xl mx-auto">
@@ -244,28 +245,43 @@
             <div id="blog-posts-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <p class="col-span-full text-center text-gray-500">Loading recent posts...</p>
             </div>
-            <p class="mt-8 text-center text-gray-600 text-sm">For full articles and the latest updates, please visit my <a href="https://www.linkedin.com/in/premkumar-masilamani/recent-activity/posts/" target="_blank" class="text-[#004AAD] hover:underline">LinkedIn posts</a> or <a href="https://www.premkumarmasilamani.com/english/" target="_blank" class="text-[#004AAD] hover:underline">personal blog</a>.</p>
+            <p class="mt-8 text-center text-gray-600 text-sm">For full articles and the latest updates, please visit my <a id="linkedin-posts-link" href="#" target="_blank" class="text-[#004AAD] hover:underline">LinkedIn posts</a> or <a id="personal-blog-link" href="#" target="_blank" class="text-[#004AAD] hover:underline">personal blog</a>.</p>
         </section>
 
         <section id="discovery-call" class="my-16 md:my-24 bg-white rounded-2xl shadow-xl p-8 md:p-12 text-center">
-            <h2 class="text-4xl font-bold tracking-tight">Book a Discovery Call</h2>
-            <p class="mt-3 text-lg text-gray-600 max-w-3xl mx-auto">Unlock clarity, growth and transformation, powered by coaching and real-world tech leadership.</p>
-            <a href="https://topmate.io/premkumar_masilamani/1296699" target="_blank" class="inline-block mt-8 bg-[#004AAD] hover:bg-[#0079C2] text-white font-bold py-4 px-8 rounded-lg transition-colors duration-300 shadow-md text-xl">
-                Schedule Your Free Call Now
+            <h2 class="text-4xl font-bold tracking-tight">You're here for something greater.</h2>
+            <!-- Combined all paragraphs into a single, multiline, center-aligned paragraph -->
+            <p class="mt-3 text-lg text-gray-600 max-w-3xl mx-auto">
+                Not just to succeed, but to live aligned.
+                This call is a doorway - to purpose, to clarity,
+                to the life that's been quietly calling your name.
+                Answer it!
+            </p>
+            <a id="discovery-call-link" href="#" target="_blank" class="inline-block mt-8 bg-[#004AAD] hover:bg-[#0079C2] text-white font-bold py-4 px-8 rounded-lg transition-colors duration-300 shadow-md text-xl">
+                Step Into the Life You're Meant to Live
             </a>
         </section>
 
     </div>
 
     <script>
+        // Configuration object for externalized data points and URLs
+        const appConfig = {
+            profileImageUrl: 'https://www.premkumarmasilamani.com/downloads/images/profile/premkumar-masilamani.jpg',
+            rssFeedUrl: 'https://www.premkumarmasilamani.com/english/feed.xml',
+            maxBlogPosts: 3,
+            linkedInPostsUrl: 'https://www.linkedin.com/in/premkumar-masilamani/recent-activity/posts/',
+            personalBlogUrl: 'https://www.premkumarmasilamani.com/english/',
+            discoveryCallUrl: 'https://topmate.io/premkumar_masilamani/1296699'
+        };
+
         // Function to fetch and display blog posts from RSS feed
         async function fetchBlogPosts() {
-            const rssFeedUrl = 'https://www.premkumarmasilamani.com/english/feed.xml';
             const container = document.getElementById('blog-posts-container');
             container.innerHTML = '<p class="col-span-full text-center text-gray-500">Loading recent posts...</p>';
 
             try {
-                const response = await fetch(rssFeedUrl);
+                const response = await fetch(appConfig.rssFeedUrl); // Use externalized URL
                 if (!response.ok) {
                     throw new Error(`HTTP error! status: ${response.status}`);
                 }
@@ -275,12 +291,11 @@
 
                 const items = xmlDoc.querySelectorAll('item');
                 let postsHtml = '';
-                const maxPosts = 3;
 
                 if (items.length === 0) {
                     postsHtml = '<p class="col-span-full text-center text-gray-500">No blog posts found.</p>';
                 } else {
-                    for (let i = 0; i < Math.min(items.length, maxPosts); i++) {
+                    for (let i = 0; i < Math.min(items.length, appConfig.maxBlogPosts); i++) { // Use externalized max posts
                         const item = items[i];
                         const title = item.querySelector('title')?.textContent || 'No Title';
                         // Always use the guid tag for the link as requested
@@ -302,8 +317,6 @@
                             }
                         }
 
-                        // For RSS feeds, description or content:encoded usually holds the main text.
-                        // For simplicity, we'll use a placeholder description if actual content is complex.
                         const description = item.querySelector('description')?.textContent || 'Click to read the full post...';
                         const cleanDescription = new DOMParser().parseFromString(description, 'text/html').body.textContent || description;
                         const shortDescription = cleanDescription.length > 120 ? cleanDescription.substring(0, 117) + '...' : cleanDescription;
@@ -330,8 +343,15 @@
             }
         }
 
-        // Call the function when the DOM is fully loaded
-        document.addEventListener('DOMContentLoaded', fetchBlogPosts);
+        // Call the function when the DOM is fully loaded and set static links
+        document.addEventListener('DOMContentLoaded', () => {
+            fetchBlogPosts();
+            // Set hrefs for externalized static links
+            document.querySelector('header img').src = appConfig.profileImageUrl;
+            document.getElementById('linkedin-posts-link').href = appConfig.linkedInPostsUrl;
+            document.getElementById('personal-blog-link').href = appConfig.personalBlogUrl;
+            document.getElementById('discovery-call-link').href = appConfig.discoveryCallUrl;
+        });
     </script>
 </body>
 </html>
