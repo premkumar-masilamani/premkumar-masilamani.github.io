@@ -10,7 +10,7 @@ layout: tamil/default
   {% if page.cover-image %}
     <br/><br/>
     <div>
-      <img src="{{site.tamil.img-path}}/{{ page.cover-image }}" alt="{{ page.title }}"/>
+      <img src="{{site.tamil.img-path}}/{{ page.cover-image }}" alt="{{ page.title }}" {% if page.cover-image-orientation == 'portrait' %}class="portrait-style"{% endif %}/>
       <div class="cover-image-credit"><small>{{ page.cover-image-credit }}</small></div>
     </div>
   {% endif %}

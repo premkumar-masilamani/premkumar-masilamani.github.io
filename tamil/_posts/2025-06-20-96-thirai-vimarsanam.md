@@ -2,6 +2,7 @@
 layout: tamil/post
 title: 96 - திரைவிமர்சனம்
 cover-image: 96-tamil-movie.jpg
+cover-image-orientation: portrait
 cover-image-credit: Downloaded from Google Image Search
 date: 2025-06-20
 category: tamil

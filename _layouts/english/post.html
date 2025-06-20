@@ -10,7 +10,7 @@ layout: english/default
   {% if page.cover-image %}
     <br/><br/>
     <div>
-        <img src="{{site.english.img-path}}/{{ page.cover-image }}" alt="{{ page.title }}"/>
+        <img src="{{site.english.img-path}}/{{ page.cover-image }}" alt="{{ page.title }}" {% if page.cover-image-orientation == 'portrait' %}class="portrait-style"{% endif %}/>
         <div class="cover-image-credit"><small>{{ page.cover-image-credit }}</small></div>
     </div>
   {% endif %}
