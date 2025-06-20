@@ -1,7 +1,8 @@
 ---
 layout: tamil/post
 title: விண்ணைத்தாண்டி வருவாயா - திரைவிமர்சனம்
-cover-image: vinnaithaandi-varuvaayaa-tamil-movie.webp
+cover-image: vinnaithandi-varuvaya-tamil-movie.jpg
+cover-image-orientation: portrait
 cover-image-credit: Downloaded from Google Image Search
 date: 2010-03-14
 category: tamil
