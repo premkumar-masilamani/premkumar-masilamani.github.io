@@ -1,9 +1,8 @@
 ---
 layout: tamil/post
 title: 96 - திரைவிமர்சனம்
-cover-image: 96-tamil-movie.jpg
-cover-image-orientation: portrait
-cover-image-credit: Downloaded from Google Image Search
+cover-image: 96-tamil-movie.jpeg
+cover-image-credit: Downloaded from Spotify Website
 date: 2025-06-20
 category: tamil
 ---
