@@ -1,0 +1,23 @@
+---
+layout: english/blog/default
+---
+
+<div>
+  <h1>{{ page.title }}</h1>
+  <span class="page-date">{{ page.date | date_to_string }}</span>
+  <br/><br/>
+  <a href="{{ site.home }}">home</a>&nbsp;&gt;&nbsp;<a href="{{ site.english.blog.url }}">blogs</a>
+  {% if page.cover-image %}
+    <br/><br/>
+    <div>
+        <img src="{{site.english.blog.downloads}}/{{ page.cover-image }}" alt="{{ page.title }}" {% if page.cover-image-orientation == 'portrait' %}class="portrait-style"{% endif %}/>
+        <div class="cover-image-credit"><small>{{ page.cover-image-credit }}</small></div>
+    </div>
+  {% endif %}
+  {{ content }}
+  <a href="{{ site.home }}">home</a>&nbsp;&gt;&nbsp;<a href="{{ site.english.blog.url }}">blogs</a>
+</div>
+<hr/>
+<div>
+  {% include english/blog/subscribe.html %}
+</div>
