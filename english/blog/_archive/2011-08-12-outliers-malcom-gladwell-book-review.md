@@ -1,5 +1,5 @@
 ---
-layout: english/post
+layout: english/blog/post
 title: Outliers - The Story Of Success
 date: 2011-08-12
 category: english-blog

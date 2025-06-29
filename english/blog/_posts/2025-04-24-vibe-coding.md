@@ -1,5 +1,5 @@
 ---
-layout: english/post
+layout: english/blog/post
 title: Vibe Coding
 date: 2025-04-24
 category: english-blog

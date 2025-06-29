@@ -1,5 +1,5 @@
 ---
-layout: tamil/post
+layout: tamil/blog/post
 title: Draft - சீனப் பழங்கலை தாவோ.
 date: 2018-08-08
 category: tamil-blog

@@ -1,5 +1,5 @@
 ---
-layout: tamil/post
+layout: tamil/blog/post
 title: இனிதாய் விடியும் பொழுது
 date: 2021-09-09
 category: tamil-blog

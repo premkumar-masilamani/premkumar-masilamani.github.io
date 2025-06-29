@@ -1,5 +1,5 @@
 ---
-layout: english/post
+layout: english/blog/post
 title: Life is not a bed of roses - Rosy, A Transgender
 date: 2012-03-18
 category: english-blog

@@ -1,5 +1,5 @@
 ---
-layout: english/post
+layout: english/blog/post
 title: High Altitude Leadership - What The World's Most Forbidding Peaks Teach Us About Success
 date: 2010-08-12
 category: english-blog

@@ -1,5 +1,5 @@
 ---
-layout: tamil/post
+layout: tamil/blog/post
 title: 96 - திரைவிமர்சனம்
 cover-image: 96-tamil-movie.jpeg
 cover-image-credit: Downloaded from Spotify Website

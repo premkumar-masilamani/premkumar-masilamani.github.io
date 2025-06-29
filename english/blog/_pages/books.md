@@ -1,5 +1,5 @@
 ---
-layout: english/page
+layout: english/blog/page
 title: Books I Love
 date: 2022-01-01
 category: english-blog

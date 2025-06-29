@@ -1,5 +1,5 @@
 ---
-layout: english/post
+layout: english/blog/post
 title: Where do my friends work?
 date: 2014-04-28
 category: apps

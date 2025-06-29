@@ -1,5 +1,5 @@
 ---
-layout: english/post
+layout: english/blog/post
 title: The Five Love Languages - How to Express Heartfelt Commitment to Your Mate
 date: 2011-07-05
 category: english-blog

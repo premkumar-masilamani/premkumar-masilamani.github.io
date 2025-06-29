@@ -1,5 +1,5 @@
 ---
-layout: english/post
+layout: english/blog/post
 title: Human Minds - An Exploration
 date: 2010-06-12
 category: english-blog

@@ -1,5 +1,5 @@
 ---
-layout: tamil/post
+layout: tamil/blog/post
 title: எனக்கு நானெழுதும் கடிதம்
 date: 2023-01-19
 category: tamil-blog

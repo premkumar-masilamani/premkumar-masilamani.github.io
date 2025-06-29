@@ -1,5 +1,5 @@
 ---
-layout: tamil/post
+layout: tamil/blog/post
 title: வெயில் தின்ற மழை - புத்தகவிமர்சனம்.
 date: 2011-01-24
 category: tamil-blog

@@ -1,5 +1,5 @@
 ---
-layout: tamil/post
+layout: tamil/blog/post
 title: அகநானூறு - களிற்றியானை நிரை - இருங்கழி முதலை மேஎந்தோ லன்ன
 date: 2025-04-01
 category: tamil-blog

@@ -1,5 +1,5 @@
 ---
-layout: english/post
+layout: english/blog/post
 title: The Unconventional Guide to Western Toilets
 date: 2014-03-21
 category: english-blog

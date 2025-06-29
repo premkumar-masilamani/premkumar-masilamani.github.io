@@ -1,5 +1,5 @@
 ---
-layout: english/post
+layout: english/blog/post
 title: The Leader Who Had No Title - A modern fable on real success in business and in life
 date: 2010-07-17
 category: english-blog

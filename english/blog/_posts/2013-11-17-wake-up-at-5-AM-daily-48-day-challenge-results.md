@@ -1,5 +1,5 @@
 ---
-layout: english/post
+layout: english/blog/post
 title: Wake Up at 5 AM Daily - 48 Day Challenge Results
 date: 2013-11-17
 category: english-blog

@@ -1,5 +1,5 @@
 ---
-layout: tamil/post
+layout: tamil/blog/post
 title: விண்ணைத்தாண்டி வருவாயா - திரைவிமர்சனம்
 cover-image: vinnai-thandi-varuvaya-tamil-movie.jpeg
 cover-image-credit: Downloaded from Spotify Website

@@ -1,5 +1,5 @@
 ---
-layout: english/post
+layout: english/blog/post
 title: The Power Of Death
 date: 2015-12-28
 category: english-blog

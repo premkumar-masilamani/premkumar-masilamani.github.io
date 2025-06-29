@@ -1,5 +1,5 @@
 ---
-layout: english/post
+layout: english/blog/post
 title: Great Speeches - Words That Shaped The World
 date: 2011-02-12
 category: english-blog

@@ -1,5 +1,5 @@
 ---
-layout: tamil/post
+layout: tamil/blog/post
 title: ஒரு ஹைக்கூ கவிதை
 date: 2009-03-06
 category: tamil-blog

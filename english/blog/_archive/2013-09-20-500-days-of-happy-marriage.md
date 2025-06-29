@@ -1,5 +1,5 @@
 ---
-layout: english/post
+layout: english/blog/post
 title: 500 Days of Happy Marriage
 date: 2013-09-20
 category: english-blog

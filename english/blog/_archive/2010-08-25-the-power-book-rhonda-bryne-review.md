@@ -1,5 +1,5 @@
 ---
-layout: english/post
+layout: english/blog/post
 title: The Power
 date: 2010-08-25
 category: english-blog

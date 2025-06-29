@@ -1,5 +1,5 @@
 ---
-layout: english/post
+layout: english/blog/post
 title: I am dark skinned, proud & healthy. Dark is beautiful
 image-name:
 date: 2013-06-08

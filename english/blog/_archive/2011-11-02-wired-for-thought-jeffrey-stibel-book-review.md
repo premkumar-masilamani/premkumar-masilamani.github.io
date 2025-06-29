@@ -1,5 +1,5 @@
 ---
-layout: english/post
+layout: english/blog/post
 title: Wired for Thought - How the Brain Is Shaping the Future of the Internet
 date: 2011-11-02
 category: english-blog

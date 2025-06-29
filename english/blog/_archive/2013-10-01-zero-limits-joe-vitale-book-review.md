@@ -1,5 +1,5 @@
 ---
-layout: english/post
+layout: english/blog/post
 title: Zero Limits - The Secret Hawaiian System for Wealth, Health, Peace, and More
 date: 2013-10-01
 category: english-blog

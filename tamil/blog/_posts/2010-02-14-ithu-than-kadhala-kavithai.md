@@ -1,5 +1,5 @@
 ---
-layout: tamil/post
+layout: tamil/blog/post
 title: இது தான் காதலா?
 date: 2010-02-14
 category: tamil-blog

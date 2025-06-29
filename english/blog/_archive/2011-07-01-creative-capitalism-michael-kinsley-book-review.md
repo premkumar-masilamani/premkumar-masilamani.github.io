@@ -1,5 +1,5 @@
 ---
-layout: english/post
+layout: english/blog/post
 title: Creative Capitalism - A Conversation with Bill Gates, Warren Buffet, and Other Economic Leaders
 date: 2011-07-01
 category: english-blog

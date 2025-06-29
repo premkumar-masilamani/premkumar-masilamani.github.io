@@ -1,5 +1,5 @@
 ---
-layout: english/post
+layout: english/blog/post
 title: What If, there is God?
 date: 2014-06-29
 category: english-blog

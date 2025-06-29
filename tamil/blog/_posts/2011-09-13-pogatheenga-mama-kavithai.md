@@ -1,5 +1,5 @@
 ---
-layout: tamil/post
+layout: tamil/blog/post
 title: போகாதீங்க மாமா
 date: 2011-09-13
 category: tamil-blog

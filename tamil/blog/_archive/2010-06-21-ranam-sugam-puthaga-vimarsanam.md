@@ -1,5 +1,5 @@
 ---
-layout: tamil/post
+layout: tamil/blog/post
 title: ரணம் சுகம் - புத்தகவிமர்சனம்.
 date: 2010-06-21
 category: tamil-blog

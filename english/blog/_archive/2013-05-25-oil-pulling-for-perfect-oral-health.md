@@ -1,5 +1,5 @@
 ---
-layout: english/post
+layout: english/blog/post
 title: Oil Pulling for Perfect Oral Health
 date: 2013-05-25
 category: english-blog

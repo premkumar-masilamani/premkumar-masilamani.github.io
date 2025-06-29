@@ -34,9 +34,9 @@ def find_directory():
 
     # Try common locations
     paths = [
-        Path("../english"),  # From current directory
-        script_dir / "../english",  # Relative to script
-        script_dir.parent / "english",  # Sibling to scripts dir
+        Path("../english/blog"),  # From current directory
+        script_dir / "../english/blog",  # Relative to script
+        script_dir.parent / "english/blog",  # Sibling to scripts dir
     ]
 
     for path in paths:

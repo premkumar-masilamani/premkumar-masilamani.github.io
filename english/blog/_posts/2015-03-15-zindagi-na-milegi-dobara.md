@@ -1,5 +1,5 @@
 ---
-layout: english/post
+layout: english/blog/post
 title: Zindagi Na Milegi Dobara - You Don't Get Life a Second Time
 date: 2015-03-15
 category: english-blog

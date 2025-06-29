@@ -1,5 +1,5 @@
 ---
-layout: english/post
+layout: english/blog/post
 title: You have changed after marriage
 date: 2013-05-11
 category: english-blog

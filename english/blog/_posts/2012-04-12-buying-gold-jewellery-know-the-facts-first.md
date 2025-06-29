@@ -1,5 +1,5 @@
 ---
-layout: english/post
+layout: english/blog/post
 title: Buying Gold Jewellery? - Know the facts first
 date: 2012-04-12
 category: english-blog

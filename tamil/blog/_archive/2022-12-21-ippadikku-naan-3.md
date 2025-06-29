@@ -1,5 +1,5 @@
 ---
-layout: tamil/post
+layout: tamil/blog/post
 title: இப்படிக்கு நான் - 3
 date: 2022-12-21
 category: tamil-blog

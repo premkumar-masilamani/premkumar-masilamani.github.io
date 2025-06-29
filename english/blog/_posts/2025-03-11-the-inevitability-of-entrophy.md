@@ -1,5 +1,5 @@
 ---
-layout: english/post
+layout: english/blog/post
 title: The Inevitability of Entropy
 cover-image: entropy.jpg
 cover-image-credit: Generated using Meta AI in Whatsapp

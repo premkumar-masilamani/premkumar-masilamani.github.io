@@ -1,5 +1,5 @@
 ---
-layout: tamil/post
+layout: tamil/blog/post
 title: சிறகுகள் முளைக்கட்டும்
 date: 2020-06-11
 category: tamil-blog

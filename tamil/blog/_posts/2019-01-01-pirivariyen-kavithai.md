@@ -1,5 +1,5 @@
 ---
-layout: tamil/post
+layout: tamil/blog/post
 title: பிரிவறியேன்
 date: 2019-01-01
 category: tamil-blog

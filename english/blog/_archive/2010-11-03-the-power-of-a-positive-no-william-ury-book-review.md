@@ -1,5 +1,5 @@
 ---
-layout: english/post
+layout: english/blog/post
 title: The Power of a Positive No - How to Say No & Still Get to Yes
 date: 2010-11-03
 category: english-blog

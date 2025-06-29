@@ -1,5 +1,5 @@
 ---
-layout: english/page
+layout: english/blog/page
 title: Barefoot Running
 date: 2015-03-01
 category: english-blog

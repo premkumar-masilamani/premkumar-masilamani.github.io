@@ -1,5 +1,5 @@
 ---
-layout: tamil/post
+layout: tamil/blog/post
 title: அகநானூறு - கடவுள் வாழ்த்து - கார்விரி கொன்றைப் பொன்னேர் புதுமலர்
 date: 2018-09-21
 category: tamil-blog

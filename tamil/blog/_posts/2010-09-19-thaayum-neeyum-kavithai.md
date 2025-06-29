@@ -1,5 +1,5 @@
 ---
-layout: tamil/post
+layout: tamil/blog/post
 title: தாயும் நீயும்
 date: 2010-09-19
 category: tamil-blog

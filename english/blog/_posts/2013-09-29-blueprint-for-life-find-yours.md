@@ -1,5 +1,5 @@
 ---
-layout: english/post
+layout: english/blog/post
 title: Blueprint for Life - Find Yours
 date: 2013-09-29
 category: english-blog

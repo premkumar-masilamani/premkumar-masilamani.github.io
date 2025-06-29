@@ -1,5 +1,5 @@
 ---
-layout: tamil/post
+layout: tamil/blog/post
 title: யாரோ ஒருத்தியின் டைரிக்குறிப்புகள் - புத்தகவிமர்சனம்.
 date: 2011-09-06
 category: tamil-blog

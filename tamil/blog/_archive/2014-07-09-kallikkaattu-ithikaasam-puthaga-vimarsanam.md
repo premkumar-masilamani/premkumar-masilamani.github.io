@@ -1,5 +1,5 @@
 ---
-layout: tamil/post
+layout: tamil/blog/post
 title: கள்ளிக்காட்டு இதிகாசம் - புத்தகவிமர்சனம்.
 date: 2014-07-09
 category: tamil-blog

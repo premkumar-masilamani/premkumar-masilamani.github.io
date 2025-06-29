@@ -1,5 +1,5 @@
 ---
-layout: english/post
+layout: english/blog/post
 title: Money Mastery - Principle Based Money Management
 date: 2013-07-22
 category: english-blog

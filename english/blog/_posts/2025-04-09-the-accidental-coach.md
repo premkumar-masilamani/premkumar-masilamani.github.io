@@ -1,5 +1,5 @@
 ---
-layout: english/post
+layout: english/blog/post
 title: The Accidental Coach
 cover-image: accidental-coach.png
 cover-image-credit: Screenshot from an archived post
