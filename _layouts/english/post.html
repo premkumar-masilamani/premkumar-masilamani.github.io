@@ -6,16 +6,16 @@ layout: english/default
   <h1>{{ page.title }}</h1>
   <span class="page-date">{{ page.date | date_to_string }}</span>
   <br/><br/>
-  <a href="{{ site.url }}">home</a>&nbsp;&gt;&nbsp;<a href="{{ site.english.url }}">blogs</a>
+  <a href="{{ site.home }}">home</a>&nbsp;&gt;&nbsp;<a href="{{ site.english.blog.url }}">blogs</a>
   {% if page.cover-image %}
     <br/><br/>
     <div>
-        <img src="{{site.english.img-path}}/{{ page.cover-image }}" alt="{{ page.title }}" {% if page.cover-image-orientation == 'portrait' %}class="portrait-style"{% endif %}/>
+        <img src="{{site.english.blog.downloads}}/{{ page.cover-image }}" alt="{{ page.title }}" {% if page.cover-image-orientation == 'portrait' %}class="portrait-style"{% endif %}/>
         <div class="cover-image-credit"><small>{{ page.cover-image-credit }}</small></div>
     </div>
   {% endif %}
   {{ content }}
-  <a href="{{ site.url }}">home</a>&nbsp;&gt;&nbsp;<a href="{{ site.english.url }}">blogs</a>
+  <a href="{{ site.home }}">home</a>&nbsp;&gt;&nbsp;<a href="{{ site.english.blog.url }}">blogs</a>
 </div>
 <hr/>
 <div>

@@ -23,7 +23,7 @@ permalink: /tamil/feed.xml
 		{% for post in site.categories.tamil limit:10 %}
 			<item>
 				<title>{{ post.title | xml_escape }}</title>
-				<link>{{ site.url }}{{ post.url }}</link>
+				<link>{{ site.home }}{{ post.url }}</link>
 				<description>{{ post.content | xml_escape }}</description>
 			{% if post.author-name != null %}
 				<author>{{ post.author-email }} ({{ post.author-name }})</author>
@@ -32,7 +32,7 @@ permalink: /tamil/feed.xml
 			{% endif %}
 				<category>{{ post.category }}</category>
 				<pubDate>{{ post.date | date_to_rfc822  }}</pubDate>
-				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+				<guid isPermaLink="true">{{ site.home }}{{ post.url }}</guid>
 			</item>
 		{% endfor %}
 	</channel>

@@ -6,7 +6,7 @@ layout: tamil/default
   <h1>{{ page.title }}</h1>
   <span class="page-date">{{ page.date | date_to_string }}</span>
   <br/><br/>
-  <a href="{{ site.url }}">முகப்பு</a>&nbsp;&gt;&nbsp;<a href="{{ site.tamil.url }}">வலைப்பதிவுகள்</a>
+  <a href="{{ site.home }}">முகப்பு</a>&nbsp;&gt;&nbsp;<a href="{{ site.tamil.url }}">வலைப்பதிவுகள்</a>
   {% if page.cover-image %}
     <br/><br/>
     <div>
@@ -15,7 +15,7 @@ layout: tamil/default
     </div>
   {% endif %}
   {{ content }}
-  <a href="{{ site.url }}">முகப்பு</a>&nbsp;&gt;&nbsp;<a href="{{ site.tamil.url }}">வலைப்பதிவுகள்</a>
+  <a href="{{ site.home }}">முகப்பு</a>&nbsp;&gt;&nbsp;<a href="{{ site.tamil.url }}">வலைப்பதிவுகள்</a>
 </div>
 <hr/>
 <div>

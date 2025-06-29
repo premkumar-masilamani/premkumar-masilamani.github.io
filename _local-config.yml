@@ -1,32 +1,37 @@
 title: Premkumar Masilamani
 tagline: On a journey called Life
-url: http://localhost:4000
+home: http://localhost:4000
 copyright: copyleft @ 2009.
 
+linkedin: https://www.linkedin.com/in/premkumar-masilamani/
+github: https://github.com/premkumar-masilamani
+coach: http://localhost:4000/coach.html
+email: premkumar.masilamani.2020@gmail.com
+
 english:
-  title: Premkumar Masilamani
-  tagline: On a journey called Life
-  author: Premkumar Masilamani
-  url: http://localhost:4000/english
-  img-path: http://localhost:4000/downloads/images
-  download-path: http://localhost:4000/downloads/files
-  newsletter: https://eepurl.com/dE1QD1
-  email: premkumar.masilamani.2020@gmail.com
+  blog:
+    title: Premkumar Masilamani
+    tagline: On a journey called Life
+    author: Premkumar Masilamani
+    url: http://localhost:4000/english/blog
+    downloads: http://localhost:4000/downloads/english/blog
+    newsletter: https://eepurl.com/dE1QD1
+  podcast:
+    title: Podcast Title
+    tagline: Podcast Title
+    author: Premkumar Masilamani
+    url: http://localhost:4000/english/podcast
+    downloads: http://localhost:4000/downloads/english/podcast
+    newsletter: https://eepurl.com/dE1QD1
 
 tamil:
   title: பிரேம்குமார் மாசிலாமணி
   tagline: என் வாழ்வென்னும் பயணத்தில்...
   author: பிரேம்குமார் மாசிலாமணி
   url: http://localhost:4000/tamil
-  img-path: http://localhost:4000/downloads/images
-  download-path: http://localhost:4000/downloads/files
+  img-path: http://localhost:4000/downloads/tamil/blog
   newsletter: https://eepurl.com/dE1xBb
   email: premkumar.masilamani.2020@gmail.com
-
-urls:
-  linkedin: https://www.linkedin.com/in/premkumar-masilamani/
-  github: https://github.com/premkumar-masilamani
-  coach: http://localhost:4000/coach.html
 
 include:
   - "_pages"
