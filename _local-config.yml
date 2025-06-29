@@ -18,20 +18,27 @@ english:
     newsletter: https://eepurl.com/dE1QD1
   podcast:
     title: Podcast Title
-    tagline: Podcast Title
+    tagline: Podcast Tagline
     author: Premkumar Masilamani
     url: http://localhost:4000/english/podcast
     downloads: http://localhost:4000/downloads/english/podcast
     newsletter: https://eepurl.com/dE1QD1
 
 tamil:
-  title: பிரேம்குமார் மாசிலாமணி
-  tagline: என் வாழ்வென்னும் பயணத்தில்...
-  author: பிரேம்குமார் மாசிலாமணி
-  url: http://localhost:4000/tamil
-  img-path: http://localhost:4000/downloads/tamil/blog
-  newsletter: https://eepurl.com/dE1xBb
-  email: premkumar.masilamani.2020@gmail.com
+  blog:
+    title: பிரேம்குமார் மாசிலாமணி
+    tagline: என் வாழ்வென்னும் பயணத்தில்...
+    author: பிரேம்குமார் மாசிலாமணி
+    url: http://localhost:4000/tamil/blog
+    downloads: http://localhost:4000/downloads/tamil/blog
+    newsletter: https://eepurl.com/dE1xBb
+  podcast:
+    title: Podcast Title
+    tagline: Podcast Tagline
+    author: பிரேம்குமார் மாசிலாமணி
+    url: http://localhost:4000/tamil/podcast
+    downloads: http://localhost:4000/downloads/tamil/podcast
+    newsletter: https://eepurl.com/dE1xBb
 
 include:
   - "_pages"

@@ -98,7 +98,7 @@ Losing contacts does not mean losing friends. I am merely severing one of the co
 No. I love writing. I will continue to blog at the below websites. You can subscribe to these blogs if you find them useful.
 
 1. [{{ site.english.blog.title }}]({{ site.english.blog.url }})
-2. [&#2965;&#2985;&#2997;&#3009;]({{ site.tamil.url }})
+2. [&#2965;&#2985;&#2997;&#3009;]({{ site.tamil.blog.url }})
 3. ~~Raw Vegan Recipes~~ - I deleted the website. I am no longer a raw vegan. I would suggest doing the opposite. Follow a Paleo lifestyle.
 
 I will also retain my [LinkedIn]({{site.social.links[0]}}) account for my professional growth.

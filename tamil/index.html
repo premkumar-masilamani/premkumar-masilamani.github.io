@@ -1,37 +1,12 @@
 ---
 layout: tamil/page
-date: 2015-03-01
+date: 2025-06-29
 ---
-<h1>பிரேம்குமார் மாசிலாமணியின் வலைப்பதிவு</h1>
+<h1>Premkumar Masilamani</h1>
 
-{% assign posts_by_year = site.categories.tamil | group_by_exp: "post", "post.date | date: '%Y'" %}
+<h2>Thoughts that wander.<br>Words that matter.<br>Voices that linger.</h2>
 
-{% for year in posts_by_year %}
-  <h3>{{ year.name }} ({{ year.items | size }})</h3>
-  <ul>
-    {% for post in year.items %}
-      <li>
-        <p>
-          <span class="page-date">{{ post.date | date: '%d-%b-%Y' }}</span>&nbsp;&nbsp;
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </p>
-      </li>
-    {% endfor %}
-  </ul>
-{% endfor %}
-
-<h2>பக்கங்கள்</h2>
-
-{% assign exclude_pages = "404.md,feed.md,sitemap.xml,index.html" | split: "," %}
 <ul>
-  {% for page in site.pages %}
-    {% assign filename = page.path | split: "/" | last %}
-    {% unless exclude_pages contains filename %}
-      {% if page.url contains "/tamil/" %}
-        <li>
-          <a href="{{ page.url }}">{{ page.title | default: filename }}</a>
-        </li>
-      {% endif %}
-    {% endunless %}
-  {% endfor %}
+    <li><a href="/tamil/blog/">Blog</a> - where thinking begins</li>
+    <li><a href="/tamil/podcast/">Podcast</a> - where meaning deepens</li>
 </ul>
