@@ -49,5 +49,3 @@ plugins:
   - jekyll-sitemap
 
 paginate: 1000
-
-permalink: /:categories/:title/

@@ -3,6 +3,7 @@ layout: tamil/blog/post
 title: அகநானூறு - களிற்றியானை நிரை - வண்டுபடத் ததைந்த கண்ணி ஒண்கழல்
 date: 2018-09-28
 category: tamil-blog
+permalink: /tamil/blog/:title/
 ---
 
 **காலம்:** சங்க காலம் (கி.மு 300 - கி.பி 300) <br/>

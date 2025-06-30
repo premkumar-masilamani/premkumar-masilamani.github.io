@@ -3,6 +3,7 @@ layout: english/blog/post
 title: Building The Perfect Physique
 date: 2012-08-25
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 ![Before and After Marriage]({{site.english.blog.downloads}}/before-after-marriage.jpg)

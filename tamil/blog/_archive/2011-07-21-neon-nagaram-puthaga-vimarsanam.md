@@ -3,6 +3,7 @@ layout: tamil/blog/post
 title: நியான் நகரம் - புத்தகவிமர்சனம்.
 date: 2011-07-21
 category: tamil-blog
+permalink: /tamil/blog/:title/
 ---
 
 "வீழ்வது இழிவாகா !... வீழ்ந்து கிடப்பதே இழிவு !..."

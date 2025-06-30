@@ -3,6 +3,7 @@ layout: tamil/blog/post
 title: பிரிவுணர்த்திய தேவதைக்கு
 date: 2011-07-28
 category: tamil-blog
+permalink: /tamil/blog/:title/
 ---
 
 உலகத்தின் மறுபக்கம் நீ இருந்தாலும் <br/>

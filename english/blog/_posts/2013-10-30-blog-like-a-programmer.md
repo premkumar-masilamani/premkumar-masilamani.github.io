@@ -3,6 +3,7 @@ layout: english/blog/post
 title: Blog Like a Programmer
 date: 2013-10-30
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 [If you are not a programmer, this article may not interest you. Please skip and do something useful]

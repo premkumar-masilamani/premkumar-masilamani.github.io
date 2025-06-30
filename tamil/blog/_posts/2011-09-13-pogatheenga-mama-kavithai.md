@@ -3,6 +3,7 @@ layout: tamil/blog/post
 title: போகாதீங்க மாமா
 date: 2011-09-13
 category: tamil-blog
+permalink: /tamil/blog/:title/
 ---
 
 பஞ்சு மெத்தை தலைகாணி <br/>

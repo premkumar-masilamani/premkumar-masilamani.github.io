@@ -3,8 +3,7 @@ layout: english/blog/post
 title: The Power of a Positive No - How to Say No & Still Get to Yes
 date: 2010-11-03
 category: english-blog
-redirect_from:
-    - /the-power-of-a-positive-no-how-to-say-no-still-get-to-yes-william-ury-book-review
+permalink: /english/blog/:title/
 ---
 
 **Book:** The Power Of A Positive No

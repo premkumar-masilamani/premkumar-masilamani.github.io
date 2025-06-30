@@ -3,6 +3,7 @@ layout: english/blog/post
 title: 500 Days of Happy Marriage
 date: 2013-09-20
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 ![500th Day Greeting Card]({{site.english.blog.downloads}}/500-day-greeting-card.jpg)

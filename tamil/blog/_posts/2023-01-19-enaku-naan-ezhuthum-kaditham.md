@@ -3,6 +3,7 @@ layout: tamil/blog/post
 title: எனக்கு நானெழுதும் கடிதம்
 date: 2023-01-19
 category: tamil-blog
+permalink: /tamil/blog/:title/
 ---
 
 உன்னுடன் பேசு <br/>

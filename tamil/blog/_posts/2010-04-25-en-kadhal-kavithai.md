@@ -3,6 +3,7 @@ layout: tamil/blog/post
 title: என் காதல்
 date: 2010-04-25
 category: tamil-blog
+permalink: /tamil/blog/:title/
 ---
 
 இறந்தே பிறந்த <br/>

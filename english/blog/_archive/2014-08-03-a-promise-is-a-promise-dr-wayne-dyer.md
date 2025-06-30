@@ -3,6 +3,7 @@ layout: english/blog/post
 title: A Promise Is A Promise
 date: 2014-08-03
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 **Book:** A Promise Is A Promise

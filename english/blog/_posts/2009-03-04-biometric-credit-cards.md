@@ -3,6 +3,7 @@ layout: english/blog/post
 title: Biometric Credit cards
 date: 2009-03-04
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 I hate carrying multiple credit cards in my wallet. We must get rid of these plastic cards and move on to the future. The magnetic strips in the credit cards identify you and inform the merchant if you have enough credit to buy any product. The merchant gets the information from the credit card issuer via a phone line.

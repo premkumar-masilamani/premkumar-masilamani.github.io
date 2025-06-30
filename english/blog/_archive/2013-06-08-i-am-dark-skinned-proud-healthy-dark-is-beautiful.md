@@ -1,9 +1,9 @@
 ---
 layout: english/blog/post
 title: I am dark skinned, proud & healthy. Dark is beautiful
-image-name:
 date: 2013-06-08
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 I have been watching the Indian Media (TV, Newspapers, Magazines etc) recent days and I am absolutely irritated to the core about thousands of "fairness cream" advertisements played the media every minute of the day. What's wrong with being dark?. Why do you (fairness cream companies) want to change my skin color?. Why even the well-educated Indians wants to have a fairer skin?. Initially, it was targeted only at women. Now, men too. C'mon guys. Build your body and stamina. *Your skin color does not matter, at your most important moment of manliness*. Trust me!.

@@ -3,6 +3,7 @@ layout: english/blog/post
 title: Understanding the Spectrum of Respect
 date: 2024-02-27
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 Here is a recent conversation with my co-brother (paraphrased)
@@ -46,7 +47,7 @@ The point of this discussion is,
 
 > You don't have to RESPECT all of someone and you don't have to DISRESPECT all of someone.
 
-The first part is probably easy, but the second part - most people cannot even comprehend. Almost 10 years ago, I wrote a [blog post]({{site.home}}/english/blog/what-inspires-you) with a list of people who inspired me. Adolf Hitler and Jesus Christ were on that list. I am an atheist, and I respect Jesus Christ for some of his qualities - no problem. I am leaning toward an egalitarian society, and I respect Hitler for some of his qualities - a big No. Quite a few intense conversations from friends, back in the day.
+The first part is probably easy, but the second part - most people cannot even comprehend. Almost 10 years ago, I wrote a [blog post]({{site.home}}/english/blog/what-inspires-you/) with a list of people who inspired me. Adolf Hitler and Jesus Christ were on that list. I am an atheist, and I respect Jesus Christ for some of his qualities - no problem. I am leaning toward an egalitarian society, and I respect Hitler for some of his qualities - a big No. Quite a few intense conversations from friends, back in the day.
 
 Here is President Trump's interview on CNN
 

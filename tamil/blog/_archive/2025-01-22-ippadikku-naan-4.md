@@ -3,6 +3,7 @@ layout: tamil/blog/post
 title: இப்படிக்கு நான் - 4
 date: 2025-01-22
 category: tamil-blog
+permalink: /tamil/blog/:title/
 ---
 
 என்னடா ஆச்சு உனக்கு?. முழு பைத்தியக்காரனாக ஆகவில்லையே இன்னும்?

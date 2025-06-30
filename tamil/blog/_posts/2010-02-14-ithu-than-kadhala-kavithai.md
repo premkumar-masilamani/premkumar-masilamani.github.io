@@ -3,6 +3,7 @@ layout: tamil/blog/post
 title: இது தான் காதலா?
 date: 2010-02-14
 category: tamil-blog
+permalink: /tamil/blog/:title/
 ---
 
 புகைத்ததுண்டு, புகைப்படத்துடன் பேசியதில்லை! <br/>

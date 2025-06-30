@@ -3,6 +3,7 @@ layout: english/blog/post
 title: Vibe Coding
 date: 2025-04-24
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 **2009** - I was using _FrontServlet in Java 2.0_ while building the backend API for the Amex iPhone app. I had to do everything in the code, including the routing logic, business logic, dispatching to JSP, etc.

@@ -3,8 +3,7 @@ layout: english/blog/post
 title: The Automatic Millionaire - A Powerful One-Step Plan To Live And Finish Rich
 date: 2011-11-06
 category: english-blog
-redirect_from:
-    - /the-automatic-millionaire-a-powerful-one-step-plan-to-live-and-finish-rich-david-bach-book-review
+permalink: /english/blog/:title/
 ---
 
 **Book:** The Automatic Millionaire: A Powerful One-Step Plan To Live And Finish Rich

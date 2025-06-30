@@ -3,6 +3,7 @@ layout: tamil/blog/post
 title: கிடைக்காத தருணங்கள்
 date: 2024-07-20
 category: tamil-blog
+permalink: /tamil/blog/:title/
 ---
 
 ஒரு பார்வை <br/>

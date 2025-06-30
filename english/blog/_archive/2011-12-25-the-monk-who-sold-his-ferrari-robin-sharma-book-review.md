@@ -3,6 +3,7 @@ layout: english/blog/post
 title: The Monk Who Sold His Ferrari
 date: 2011-12-25
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 **Book:** The Monk Who Sold His Ferrari

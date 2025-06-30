@@ -3,6 +3,7 @@ layout: english/blog/post
 title: Falling in Love with RSS again
 date: 2015-02-17
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 It was my newspaper online.

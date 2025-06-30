@@ -3,6 +3,7 @@ layout: tamil/blog/post
 title: கிடைக்குமோ?
 date: 2025-04-19
 category: tamil-blog
+permalink: /tamil/blog/:title/
 ---
 
 தாய்மடி தேடி அழுகின்ற <br/>

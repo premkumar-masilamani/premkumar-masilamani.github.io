@@ -3,6 +3,7 @@ layout: english/blog/post
 title: Blueprint for Life - Find Yours
 date: 2013-09-29
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 ## What is a Blueprint for Life?

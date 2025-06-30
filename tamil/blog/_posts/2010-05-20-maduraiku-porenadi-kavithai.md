@@ -3,6 +3,7 @@ layout: tamil/blog/post
 title: மதுரைக்கு போறேனடி
 date: 2010-05-20
 category: tamil-blog
+permalink: /tamil/blog/:title/
 ---
 
 மதுரைக்கு போறேனடி - என் <br/>

@@ -5,6 +5,7 @@ cover-image: time-dilation.jpg
 cover-image-credit: Generated using Meta AI in Whatsapp
 date: 2025-03-10
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 ## What is time?

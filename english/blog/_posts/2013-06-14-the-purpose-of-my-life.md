@@ -3,6 +3,7 @@ layout: english/blog/post
 title: The Purpose of My Life
 date: 2013-06-14
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 **Theist:** God's purpose is your purpose.

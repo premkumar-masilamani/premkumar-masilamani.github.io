@@ -3,6 +3,7 @@ layout: english/blog/post
 title: How I Braved Anu Aunty & Co-founded A Million Dollar Company
 date: 2014-08-08
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 **Book:** How I Braved Anu Aunty & Co-founded A Million Dollar Company

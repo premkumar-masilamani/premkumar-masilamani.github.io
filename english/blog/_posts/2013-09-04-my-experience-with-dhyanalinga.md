@@ -3,6 +3,7 @@ layout: english/blog/post
 title: My Experience with Dhyanalinga
 date: 2013-09-04
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 ## What is Dhyanalinga?

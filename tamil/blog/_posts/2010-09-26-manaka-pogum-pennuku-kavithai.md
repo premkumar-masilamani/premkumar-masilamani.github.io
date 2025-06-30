@@ -3,6 +3,7 @@ layout: tamil/blog/post
 title: மணக்க போகும் பெண்ணுக்கு
 date: 2010-09-26
 category: tamil-blog
+permalink: /tamil/blog/:title/
 ---
 
 பௌர்ணமி நிலவில் <br/>

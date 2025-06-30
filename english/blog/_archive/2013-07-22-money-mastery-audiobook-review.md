@@ -3,9 +3,9 @@ layout: english/blog/post
 title: Money Mastery - Principle Based Money Management
 date: 2013-07-22
 category: english-blog
-redirect_from:
-    - /money-mastery-principle-based-money-management-audiobook-review
+permalink: /english/blog/:title/
 ---
+
 **Book:** Money Mastery - Principle-Based Money Management (Audio CD)
 **Authors:** Peter R. Jeppson, Alan M. Williams
 

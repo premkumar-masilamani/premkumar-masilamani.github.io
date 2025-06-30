@@ -5,6 +5,7 @@ cover-image: vinnai-thandi-varuvaya-tamil-movie.jpeg
 cover-image-credit: Downloaded from Spotify Website
 date: 2010-03-14
 category: tamil-blog
+permalink: /tamil/blog/:title/
 ---
 
 கள்வனை காட்டிய கைகள் <br/>

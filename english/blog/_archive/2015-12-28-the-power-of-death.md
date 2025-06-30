@@ -3,6 +3,7 @@ layout: english/blog/post
 title: The Power Of Death
 date: 2015-12-28
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 **Book:** The Power Of Death - A Radical Path to Personal Transformation and Spiritual Enlightenment

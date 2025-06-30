@@ -3,6 +3,7 @@ layout: tamil/blog/post
 title: Draft - சீனப் பழங்கலை தாவோ.
 date: 2018-08-08
 category: tamil-blog
+permalink: /tamil/blog/:title/
 ---
 
 காமசூத்திரம் படித்த பின்னும் <br/>

@@ -3,6 +3,7 @@ layout: tamil/blog/post
 title: ஏனடி அழைத்தாய்?
 date: 2010-03-01
 category: tamil-blog
+permalink: /tamil/blog/:title/
 ---
 
 ஏனடி அழைத்தாய்? <br/>

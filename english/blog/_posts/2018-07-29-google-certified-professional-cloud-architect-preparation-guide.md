@@ -3,6 +3,7 @@ layout: english/blog/post
 title: Google Certified Professional Cloud Architect - Preparation Guide
 date: 2018-07-29
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 I passed the *Google Certified Professional - Cloud Architect* exam on July 24, 2018, at Google Next'18 in San Francisco.

@@ -1,8 +1,9 @@
 ---
 layout: tamil/blog/post
-title: அகநானூறு - களிற்றியானை நிரை - இருங்கழி முதலை மேஎந்தோ லன்ன
+title: Draft - அகநானூறு - களிற்றியானை நிரை - இருங்கழி முதலை மேஎந்தோ லன்ன
 date: 2025-04-01
 category: tamil-blog
+permalink: /tamil/blog/:title/
 ---
 
 **காலம்:** சங்க காலம் (கி.மு 300 - கி.பி 300) <br/>

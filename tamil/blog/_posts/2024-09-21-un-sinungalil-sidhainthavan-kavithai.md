@@ -3,6 +3,7 @@ layout: tamil/blog/post
 title: உன் சிணுங்களில் சிதைந்தவன்
 date: 2024-09-21
 category: tamil-blog
+permalink: /tamil/blog/:title/
 ---
 
 சந்தனத் தமிழை <br/>

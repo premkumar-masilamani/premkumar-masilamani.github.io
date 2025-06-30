@@ -3,6 +3,7 @@ layout: tamil/blog/post
 title: பார்க்க வேண்டும் ஒரு முறை
 date: 2010-02-28
 category: tamil-blog
+permalink: /tamil/blog/:title/
 ---
 
 அந்த நீல நிற மேலாடை <br/>

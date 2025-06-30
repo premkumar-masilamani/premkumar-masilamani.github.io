@@ -3,6 +3,7 @@ layout: tamil/blog/post
 title: இனிதாய் விடியும் பொழுது
 date: 2021-09-09
 category: tamil-blog
+permalink: /tamil/blog/:title/
 ---
 
 இனிதாய் விடியும் பொழுது <br/>

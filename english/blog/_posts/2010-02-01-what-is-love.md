@@ -3,6 +3,7 @@ layout: english/blog/post
 title: What is love?
 date: 2010-02-01
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 Science says *Love is a side effect of chemicals like oxytocin, vasopressin, dopamine, serotonin, etc.*. If scientists could block these hormones, our LOVE would fade away. Oops!!!. Can scientists make two people fall in love with an injection? (Cupid will become jobless). They can find the exact genes responsible for love. Produce specific chemicals targeted to attract a particular person. Who knows? It could become the fastest, easiest, and safest way to fall in love. Scary and sounds more like a next-century sci-fiction movie.

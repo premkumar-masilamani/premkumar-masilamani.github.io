@@ -3,6 +3,7 @@ layout: tamil/blog/post
 title: அவள்
 date: 2011-08-30
 category: tamil-blog
+permalink: /tamil/blog/:title/
 ---
 
 அணுவின் துகளை நெஞ்சில் வீசி <br/>

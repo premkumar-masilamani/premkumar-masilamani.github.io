@@ -3,6 +3,7 @@ layout: tamil/blog/post
 title: தாயும் நீயும்
 date: 2010-09-19
 category: tamil-blog
+permalink: /tamil/blog/:title/
 ---
 
 தனித்திருந்தும், அன்பில் திளைத்திருந்தேன் <br/>

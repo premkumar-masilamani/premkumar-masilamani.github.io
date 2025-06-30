@@ -3,6 +3,7 @@ layout: english/blog/post
 title: Birth Without Violence
 date: 2014-04-11
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 **Book:** Birth Without Violence

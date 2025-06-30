@@ -5,6 +5,7 @@ cover-image: artificial-intelligence.png
 cover-image-credit: Generated using DALL-E in ChatGPT
 date: 2025-03-12
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 ## What is Intelligence?

@@ -3,6 +3,7 @@ layout: tamil/blog/post
 title: எப்படி சொல்வேன் உனக்கு?
 date: 2010-02-17
 category: tamil-blog
+permalink: /tamil/blog/:title/
 ---
 
 ஏன்? எதற்கு? எப்படி? <br/>
