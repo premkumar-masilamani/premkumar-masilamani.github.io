@@ -6,7 +6,7 @@ category: english-blog
 permalink: /english/blog/:title/
 ---
 
-Please read the article "[Indian Toilet vs Western Toilet]({{site.home}}/english/blog/english/indian-toilet-vs-western-toilet/)" before reading this post, to understand the concept that's being discussed here. In that article, I strongly suggested installing an eastern-type (squatting type) toilet in your home, which is the best that you can do to your colon. I also understand that it is not quite easy to do, in most of the developed countries. The squatting type toilets are simply not available in the market. What will those poor souls do? Hmm... There must be alternate options right?
+Please read the article "[Indian Toilet vs Western Toilet]({{site.english.blog.url}}/indian-toilet-vs-western-toilet/)" before reading this post, to understand the concept that's being discussed here. In that article, I strongly suggested installing an eastern-type (squatting type) toilet in your home, which is the best that you can do to your colon. I also understand that it is not quite easy to do, in most of the developed countries. The squatting type toilets are simply not available in the market. What will those poor souls do? Hmm... There must be alternate options right?
 
 Yeah. There are.
 
