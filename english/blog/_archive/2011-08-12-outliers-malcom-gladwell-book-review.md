@@ -3,8 +3,7 @@ layout: english/blog/post
 title: Outliers - The Story Of Success
 date: 2011-08-12
 category: english-blog
-redirect_from:
-    - /outliers-the-story-of-success-malcom-gladwell-book-review
+permalink: /english/blog/:title/
 ---
 
 **Book:** Outliers: The Story Of Success

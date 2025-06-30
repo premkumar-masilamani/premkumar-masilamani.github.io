@@ -3,8 +3,7 @@ layout: english/blog/post
 title: The Five Love Languages - How to Express Heartfelt Commitment to Your Mate
 date: 2011-07-05
 category: english-blog
-redirect_from:
-    - /the-five-love-languages-how-to-express-heartfelt-commitment-to-your-mate-gary-chapman-book-review
+permalink: /english/blog/:title/
 ---
 
 **Book:** The Five Love Languages

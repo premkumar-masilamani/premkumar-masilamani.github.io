@@ -3,6 +3,7 @@ layout: english/blog/post
 title: The Greatness Guide
 date: 2010-12-28
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 **Book:** The Greatness Guide

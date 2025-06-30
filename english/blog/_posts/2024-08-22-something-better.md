@@ -5,6 +5,7 @@ cover-image: something-better.jpg
 cover-image-credit: Generated using Meta AI in Whatsapp
 date: 2024-08-22
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 > Every time I thought I was being rejected from something good, I was actually being redirected to something better

@@ -3,6 +3,7 @@ layout: english/blog/post
 title: Becoming a Coach
 date: 2024-08-16
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 It was a confusing period of my life. Everything was going well and nothing was going well at the same time. From other's perspectives, I had a successful career, a wealthy life, good health, a happy family, etc. There was nothing anyone could complain about in my life. But deep inside, there was a void. There was a question,

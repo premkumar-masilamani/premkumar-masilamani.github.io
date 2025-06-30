@@ -3,6 +3,7 @@ layout: english/blog/post
 title: Division by Fraction
 date: 2020-02-02
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 I stumbled upon a question recently, *When dividing a number by a fraction, why do we invert and multiply?*. We all know the answer intuitively - *It produces the same result*. Do we know why it provides the same result?

@@ -3,6 +3,7 @@ layout: english/blog/post
 title: The Obesity Code
 date: 2018-04-15
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 **Book:** The Obesity Code

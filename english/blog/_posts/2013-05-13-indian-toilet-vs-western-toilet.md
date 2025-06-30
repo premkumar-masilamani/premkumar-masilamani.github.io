@@ -3,6 +3,7 @@ layout: english/blog/post
 title: Indian Toilet vs Western Toilet
 date: 2013-05-13
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 I came back from the UK recently and have to stay in my friend's home which has only an Indian Toilet (Squatting Type). When I was using Indian Toilet - Whoosh... the whole business took less than 2 minutes and it was effortless. I normally take 5 - 10 minutes while using a Western Toilet. Once I moved to my apartment which has a Western Toilet (Sitting Type), going to the bathroom was not a breeze anymore. That triggered this research about the natural human defecation postures.

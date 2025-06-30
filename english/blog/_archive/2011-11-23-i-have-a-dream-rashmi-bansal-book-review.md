@@ -3,6 +3,7 @@ layout: english/blog/post
 title: I Have A Dream
 date: 2011-11-23
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 **Book:** I Have A Dream

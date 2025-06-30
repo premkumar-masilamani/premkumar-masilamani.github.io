@@ -50,7 +50,5 @@ plugins:
 
 paginate: 1000
 
-permalink: /:categories/:title/
-
 # Enable this setting when running the docker from India.
 timezone: Asia/Kolkata

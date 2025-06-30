@@ -3,6 +3,7 @@ layout: english/blog/post
 title: The EFT Manual
 date: 2011-09-10
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 **Book:** The EFT Manual

@@ -3,6 +3,7 @@ layout: english/blog/post
 title: Connect the Dots
 date: 2010-07-30
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 **Book:** Connect The Dots

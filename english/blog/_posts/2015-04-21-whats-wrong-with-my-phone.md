@@ -3,6 +3,7 @@ layout: english/blog/post
 title:  What's Wrong With My Phone?
 date: 2015-04-21
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 I have a strange habit. I always kept the mobile phone away from my body as much as I could. While in the office, I generally keep my mobile phone on the desk. In recent years, this simple act has brought a lot of attention from my colleagues. Not for the act, but for the phone.

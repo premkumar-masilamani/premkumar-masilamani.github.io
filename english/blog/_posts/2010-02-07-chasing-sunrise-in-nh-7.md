@@ -3,6 +3,7 @@ layout: english/blog/post
 title: Chasing Sunrise in NH-7
 date: 2010-02-07
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 Beep beep... beep beep... 4.30 AM. Feb 5, 2010. The alarm on the mobile phone Nokia 5310 is screaming. Everyone in apartment 505 is still sleeping undisturbed, as usual. He snoozes the alarm without even opening his eyes. He came back from the office at 1.30 AM last night (morning?). For the past three weeks, he has been working like hell and still enjoys the work !!!

@@ -3,6 +3,7 @@ layout: english/blog/post
 title: The Purpose Driven® Life - What on Earth Am I Here For?
 date: 2010-10-18
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 **Book:** The Purpose Driven® Life: What on Earth Am I Here For?

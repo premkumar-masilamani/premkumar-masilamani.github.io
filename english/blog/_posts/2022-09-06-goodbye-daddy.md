@@ -3,6 +3,7 @@ layout: english/blog/post
 title: Goodbye, Daddy!
 date: 2022-09-06
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 March 5th, 2022. ~ 6.30 AM PST.

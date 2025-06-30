@@ -3,6 +3,7 @@ layout: english/blog/post
 title: Meat-Eating Animal Lovers
 date: 2014-09-02
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 First, let me be clear.

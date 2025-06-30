@@ -3,6 +3,7 @@ layout: english/blog/post
 title: Goodbye, Social Media - I am going to live a Real Life
 date: 2014-06-14
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Z7dLU6fk9QY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

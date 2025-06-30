@@ -3,8 +3,7 @@ layout: english/blog/post
 title: On Desire - Why We Want What We Want
 date: 2012-07-30
 category: english-blog
-redirect_from:
-    - /on-desire-why-we-want-what-we-want-william-irvine-book-review
+permalink: /english/blog/:title/
 ---
 
 **Book:** On Desire: Why We Want What We Want

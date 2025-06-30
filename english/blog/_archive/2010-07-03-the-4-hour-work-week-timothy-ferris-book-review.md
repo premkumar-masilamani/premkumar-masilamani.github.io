@@ -3,6 +3,7 @@ layout: english/blog/post
 title: The 4-Hour Work Week
 date: 2010-07-03
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 **Book:** The 4-Hour Workweek

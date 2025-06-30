@@ -3,8 +3,7 @@ layout: english/blog/post
 title: Wired for Thought - How the Brain Is Shaping the Future of the Internet
 date: 2011-11-02
 category: english-blog
-redirect_from:
-    - /wired-for-thought-how-the-brain-is-shaping-the-future-of-the-internet-jeffrey-stibel-book-review
+permalink: /english/blog/:title/
 ---
 
 **Book:** Wired For Thought: How The Brain Is Shaping The Future Of The Internet

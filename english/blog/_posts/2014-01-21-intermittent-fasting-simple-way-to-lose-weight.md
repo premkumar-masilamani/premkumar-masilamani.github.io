@@ -3,6 +3,7 @@ layout: english/blog/post
 title: Intermittent Fasting - Simple way to lose weight
 date: 2014-01-21
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 Last night, when we were about to retire to bed, my wife said, "Mama, Shall we eat raw vegan twice a week?".

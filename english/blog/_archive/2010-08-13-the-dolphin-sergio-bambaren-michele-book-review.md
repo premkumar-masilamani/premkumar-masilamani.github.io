@@ -3,8 +3,7 @@ layout: english/blog/post
 title: The Dolphin - Story of a Dreamer
 date: 2010-08-13
 category: english-blog
-redirect_from:
-    - /the-dolphin-story-of-a-dreamer-sergio-bambaren-michele-book-review
+permalink: /english/blog/:title/
 ---
 
 **Book:** The Dolphin - Story Of A Dreamer

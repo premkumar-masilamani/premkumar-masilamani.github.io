@@ -3,8 +3,7 @@ layout: english/blog/post
 title: Great Speeches - Words That Shaped The World
 date: 2011-02-12
 category: english-blog
-redirect_from:
-    - /great-speeches-words-that-shaped-the-world-edward-humphrey-book-review
+permalink: /english/blog/:title/
 ---
 
 **Book:** Great Speeches

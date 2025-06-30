@@ -3,6 +3,7 @@ layout: english/blog/post
 title: Wake Up at 5 AM Daily - 48 Day Challenge Results
 date: 2013-11-17
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 "Thank you" Robin Sharma for making me understand the importance of waking up early and Steve Pavlina for giving me the practical tip to wake up early. I started this challenge on 20-Aug-2013 and missed waking up early on 29-Sep-2013. I am human right?. I restarted the challenge and finished it successfully on 10-Nov-2013. The past few weeks were the most productive weeks of my life. I was able to achieve more than I thought was possible. Though I did not become a celebrity in the last few weeks (obviously that was not my goal), I am better/more mature than I was before.

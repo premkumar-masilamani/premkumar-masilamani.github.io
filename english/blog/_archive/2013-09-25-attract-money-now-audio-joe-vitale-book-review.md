@@ -3,6 +3,7 @@ layout: english/blog/post
 title: Attract Money Now
 date: 2013-09-25
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 **Book:** Attract Money Now (Audio CD)

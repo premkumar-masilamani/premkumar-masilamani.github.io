@@ -3,8 +3,7 @@ layout: english/blog/post
 title: God Instinct - The Psychology of Souls, Destiny and the Meaning of Life
 date: 2013-03-13
 category: english-blog
-redirect_from:
-    - /god-instinct-the-psychology-of-souls-destiny-and-the-meaning-of-life-jesse-bering-book-review
+permalink: /english/blog/:title/
 ---
 
 **Book:** God Instinct - The Psychology of Souls, Destiny and the Meaning of Life

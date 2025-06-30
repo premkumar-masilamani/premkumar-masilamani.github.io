@@ -3,6 +3,7 @@ layout: english/blog/post
 title: The Power
 date: 2010-08-25
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 **Book:** The Power

@@ -5,6 +5,7 @@ cover-image: dimensions-time-travel.jpeg
 cover-image-credit: Generated using DALL-E in ChatGPT
 date: 2025-04-27
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 ## Dimensions

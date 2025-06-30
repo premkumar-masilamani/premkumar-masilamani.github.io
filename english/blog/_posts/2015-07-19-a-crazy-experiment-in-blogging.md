@@ -3,6 +3,7 @@ layout: english/blog/post
 title: A Crazy Experiment In Blogging
 date: 2015-07-20
 category: english-blog
+permalink: /english/blog/:title/
 ---
 
 If I could read your thoughts.
