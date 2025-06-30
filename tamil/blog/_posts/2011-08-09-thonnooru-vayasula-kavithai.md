@@ -3,6 +3,7 @@ layout: tamil/blog/post
 title: தொண்ணூறு வயசுல
 date: 2011-08-09
 category: tamil-blog
+permalink: /tamil/blog/:title/
 ---
 
 தொண்ணூறு வயசுல <br/>

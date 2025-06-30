@@ -3,6 +3,7 @@ layout: tamil/blog/post
 title: மீண்டும் ஒரு மின்னல்
 date: 2011-07-12
 category: tamil-blog
+permalink: /tamil/blog/:title/
 ---
 
 உயிரின் உணர்வை தமிழில் கலந்து <br/>

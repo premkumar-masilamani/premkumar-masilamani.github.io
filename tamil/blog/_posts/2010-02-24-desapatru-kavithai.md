@@ -3,6 +3,7 @@ layout: tamil/blog/post
 title: தேசபற்று
 date: 2010-02-24
 category: tamil-blog
+permalink: /tamil/blog/:title/
 ---
 
 என் தாயின் கருவறையில் <br/>

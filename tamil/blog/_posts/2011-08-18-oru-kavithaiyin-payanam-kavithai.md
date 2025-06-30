@@ -3,6 +3,7 @@ layout: tamil/blog/post
 title: ஒரு கவிதையின் பயணம்
 date: 2011-08-18
 category: tamil-blog
+permalink: /tamil/blog/:title/
 ---
 
 கம்பனும் தாமரையும் <br/>

@@ -3,6 +3,7 @@ layout: tamil/blog/post
 title: மீண்டும் நீ வேண்டும் நண்பா
 date: 2010-02-26
 category: tamil-blog
+permalink: /tamil/blog/:title/
 ---
 
 உயிரை உருக்கும் கலை <br/>

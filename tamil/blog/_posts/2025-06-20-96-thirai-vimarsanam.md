@@ -5,6 +5,7 @@ cover-image: 96-tamil-movie.jpeg
 cover-image-credit: Downloaded from Spotify Website
 date: 2025-06-20
 category: tamil-blog
+permalink: /tamil/blog/:title/
 ---
 
 ஒவ்வொரு காட்சியும் <br/>

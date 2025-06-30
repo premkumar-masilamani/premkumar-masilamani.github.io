@@ -3,6 +3,7 @@ layout: tamil/blog/post
 title: சிறகுகள் முளைக்கட்டும்
 date: 2020-06-11
 category: tamil-blog
+permalink: /tamil/blog/:title/
 ---
 
 பரந்த வானில் <br/>

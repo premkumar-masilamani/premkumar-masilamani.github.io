@@ -3,6 +3,7 @@ layout: tamil/blog/post
 title: என் பெயர். உன் குரல்.
 date: 2010-02-27
 category: tamil-blog
+permalink: /tamil/blog/:title/
 ---
 
 கோடி முறை கேட்டிருப்பேன் <br/>

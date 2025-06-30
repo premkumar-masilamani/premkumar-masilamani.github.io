@@ -3,6 +3,7 @@ layout: tamil/blog/post
 title: ரொம்ப அழகா இருக்கு
 date: 2011-08-15
 category: tamil-blog
+permalink: /tamil/blog/:title/
 ---
 
 தமிழ் அழகா? <br/>

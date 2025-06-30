@@ -3,6 +3,7 @@ layout: tamil/blog/post
 title: Draft - கவிதைகள்
 date: 2018-08-08
 category: tamil-blog
+permalink: /tamil/blog/:title/
 ---
 
 சின்னஞ்சிறு பாதங்கள் <br/>

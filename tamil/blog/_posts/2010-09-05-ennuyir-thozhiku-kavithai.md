@@ -3,6 +3,7 @@ layout: tamil/blog/post
 title: என்னுயிர் தோழிக்கு
 date: 2010-09-05
 category: tamil-blog
+permalink: /tamil/blog/:title/
 ---
 
 வெள்ளி மழையில் தங்கச்சிலை <br/>

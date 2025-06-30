@@ -3,6 +3,7 @@ layout: tamil/blog/post
 title: மீண்டும் மலர்ந்தது
 date: 2013-12-11
 category: tamil-blog
+permalink: /tamil/blog/:title/
 ---
 
 முன்னிரவு நேரம் <br/>

@@ -3,6 +3,7 @@ layout: tamil/blog/post
 title: முதல் காதல்
 date: 2012-02-05
 category: tamil-blog
+permalink: /tamil/blog/:title/
 ---
 
 மலர்கள் பூத்தூவும் மாலையிலே <br/>

@@ -3,6 +3,7 @@ layout: tamil/blog/post
 title: பிரிவறியேன்
 date: 2019-01-01
 category: tamil-blog
+permalink: /tamil/blog/:title/
 ---
 
 பால்வெளியும் அவள் மடியாய் <br/>

@@ -3,6 +3,7 @@ layout: tamil/blog/post
 title: அகநானூறு - கடவுள் வாழ்த்து - கார்விரி கொன்றைப் பொன்னேர் புதுமலர்
 date: 2018-09-21
 category: tamil-blog
+permalink: /tamil/blog/:title/
 ---
 
 **காலம்:** சங்க காலம் (கி.மு 300 - கி.பி 300) <br/>

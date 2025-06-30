@@ -3,6 +3,7 @@ layout: tamil/blog/post
 title: பிரிவென்னும் ஒரு சொல்
 date: 2011-12-26
 category: tamil-blog
+permalink: /tamil/blog/:title/
 ---
 
 பிரிவென்னும் ஒரு சொல்லின், அறியாத பொருளொன்று <br/>

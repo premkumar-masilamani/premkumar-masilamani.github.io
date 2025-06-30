@@ -3,6 +3,7 @@ layout: tamil/blog/post
 title: கவிதைகளும் கவுண்டமணியும்
 date: 2010-03-04
 category: tamil-blog
+permalink: /tamil/blog/:title/
 ---
 
 நிலவுக்கு ஏன் வெட்கம்? <br/>
