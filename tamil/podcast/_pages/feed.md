@@ -11,7 +11,7 @@ permalink: /tamil/podcast/feed.xml
 	<channel>
 		<title>{{ site.tamil.podcast.title }}</title>
 		<link>{{ site.tamil.podcast.url }}</link>
-		<description>{{ site.tamil.podcast.tagline }}</description>
+		<description>{{ site.tamil.podcast.description }}</description>
 		<copyright>{{site.copyright}}</copyright>
 		<category>Blogs</category>
 		<language>ta-US</language>

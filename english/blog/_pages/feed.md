@@ -11,7 +11,7 @@ permalink: /english/blog/feed.xml
 	<channel>
 		<title>{{ site.english.blog.title }}</title>
 		<link>{{ site.english.blog.url }}</link>
-		<description>{{ site.english.blog.tagline }}</description>
+		<description>{{ site.english.blog.description }}</description>
 		<copyright>{{site.copyright}}</copyright>
 		<category>Blogs</category>
 		<language>en-US</language>

@@ -1,5 +1,5 @@
 title: Premkumar Masilamani
-tagline: On a journey called Life
+description: On a journey called Life
 home: https://www.premkumarmasilamani.com
 copyright: copyleft @ 2009.
 
@@ -11,7 +11,7 @@ email: premkumar.masilamani.2020@gmail.com
 english:
   blog:
     title: Premkumar Masilamani
-    tagline: On a journey called Life
+    description: On a journey called Life
     author: Premkumar Masilamani
     url: https://www.premkumarmasilamani.com/english/blog
     downloads: https://www.premkumarmasilamani.com/downloads/english/blog
@@ -22,7 +22,7 @@ english:
       item: blogs
   podcast:
     title: Podcast Title
-    tagline: Podcast Tagline
+    description: Podcast description
     author: Premkumar Masilamani
     url: https://www.premkumarmasilamani.com/english/podcast
     downloads: https://www.premkumarmasilamani.com/downloads/english/podcast
@@ -34,7 +34,7 @@ english:
 tamil:
   blog:
     title: பிரேம்குமார் மாசிலாமணி
-    tagline: என் வாழ்வென்னும் பயணத்தில்
+    description: என் வாழ்வென்னும் பயணத்தில்
     author: பிரேம்குமார் மாசிலாமணி
     url: https://www.premkumarmasilamani.com/tamil/blog
     downloads: https://www.premkumarmasilamani.com/downloads/tamil/blog
@@ -45,7 +45,7 @@ tamil:
       item: வலைப்பதிவுகள்
   podcast:
     title: Podcast Title
-    tagline: Podcast Tagline
+    description: Podcast description
     author: பிரேம்குமார் மாசிலாமணி
     url: https://www.premkumarmasilamani.com/tamil/podcast
     image: /assets/images/podcast-cover.jpg
