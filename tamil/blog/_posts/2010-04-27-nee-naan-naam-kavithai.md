@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: நீ. நான். நாம்.
 date: 2010-04-27
 category: tamil-blog

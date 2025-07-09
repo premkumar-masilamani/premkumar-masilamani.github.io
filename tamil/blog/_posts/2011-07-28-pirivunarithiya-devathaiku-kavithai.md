@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: பிரிவுணர்த்திய தேவதைக்கு
 date: 2011-07-28
 category: tamil-blog

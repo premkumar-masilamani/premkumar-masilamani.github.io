@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title:  What's Wrong With My Phone?
 date: 2015-04-21
 category: english-blog

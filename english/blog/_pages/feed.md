@@ -1,5 +1,7 @@
 ---
 layout: empty
+lang: english
+type: blog
 date: 2025-06-01
 category: english-blog
 permalink: /english/blog/feed.xml

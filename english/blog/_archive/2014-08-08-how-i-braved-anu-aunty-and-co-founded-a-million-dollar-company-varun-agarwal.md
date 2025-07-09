@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: How I Braved Anu Aunty & Co-founded A Million Dollar Company
 date: 2014-08-08
 category: english-blog

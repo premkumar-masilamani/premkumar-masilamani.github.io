@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Goodbye, Daddy!
 date: 2022-09-06
 category: english-blog

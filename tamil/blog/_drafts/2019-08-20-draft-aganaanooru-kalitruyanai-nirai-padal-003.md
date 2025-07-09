@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: Draft - அகநானூறு - களிற்றியானை நிரை - இருங்கழி முதலை மேஎந்தோ லன்ன
 date: 2025-04-01
 category: tamil-blog

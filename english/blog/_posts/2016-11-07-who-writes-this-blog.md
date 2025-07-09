@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Who writes this blog?
 date: 2016-11-07
 category: english-blog

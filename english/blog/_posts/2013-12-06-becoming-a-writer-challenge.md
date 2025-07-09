@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Becoming a Writer - A Lifetime Challenge
 date: 2013-12-06
 category: english-blog

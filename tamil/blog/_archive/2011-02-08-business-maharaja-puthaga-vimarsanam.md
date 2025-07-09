@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: பிஸினஸ் மகா மகா ராஜாக்கள் - புத்தகவிமர்சனம்.
 date: 2011-02-08
 category: tamil-blog

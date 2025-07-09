@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: 48 Days Challenge - Wake up at 5 AM Daily
 date: 2013-08-20
 category: english-blog

@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Measuring Wealth Beyond Currency
 cover-image: dollar-gold-eggs.jpg
 cover-image-credit: Generated using Meta AI in Whatsapp

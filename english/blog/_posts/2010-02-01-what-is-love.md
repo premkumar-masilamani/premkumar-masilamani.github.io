@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: What is love?
 date: 2010-02-01
 category: english-blog

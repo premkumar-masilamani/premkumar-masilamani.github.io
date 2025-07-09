@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: The Diary Of An Unreasonable Man
 date: 2010-12-20
 category: english-blog

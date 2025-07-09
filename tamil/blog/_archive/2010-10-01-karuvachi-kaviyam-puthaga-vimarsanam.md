@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: கருவாச்சி காவியம் - புத்தகவிமர்சனம்.
 date: 2010-10-01
 category: tamil-blog

@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Biometric Credit cards
 date: 2009-03-04
 category: english-blog

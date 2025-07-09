@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/page
+layout: page
+lang: tamil
+type: blog
 title: படித்து மகிழ்ந்த புத்தகங்கள்
 date: 2022-01-01
 category: tamil-blog

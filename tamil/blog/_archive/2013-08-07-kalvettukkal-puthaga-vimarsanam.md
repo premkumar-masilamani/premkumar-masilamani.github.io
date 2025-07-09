@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: கல்வெட்டுக்கள் - புத்தகவிமர்சனம்.
 date: 2013-08-07
 category: tamil-blog

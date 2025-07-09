@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: HDFC Bank - "We understand your world" - Really?
 date: 2011-10-24
 category: english-blog

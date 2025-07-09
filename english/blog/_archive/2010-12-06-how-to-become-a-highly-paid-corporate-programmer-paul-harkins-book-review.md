@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: How To Become A Highly Paid Corporate Programmer
 date: 2010-12-06
 category: english-blog

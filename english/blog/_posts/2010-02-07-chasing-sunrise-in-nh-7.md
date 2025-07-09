@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Chasing Sunrise in NH-7
 date: 2010-02-07
 category: english-blog

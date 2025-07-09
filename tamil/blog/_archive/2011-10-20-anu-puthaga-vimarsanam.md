@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: அணு - அதிசயம், அற்புதம், அபாயம் - புத்தகவிமர்சனம்.
 date: 2011-10-20
 category: tamil-blog

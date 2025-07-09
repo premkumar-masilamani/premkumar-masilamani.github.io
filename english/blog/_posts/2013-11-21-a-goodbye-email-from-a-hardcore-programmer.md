@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: A Goodbye Email from a Hardcore Programmer
 date: 2013-11-21
 category: english-blog

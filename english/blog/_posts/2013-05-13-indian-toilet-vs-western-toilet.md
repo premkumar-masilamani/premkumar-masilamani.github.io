@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Indian Toilet vs Western Toilet
 date: 2013-05-13
 category: english-blog

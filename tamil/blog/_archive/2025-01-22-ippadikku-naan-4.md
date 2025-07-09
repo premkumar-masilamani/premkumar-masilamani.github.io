@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: இப்படிக்கு நான் - 4
 date: 2025-01-22
 category: tamil-blog

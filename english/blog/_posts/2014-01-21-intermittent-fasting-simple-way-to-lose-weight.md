@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Intermittent Fasting - Simple way to lose weight
 date: 2014-01-21
 category: english-blog

@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: என் காதல்
 date: 2010-04-25
 category: tamil-blog

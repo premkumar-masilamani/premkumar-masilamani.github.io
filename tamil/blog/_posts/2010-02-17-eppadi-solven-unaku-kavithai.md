@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: எப்படி சொல்வேன் உனக்கு?
 date: 2010-02-17
 category: tamil-blog

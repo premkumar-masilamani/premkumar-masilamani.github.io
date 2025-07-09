@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: The Obesity Code
 date: 2018-04-15
 category: english-blog

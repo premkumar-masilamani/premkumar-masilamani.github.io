@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Theism Vs Atheism
 date: 2014-02-17
 category: english-blog

@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: திருநங்கைகள் உலகம் - புத்தகவிமர்சனம்.
 date: 2012-05-02
 category: tamil-blog

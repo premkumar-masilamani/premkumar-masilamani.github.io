@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: முதல் காதல்
 date: 2012-02-05
 category: tamil-blog

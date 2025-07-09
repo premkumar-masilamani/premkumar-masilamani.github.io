@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: The Purpose Driven® Life - What on Earth Am I Here For?
 date: 2010-10-18
 category: english-blog

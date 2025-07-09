@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: $100 Startup - Reinvent the Way You Make a Living, Do What You Love and Create a New Future
 date: 2013-09-05
 category: english-blog

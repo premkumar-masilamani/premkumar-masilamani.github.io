@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Live Broadcast - Sangavi Anandkumar weds Premkumar Masilamani
 date: 2012-05-03
 category: english-blog

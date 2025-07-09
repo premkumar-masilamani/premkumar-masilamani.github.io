@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Become A Magnet To Money
 date: 2012-02-27
 category: english-blog

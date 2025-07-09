@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Divine Cows
 date: 2015-07-26
 category: english-blog

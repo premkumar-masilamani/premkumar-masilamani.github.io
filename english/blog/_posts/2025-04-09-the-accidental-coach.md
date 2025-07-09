@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: The Accidental Coach
 cover-image: accidental-coach.png
 cover-image-credit: Screenshot from an archived post

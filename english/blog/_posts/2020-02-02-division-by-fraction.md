@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Division by Fraction
 date: 2020-02-02
 category: english-blog

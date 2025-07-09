@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: மீண்டும் மலர்ந்தது
 date: 2013-12-11
 category: tamil-blog

@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Google Certified Professional Cloud Architect - Preparation Guide
 date: 2018-07-29
 category: english-blog

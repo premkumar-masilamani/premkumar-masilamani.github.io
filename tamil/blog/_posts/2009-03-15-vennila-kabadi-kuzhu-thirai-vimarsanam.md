@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: வெண்ணிலா கபடி குழு - திரைவிமர்சனம்
 date: 2009-03-15
 category: tamil-blog

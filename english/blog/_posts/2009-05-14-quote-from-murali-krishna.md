@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Quote from Murali Krishna
 date: 2009-05-14
 category: english-blog

@@ -1,5 +1,7 @@
 ---
 layout: empty
+lang: tamil
+type: blog
 date: 2025-06-01
 category: tamil-blog
 permalink: /tamil/blog/feed.xml

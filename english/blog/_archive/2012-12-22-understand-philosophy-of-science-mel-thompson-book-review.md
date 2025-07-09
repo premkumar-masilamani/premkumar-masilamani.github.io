@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Understand Philosophy of Science - A Teach Yourself Guide
 date: 2012-12-22
 category: english-blog

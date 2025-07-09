@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: Draft - கவிதைகள்
 date: 2018-08-08
 category: tamil-blog

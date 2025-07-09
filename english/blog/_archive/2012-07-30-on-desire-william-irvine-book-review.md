@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: On Desire - Why We Want What We Want
 date: 2012-07-30
 category: english-blog

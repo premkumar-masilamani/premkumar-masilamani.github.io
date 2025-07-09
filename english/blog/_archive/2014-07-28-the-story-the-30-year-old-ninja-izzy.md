@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: The Story - The 30 Year Old Ninja
 date: 2014-07-28
 category: english-blog

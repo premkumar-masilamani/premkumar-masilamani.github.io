@@ -1,5 +1,7 @@
 ---
-layout: common/empty
+layout: empty
+lang: tamil
+type: podcast
 date: 2025-06-30
 category: tamil-podcast
 permalink: /tamil/podcast/feed.xml

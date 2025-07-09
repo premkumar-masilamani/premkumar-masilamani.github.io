@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: What Inspires You?
 date: 2014-01-15
 category: english-blog

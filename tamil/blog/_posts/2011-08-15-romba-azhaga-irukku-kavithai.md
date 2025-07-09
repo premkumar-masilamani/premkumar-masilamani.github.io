@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: ரொம்ப அழகா இருக்கு
 date: 2011-08-15
 category: tamil-blog

@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: என்னுயிர் தோழிக்கு
 date: 2010-09-05
 category: tamil-blog

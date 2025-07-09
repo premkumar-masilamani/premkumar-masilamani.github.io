@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Soldier for Women
 date: 2013-11-14
 category: english-blog

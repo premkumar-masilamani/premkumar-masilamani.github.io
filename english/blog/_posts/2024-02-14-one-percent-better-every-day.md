@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: One Percent Better Everyday?
 date: 2024-02-14
 category: english-blog

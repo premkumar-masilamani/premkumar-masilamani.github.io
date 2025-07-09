@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Birth Without Violence
 date: 2014-04-11
 category: english-blog

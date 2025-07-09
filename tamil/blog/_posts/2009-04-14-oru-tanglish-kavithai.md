@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: வைதேகிக்காக ஒரு tanglish கவிதை
 date: 2009-04-14
 category: tamil-blog

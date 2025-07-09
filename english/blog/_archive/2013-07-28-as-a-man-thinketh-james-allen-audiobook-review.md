@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: As A Man Thinketh
 date: 2013-07-28
 category: english-blog

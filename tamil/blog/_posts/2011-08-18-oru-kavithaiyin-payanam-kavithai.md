@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: ஒரு கவிதையின் பயணம்
 date: 2011-08-18
 category: tamil-blog

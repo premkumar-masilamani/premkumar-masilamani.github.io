@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Ignore Everybody - And 39 Other Keys To Creativity
 date: 2010-08-18
 category: english-blog

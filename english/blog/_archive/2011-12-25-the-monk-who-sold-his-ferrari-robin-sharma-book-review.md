@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: The Monk Who Sold His Ferrari
 date: 2011-12-25
 category: english-blog

@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Perfect Eyesight In A Year
 date: 2013-12-17
 category: english-blog

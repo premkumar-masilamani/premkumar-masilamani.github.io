@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: அவள்
 date: 2011-08-30
 category: tamil-blog

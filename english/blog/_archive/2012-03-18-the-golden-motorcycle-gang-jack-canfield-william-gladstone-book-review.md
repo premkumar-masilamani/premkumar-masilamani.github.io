@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: The Golden Motorcycle Gang
 date: 2012-03-18
 category: english-blog
