@@ -22,7 +22,7 @@ permalink: /english/blog/feed.xml
 		<generator>Jekyll Liquid Template in Github</generator>
 		<managingEditor>{{ site.email }} ({{ site.english.blog.author }})</managingEditor>
 		<webMaster>{{ site.email }} ({{ site.english.blog.author }})</webMaster>
-		{% for post in site.categories.english-blog limit:10 %}
+		{% for post in site.categories.english-blog %}
 			<item>
 				<title>{{ post.title | xml_escape }}</title>
 				<link>{{ site.home }}{{ post.url }}</link>
