@@ -22,7 +22,7 @@ permalink: /tamil/podcast/feed.xml
 		<generator>Jekyll Liquid Template in Github</generator>
 		<managingEditor>{{ site.tamil.email }} ({{ site.tamil.podcast.author }})</managingEditor>
 		<webMaster>{{ site.tamil.email }} ({{ site.tamil.podcast.author }})</webMaster>
-		{% for post in site.categories.tamil-podcast limit:10 %}
+		{% for post in site.categories.tamil-podcast %}
 			<item>
 				<title>{{ post.title | xml_escape }}</title>
 				<link>{{ site.home }}{{ post.url }}</link>

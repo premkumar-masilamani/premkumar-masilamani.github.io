@@ -5,7 +5,10 @@ type: podcast
 title: கேட்டு மகிழ்ந்த வலையொலிகள்
 date: 2025-06-30
 category: tamil-podcast
-permalink: /tamil/podcast/books/
+permalink: /tamil/podcast/podcasts-i-love/
 ---
 
-List of my favorite podcasts (to be added)
+<ul>
+    <li><a href="https://open.spotify.com/show/1zipbLKvuU77SPYWkrv5pM" target="_blank">அன்புடன்</a> - அன்பு சிவா</li>
+    <li><a href="https://open.spotify.com/show/0ydyxy2HLi2Q2TAOHphrFa" target="_blank">Vocal ஒலி</a> - விஜய் வரதராஜ்</li>
+</ul>

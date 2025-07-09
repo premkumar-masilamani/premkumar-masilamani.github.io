@@ -22,7 +22,7 @@ permalink: /tamil/blog/feed.xml
 		<generator>Jekyll Liquid Template in Github</generator>
 		<managingEditor>{{ site.tamil.email }} ({{ site.tamil.blog.author }})</managingEditor>
 		<webMaster>{{ site.tamil.email }} ({{ site.tamil.blog.author }})</webMaster>
-		{% for post in site.categories.tamil-blog limit:10 %}
+		{% for post in site.categories.tamil-blog %}
 			<item>
 				<title>{{ post.title | xml_escape }}</title>
 				<link>{{ site.home }}{{ post.url }}</link>
