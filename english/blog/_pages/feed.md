@@ -1,5 +1,5 @@
 ---
-layout: common/empty
+layout: empty
 date: 2025-06-01
 category: english-blog
 permalink: /english/blog/feed.xml

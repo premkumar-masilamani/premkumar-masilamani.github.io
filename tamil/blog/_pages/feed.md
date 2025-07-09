@@ -1,5 +1,5 @@
 ---
-layout: common/empty
+layout: empty
 date: 2025-06-01
 category: tamil-blog
 permalink: /tamil/blog/feed.xml
