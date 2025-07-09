@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: The Purpose of My Life
 date: 2013-06-14
 category: english-blog

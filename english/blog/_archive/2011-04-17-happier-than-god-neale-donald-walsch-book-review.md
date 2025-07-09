@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Happier Than God - Turn ordinary life into an extraordinary experience
 date: 2011-04-17
 category: english-blog

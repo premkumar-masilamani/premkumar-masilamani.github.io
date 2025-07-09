@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: கனவோடு கலைபவளே
 date: 2010-09-09
 category: tamil-blog

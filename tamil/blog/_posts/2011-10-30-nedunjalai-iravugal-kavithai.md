@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: நெடுஞ்சாலை இரவுகள்
 date: 2011-10-30
 category: tamil-blog

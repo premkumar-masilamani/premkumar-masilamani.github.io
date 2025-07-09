@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: பிரிவென்னும் ஒரு சொல்
 date: 2011-12-26
 category: tamil-blog

@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: The Hero
 date: 2014-04-21
 category: english-blog

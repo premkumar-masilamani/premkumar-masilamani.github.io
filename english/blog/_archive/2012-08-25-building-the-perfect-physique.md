@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Building The Perfect Physique
 date: 2012-08-25
 category: english-blog

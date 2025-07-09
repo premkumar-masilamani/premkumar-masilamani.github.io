@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Becoming a Coach
 date: 2024-08-16
 category: english-blog

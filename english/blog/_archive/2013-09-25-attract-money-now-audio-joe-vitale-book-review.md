@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Attract Money Now
 date: 2013-09-25
 category: english-blog

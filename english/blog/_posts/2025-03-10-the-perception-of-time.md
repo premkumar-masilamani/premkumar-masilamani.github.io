@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: The Perception of Time
 cover-image: time-dilation.jpg
 cover-image-credit: Generated using Meta AI in Whatsapp

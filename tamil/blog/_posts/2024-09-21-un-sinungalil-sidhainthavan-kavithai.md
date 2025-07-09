@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: உன் சிணுங்களில் சிதைந்தவன்
 date: 2024-09-21
 category: tamil-blog

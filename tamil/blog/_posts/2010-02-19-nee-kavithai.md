@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: நீ
 date: 2010-02-19
 category: tamil-blog

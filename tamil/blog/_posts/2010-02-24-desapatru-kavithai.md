@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: தேசபற்று
 date: 2010-02-24
 category: tamil-blog

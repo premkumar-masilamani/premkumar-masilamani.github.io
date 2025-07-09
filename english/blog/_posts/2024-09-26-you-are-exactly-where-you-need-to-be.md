@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: You are exactly where you need to be... What?
 date: 2024-09-26
 category: english-blog

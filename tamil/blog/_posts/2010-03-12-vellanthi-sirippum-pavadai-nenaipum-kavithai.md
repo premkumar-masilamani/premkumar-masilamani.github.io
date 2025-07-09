@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: வெள்ளந்தி சிரிப்பும், பாவாடை நெனைப்பும்
 date: 2010-03-12
 category: tamil-blog

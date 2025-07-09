@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: ஏனடி அழைத்தாய்?
 date: 2010-03-01
 category: tamil-blog

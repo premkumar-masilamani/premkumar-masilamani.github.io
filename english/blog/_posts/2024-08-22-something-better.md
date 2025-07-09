@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Something Better?
 cover-image: something-better.jpg
 cover-image-credit: Generated using Meta AI in Whatsapp

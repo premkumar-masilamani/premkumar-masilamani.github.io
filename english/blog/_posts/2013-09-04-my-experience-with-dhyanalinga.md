@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: My Experience with Dhyanalinga
 date: 2013-09-04
 category: english-blog

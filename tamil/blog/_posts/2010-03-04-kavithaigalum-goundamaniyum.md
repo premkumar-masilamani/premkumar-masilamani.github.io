@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: கவிதைகளும் கவுண்டமணியும்
 date: 2010-03-04
 category: tamil-blog

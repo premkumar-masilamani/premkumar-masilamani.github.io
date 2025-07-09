@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: I Have A Dream
 date: 2011-11-23
 category: english-blog

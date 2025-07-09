@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Meat-Eating Animal Lovers
 date: 2014-09-02
 category: english-blog

@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: நியான் நகரம் - புத்தகவிமர்சனம்.
 date: 2011-07-21
 category: tamil-blog

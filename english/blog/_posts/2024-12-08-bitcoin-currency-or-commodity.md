@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Bitcoin - Currency or Commodity?
 cover-image: bitcoin.jpg
 cover-image-credit: Generated using Meta AI in Whatsapp

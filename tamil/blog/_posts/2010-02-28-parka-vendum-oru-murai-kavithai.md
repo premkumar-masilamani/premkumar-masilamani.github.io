@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: பார்க்க வேண்டும் ஒரு முறை
 date: 2010-02-28
 category: tamil-blog

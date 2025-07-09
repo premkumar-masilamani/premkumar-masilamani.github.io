@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Re-Learning Barefoot Running
 date: 2014-08-21
 category: english-blog

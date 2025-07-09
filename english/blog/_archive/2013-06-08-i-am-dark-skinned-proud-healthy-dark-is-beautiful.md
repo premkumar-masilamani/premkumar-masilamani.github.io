@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: I am dark skinned, proud & healthy. Dark is beautiful
 date: 2013-06-08
 category: english-blog

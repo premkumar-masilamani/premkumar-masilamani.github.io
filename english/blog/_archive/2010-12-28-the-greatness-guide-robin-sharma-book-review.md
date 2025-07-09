@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: The Greatness Guide
 date: 2010-12-28
 category: english-blog

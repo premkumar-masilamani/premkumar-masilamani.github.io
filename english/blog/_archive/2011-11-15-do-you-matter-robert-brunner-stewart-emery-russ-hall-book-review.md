@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Do You Matter? - How Great Design Will Make People Love Your Company
 date: 2011-11-15
 category: english-blog

@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: தமிழ் இலக்கியங்கள் ஏன் புரிவதில்லை?
 date: 2018-09-16
 category: tamil-blog

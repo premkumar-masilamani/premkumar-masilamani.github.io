@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: One Morning In My Life
 date: 2010-03-26
 category: english-blog

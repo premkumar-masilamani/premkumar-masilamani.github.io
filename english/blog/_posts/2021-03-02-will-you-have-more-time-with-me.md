@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Will you have more time with me?
 date: 2021-03-02
 category: english-blog

@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: மதுரைக்கு போறேனடி
 date: 2010-05-20
 category: tamil-blog

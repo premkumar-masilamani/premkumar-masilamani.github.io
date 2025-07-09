@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: You Just Cook
 date: 2014-03-11
 category: english-blog

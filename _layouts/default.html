@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html itemscope itemtype="https://schema.org/Blog" lang="en-US">
+  <head>
+    {% include metadata.html %}
+    {% include rss.html lang=page.lang type=page.type %}
+    {% include style.html %}
+  </head>
+  <body>
+    {{ content }}
+    <hr>
+    <div style="text-align: center;">{% include footer.html %}</div>
+  </body>
+</html>

@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: அகநானூறு - களிற்றியானை நிரை - கோழிலை வாழைக் கோண்மிகு பெருங்குலை
 date: 2019-08-18
 category: tamil-blog

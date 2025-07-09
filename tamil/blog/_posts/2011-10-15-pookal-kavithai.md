@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: பூக்கள்
 date: 2011-10-15
 category: tamil-blog

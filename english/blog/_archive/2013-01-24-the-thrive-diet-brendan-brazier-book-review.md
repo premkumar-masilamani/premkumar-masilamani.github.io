@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: The Thrive Diet - The Whole Foods Way to Losing Weight, Reducing Stress and Staying Healthy for Life
 date: 2013-01-24
 category: english-blog

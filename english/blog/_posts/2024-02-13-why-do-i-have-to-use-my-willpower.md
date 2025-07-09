@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Why do I have to use my willpower?
 date: 2024-02-13
 category: english-blog

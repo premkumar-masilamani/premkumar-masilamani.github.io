@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Connect the Dots
 date: 2010-07-30
 category: english-blog

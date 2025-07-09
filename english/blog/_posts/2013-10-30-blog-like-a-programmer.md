@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Blog Like a Programmer
 date: 2013-10-30
 category: english-blog

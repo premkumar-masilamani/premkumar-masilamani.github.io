@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: கிடைக்குமோ?
 date: 2025-04-19
 category: tamil-blog

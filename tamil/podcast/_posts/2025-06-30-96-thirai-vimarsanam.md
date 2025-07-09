@@ -1,5 +1,7 @@
 ---
-layout: tamil/podcast/post
+layout: post
+lang: tamil
+type: podcast
 title: 96 - திரைவிமர்சனம்
 cover-image: 96-tamil-movie.jpeg
 cover-image-credit: Downloaded from Spotify Website

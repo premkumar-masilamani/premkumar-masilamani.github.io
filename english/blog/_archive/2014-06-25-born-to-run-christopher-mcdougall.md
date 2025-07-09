@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Born to Run
 date: 2014-06-25
 category: english-blog

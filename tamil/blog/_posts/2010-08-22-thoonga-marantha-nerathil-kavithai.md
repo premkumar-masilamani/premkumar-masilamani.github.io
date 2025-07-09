@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: தூங்க மறந்த நேரத்தில்
 date: 2010-08-22
 category: tamil-blog

@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Dimensions and Time Travel
 cover-image: dimensions-time-travel.jpeg
 cover-image-credit: Generated using DALL-E in ChatGPT

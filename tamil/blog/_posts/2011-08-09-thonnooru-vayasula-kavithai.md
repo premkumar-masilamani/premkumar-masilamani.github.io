@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: தொண்ணூறு வயசுல
 date: 2011-08-09
 category: tamil-blog

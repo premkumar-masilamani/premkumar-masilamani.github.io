@@ -1,5 +1,7 @@
 ---
-layout: tamil/podcast/page
+layout: page
+lang: tamil
+type: podcast
 title: கேட்டு மகிழ்ந்த வலையொலிகள்
 date: 2025-06-30
 category: tamil-podcast

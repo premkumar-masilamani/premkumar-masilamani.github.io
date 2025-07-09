@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Fat Acceptance?
 date: 2014-05-02
 category: english-blog

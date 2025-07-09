@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: தேவதையே தேவதையே
 date: 2011-10-07
 category: tamil-blog

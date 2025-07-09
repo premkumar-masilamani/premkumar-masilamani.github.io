@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Artificial Intelligence
 cover-image: artificial-intelligence.png
 cover-image-credit: Generated using DALL-E in ChatGPT

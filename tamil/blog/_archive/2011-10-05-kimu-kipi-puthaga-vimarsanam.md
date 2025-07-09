@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: கி.மு. கி.பி. - புத்தகவிமர்சனம்.
 date: 2011-10-05
 category: tamil-blog

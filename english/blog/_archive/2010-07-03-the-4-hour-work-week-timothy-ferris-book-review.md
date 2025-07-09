@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: The 4-Hour Work Week
 date: 2010-07-03
 category: english-blog

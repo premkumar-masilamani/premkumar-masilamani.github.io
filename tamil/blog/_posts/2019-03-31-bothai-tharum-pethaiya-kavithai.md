@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: போதை தரும் பேதையா?
 date: 2019-03-31
 category: tamil-blog

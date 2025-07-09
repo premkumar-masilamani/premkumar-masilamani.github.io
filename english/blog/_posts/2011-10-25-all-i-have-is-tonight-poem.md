@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: All I have is Tonight!
 date: 2011-10-25
 category: english-blog

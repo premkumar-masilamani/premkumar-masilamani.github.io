@@ -1,5 +1,7 @@
 ---
-layout: tamil/blog/post
+layout: post
+lang: tamil
+type: blog
 title: சிறுகதை எழுதுவது எப்படி? - புத்தகவிமர்சனம்.
 date: 2015-01-26
 category: tamil-blog

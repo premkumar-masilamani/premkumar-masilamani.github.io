@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Love for Books
 cover-image: ara-boookshelf-design.jpg
 cover-image-orientation: portrait

@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Secrets of the Millionaire Mind
 date: 2016-03-25
 category: english-blog

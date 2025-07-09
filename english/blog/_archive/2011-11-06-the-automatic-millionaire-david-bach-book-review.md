@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: The Automatic Millionaire - A Powerful One-Step Plan To Live And Finish Rich
 date: 2011-11-06
 category: english-blog

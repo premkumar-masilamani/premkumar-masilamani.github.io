@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: Who Moved My Cheese? - An A-Mazing Way to Deal with Change in Your Work and in Your Life
 date: 2011-01-26
 category: english-blog

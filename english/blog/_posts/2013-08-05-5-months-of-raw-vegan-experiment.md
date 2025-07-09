@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: 5 Months of Raw Vegan Experiment
 cover-image: 5-months-raw-vegan-transformation.jpg
 cover-image-credit: Photos by Premkumar Masilamani

@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: 100 Ways to Motivate Yourself - Change Your Life Forever
 date: 2013-10-20
 category: english-blog

@@ -1,5 +1,7 @@
 ---
-layout: english/blog/post
+layout: post
+lang: english
+type: blog
 title: BMTC loses 6 lakhs/day to conductors?
 date: 2011-11-22
 category: english-blog
