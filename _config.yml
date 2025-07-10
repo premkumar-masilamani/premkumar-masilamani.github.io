@@ -9,7 +9,7 @@ email: premkumar.masilamani.2020@gmail.com
 
 english:
   blog:
-    title: Premkumar Masilamani
+    title: The Unquiet Mind
     author: Premkumar Masilamani
     url: https://www.premkumarmasilamani.com/english/blog
     downloads: https://www.premkumarmasilamani.com/downloads/english/blog
@@ -19,7 +19,7 @@ english:
       home: home
       item: blogs
   podcast:
-    title: Podcast Title
+    title: The Beautiful Contradiction
     author: Premkumar Masilamani
     url: https://www.premkumarmasilamani.com/english/podcast
     downloads: https://www.premkumarmasilamani.com/downloads/english/podcast
@@ -30,7 +30,7 @@ english:
       item: episodes
 tamil:
   blog:
-    title: பிரேம்குமார் மாசிலாமணி
+    title: பேரன்பும் பெருங்கோபமும்
     author: பிரேம்குமார் மாசிலாமணி
     url: https://www.premkumarmasilamani.com/tamil/blog
     downloads: https://www.premkumarmasilamani.com/downloads/tamil/blog
@@ -40,7 +40,7 @@ tamil:
       home: முகப்பு
       item: வலைப்பதிவுகள்
   podcast:
-    title: Podcast Title
+    title: நிகழே அதுவாய்
     author: பிரேம்குமார் மாசிலாமணி
     url: https://www.premkumarmasilamani.com/tamil/podcast
     image: /assets/images/podcast-cover.jpg
