@@ -34,7 +34,7 @@ One such assumption that I made along the way was - "I must switch from the IT i
 
 > "My [blueprint][bp-url] for life is no longer non-negotiable. It will adapt and evolve."
 
-[bp-url]: {{site.english.blog.url}}/blueprint-for-life-find-yours/
+[bp-url]: {{site[include.lang][include.type].url}}/blueprint-for-life-find-yours/
 
 **Respect Social Pressure** - Whenever I take up any challenge, I follow the below idea by Robin Sharma.
 
@@ -50,7 +50,7 @@ Man being a social creature, must depend on others for life and love. I decided 
 
 * **Migrated my blog to Jekyll** - It took two weeks of effort to learn the concepts, technology & framework and migrate from the blogger platform to GitHub. I now blog from VIM editor and [feeling epic][epic-link] :)
 
-[epic-link]: {{site.english.blog.url}}/blog-like-a-programmer/
+[epic-link]: {{site[include.lang][include.type].url}}/blog-like-a-programmer/
 
 * **Started learning new programming languages** - Started learning Ruby & Dart and started using GitHub as the repository for my open-source projects.
 

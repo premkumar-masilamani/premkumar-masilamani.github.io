@@ -53,7 +53,7 @@ Where all I need is
 
 {% highlight html wrap  %}
 
-<img style="float: left;" src="{{site.english.blog.downloads}}/image.jpg"/>
+<img style="float: left;" src="{{site[include.lang][include.type].downloads}}/image.jpg"/>
 
 {% endhighlight %}
 

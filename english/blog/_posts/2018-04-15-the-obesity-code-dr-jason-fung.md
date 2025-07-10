@@ -14,4 +14,4 @@ permalink: /english/blog/:title/
 
 Here is my picture review of the book.
 
-![The Obesity Code]({{site.english.blog.downloads}}/premkumar-masilamani-the-obesity-code-small.jpg)
+![The Obesity Code]({{site[include.lang][include.type].downloads}}/premkumar-masilamani-the-obesity-code-small.jpg)

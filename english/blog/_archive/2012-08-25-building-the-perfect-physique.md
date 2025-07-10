@@ -8,7 +8,7 @@ category: english-blog
 permalink: /english/blog/:title/
 ---
 
-![Before and After Marriage]({{site.english.blog.downloads}}/before-after-marriage.jpg)
+![Before and After Marriage]({{site[include.lang][include.type].downloads}}/before-after-marriage.jpg)
 
 Funny. Isn't it? Yeah. "Before & After Marriage" is just for fun. The idea is the transformation of my body within a few months after coming to the UK. The first picture was taken on June 2, 2011, in Los Angeles, and the second one on Aug 22, 2012, in London. I did not go to the gym from July 2011 onward, my food habits did not change very much and I retained the same body structure until mid-2012. I am officially in the *Overweight* category as of August 22, 2012. I believe I was in this category for quite some time and I did not realize it. Weighing 80 kg at 5 feet 6 inches in my 29th year, pushed my BMI to 28.34. Within a few months, I may move into the Obese category if I do not act now.
 
