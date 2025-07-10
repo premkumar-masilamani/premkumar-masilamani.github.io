@@ -8,6 +8,10 @@ cover-image-credit: Downloaded from Spotify Website
 date: 2025-06-30
 category: tamil-podcast
 permalink: /tamil/podcast/:title/
+audio-file: test-recording.m4a
+duration: "00:00:06"
+season: 01
+episode: 01
 ---
 
 ஒவ்வொரு காட்சியும் <br/>

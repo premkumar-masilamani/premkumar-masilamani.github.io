@@ -42,6 +42,7 @@ tamil:
   podcast:
     title: நிகழே அதுவாய்
     author: பிரேம்குமார் மாசிலாமணி
+    description: Test Description / Summary - TODO
     url: https://www.premkumarmasilamani.com/tamil/podcast
     image: /assets/images/podcast-cover.jpg
     downloads: https://www.premkumarmasilamani.com/downloads/tamil/podcast
