@@ -11,7 +11,7 @@ permalink: /tamil/blog/feed.xml
 	<channel>
 		<title>{{ site.tamil.blog.title }}</title>
 		<link>{{ site.tamil.blog.url }}</link>
-		<description>{{ site.tamil.blog.tagline }}</description>
+		<description>{{ site.tamil.blog.description }}</description>
 		<copyright>{{site.copyright}}</copyright>
 		<category>Blogs</category>
 		<language>ta-US</language>

@@ -1,5 +1,4 @@
 title: Premkumar Masilamani
-tagline: On a journey called Life
 home: http://localhost:4000
 copyright: copyleft @ 2009.
 
@@ -10,8 +9,7 @@ email: premkumar.masilamani.2020@gmail.com
 
 english:
   blog:
-    title: Premkumar Masilamani
-    tagline: On a journey called Life
+    title: The Unquiet Mind
     author: Premkumar Masilamani
     url: http://localhost:4000/english/blog
     downloads: http://localhost:4000/downloads/english/blog
@@ -21,8 +19,7 @@ english:
       home: home
       item: blogs
   podcast:
-    title: Podcast Title
-    tagline: Podcast Tagline
+    title: The Beautiful Contradiction
     author: Premkumar Masilamani
     url: http://localhost:4000/english/podcast
     downloads: http://localhost:4000/downloads/english/podcast
@@ -33,8 +30,7 @@ english:
       item: episodes
 tamil:
   blog:
-    title: பிரேம்குமார் மாசிலாமணி
-    tagline: என் வாழ்வென்னும் பயணத்தில்...
+    title: பேரன்பும் பெருங்கோபமும்
     author: பிரேம்குமார் மாசிலாமணி
     url: http://localhost:4000/tamil/blog
     downloads: http://localhost:4000/downloads/tamil/blog
@@ -44,8 +40,7 @@ tamil:
       home: முகப்பு
       item: வலைப்பதிவுகள்
   podcast:
-    title: Podcast Title
-    tagline: Podcast Tagline
+    title: நிகழே அதுவாய்
     author: பிரேம்குமார் மாசிலாமணி
     url: http://localhost:4000/tamil/podcast
     downloads: http://localhost:4000/downloads/tamil/podcast
