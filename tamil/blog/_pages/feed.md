@@ -9,21 +9,21 @@ permalink: /tamil/blog/feed.xml
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 	<channel>
-		<title>{{ site[include.lang][include.type].title }}</title>
-		<link>{{ site[include.lang][include.type].url }}</link>
-		<description>{{ site[include.lang][include.type].description }}</description>
+		<title>{{ site[page.lang][page.type].title }}</title>
+		<link>{{ site[page.lang][page.type].url }}</link>
+		<description>{{ site[page.lang][page.type].description }}</description>
 		<copyright>{{ site.copyright }}</copyright>
 		<category>Blogs</category>
 		<language>ta-IN</language>
 		<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
 		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-		<atom:link href="{{ site[include.lang][include.type].url }}/feed.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="{{ site[page.lang][page.type].url }}/feed.xml" rel="self" type="application/rss+xml" />
 		<docs>https://www.rssboard.org/rss-specification</docs>
 		<generator>Jekyll Liquid Template in Github</generator>
-		<managingEditor>{{ site[include.lang].email }} ({{ site[include.lang][include.type].author }})</managingEditor>
-		<webMaster>{{ site[include.lang].email }} ({{ site[include.lang][include.type].author }})</webMaster>
+		<managingEditor>{{ site[page.lang].email }} ({{ site[page.lang][page.type].author }})</managingEditor>
+		<webMaster>{{ site[page.lang].email }} ({{ site[page.lang][page.type].author }})</webMaster>
 
-		{% assign filtered_posts = site.posts | where: "lang", include.lang | where: "type", include.type %}
+		{% assign filtered_posts = site.posts | where: "lang", page.lang | where: "type", page.type %}
 		{% assign sorted_posts = filtered_posts | sort: "date" | reverse %}
 
 		{% for post in sorted_posts %}
@@ -34,7 +34,7 @@ permalink: /tamil/blog/feed.xml
 				{% if post.author-name %}
 					<author>{{ post.author-email }} ({{ post.author-name }})</author>
 				{% else %}
-					<author>{{ site[include.lang].email }} ({{ site[include.lang][include.type].author }})</author>
+					<author>{{ site[page.lang].email }} ({{ site[page.lang][page.type].author }})</author>
 				{% endif %}
 				<category>{{ post.category }}</category>
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
