@@ -26,7 +26,7 @@ What confused me was that I became a better person, but she felt that we grew ap
 
 I have to find out what is happening to us. But, I don't know where to start. Simply, I listed down the activities I like to do and asked her to do the same thing. Once we had two lists, I plotted them in a Venn diagram. Here is what our "Relationship Venn Diagram" looks like.
 
-![Relationship Venn Diagram]({{site.english.blog.downloads}}/relationship-venn-diagram.jpg)
+![Relationship Venn Diagram]({{site[include.lang][include.type].downloads}}/relationship-venn-diagram.jpg)
 
 ## The Findings
 

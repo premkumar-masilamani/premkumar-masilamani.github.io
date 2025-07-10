@@ -15,7 +15,7 @@ permalink: /english/blog/:title/
 Let's go back to the basics.
 
 <div>
-    <div class="img-wrapper-75"><img src="{{site.english.blog.downloads}}/spatial-dimensions.jpeg" alt="Spatial Dimensions"/></div>
+    <div class="img-wrapper-75"><img src="{{site[include.lang][include.type].downloads}}/spatial-dimensions.jpeg" alt="Spatial Dimensions"/></div>
     <div class="cover-image-credit"><small>Generated using DALL-E in ChatGPT</small></div>
 </div>
 
@@ -40,7 +40,7 @@ Oh wait, there is **time**.
 Let's add time as the fourth dimension. But, how would you explain it?. Instead of the movements to explain the dimensions, let's use the example of meeting someone in a specific place and time. That means we need to have three dimensions to locate the person in space and one extra dimension "time" to meet the person at the agreed time. All is well.
 
 <div>
-    <div class="img-wrapper-75"><img src="{{site.english.blog.downloads}}/4-dimensions.jpeg" alt="3 Spatial Dimensions and Time as 4th Dimension"/></div>
+    <div class="img-wrapper-75"><img src="{{site[include.lang][include.type].downloads}}/4-dimensions.jpeg" alt="3 Spatial Dimensions and Time as 4th Dimension"/></div>
     <div class="cover-image-credit"><small>Generated using DALL-E in ChatGPT</small></div>
 </div>
 
@@ -57,7 +57,7 @@ Time as a fourth dimension, contradicts both of these properties.
 Thus, I would like to perceive time as not a fourth dimension, but a concept to measure the duration between two events, across all the dimensions. Let's change the visualization to this.
 
 <div>
-    <div class="img-wrapper-75"><img src="{{site.english.blog.downloads}}/3-dimensions-and-time.jpeg" alt="3 Spatial Dimensions and Time as Common Denominator"/></div>
+    <div class="img-wrapper-75"><img src="{{site[include.lang][include.type].downloads}}/3-dimensions-and-time.jpeg" alt="3 Spatial Dimensions and Time as Common Denominator"/></div>
     <div class="cover-image-credit"><small>Generated using DALL-E in ChatGPT</small></div>
 </div>
 
@@ -70,7 +70,7 @@ So far with me?
 In simple terms, time travel is going back in time.
 
 <div>
-    <div class="img-wrapper-75"><img src="{{site.english.blog.downloads}}/time-as-slices.jpeg" alt="Time as Slices" width="50%"/></div>
+    <div class="img-wrapper-75"><img src="{{site[include.lang][include.type].downloads}}/time-as-slices.jpeg" alt="Time as Slices" width="50%"/></div>
     <div class="cover-image-credit"><small>Generated using DALL-E in ChatGPT</small></div>
 </div>
 

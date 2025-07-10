@@ -8,7 +8,7 @@ category: english-blog
 permalink: /english/blog/:title/
 ---
 
-![Sangavi and Premkumar Masilamani]({{site.english.blog.downloads}}/sangavi-premkumar.jpg)
+![Sangavi and Premkumar Masilamani]({{site[include.lang][include.type].downloads}}/sangavi-premkumar.jpg)
 
 This live broadcast is for all our friends, who wanted to be with us in our most precious moment, but could not make it. You are never far from us. You can watch the Wedding and the Reception Live from your living room. Yeah!...
 

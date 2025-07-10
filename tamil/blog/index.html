@@ -8,7 +8,8 @@ date: 2015-03-01
 
 <h2>பதிவுகள்</h2>
 
-{% assign posts_by_year = site.categories.tamil-blog | group_by_exp: "post", "post.date | date: '%Y'" %}
+{% assign filtered_posts = site.posts | where: "lang", "tamil" | where: "type", "blog" %}
+{% assign posts_by_year = filtered_posts | group_by_exp: "post", "post.date | date: '%Y'" %}
 
 {% for year in posts_by_year %}
   <h3>{{ year.name }} ({{ year.items | size }})</h3>
@@ -31,7 +32,7 @@ date: 2015-03-01
   {% for page in site.pages %}
     {% assign filename = page.path | split: "/" | last %}
     {% unless exclude_pages contains filename %}
-      {% if page.url contains "/tamil/blog/" %}
+      {% if page.lang == "tamil" and page.type == "blog" %}
         <li>
           <a href="{{ page.url }}">{{ page.title | default: filename }}</a>
         </li>

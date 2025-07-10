@@ -32,7 +32,7 @@ I am not asking everyone to stop everything and backpack to Europe or Australia.
 
 I liked the entire movie, but one question struck me so hard... really hard that I paused and sunk into deep thoughts.
 
-![Zindagi Na Milegi Dobara]({{site.english.blog.downloads}}/zindagi-na-milegi-dobara-soul-question.jpg)
+![Zindagi Na Milegi Dobara]({{site[include.lang][include.type].downloads}}/zindagi-na-milegi-dobara-soul-question.jpg)
 
 **Do you write anything to feed your own soul?**
 

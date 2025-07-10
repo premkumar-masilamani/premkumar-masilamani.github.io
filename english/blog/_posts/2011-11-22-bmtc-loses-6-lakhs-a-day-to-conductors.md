@@ -18,7 +18,7 @@ I was traveling from Coimbatore to Bangalore on 22-Nov-2011 and got down at Silk
 **Time:** 22-Nov-2011 05:19:52 IST
 **Complaint:** Ticket was not given unless I asked for it.
 
-![BMTC Bus Ticket D5]({{site.english.blog.downloads}}/bmtc-bus-ticket-d5.jpg)
+![BMTC Bus Ticket D5]({{site[include.lang][include.type].downloads}}/bmtc-bus-ticket-d5.jpg)
 
 The bus was crowded and I was standing near the last row. I asked the conductor, "How much does the ticket cost to Marathahalli?". He said, "10 Rupees". I gave him 10 rupees and was waiting for the ticket. He distributed the tickets to passengers going to other destinations, but not to me. One more guy asked for Marathahalli and he did not get the ticket either. When the conductor was about to move away, I stopped him and asked for a ticket. He said, "Give me three more rupees". I looked at him hard and gave him 10 rupees. He scolded me for not giving him exact change, issued the ticket, and moved away. The other guy also stopped him and got his ticket. The bus was so crowded that I did not get into a discussion, but decided to complain anyway.
 
