@@ -41,6 +41,7 @@ tamil:
       item: வலைப்பதிவுகள்
   podcast:
     title: நிகழே அதுவாய்
+    description: Test Description / Summary - TODO
     author: பிரேம்குமார் மாசிலாமணி
     url: http://localhost:4000/tamil/podcast
     downloads: http://localhost:4000/downloads/tamil/podcast
