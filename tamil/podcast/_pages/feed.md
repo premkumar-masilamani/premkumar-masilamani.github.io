@@ -9,19 +9,19 @@ permalink: /tamil/podcast/feed.xml
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 	<channel>
-		<title>{{ site.tamil.podcast.title }}</title>
-		<link>{{ site.tamil.podcast.url }}</link>
-		<description>{{ site.tamil.podcast.description }}</description>
+		<title>{{ site[include.lang][include.type].title }}</title>
+		<link>{{ site[include.lang][include.type].url }}</link>
+		<description>{{ site[include.lang][include.type].description }}</description>
 		<copyright>{{ site.copyright }}</copyright>
 		<category>Podcasts</category>
 		<language>ta-IN</language>
 		<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
 		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-		<atom:link href="{{ site.tamil.podcast.url }}/feed.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="{{ site[include.lang][include.type].url }}/feed.xml" rel="self" type="application/rss+xml" />
 		<docs>https://www.rssboard.org/rss-specification</docs>
 		<generator>Jekyll Liquid Template in GitHub</generator>
-		<managingEditor>{{ site.tamil.email }} ({{ site.tamil.podcast.author }})</managingEditor>
-		<webMaster>{{ site.tamil.email }} ({{ site.tamil.podcast.author }})</webMaster>
+		<managingEditor>{{ site[include.lang].email }} ({{ site[include.lang][include.type].author }})</managingEditor>
+		<webMaster>{{ site[include.lang].email }} ({{ site[include.lang][include.type].author }})</webMaster>
 
 		{% assign filtered_posts = site.posts | where: "lang", "tamil" | where: "type", "podcast" %}
 		{% assign sorted_posts = filtered_posts | sort: "date" | reverse %}
@@ -34,7 +34,7 @@ permalink: /tamil/podcast/feed.xml
 				{% if post.author-name %}
 					<author>{{ post.author-email }} ({{ post.author-name }})</author>
 				{% else %}
-					<author>{{ site.tamil.email }} ({{ site.tamil.podcast.author }})</author>
+					<author>{{ site[include.lang].email }} ({{ site[include.lang][include.type].author }})</author>
 				{% endif %}
 				<category>{{ post.category }}</category>
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
