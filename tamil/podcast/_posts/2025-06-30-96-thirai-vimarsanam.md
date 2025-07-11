@@ -10,8 +10,8 @@ title: 96 - திரைவிமர்சனம்
 cover-image: 96-tamil-movie.jpeg
 cover-image-credit: Downloaded from Spotify Website
 
-audio-file: test-recording.m4a
-duration: 00:00:06
+audio-file: https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-6-3/7fe1df20-d6e9-7447-9f94-fc65187831b7.mp3
+duration: 01:58:52
 season: 01
 episode: 01
 ---
