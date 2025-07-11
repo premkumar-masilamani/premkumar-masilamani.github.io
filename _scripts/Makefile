@@ -23,4 +23,4 @@ profanity:
 
 .PHONY: mp3
 mp3:
-	python3 src/mp3_converter/cli.py
+	python3 src/mp3_converter.py
