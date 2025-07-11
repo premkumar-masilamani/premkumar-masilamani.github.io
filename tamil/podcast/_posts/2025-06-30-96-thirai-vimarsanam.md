@@ -9,7 +9,7 @@ date: 2025-06-30
 category: tamil-podcast
 permalink: /tamil/podcast/:title/
 audio-file: test-recording.m4a
-duration: "00:00:06"
+duration: 00:00:06
 season: 01
 episode: 01
 ---
