@@ -48,7 +48,9 @@ artwork: 96-tamil-movie.jpeg
         <title>{{ post.title | xml_escape }}</title>
         <link>{{ site.home }}{{ post.url }}</link>
         <description>{{ post.content | xml_escape }}</description>
+        <content:encoded><![CDATA[ {{ page.content | xml_escape }} ]]></content:encoded>
         <dc:creator>{{ site[page.lang][page.type].author }}</dc:creator>
+        <itunes:author>{{ site[page.lang][page.type].author }}</itunes:author>
         <itunes:summary>{{ post.content | xml_escape }}</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
         {% if post.cover-image %}
