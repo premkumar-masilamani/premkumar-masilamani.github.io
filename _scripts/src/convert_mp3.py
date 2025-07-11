@@ -5,6 +5,7 @@ import subprocess
 from mutagen.easyid3 import EasyID3
 from mutagen.mp3 import MP3
 from datetime import timedelta
+from datetime import datetime
 
 
 def slugify(text):
@@ -23,6 +24,7 @@ def get_id3_tags():
         user_input = input(f"{tag.capitalize()} [{default}]: ").strip()
         tags[tag] = user_input if user_input else default
 
+    tags["date"] = datetime.now().strftime("%d-%b-%Y")
     return tags
 
 
