@@ -2,10 +2,11 @@
 layout: post
 lang: english
 type: blog
-title: Running Software Without Hardware - A Thought Experiment
-date: 2012-03-25
-category: english-blog
+category: []
 permalink: /english/blog/:title/
+
+date: 2012-03-25
+title: Running Software Without Hardware - A Thought Experiment
 ---
 
 I have been thinking about this concept of running a software program without any hardware for quite some time. I know what you are thinking. Let's stop thinking rationally about the possibilities of its implementation. Let's do a Thought Experiment.

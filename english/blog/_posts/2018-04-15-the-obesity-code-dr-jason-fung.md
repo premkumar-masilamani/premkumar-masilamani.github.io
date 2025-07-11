@@ -2,10 +2,11 @@
 layout: post
 lang: english
 type: blog
-title: The Obesity Code
-date: 2018-04-15
-category: english-blog
+category: []
 permalink: /english/blog/:title/
+
+date: 2018-04-15
+title: The Obesity Code
 ---
 
 **Book:** The Obesity Code
@@ -14,4 +15,4 @@ permalink: /english/blog/:title/
 
 Here is my picture review of the book.
 
-![The Obesity Code]({{site[include.lang][include.type].downloads}}/premkumar-masilamani-the-obesity-code-small.jpg)
+![The Obesity Code]({{site[page.lang][page.type].downloads}}/premkumar-masilamani-the-obesity-code-small.jpg)

@@ -2,10 +2,11 @@
 layout: post
 lang: english
 type: blog
-title: Perfect Eyesight In A Year
-date: 2013-12-17
-category: english-blog
+category: []
 permalink: /english/blog/:title/
+
+date: 2013-12-17
+title: Perfect Eyesight In A Year
 ---
 
 I still remember the day I & my brother tried to read the smallest text from the farthest distance. I could read a very fine print from 4 feet away. My eyesight was better than my younger brother. Two decades later, he still has a very good vision; but mine deteriorated to -3.5 diopters in both eyes (Myopia). I never imagined that this would happen.

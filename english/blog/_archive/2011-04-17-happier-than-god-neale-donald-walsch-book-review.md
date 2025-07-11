@@ -2,10 +2,11 @@
 layout: post
 lang: english
 type: blog
-title: Happier Than God - Turn ordinary life into an extraordinary experience
-date: 2011-04-17
-category: english-blog
+category: []
 permalink: /english/blog/:title/
+
+date: 2011-04-17
+title: Happier Than God - Turn ordinary life into an extraordinary experience
 ---
 
 **Book:** Happier Than God - Turn Ordinary Life Into An Extraordinary Experience

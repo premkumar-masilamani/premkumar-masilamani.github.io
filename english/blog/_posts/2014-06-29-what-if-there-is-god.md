@@ -2,10 +2,11 @@
 layout: post
 lang: english
 type: blog
-title: What If, there is God?
-date: 2014-06-29
-category: english-blog
+category: []
 permalink: /english/blog/:title/
+
+date: 2014-06-29
+title: What If, there is God?
 ---
 
 Saturday evening, the Soccer game is yet to start and unfortunately, there are no beers in the fridge. Shame on me. Sorry. What to do then?. Let's talk. Me, Anbu, and my wife were talking about many things which eventually led us to a discussion about religions. Though I am an atheist, I assumed the side of theist for the sake of discussion and started with the big assumption below. We ended up creating a brand new story that merges Science & Creationism.

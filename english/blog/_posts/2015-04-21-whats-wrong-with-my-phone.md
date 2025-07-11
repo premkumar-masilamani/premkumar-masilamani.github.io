@@ -2,15 +2,16 @@
 layout: post
 lang: english
 type: blog
-title:  What's Wrong With My Phone?
-date: 2015-04-21
-category: english-blog
+category: []
 permalink: /english/blog/:title/
+
+date: 2015-04-21
+title:  What's Wrong With My Phone?
 ---
 
 I have a strange habit. I always kept the mobile phone away from my body as much as I could. While in the office, I generally keep my mobile phone on the desk. In recent years, this simple act has brought a lot of attention from my colleagues. Not for the act, but for the phone.
 
-![Nokia 1280]({{site[include.lang][include.type].downloads}}/nokia-1280.jpg)
+![Nokia 1280]({{site[page.lang][page.type].downloads}}/nokia-1280.jpg)
 
 Yes. This is my phone. The amazing Nokia 1280. My elder brother has been using this phone since 2010. He gave it to me while going to the US. I have been using this phone for more than two years now. I don't care about the broken screen anyway.
 

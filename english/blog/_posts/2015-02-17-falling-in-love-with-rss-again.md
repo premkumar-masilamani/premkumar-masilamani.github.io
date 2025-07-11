@@ -2,10 +2,11 @@
 layout: post
 lang: english
 type: blog
-title: Falling in Love with RSS again
-date: 2015-02-17
-category: english-blog
+category: []
 permalink: /english/blog/:title/
+
+date: 2015-02-17
+title: Falling in Love with RSS again
 ---
 
 It was my newspaper online.

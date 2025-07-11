@@ -2,9 +2,10 @@
 layout: empty
 lang: english
 type: blog
-date: 2025-06-01
-category: english-blog
+category: []
 permalink: /english/blog/feed.xml
+
+date: 2025-06-01
 ---
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">

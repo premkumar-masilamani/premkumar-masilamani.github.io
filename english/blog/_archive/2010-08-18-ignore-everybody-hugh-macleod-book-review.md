@@ -2,10 +2,11 @@
 layout: post
 lang: english
 type: blog
-title: Ignore Everybody - And 39 Other Keys To Creativity
-date: 2010-08-18
-category: english-blog
+category: []
 permalink: /english/blog/:title/
+
+date: 2010-08-18
+title: Ignore Everybody - And 39 Other Keys To Creativity
 ---
 
 **Book:** Ignore Everybody - And 39 Other Keys To Creativity

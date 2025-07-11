@@ -2,10 +2,11 @@
 layout: post
 lang: english
 type: blog
-title: One Morning In My Life
-date: 2010-03-26
-category: english-blog
+category: []
 permalink: /english/blog/:title/
+
+date: 2010-03-26
+title: One Morning In My Life
 ---
 
 "What a beautiful day!.." - A Song from rock band U2 keeps playing in my mind when I sit on a comfy sofa and wonder what to do next. This is not new to me, I do this very often. Somehow today, I felt like Tom Hanks in "Cast Away." Yeah.. really. What do you call a guy who is wearing a week-old dirty lungi and a brand new yellow color Reebok T-Shirt supporting "Chennai Super Kings," has not brushed till 10.30 AM, has no wallet, has no mobile phone, and is hungry? Hmm... that's me, today March 24, 2010.

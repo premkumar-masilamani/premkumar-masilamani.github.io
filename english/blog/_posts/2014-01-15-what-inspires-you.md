@@ -2,10 +2,11 @@
 layout: post
 lang: english
 type: blog
-title: What Inspires You?
-date: 2014-01-15
-category: english-blog
+category: []
 permalink: /english/blog/:title/
+
+date: 2014-01-15
+title: What Inspires You?
 ---
 
 A few moments back, I was reading Rhonda Byrne's latest book _The Hero_. Though it was a different flavor of the famous "Law of Attraction" with Gratitude and Visualization, it was interesting to me. While going through the book, the below quote from Mastin Kipp (Page 77) struck me hard.

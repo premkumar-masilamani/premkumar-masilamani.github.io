@@ -2,10 +2,11 @@
 layout: post
 lang: english
 type: blog
-title: Blog Like a Programmer
-date: 2013-10-30
-category: english-blog
+category: []
 permalink: /english/blog/:title/
+
+date: 2013-10-30
+title: Blog Like a Programmer
 ---
 
 [If you are not a programmer, this article may not interest you. Please skip and do something useful]
@@ -53,7 +54,7 @@ Where all I need is
 
 {% highlight html wrap  %}
 
-<img style="float: left;" src="{{site[include.lang][include.type].downloads}}/image.jpg"/>
+<img style="float: left;" src="{{site[page.lang][page.type].downloads}}/image.jpg"/>
 
 {% endhighlight %}
 

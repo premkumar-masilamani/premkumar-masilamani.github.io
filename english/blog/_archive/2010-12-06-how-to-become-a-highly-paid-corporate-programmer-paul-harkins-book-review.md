@@ -2,10 +2,11 @@
 layout: post
 lang: english
 type: blog
-title: How To Become A Highly Paid Corporate Programmer
-date: 2010-12-06
-category: english-blog
+category: []
 permalink: /english/blog/:title/
+
+date: 2010-12-06
+title: How To Become A Highly Paid Corporate Programmer
 ---
 
 **Book:** How To Become A Highly Paid Corporate Programmer

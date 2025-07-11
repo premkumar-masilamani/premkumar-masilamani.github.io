@@ -2,12 +2,13 @@
 layout: post
 lang: english
 type: blog
+category: []
+permalink: /english/blog/:title/
+
+date: 2025-03-11
 title: The Inevitability of Entropy
 cover-image: entropy.jpg
 cover-image-credit: Generated using Meta AI in Whatsapp
-date: 2025-03-11
-category: english-blog
-permalink: /english/blog/:title/
 ---
 
 ## What is Entropy?

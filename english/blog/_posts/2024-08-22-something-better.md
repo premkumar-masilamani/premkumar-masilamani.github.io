@@ -2,12 +2,13 @@
 layout: post
 lang: english
 type: blog
+category: []
+permalink: /english/blog/:title/
+
+date: 2024-08-22
 title: Something Better?
 cover-image: something-better.jpg
 cover-image-credit: Generated using Meta AI in Whatsapp
-date: 2024-08-22
-category: english-blog
-permalink: /english/blog/:title/
 ---
 
 > Every time I thought I was being rejected from something good, I was actually being redirected to something better

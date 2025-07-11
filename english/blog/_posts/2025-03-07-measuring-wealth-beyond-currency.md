@@ -2,12 +2,13 @@
 layout: post
 lang: english
 type: blog
+category: []
+permalink: /english/blog/:title/
+
+date: 2025-03-07
 title: Measuring Wealth Beyond Currency
 cover-image: dollar-gold-eggs.jpg
 cover-image-credit: Generated using Meta AI in Whatsapp
-date: 2025-03-07
-category: english-blog
-permalink: /english/blog/:title/
 ---
 
 ## Measuring Wealth in Currency

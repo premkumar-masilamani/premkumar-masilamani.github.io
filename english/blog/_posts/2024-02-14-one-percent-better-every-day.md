@@ -2,10 +2,11 @@
 layout: post
 lang: english
 type: blog
-title: One Percent Better Everyday?
-date: 2024-02-14
-category: english-blog
+category: []
 permalink: /english/blog/:title/
+
+date: 2024-02-14
+title: One Percent Better Everyday?
 ---
 
 If you are reading self-help books for a while, invariably every self-help guru would have said this at some point. After James Clear's "Atomic Habits" became a hit, it's now a mantra.

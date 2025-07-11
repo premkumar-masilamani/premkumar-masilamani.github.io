@@ -2,10 +2,11 @@
 layout: post
 lang: english
 type: blog
-title: Attract Money Now
-date: 2013-09-25
-category: english-blog
+category: []
 permalink: /english/blog/:title/
+
+date: 2013-09-25
+title: Attract Money Now
 ---
 
 **Book:** Attract Money Now (Audio CD)

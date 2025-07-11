@@ -2,10 +2,11 @@
 layout: post
 lang: english
 type: blog
-title: Wired for Thought - How the Brain Is Shaping the Future of the Internet
-date: 2011-11-02
-category: english-blog
+category: []
 permalink: /english/blog/:title/
+
+date: 2011-11-02
+title: Wired for Thought - How the Brain Is Shaping the Future of the Internet
 ---
 
 **Book:** Wired For Thought: How The Brain Is Shaping The Future Of The Internet

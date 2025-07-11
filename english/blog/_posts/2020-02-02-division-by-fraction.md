@@ -2,10 +2,11 @@
 layout: post
 lang: english
 type: blog
-title: Division by Fraction
-date: 2020-02-02
-category: english-blog
+category: []
 permalink: /english/blog/:title/
+
+date: 2020-02-02
+title: Division by Fraction
 ---
 
 I stumbled upon a question recently, *When dividing a number by a fraction, why do we invert and multiply?*. We all know the answer intuitively - *It produces the same result*. Do we know why it provides the same result?

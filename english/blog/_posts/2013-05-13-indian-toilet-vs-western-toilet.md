@@ -2,10 +2,11 @@
 layout: post
 lang: english
 type: blog
-title: Indian Toilet vs Western Toilet
-date: 2013-05-13
-category: english-blog
+category: []
 permalink: /english/blog/:title/
+
+date: 2013-05-13
+title: Indian Toilet vs Western Toilet
 ---
 
 I came back from the UK recently and have to stay in my friend's home which has only an Indian Toilet (Squatting Type). When I was using Indian Toilet - Whoosh... the whole business took less than 2 minutes and it was effortless. I normally take 5 - 10 minutes while using a Western Toilet. Once I moved to my apartment which has a Western Toilet (Sitting Type), going to the bathroom was not a breeze anymore. That triggered this research about the natural human defecation postures.
@@ -14,9 +15,9 @@ It's not that I am new to Indian Toilets. I have been using it since my childhoo
 
 ## Anal Rectal Angle while Sitting and Squatting
 
-![Anal Rectal Angle - Sitting Vs Squatting]({{site[include.lang][include.type].downloads}}/anal-rectal-angle-sitting-squatting-comparison.jpg)
+![Anal Rectal Angle - Sitting Vs Squatting]({{site[page.lang][page.type].downloads}}/anal-rectal-angle-sitting-squatting-comparison.jpg)
 
-![Indian Vs Western Toilet]({{site[include.lang][include.type].downloads}}/indian-vs-western-toilet.jpg)
+![Indian Vs Western Toilet]({{site[page.lang][page.type].downloads}}/indian-vs-western-toilet.jpg)
 
 ## What's Next
 

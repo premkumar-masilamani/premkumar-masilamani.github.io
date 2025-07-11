@@ -2,10 +2,11 @@
 layout: post
 lang: english
 type: blog
-title: A Goodbye Email from a Hardcore Programmer
-date: 2013-11-21
-category: english-blog
+category: []
 permalink: /english/blog/:title/
+
+date: 2013-11-21
+title: A Goodbye Email from a Hardcore Programmer
 ---
 
 I quit TCS. Today is my last day. I wanted my final goodbye email to be very special, unique and resemble what I did in TCS. This is what I sent to my colleagues today :)

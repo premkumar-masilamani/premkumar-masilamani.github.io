@@ -2,10 +2,11 @@
 layout: post
 lang: english
 type: blog
-title: Trump - The Way To The Top - The Best Business Advice I Ever Received
-date: 2011-10-28
-category: english-blog
+category: []
 permalink: /english/blog/:title/
+
+date: 2011-10-28
+title: Trump - The Way To The Top - The Best Business Advice I Ever Received
 ---
 
 **Book:** Trump - The Way To The Top - The Best Business Advice I Ever Received

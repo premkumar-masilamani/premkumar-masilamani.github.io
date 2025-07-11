@@ -2,10 +2,11 @@
 layout: post
 lang: english
 type: blog
-title: The Automatic Millionaire - A Powerful One-Step Plan To Live And Finish Rich
-date: 2011-11-06
-category: english-blog
+category: []
 permalink: /english/blog/:title/
+
+date: 2011-11-06
+title: The Automatic Millionaire - A Powerful One-Step Plan To Live And Finish Rich
 ---
 
 **Book:** The Automatic Millionaire: A Powerful One-Step Plan To Live And Finish Rich
@@ -53,7 +54,7 @@ David gives us elaborate tips to close the loans earlier than the actual tenure.
 
 ## Credit Card Debts:
 
-Just like Warren Buffet, David suggests us NOT to use credit cards. "*Millionaires don't do debt!*." Either you have credit card debt or not, you should probably read this chapter as well. He gives us techniques to pay off the debt in a reasonable amount of time, to negotiate with the banks on the interest rates, which credit cards to pay and what are the things to consider when balance transferring the debt. etc., I am going to use these tips with [HDFC Bank]({{site[include.lang][include.type].url}}/hdfc-bank-we-understand-your-world-really/) on the recent fraud charges on my credit card.
+Just like Warren Buffet, David suggests us NOT to use credit cards. "*Millionaires don't do debt!*." Either you have credit card debt or not, you should probably read this chapter as well. He gives us techniques to pay off the debt in a reasonable amount of time, to negotiate with the banks on the interest rates, which credit cards to pay and what are the things to consider when balance transferring the debt. etc., I am going to use these tips with [HDFC Bank]({{site[page.lang][page.type].url}}/hdfc-bank-we-understand-your-world-really/) on the recent fraud charges on my credit card.
 
 ## Tithing:
 

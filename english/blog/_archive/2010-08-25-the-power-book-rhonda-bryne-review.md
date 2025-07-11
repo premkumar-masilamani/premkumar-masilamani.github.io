@@ -2,10 +2,11 @@
 layout: post
 lang: english
 type: blog
-title: The Power
-date: 2010-08-25
-category: english-blog
+category: []
 permalink: /english/blog/:title/
+
+date: 2010-08-25
+title: The Power
 ---
 
 **Book:** The Power

@@ -2,10 +2,11 @@
 layout: post
 lang: english
 type: blog
-title: Quote from Murali Krishna
-date: 2009-05-14
-category: english-blog
+category: []
 permalink: /english/blog/:title/
+
+date: 2009-05-14
+title: Quote from Murali Krishna
 ---
 
 > When you are the fastest, you don't need rear-view mirrors. - **Murali**

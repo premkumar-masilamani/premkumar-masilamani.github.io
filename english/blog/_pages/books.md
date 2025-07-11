@@ -2,10 +2,11 @@
 layout: page
 lang: english
 type: blog
-title: Books I Love
-date: 2022-01-01
-category: english-blog
+category: []
 permalink: /english/blog/books/
+
+date: 2022-01-01
+title: Books I Love
 ---
 
 I began to understand that reading books is a personal experience and the same book would have a different experience with different people.

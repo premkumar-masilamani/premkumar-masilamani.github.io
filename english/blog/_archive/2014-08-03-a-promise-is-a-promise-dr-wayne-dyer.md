@@ -2,10 +2,11 @@
 layout: post
 lang: english
 type: blog
-title: A Promise Is A Promise
-date: 2014-08-03
-category: english-blog
+category: []
 permalink: /english/blog/:title/
+
+date: 2014-08-03
+title: A Promise Is A Promise
 ---
 
 **Book:** A Promise Is A Promise

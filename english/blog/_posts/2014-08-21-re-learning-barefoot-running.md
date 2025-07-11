@@ -2,10 +2,11 @@
 layout: post
 lang: english
 type: blog
-title: Re-Learning Barefoot Running
-date: 2014-08-21
-category: english-blog
+category: []
 permalink: /english/blog/:title/
+
+date: 2014-08-21
+title: Re-Learning Barefoot Running
 ---
 
 > A single thought can change the course of your life. **-Unknown**

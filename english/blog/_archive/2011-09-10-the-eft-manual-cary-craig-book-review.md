@@ -2,10 +2,11 @@
 layout: post
 lang: english
 type: blog
-title: The EFT Manual
-date: 2011-09-10
-category: english-blog
+category: []
 permalink: /english/blog/:title/
+
+date: 2011-09-10
+title: The EFT Manual
 ---
 
 **Book:** The EFT Manual

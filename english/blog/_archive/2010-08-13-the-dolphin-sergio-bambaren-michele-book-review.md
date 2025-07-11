@@ -2,10 +2,11 @@
 layout: post
 lang: english
 type: blog
-title: The Dolphin - Story of a Dreamer
-date: 2010-08-13
-category: english-blog
+category: []
 permalink: /english/blog/:title/
+
+date: 2010-08-13
+title: The Dolphin - Story of a Dreamer
 ---
 
 **Book:** The Dolphin - Story Of A Dreamer

@@ -2,10 +2,11 @@
 layout: post
 lang: english
 type: blog
-title: The Purpose of My Life
-date: 2013-06-14
-category: english-blog
+category: []
 permalink: /english/blog/:title/
+
+date: 2013-06-14
+title: The Purpose of My Life
 ---
 
 **Theist:** God's purpose is your purpose.

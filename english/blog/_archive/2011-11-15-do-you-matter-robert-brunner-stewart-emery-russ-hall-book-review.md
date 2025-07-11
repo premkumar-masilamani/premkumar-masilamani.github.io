@@ -2,10 +2,11 @@
 layout: post
 lang: english
 type: blog
-title: Do You Matter? - How Great Design Will Make People Love Your Company
-date: 2011-11-15
-category: english-blog
+category: []
 permalink: /english/blog/:title/
+
+date: 2011-11-15
+title: Do You Matter? - How Great Design Will Make People Love Your Company
 ---
 
 **Book:** Do You Matter?: How Great Design Will Make People Love Your Company

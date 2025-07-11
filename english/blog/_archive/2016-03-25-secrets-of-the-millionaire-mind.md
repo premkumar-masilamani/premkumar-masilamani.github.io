@@ -2,10 +2,11 @@
 layout: post
 lang: english
 type: blog
-title: Secrets of the Millionaire Mind
-date: 2016-03-25
-category: english-blog
+category: []
 permalink: /english/blog/:title/
+
+date: 2016-03-25
+title: Secrets of the Millionaire Mind
 ---
 
 **Book:** Secrets of the Millionaire Mind

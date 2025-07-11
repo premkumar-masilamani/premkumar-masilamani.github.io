@@ -2,13 +2,14 @@
 layout: post
 lang: english
 type: blog
+category: []
+permalink: /english/blog/:title/
+
+date: 2024-08-19
 title: Love for Books
 cover-image: ara-boookshelf-design.jpg
 cover-image-orientation: portrait
 cover-image-credit: Aradhana Premkumar on Amazon Kindle Scribe
-date: 2024-08-19
-category: english-blog
-permalink: /english/blog/:title/
 ---
 
 **Me**: Ara, You should read every day.

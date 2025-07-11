@@ -2,10 +2,11 @@
 layout: post
 lang: english
 type: blog
-title: The Leader Who Had No Title - A modern fable on real success in business and in life
-date: 2010-07-17
-category: english-blog
+category: []
 permalink: /english/blog/:title/
+
+date: 2010-07-17
+title: The Leader Who Had No Title - A modern fable on real success in business and in life
 ---
 
 **Book:** The Leader Who Had No Title

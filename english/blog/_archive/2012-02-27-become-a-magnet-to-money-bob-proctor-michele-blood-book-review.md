@@ -2,10 +2,11 @@
 layout: post
 lang: english
 type: blog
-title: Become A Magnet To Money
-date: 2012-02-27
-category: english-blog
+category: []
 permalink: /english/blog/:title/
+
+date: 2012-02-27
+title: Become A Magnet To Money
 ---
 
 **Book:** Become A Magnet To Money
