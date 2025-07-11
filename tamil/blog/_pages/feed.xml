@@ -11,10 +11,10 @@ title: RSS Feed
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 	<channel>
-		<title>{{ site[page.lang][page.type].title }}</title>
-		<link>{{ site[page.lang][page.type].url }}</link>
-		<description>{{ site[page.lang][page.type].description }}</description>
-		<copyright>{{ site.copyright }}</copyright>
+		<title><![CDATA[{{ site[page.lang][page.type].title }}]]></title>
+		<link><![CDATA[{{ site[page.lang][page.type].url }}]]></link>
+		<description><![CDATA[{{ site[page.lang][page.type].description }}]]></description>
+		<copyright><![CDATA[{{ site.copyright }}]]></copyright>
 		<category>Blogs</category>
 		<language>ta</language>
 		<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
@@ -22,23 +22,23 @@ title: RSS Feed
 		<atom:link href="{{ site[page.lang][page.type].url }}/feed.xml" rel="self" type="application/rss+xml" />
 		<docs>https://www.rssboard.org/rss-specification</docs>
 		<generator>Jekyll Liquid Template in Github</generator>
-		<managingEditor>{{ site[page.lang].email }} ({{ site[page.lang][page.type].author }})</managingEditor>
-		<webMaster>{{ site[page.lang].email }} ({{ site[page.lang][page.type].author }})</webMaster>
+		<managingEditor><![CDATA[{{ site[page.lang].email }} ({{ site[page.lang][page.type].author }})]]></managingEditor>
+		<webMaster><![CDATA[{{ site[page.lang].email }} ({{ site[page.lang][page.type].author }})]]></webMaster>
 
 		{% assign filtered_posts = site.posts | where: "lang", page.lang | where: "type", page.type %}
 		{% assign sorted_posts = filtered_posts | sort: "date" | reverse %}
 
 		{% for post in sorted_posts %}
 			<item>
-				<title>{{ post.title | xml_escape }}</title>
-				<link>{{ site.home }}{{ post.url }}</link>
-				<description>{{ post.content | xml_escape }}</description>
+				<title><![CDATA[{{ post.title }}]]></title>
+				<link><![CDATA[{{ site.home }}{{ post.url }}]]></link>
+				<description><![CDATA[{{ post.content | strip_html | normalize_whitespace }}]]></description>
 				{% if post.author-name %}
-					<author>{{ post.author-email }} ({{ post.author-name }})</author>
+					<author><![CDATA[{{ post.author-email }} ({{ post.author-name }})]]></author>
 				{% else %}
-					<author>{{ site[page.lang].email }} ({{ site[page.lang][page.type].author }})</author>
+					<author><![CDATA[{{ site[page.lang].email }} ({{ site[page.lang][page.type].author }})]]></author>
 				{% endif %}
-				<category>{{ post.category }}</category>
+				<category><![CDATA[{{ post.category }}]]></category>
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
 				<guid isPermaLink="true">{{ site.home }}{{ post.url }}</guid>
 			</item>
