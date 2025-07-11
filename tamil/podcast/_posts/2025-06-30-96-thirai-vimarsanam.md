@@ -2,12 +2,14 @@
 layout: post
 lang: tamil
 type: podcast
+category: []
+permalink: /tamil/podcast/:title/
+
+date: 2025-06-30
 title: 96 - திரைவிமர்சனம்
 cover-image: 96-tamil-movie.jpeg
 cover-image-credit: Downloaded from Spotify Website
-date: 2025-06-30
-category: tamil-podcast
-permalink: /tamil/podcast/:title/
+
 audio-file: test-recording.m4a
 duration: 00:00:06
 season: 01
