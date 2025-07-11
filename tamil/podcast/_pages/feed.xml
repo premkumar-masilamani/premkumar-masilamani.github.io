@@ -67,7 +67,7 @@ artwork: 96-tamil-movie.jpeg
         <itunes:episodeType>full</itunes:episodeType>
         <guid isPermaLink="true">{{ site.home }}{{ post.url }}</guid>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <enclosure url="{{post.audio-file}}" type="audio/mpeg" />
+        <enclosure url="{{ site[page.lang][page.type].gcs_bucket }}/{{post.audio-file}}" length="{{post.audio-length}}" type="audio/mpeg" />
       </item>
     {% endfor %}
   </channel>
