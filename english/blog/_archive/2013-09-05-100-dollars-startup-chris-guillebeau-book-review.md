@@ -2,17 +2,17 @@
 layout: post
 lang: english
 type: blog
-title: $100 Startup - Reinvent the Way You Make a Living, Do What You Love and Create a New Future
-date: 2013-09-05
-category: english-blog
 permalink: /english/blog/:title/
+
+date: 2013-09-05
+title: $100 Startup - Reinvent the Way You Make a Living, Do What You Love and Create a New Future
 ---
 
 **Book:** $100 Startup - Reinvent the Way You Make a Living, Do What You Love and Create a New Future
 **Author:** Chris Guillebeau
 **ISBN-13:** 978-0307951526
 
-We have read business books which talks about starting a business from scratch, maybe a step by step advice on what to do and what not to do. Also, we have seen books with the collection of inspiring stories (Ex. [I have A Dream]({{site[include.lang][include.type].url}}/i-have-a-dream-rashmi-bansal-book-review/), [Connect The Dots]({{site[include.lang][include.type].url}}/connect-the-dots-rashmi-bansal-book-review/)) of the successful entrepreneur who created the business out of nothing. There are numerous books which just have the collection of tips, quotes, fiction (Ex. [Trump - The Way To The Top]({{site[include.lang][include.type].url}}/trump-the-way-to-the-top-donald-j-trump-book-review/), [Ignore Everybody]({{site[include.lang][include.type].url}}/ignore-everybody-hugh-macleod-book-review/), [The Leader Who Had No Title]({{site[include.lang][include.type].url}}/the-leader-who-had-no-title-robin-sharma-book-review/)) etc.,
+We have read business books which talks about starting a business from scratch, maybe a step by step advice on what to do and what not to do. Also, we have seen books with the collection of inspiring stories (Ex. [I have A Dream]({{site[page.lang][page.type].url}}/i-have-a-dream-rashmi-bansal-book-review/), [Connect The Dots]({{site[page.lang][page.type].url}}/connect-the-dots-rashmi-bansal-book-review/)) of the successful entrepreneur who created the business out of nothing. There are numerous books which just have the collection of tips, quotes, fiction (Ex. [Trump - The Way To The Top]({{site[page.lang][page.type].url}}/trump-the-way-to-the-top-donald-j-trump-book-review/), [Ignore Everybody]({{site[page.lang][page.type].url}}/ignore-everybody-hugh-macleod-book-review/), [The Leader Who Had No Title]({{site[page.lang][page.type].url}}/the-leader-who-had-no-title-robin-sharma-book-review/)) etc.,
 
 This book is different from the other categories. This book is a step-by-step practical guide for anyone with an idea or simply a passion, to create a successful business. Also, the success stories of the successful entrepreneurs are sprinkled all over the book at appropriate places. When you read a topic/idea/plan from this book, there is a corresponding real-life success story in the next few pages. The author Chris Guillebeau did collect an extensive amount of data and crammed them into this $100 Startup book in an easy fun to read way. He shows that transforming an idea into a successful business is much easier than ever before. He shows us how to test the idea with a minimum amount of money before jumping straight into the business. He proves that the money we have is enough and there are no excuses left to start.
 

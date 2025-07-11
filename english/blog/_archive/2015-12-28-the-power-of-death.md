@@ -2,10 +2,10 @@
 layout: post
 lang: english
 type: blog
-title: The Power Of Death
-date: 2015-12-28
-category: english-blog
 permalink: /english/blog/:title/
+
+date: 2015-12-28
+title: The Power Of Death
 ---
 
 **Book:** The Power Of Death - A Radical Path to Personal Transformation and Spiritual Enlightenment

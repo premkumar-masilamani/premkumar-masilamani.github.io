@@ -2,10 +2,10 @@
 layout: post
 lang: english
 type: blog
-title: The Monk Who Sold His Ferrari
-date: 2011-12-25
-category: english-blog
 permalink: /english/blog/:title/
+
+date: 2011-12-25
+title: The Monk Who Sold His Ferrari
 ---
 
 **Book:** The Monk Who Sold His Ferrari

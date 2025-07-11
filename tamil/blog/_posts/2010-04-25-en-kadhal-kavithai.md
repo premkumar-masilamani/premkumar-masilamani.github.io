@@ -2,10 +2,10 @@
 layout: post
 lang: tamil
 type: blog
-title: என் காதல்
-date: 2010-04-25
-category: tamil-blog
 permalink: /tamil/blog/:title/
+
+date: 2010-04-25
+title: என் காதல்
 ---
 
 இறந்தே பிறந்த <br/>

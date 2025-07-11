@@ -2,10 +2,10 @@
 layout: post
 lang: tamil
 type: blog
-title: ரொம்ப அழகா இருக்கு
-date: 2011-08-15
-category: tamil-blog
 permalink: /tamil/blog/:title/
+
+date: 2011-08-15
+title: ரொம்ப அழகா இருக்கு
 ---
 
 தமிழ் அழகா? <br/>

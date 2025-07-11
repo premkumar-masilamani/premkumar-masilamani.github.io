@@ -2,10 +2,10 @@
 layout: post
 lang: english
 type: blog
-title: God Instinct - The Psychology of Souls, Destiny and the Meaning of Life
-date: 2013-03-13
-category: english-blog
 permalink: /english/blog/:title/
+
+date: 2013-03-13
+title: God Instinct - The Psychology of Souls, Destiny and the Meaning of Life
 ---
 
 **Book:** God Instinct - The Psychology of Souls, Destiny and the Meaning of Life

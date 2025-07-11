@@ -2,10 +2,10 @@
 layout: post
 lang: english
 type: blog
-title: Goodbye, Daddy!
-date: 2022-09-06
-category: english-blog
 permalink: /english/blog/:title/
+
+date: 2022-09-06
+title: Goodbye, Daddy!
 ---
 
 March 5th, 2022. ~ 6.30 AM PST.

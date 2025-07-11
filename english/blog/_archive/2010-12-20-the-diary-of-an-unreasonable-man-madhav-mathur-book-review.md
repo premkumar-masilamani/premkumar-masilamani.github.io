@@ -2,10 +2,10 @@
 layout: post
 lang: english
 type: blog
-title: The Diary Of An Unreasonable Man
-date: 2010-12-20
-category: english-blog
 permalink: /english/blog/:title/
+
+date: 2010-12-20
+title: The Diary Of An Unreasonable Man
 ---
 
 **Book:** The Diary Of An Unreasonable Man

@@ -2,10 +2,10 @@
 layout: post
 lang: english
 type: blog
-title: How I Braved Anu Aunty & Co-founded A Million Dollar Company
-date: 2014-08-08
-category: english-blog
 permalink: /english/blog/:title/
+
+date: 2014-08-08
+title: How I Braved Anu Aunty & Co-founded A Million Dollar Company
 ---
 
 **Book:** How I Braved Anu Aunty & Co-founded A Million Dollar Company

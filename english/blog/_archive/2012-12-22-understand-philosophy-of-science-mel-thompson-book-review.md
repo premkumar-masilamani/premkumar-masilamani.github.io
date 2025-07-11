@@ -2,10 +2,10 @@
 layout: post
 lang: english
 type: blog
-title: Understand Philosophy of Science - A Teach Yourself Guide
-date: 2012-12-22
-category: english-blog
 permalink: /english/blog/:title/
+
+date: 2012-12-22
+title: Understand Philosophy of Science - A Teach Yourself Guide
 ---
 
 **Book:** Understand Philosophy of Science - A Teach Yourself Guide

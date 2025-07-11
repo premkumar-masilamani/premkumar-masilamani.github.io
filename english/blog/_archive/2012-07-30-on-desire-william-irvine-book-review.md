@@ -2,10 +2,10 @@
 layout: post
 lang: english
 type: blog
-title: On Desire - Why We Want What We Want
-date: 2012-07-30
-category: english-blog
 permalink: /english/blog/:title/
+
+date: 2012-07-30
+title: On Desire - Why We Want What We Want
 ---
 
 **Book:** On Desire: Why We Want What We Want

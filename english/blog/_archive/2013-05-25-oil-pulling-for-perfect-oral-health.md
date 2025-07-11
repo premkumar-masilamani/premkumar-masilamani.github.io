@@ -2,10 +2,10 @@
 layout: post
 lang: english
 type: blog
-title: Oil Pulling for Perfect Oral Health
-date: 2013-05-25
-category: english-blog
 permalink: /english/blog/:title/
+
+date: 2013-05-25
+title: Oil Pulling for Perfect Oral Health
 ---
 
 The more I research about the natural lifestyle, the more I come to know. The recent one is "Oil Pulling". I am excited !.

@@ -2,10 +2,10 @@
 layout: post
 lang: english
 type: blog
-title: Becoming a Writer - A Lifetime Challenge
-date: 2013-12-06
-category: english-blog
 permalink: /english/blog/:title/
+
+date: 2013-12-06
+title: Becoming a Writer - A Lifetime Challenge
 ---
 
 > "I hate writing, I love having written." ― **Dorothy Parker**

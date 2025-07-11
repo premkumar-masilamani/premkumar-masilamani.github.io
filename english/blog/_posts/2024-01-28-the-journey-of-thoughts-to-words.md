@@ -2,10 +2,10 @@
 layout: post
 lang: english
 type: blog
-title: The Journey of Thoughts to Words
-date: 2024-01-28
-category: english-blog
 permalink: /english/blog/:title/
+
+date: 2024-01-28
+title: The Journey of Thoughts to Words
 ---
 
 We think. We all can agree on that. We have no idea where the thoughts are coming from, and we end up flowing through the thoughts throughout the day, or at best, it's a monologue within us. Most of what we think does not make it out to words on paper. I was wondering what would be the fastest way to convert our thoughts to words.

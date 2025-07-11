@@ -2,10 +2,10 @@
 layout: post
 lang: tamil
 type: blog
-title: மீண்டும் நீ வேண்டும் நண்பா
-date: 2010-02-26
-category: tamil-blog
 permalink: /tamil/blog/:title/
+
+date: 2010-02-26
+title: மீண்டும் நீ வேண்டும் நண்பா
 ---
 
 உயிரை உருக்கும் கலை <br/>

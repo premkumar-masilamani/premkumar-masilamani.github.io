@@ -2,10 +2,10 @@
 layout: post
 lang: tamil
 type: blog
-title: கிடைக்குமோ?
-date: 2025-04-19
-category: tamil-blog
 permalink: /tamil/blog/:title/
+
+date: 2025-04-19
+title: கிடைக்குமோ?
 ---
 
 தாய்மடி தேடி அழுகின்ற <br/>

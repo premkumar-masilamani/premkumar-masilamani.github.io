@@ -2,10 +2,10 @@
 layout: post
 lang: english
 type: blog
-title: Will you have more time with me?
-date: 2021-03-02
-category: english-blog
 permalink: /english/blog/:title/
+
+date: 2021-03-02
+title: Will you have more time with me?
 ---
 
 Mar 1st, 2021. ~11.30 PM PST.

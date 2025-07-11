@@ -2,10 +2,10 @@
 layout: post
 lang: tamil
 type: blog
-title: எப்படி சொல்வேன் உனக்கு?
-date: 2010-02-17
-category: tamil-blog
 permalink: /tamil/blog/:title/
+
+date: 2010-02-17
+title: எப்படி சொல்வேன் உனக்கு?
 ---
 
 ஏன்? எதற்கு? எப்படி? <br/>

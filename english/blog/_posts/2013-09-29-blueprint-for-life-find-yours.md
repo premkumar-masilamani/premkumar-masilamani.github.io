@@ -2,10 +2,10 @@
 layout: post
 lang: english
 type: blog
-title: Blueprint for Life - Find Yours
-date: 2013-09-29
-category: english-blog
 permalink: /english/blog/:title/
+
+date: 2013-09-29
+title: Blueprint for Life - Find Yours
 ---
 
 ## What is a Blueprint for Life?

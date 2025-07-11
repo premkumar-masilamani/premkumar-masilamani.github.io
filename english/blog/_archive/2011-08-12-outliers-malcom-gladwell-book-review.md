@@ -2,10 +2,10 @@
 layout: post
 lang: english
 type: blog
-title: Outliers - The Story Of Success
-date: 2011-08-12
-category: english-blog
 permalink: /english/blog/:title/
+
+date: 2011-08-12
+title: Outliers - The Story Of Success
 ---
 
 **Book:** Outliers: The Story Of Success

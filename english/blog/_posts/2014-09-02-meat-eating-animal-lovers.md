@@ -2,10 +2,10 @@
 layout: post
 lang: english
 type: blog
-title: Meat-Eating Animal Lovers
-date: 2014-09-02
-category: english-blog
 permalink: /english/blog/:title/
+
+date: 2014-09-02
+title: Meat-Eating Animal Lovers
 ---
 
 First, let me be clear.

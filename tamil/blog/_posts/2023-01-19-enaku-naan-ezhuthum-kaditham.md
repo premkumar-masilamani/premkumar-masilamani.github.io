@@ -2,10 +2,10 @@
 layout: post
 lang: tamil
 type: blog
-title: எனக்கு நானெழுதும் கடிதம்
-date: 2023-01-19
-category: tamil-blog
 permalink: /tamil/blog/:title/
+
+date: 2023-01-19
+title: எனக்கு நானெழுதும் கடிதம்
 ---
 
 உன்னுடன் பேசு <br/>

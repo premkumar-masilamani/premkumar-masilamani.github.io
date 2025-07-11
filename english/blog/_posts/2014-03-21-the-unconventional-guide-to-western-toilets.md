@@ -2,13 +2,13 @@
 layout: post
 lang: english
 type: blog
-title: The Unconventional Guide to Western Toilets
-date: 2014-03-21
-category: english-blog
 permalink: /english/blog/:title/
+
+date: 2014-03-21
+title: The Unconventional Guide to Western Toilets
 ---
 
-Please read the article "[Indian Toilet vs Western Toilet]({{site[include.lang][include.type].url}}/indian-toilet-vs-western-toilet/)" before reading this post, to understand the concept that's being discussed here. In that article, I strongly suggested installing an eastern-type (squatting type) toilet in your home, which is the best that you can do to your colon. I also understand that it is not quite easy to do, in most of the developed countries. The squatting type toilets are simply not available in the market. What will those poor souls do? Hmm... There must be alternate options right?
+Please read the article "[Indian Toilet vs Western Toilet]({{site[page.lang][page.type].url}}/indian-toilet-vs-western-toilet/)" before reading this post, to understand the concept that's being discussed here. In that article, I strongly suggested installing an eastern-type (squatting type) toilet in your home, which is the best that you can do to your colon. I also understand that it is not quite easy to do, in most of the developed countries. The squatting type toilets are simply not available in the market. What will those poor souls do? Hmm... There must be alternate options right?
 
 Yeah. There are.
 
@@ -20,7 +20,7 @@ Out of nowhere, I got the idea for the below posture. Theists can call it - "Div
 
 ## Posture 1
 
-![Western Toilets Posture 1]({{site[include.lang][include.type].downloads}}/using-western-toilets-posture-1.jpg)
+![Western Toilets Posture 1]({{site[page.lang][page.type].downloads}}/using-western-toilets-posture-1.jpg)
 
 When you try this posture, please keep your legs as wide as possible. You can rest your palms on your legs or the floor if the floor is clean. Since you keep your legs wide, you will have to remove your pants. Yeah. Since you are alone in the loo, that should be OK. Right?. This posture is very comfortable and I use this posture most of the time. There is some minor inconvenience when you start this method.
 
@@ -29,7 +29,7 @@ When you try this posture, please keep your legs as wide as possible. You can re
 
 ## Posture 2
 
-![Western Toilets Posture 2]({{site[include.lang][include.type].downloads}}/using-western-toilets-posture-2.jpg)
+![Western Toilets Posture 2]({{site[page.lang][page.type].downloads}}/using-western-toilets-posture-2.jpg)
 
 This is the enhanced version of the previous posture. This posture reduces the strain on your arms. You can use a bucket or any other object that you have in your bathroom. Please make sure that you bend forward as much as you can (i.e.) use a small bucket or stool. So far, I have not faced any inconveniences using this posture. Please let me know if there are any.
 

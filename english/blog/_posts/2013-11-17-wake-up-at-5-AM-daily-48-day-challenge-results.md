@@ -2,10 +2,10 @@
 layout: post
 lang: english
 type: blog
-title: Wake Up at 5 AM Daily - 48 Day Challenge Results
-date: 2013-11-17
-category: english-blog
 permalink: /english/blog/:title/
+
+date: 2013-11-17
+title: Wake Up at 5 AM Daily - 48 Day Challenge Results
 ---
 
 "Thank you" Robin Sharma for making me understand the importance of waking up early and Steve Pavlina for giving me the practical tip to wake up early. I started this challenge on 20-Aug-2013 and missed waking up early on 29-Sep-2013. I am human right?. I restarted the challenge and finished it successfully on 10-Nov-2013. The past few weeks were the most productive weeks of my life. I was able to achieve more than I thought was possible. Though I did not become a celebrity in the last few weeks (obviously that was not my goal), I am better/more mature than I was before.
@@ -34,7 +34,7 @@ One such assumption that I made along the way was - "I must switch from the IT i
 
 > "My [blueprint][bp-url] for life is no longer non-negotiable. It will adapt and evolve."
 
-[bp-url]: {{site[include.lang][include.type].url}}/blueprint-for-life-find-yours/
+[bp-url]: {{site[page.lang][page.type].url}}/blueprint-for-life-find-yours/
 
 **Respect Social Pressure** - Whenever I take up any challenge, I follow the below idea by Robin Sharma.
 
@@ -50,7 +50,7 @@ Man being a social creature, must depend on others for life and love. I decided 
 
 * **Migrated my blog to Jekyll** - It took two weeks of effort to learn the concepts, technology & framework and migrate from the blogger platform to GitHub. I now blog from VIM editor and [feeling epic][epic-link] :)
 
-[epic-link]: {{site[include.lang][include.type].url}}/blog-like-a-programmer/
+[epic-link]: {{site[page.lang][page.type].url}}/blog-like-a-programmer/
 
 * **Started learning new programming languages** - Started learning Ruby & Dart and started using GitHub as the repository for my open-source projects.
 

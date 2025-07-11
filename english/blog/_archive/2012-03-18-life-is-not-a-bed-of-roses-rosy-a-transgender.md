@@ -2,10 +2,10 @@
 layout: post
 lang: english
 type: blog
-title: Life is not a bed of roses - Rosy, A Transgender
-date: 2012-03-18
-category: english-blog
 permalink: /english/blog/:title/
+
+date: 2012-03-18
+title: Life is not a bed of roses - Rosy, A Transgender
 ---
 
 **This is a guest post by Sruthi Kitcha. Thank you Sruthi.**

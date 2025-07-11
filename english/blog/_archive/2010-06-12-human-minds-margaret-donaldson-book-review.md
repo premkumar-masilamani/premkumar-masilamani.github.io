@@ -2,10 +2,10 @@
 layout: post
 lang: english
 type: blog
-title: Human Minds - An Exploration
-date: 2010-06-12
-category: english-blog
 permalink: /english/blog/:title/
+
+date: 2010-06-12
+title: Human Minds - An Exploration
 ---
 
 **Book:** Human Minds - An Exploration

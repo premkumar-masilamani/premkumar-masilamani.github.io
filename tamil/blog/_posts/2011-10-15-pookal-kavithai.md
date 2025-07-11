@@ -2,10 +2,10 @@
 layout: post
 lang: tamil
 type: blog
-title: பூக்கள்
-date: 2011-10-15
-category: tamil-blog
 permalink: /tamil/blog/:title/
+
+date: 2011-10-15
+title: பூக்கள்
 ---
 
 பூக்கள் சிரித்து முத்தமிடும் <br/>

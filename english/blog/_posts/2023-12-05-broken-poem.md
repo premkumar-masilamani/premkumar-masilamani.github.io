@@ -2,10 +2,10 @@
 layout: post
 lang: english
 type: blog
-title: Broken
-date: 2023-12-05
-category: english-blog
 permalink: /english/blog/:title/
+
+date: 2023-12-05
+title: Broken
 ---
 
 I am a fish <br/>

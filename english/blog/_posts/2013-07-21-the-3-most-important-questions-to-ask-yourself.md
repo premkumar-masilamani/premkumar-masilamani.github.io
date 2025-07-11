@@ -2,10 +2,10 @@
 layout: post
 lang: english
 type: blog
-title: The 3 Most Important Questions to Ask Yourself
-date: 2013-07-21
-category: english-blog
 permalink: /english/blog/:title/
+
+date: 2013-07-21
+title: The 3 Most Important Questions to Ask Yourself
 ---
 
 <br/>

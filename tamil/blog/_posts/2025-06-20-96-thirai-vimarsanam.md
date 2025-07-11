@@ -2,12 +2,12 @@
 layout: post
 lang: tamil
 type: blog
+permalink: /tamil/blog/:title/
+
+date: 2025-06-20
 title: 96 - திரைவிமர்சனம்
 cover-image: 96-tamil-movie.jpeg
 cover-image-credit: Downloaded from Spotify Website
-date: 2025-06-20
-category: tamil-blog
-permalink: /tamil/blog/:title/
 ---
 
 ஒவ்வொரு காட்சியும் <br/>

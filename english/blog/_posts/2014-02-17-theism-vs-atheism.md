@@ -2,10 +2,10 @@
 layout: post
 lang: english
 type: blog
-title: Theism Vs Atheism
-date: 2014-02-17
-category: english-blog
 permalink: /english/blog/:title/
+
+date: 2014-02-17
+title: Theism Vs Atheism
 ---
 
 Imagine, you are in a vast grassland. So vast that the land seems to stretch beyond the horizon. The grass is small and the land is even (comfortably motor-able). The weather is good. You see a car parked with a full tank of gasoline. You can drive as fast as you want, in any direction you want, and as long as the gasoline lasts. There is no destination to reach. You are here to enjoy the ride. You start driving the car, enjoying the music and cool breeze. You are in full control of your life. You feel blissful for the moment.

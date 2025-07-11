@@ -2,10 +2,10 @@
 layout: post
 lang: tamil
 type: blog
-title: என்னுயிர் தோழிக்கு
-date: 2010-09-05
-category: tamil-blog
 permalink: /tamil/blog/:title/
+
+date: 2010-09-05
+title: என்னுயிர் தோழிக்கு
 ---
 
 வெள்ளி மழையில் தங்கச்சிலை <br/>

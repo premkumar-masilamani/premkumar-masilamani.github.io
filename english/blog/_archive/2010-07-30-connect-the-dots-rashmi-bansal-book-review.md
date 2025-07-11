@@ -2,10 +2,10 @@
 layout: post
 lang: english
 type: blog
-title: Connect the Dots
-date: 2010-07-30
-category: english-blog
 permalink: /english/blog/:title/
+
+date: 2010-07-30
+title: Connect the Dots
 ---
 
 **Book:** Connect The Dots

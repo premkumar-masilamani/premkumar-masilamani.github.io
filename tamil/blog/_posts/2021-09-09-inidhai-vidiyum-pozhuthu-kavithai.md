@@ -2,10 +2,10 @@
 layout: post
 lang: tamil
 type: blog
-title: இனிதாய் விடியும் பொழுது
-date: 2021-09-09
-category: tamil-blog
 permalink: /tamil/blog/:title/
+
+date: 2021-09-09
+title: இனிதாய் விடியும் பொழுது
 ---
 
 இனிதாய் விடியும் பொழுது <br/>

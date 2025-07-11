@@ -2,10 +2,10 @@
 layout: post
 lang: tamil
 type: blog
-title: பிரிவறியேன்
-date: 2019-01-01
-category: tamil-blog
 permalink: /tamil/blog/:title/
+
+date: 2019-01-01
+title: பிரிவறியேன்
 ---
 
 பால்வெளியும் அவள் மடியாய் <br/>

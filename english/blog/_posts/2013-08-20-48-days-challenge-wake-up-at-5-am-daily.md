@@ -2,10 +2,10 @@
 layout: post
 lang: english
 type: blog
-title: 48 Days Challenge - Wake up at 5 AM Daily
-date: 2013-08-20
-category: english-blog
 permalink: /english/blog/:title/
+
+date: 2013-08-20
+title: 48 Days Challenge - Wake up at 5 AM Daily
 ---
 
 **5 AM Club** - Robin Sharma mentions the importance of rising early in almost all of his books/speeches/blogs etc. I tried to join the 5 AM club before with little success. I was very inconsistent and eventually stopped it. Steve Pavlina suggested a simple but powerful tip in this blog post [How to Become an Early Riser](http://www.stevepavlina.com/blog/2005/05/how-to-become-an-early-riser/), which helped me to wake up at 6 AM daily for about 6 months until I came back to India.

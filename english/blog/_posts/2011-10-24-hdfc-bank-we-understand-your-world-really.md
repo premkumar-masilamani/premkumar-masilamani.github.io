@@ -2,10 +2,10 @@
 layout: post
 lang: english
 type: blog
-title: HDFC Bank - "We understand your world" - Really?
-date: 2011-10-24
-category: english-blog
 permalink: /english/blog/:title/
+
+date: 2011-10-24
+title: HDFC Bank - "We understand your world" - Really?
 ---
 
 Why this post? What is it that I want to communicate to the world about HDFC Bank? Just my recent bitter experiences with HDFC. I have been banking with HDFC for the past 7 years. I am one of the high-value card members who always pays in full and never defaulted on a single payment in my life. Here is what happened...

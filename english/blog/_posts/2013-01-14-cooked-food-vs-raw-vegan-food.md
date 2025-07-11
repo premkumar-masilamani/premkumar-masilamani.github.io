@@ -2,10 +2,10 @@
 layout: post
 lang: english
 type: blog
-title: Cooked Food Vs Raw Vegan Food
-date: 2013-01-14
-category: english-blog
 permalink: /english/blog/:title/
+
+date: 2013-01-14
+title: Cooked Food Vs Raw Vegan Food
 ---
 
 **Common Myth:** Raw food eaters are skinny and it's impossible for them to pack on muscles.

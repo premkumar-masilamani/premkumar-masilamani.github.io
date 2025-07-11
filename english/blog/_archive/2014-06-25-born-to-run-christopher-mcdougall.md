@@ -2,10 +2,10 @@
 layout: post
 lang: english
 type: blog
-title: Born to Run
-date: 2014-06-25
-category: english-blog
 permalink: /english/blog/:title/
+
+date: 2014-06-25
+title: Born to Run
 ---
 
 **Book:** Born to Run

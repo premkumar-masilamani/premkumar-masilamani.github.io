@@ -2,10 +2,10 @@
 layout: post
 lang: tamil
 type: blog
-title: நீ
-date: 2010-02-19
-category: tamil-blog
 permalink: /tamil/blog/:title/
+
+date: 2010-02-19
+title: நீ
 ---
 
 என் இரவினில் கவிதைகள் <br/>

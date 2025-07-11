@@ -2,10 +2,10 @@
 layout: post
 lang: english
 type: blog
-title: Fat Acceptance?
-date: 2014-05-02
-category: english-blog
 permalink: /english/blog/:title/
+
+date: 2014-05-02
+title: Fat Acceptance?
 ---
 
 I recently stumbled upon this blog "The Body Love Blog" where a young lady posted the bikini pose of her big body with fuming comments about what other people have said about her body. I am sorry for what she has gone through and I strongly object to anyone who mocks at obese people. You can, of course, provide constructive feedback and help. This blog post triggered a series of thoughts and I dug a little into the fat world and found that a lot of activities are going on that I am not aware of.

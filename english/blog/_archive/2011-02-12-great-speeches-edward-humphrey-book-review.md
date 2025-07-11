@@ -2,10 +2,10 @@
 layout: post
 lang: english
 type: blog
-title: Great Speeches - Words That Shaped The World
-date: 2011-02-12
-category: english-blog
 permalink: /english/blog/:title/
+
+date: 2011-02-12
+title: Great Speeches - Words That Shaped The World
 ---
 
 **Book:** Great Speeches

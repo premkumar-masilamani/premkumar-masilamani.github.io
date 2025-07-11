@@ -2,10 +2,10 @@
 layout: post
 lang: tamil
 type: blog
-title: போதை தரும் பேதையா?
-date: 2019-03-31
-category: tamil-blog
 permalink: /tamil/blog/:title/
+
+date: 2019-03-31
+title: போதை தரும் பேதையா?
 ---
 
 போதை தரும் பேதையா? <br/>

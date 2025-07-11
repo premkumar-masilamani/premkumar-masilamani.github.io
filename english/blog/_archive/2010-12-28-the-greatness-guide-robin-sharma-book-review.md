@@ -2,10 +2,10 @@
 layout: post
 lang: english
 type: blog
-title: The Greatness Guide
-date: 2010-12-28
-category: english-blog
 permalink: /english/blog/:title/
+
+date: 2010-12-28
+title: The Greatness Guide
 ---
 
 **Book:** The Greatness Guide

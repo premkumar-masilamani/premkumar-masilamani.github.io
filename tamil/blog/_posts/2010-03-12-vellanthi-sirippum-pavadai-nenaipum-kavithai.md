@@ -2,10 +2,10 @@
 layout: post
 lang: tamil
 type: blog
-title: வெள்ளந்தி சிரிப்பும், பாவாடை நெனைப்பும்
-date: 2010-03-12
-category: tamil-blog
 permalink: /tamil/blog/:title/
+
+date: 2010-03-12
+title: வெள்ளந்தி சிரிப்பும், பாவாடை நெனைப்பும்
 ---
 
 மத்தியான வேலையில <br/>

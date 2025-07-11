@@ -2,12 +2,12 @@
 layout: post
 lang: english
 type: blog
+permalink: /english/blog/:title/
+
+date: 2024-12-08
 title: Bitcoin - Currency or Commodity?
 cover-image: bitcoin.jpg
 cover-image-credit: Generated using Meta AI in Whatsapp
-date: 2024-12-08
-category: english-blog
-permalink: /english/blog/:title/
 ---
 
 ## Satoshi's Vision

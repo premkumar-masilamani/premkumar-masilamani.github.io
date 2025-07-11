@@ -2,10 +2,10 @@
 layout: post
 lang: tamil
 type: blog
-title: ஒரு கவிதையின் பயணம்
-date: 2011-08-18
-category: tamil-blog
 permalink: /tamil/blog/:title/
+
+date: 2011-08-18
+title: ஒரு கவிதையின் பயணம்
 ---
 
 கம்பனும் தாமரையும் <br/>

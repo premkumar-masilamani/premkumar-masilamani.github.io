@@ -2,12 +2,12 @@
 layout: post
 lang: english
 type: blog
+permalink: /english/blog/:title/
+
+date: 2024-09-23
 title: Questions or Silence?
 cover-image: questions-silence.jpg
 cover-image-credit: Generated using Meta AI in Whatsapp
-date: 2024-09-23
-category: english-blog
-permalink: /english/blog/:title/
 ---
 
 This is not a conclusion, merely an exploration.

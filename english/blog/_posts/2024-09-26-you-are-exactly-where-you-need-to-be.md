@@ -2,10 +2,10 @@
 layout: post
 lang: english
 type: blog
-title: You are exactly where you need to be... What?
-date: 2024-09-26
-category: english-blog
 permalink: /english/blog/:title/
+
+date: 2024-09-26
+title: You are exactly where you need to be... What?
 ---
 
 Let's go back to 6th Aug 1945, 8 AM in Hiroshima or Nagasaki. Let's tell everyone, "You are exactly where you need to be".

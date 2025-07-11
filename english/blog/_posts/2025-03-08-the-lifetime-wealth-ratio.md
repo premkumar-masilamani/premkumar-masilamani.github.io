@@ -2,12 +2,12 @@
 layout: post
 lang: english
 type: blog
+permalink: /english/blog/:title/
+
+date: 2025-03-08
 title: The Lifetime Wealth Ratio
 cover-image: lifetime-wealth-ratio.jpg
 cover-image-credit: Generated using Meta AI in Whatsapp
-date: 2025-03-08
-category: english-blog
-permalink: /english/blog/:title/
 ---
 
 ## Financial Competency

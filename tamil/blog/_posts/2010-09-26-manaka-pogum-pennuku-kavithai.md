@@ -2,10 +2,10 @@
 layout: post
 lang: tamil
 type: blog
-title: மணக்க போகும் பெண்ணுக்கு
-date: 2010-09-26
-category: tamil-blog
 permalink: /tamil/blog/:title/
+
+date: 2010-09-26
+title: மணக்க போகும் பெண்ணுக்கு
 ---
 
 பௌர்ணமி நிலவில் <br/>

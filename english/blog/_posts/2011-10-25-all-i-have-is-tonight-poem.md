@@ -2,10 +2,10 @@
 layout: post
 lang: english
 type: blog
-title: All I have is Tonight!
-date: 2011-10-25
-category: english-blog
 permalink: /english/blog/:title/
+
+date: 2011-10-25
+title: All I have is Tonight!
 ---
 
 I wish I could hold time <br/>

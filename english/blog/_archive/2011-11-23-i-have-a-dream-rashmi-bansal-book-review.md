@@ -2,10 +2,10 @@
 layout: post
 lang: english
 type: blog
-title: I Have A Dream
-date: 2011-11-23
-category: english-blog
 permalink: /english/blog/:title/
+
+date: 2011-11-23
+title: I Have A Dream
 ---
 
 **Book:** I Have A Dream

@@ -2,10 +2,10 @@
 layout: post
 lang: english
 type: blog
-title: Why do I have to use my willpower?
-date: 2024-02-13
-category: english-blog
 permalink: /english/blog/:title/
+
+date: 2024-02-13
+title: Why do I have to use my willpower?
 ---
 
 > **Willpower** - control exerted to do something or restrain impulses.

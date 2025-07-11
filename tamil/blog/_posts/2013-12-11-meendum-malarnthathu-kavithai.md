@@ -2,10 +2,10 @@
 layout: post
 lang: tamil
 type: blog
-title: மீண்டும் மலர்ந்தது
-date: 2013-12-11
-category: tamil-blog
 permalink: /tamil/blog/:title/
+
+date: 2013-12-11
+title: மீண்டும் மலர்ந்தது
 ---
 
 முன்னிரவு நேரம் <br/>

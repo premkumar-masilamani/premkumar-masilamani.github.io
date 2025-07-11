@@ -2,10 +2,10 @@
 layout: post
 lang: english
 type: blog
-title: 97 Things Every Software Architect Should Know - Collective Wisdom from the Experts
-date: 2013-06-27
-category: english-blog
 permalink: /english/blog/:title/
+
+date: 2013-06-27
+title: 97 Things Every Software Architect Should Know - Collective Wisdom from the Experts
 ---
 
 **Book:** 97 Things Every Software Architect Should Know

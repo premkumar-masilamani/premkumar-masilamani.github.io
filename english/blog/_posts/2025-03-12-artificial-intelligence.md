@@ -2,12 +2,12 @@
 layout: post
 lang: english
 type: blog
+permalink: /english/blog/:title/
+
+date: 2025-03-12
 title: Artificial Intelligence
 cover-image: artificial-intelligence.png
 cover-image-credit: Generated using DALL-E in ChatGPT
-date: 2025-03-12
-category: english-blog
-permalink: /english/blog/:title/
 ---
 
 ## What is Intelligence?

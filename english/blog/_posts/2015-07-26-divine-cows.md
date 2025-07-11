@@ -2,10 +2,10 @@
 layout: post
 lang: english
 type: blog
-title: Divine Cows
-date: 2015-07-26
-category: english-blog
 permalink: /english/blog/:title/
+
+date: 2015-07-26
+title: Divine Cows
 ---
 
 **Divine** - of, relating to, or characterizing God or a deity.

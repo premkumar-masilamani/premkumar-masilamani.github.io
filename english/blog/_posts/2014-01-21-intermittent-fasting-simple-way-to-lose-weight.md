@@ -2,10 +2,10 @@
 layout: post
 lang: english
 type: blog
-title: Intermittent Fasting - Simple way to lose weight
-date: 2014-01-21
-category: english-blog
 permalink: /english/blog/:title/
+
+date: 2014-01-21
+title: Intermittent Fasting - Simple way to lose weight
 ---
 
 Last night, when we were about to retire to bed, my wife said, "Mama, Shall we eat raw vegan twice a week?".
@@ -22,7 +22,7 @@ However, the raw vegan diet would be very tough on her at this moment. I suggest
 
 Before I explain what this is, let's see how our body digests and absorbs the energy from food.
 
-![Intermittent Fasting States]({{site[include.lang][include.type].downloads}}/intermittent-fasting-states.jpg)
+![Intermittent Fasting States]({{site[page.lang][page.type].downloads}}/intermittent-fasting-states.jpg)
 
 This is what happens when we eat food. Our body will be in a "Fed State" as soon as we eat (spending time & energy to digest the food and absorb the energy). This state lasts for 3 - 5 hours. Next comes the "Post-Absorptive State", where our body is not doing anything related to digestion or absorption. This state lasts for 8 - 12 hours after your last meal. Then comes the most attractive "Fasted State". This is the natural fat-burning state of our body, which most of us never experience.
 
@@ -41,7 +41,7 @@ There are hundreds of ways to do Intermittent Fasting. Google it. The one I am i
 
 The below diagram depicts the typical week of intermittent fasting.
 
-![Intermittent Fasting States]({{site[include.lang][include.type].downloads}}/leangains-daily-intermittent-fasting.jpg)
+![Intermittent Fasting States]({{site[page.lang][page.type].downloads}}/leangains-daily-intermittent-fasting.jpg)
 
 ## Questions
 

@@ -2,18 +2,19 @@
 layout: empty
 lang: tamil
 type: podcast
-date: 2025-06-30
-artwork: 96-tamil-movie.jpeg
-category: tamil-podcast
 permalink: /tamil/podcast/feed.xml
+
+date: 2025-06-30
+title: RSS Feed
+artwork: 96-tamil-movie.jpeg
 ---
 
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
   <channel>
-    <title>{{ site[page.lang][page.type].title }}</title>
-    <link>{{ site[page.lang][page.type].url }}</link>
-    <description>{{ site[page.lang][page.type].description }}</description>
-    <copyright>{{ site[page.lang][page.type].author }}</copyright>
+    <title><![CDATA[{{ site[page.lang][page.type].title }}]]></title>
+    <link><![CDATA[{{ site[page.lang][page.type].url }}]]></link>
+    <description><![CDATA[{{ site[page.lang][page.type].description }}]]></description>
+    <copyright><![CDATA[{{ site[page.lang][page.type].author }}]]></copyright>
     <language>ta</language>
     <category>Podcasts</category>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
@@ -22,14 +23,14 @@ permalink: /tamil/podcast/feed.xml
     <generator>Jekyll Liquid Template in GitHub</generator>
     <atom:link href="{{ site[page.lang][page.type].url }}/feed.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
-    <author>{{ site[page.lang][page.type].author }}</author>
-    <managingEditor>{{ site.email }} ({{ site[page.lang][page.type].author }})</managingEditor>
-    <webMaster>{{ site.email }} ({{ site[page.lang][page.type].author }})</webMaster>
-    <itunes:author>{{ site[page.lang][page.type].author }}</itunes:author>
-    <itunes:summary>{{ site[page.lang][page.type].description }}</itunes:summary>
+    <author><![CDATA[{{ site[page.lang][page.type].author }}]]></author>
+    <managingEditor><![CDATA[{{ site.email }} ({{ site[page.lang][page.type].author }})]]></managingEditor>
+    <webMaster><![CDATA[{{ site.email }} ({{ site[page.lang][page.type].author }})]]></webMaster>
+    <itunes:author><![CDATA[{{ site[page.lang][page.type].author }}]]></itunes:author>
+    <itunes:summary><![CDATA[{{ site[page.lang][page.type].description }}]]></itunes:summary>
     <itunes:owner>
-      <itunes:name>{{ site[page.lang][page.type].author }}</itunes:name>
-      <itunes:email>{{ site.email }}</itunes:email>
+      <itunes:name><![CDATA[{{ site[page.lang][page.type].author }}]]></itunes:name>
+      <itunes:email><![CDATA[{{ site.email }}]]></itunes:email>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="{{ site[page.lang][page.type].downloads }}/{{page.artwork}}" />
@@ -43,11 +44,13 @@ permalink: /tamil/podcast/feed.xml
 
     {% for post in sorted_posts %}
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <link>{{ site.home }}{{ post.url }}</link>
-        <description>{{ post.content | xml_escape }}</description>
-        <dc:creator>{{ site[page.lang][page.type].author }}</dc:creator>
-        <itunes:summary>{{ post.content | xml_escape }}</itunes:summary>
+        <title><![CDATA[{{ post.title }}]]></title>
+        <link><![CDATA[{{ site.home }}{{ post.url }}]]></link>
+        <description><![CDATA[{{ post.content | strip_html | normalize_whitespace }}]]></description>
+        <content:encoded><![CDATA[{{ post.content | strip_html | normalize_whitespace }}]]></content:encoded>
+        <dc:creator><![CDATA[{{ site[page.lang][page.type].author }}]]></dc:creator>
+        <itunes:author><![CDATA[{{ site[page.lang][page.type].author }}]]></itunes:author>
+        <itunes:summary><![CDATA[{{ post.content | strip_html | normalize_whitespace }}]]></itunes:summary>
         <itunes:explicit>false</itunes:explicit>
         {% if post.cover-image %}
           <itunes:image href="{{ site[page.lang][page.type].downloads }}/{{post.cover-image}}" />
@@ -64,7 +67,7 @@ permalink: /tamil/podcast/feed.xml
         <itunes:episodeType>full</itunes:episodeType>
         <guid isPermaLink="true">{{ site.home }}{{ post.url }}</guid>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <enclosure url="{{ site[page.lang][page.type].downloads }}/{{post.audio-file}}" type="audio/mpeg" />
+        <enclosure url="{{post.audio-file}}" type="audio/mpeg" />
       </item>
     {% endfor %}
   </channel>

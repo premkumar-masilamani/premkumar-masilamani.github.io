@@ -2,10 +2,10 @@
 layout: post
 lang: tamil
 type: blog
-title: ஒரு ஹைக்கூ கவிதை
-date: 2009-03-06
-category: tamil-blog
 permalink: /tamil/blog/:title/
+
+date: 2009-03-06
+title: ஒரு ஹைக்கூ கவிதை
 ---
 
 பல நூறு நண்பர்கள் மத்தியிலும் <br/>

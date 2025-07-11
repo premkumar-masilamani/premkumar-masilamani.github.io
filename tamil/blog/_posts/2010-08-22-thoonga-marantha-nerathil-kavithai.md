@@ -2,10 +2,10 @@
 layout: post
 lang: tamil
 type: blog
-title: தூங்க மறந்த நேரத்தில்
-date: 2010-08-22
-category: tamil-blog
 permalink: /tamil/blog/:title/
+
+date: 2010-08-22
+title: தூங்க மறந்த நேரத்தில்
 ---
 
 கவிதை பூக்களால் ஒரு தோட்டம் <br/>

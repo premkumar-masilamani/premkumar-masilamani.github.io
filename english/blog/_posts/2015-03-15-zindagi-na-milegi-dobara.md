@@ -2,10 +2,10 @@
 layout: post
 lang: english
 type: blog
-title: Zindagi Na Milegi Dobara - You Don't Get Life a Second Time
-date: 2015-03-15
-category: english-blog
 permalink: /english/blog/:title/
+
+date: 2015-03-15
+title: Zindagi Na Milegi Dobara - You Don't Get Life a Second Time
 ---
 
 I urge everyone to watch this movie, irrespective of your Hindi knowledge. The only sentence that I can speak with confidence in Hindi is, "Mera naam Prem. Aapka naam kya hai?". Seriously, that's all I know. The language doesn't matter. Watch it with the subtitles, like I did.
@@ -32,7 +32,7 @@ I am not asking everyone to stop everything and backpack to Europe or Australia.
 
 I liked the entire movie, but one question struck me so hard... really hard that I paused and sunk into deep thoughts.
 
-![Zindagi Na Milegi Dobara]({{site[include.lang][include.type].downloads}}/zindagi-na-milegi-dobara-soul-question.jpg)
+![Zindagi Na Milegi Dobara]({{site[page.lang][page.type].downloads}}/zindagi-na-milegi-dobara-soul-question.jpg)
 
 **Do you write anything to feed your own soul?**
 
