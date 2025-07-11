@@ -1,27 +1,26 @@
-# Define variables
-VENV = venv
-PYTHON = $(VENV)/bin/python
-PIP = $(VENV)/bin/pip
+.PHONY: setup
+setup:
+	@echo "Creating virtual environment..."
+	pipenv shell
 
-# Default target
-all: run
+.PHONY: show
+show:
+	@echo "Listing dependencies..."
+	pipenv graph
 
-# Create virtual environment
-$(VENV):
-	python3 -m venv $(VENV)
+.PHONY: check
+check:
+	make link
+	make profanity
 
-# Install dependencies
-deps: $(VENV)
-	$(PIP) install -r requirements.txt
+.PHONY: link
+link:
+	python3 src/link_checker.py
 
-# Run the script inside the virtual environment
-run: deps
-	$(PYTHON) link_checker.py
-	$(PYTHON) profanity_checker.py
+.PHONY: profanity
+profanity:
+	python3 src/profanity_checker.py
 
-# Clean the virtual environment
-clean:
-	rm -rf $(VENV)
-
-# Recreate virtual environment and run
-rebuild: clean all
+.PHONY: mp3
+mp3:
+	python3 src/convert_mp3.py
