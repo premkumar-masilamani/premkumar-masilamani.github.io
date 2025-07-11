@@ -2,10 +2,11 @@
 layout: post
 lang: tamil
 type: blog
-title: ஏனடி அழைத்தாய்?
-date: 2010-03-01
-category: tamil-blog
+category: []
 permalink: /tamil/blog/:title/
+
+date: 2010-03-01
+title: ஏனடி அழைத்தாய்?
 ---
 
 ஏனடி அழைத்தாய்? <br/>

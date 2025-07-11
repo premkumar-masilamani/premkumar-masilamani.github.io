@@ -2,10 +2,11 @@
 layout: post
 lang: tamil
 type: blog
-title: பார்க்க வேண்டும் ஒரு முறை
-date: 2010-02-28
-category: tamil-blog
+category: []
 permalink: /tamil/blog/:title/
+
+date: 2010-02-28
+title: பார்க்க வேண்டும் ஒரு முறை
 ---
 
 அந்த நீல நிற மேலாடை <br/>

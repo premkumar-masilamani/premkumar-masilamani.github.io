@@ -2,10 +2,11 @@
 layout: post
 lang: tamil
 type: blog
-title: ரணம் சுகம் - புத்தகவிமர்சனம்.
-date: 2010-06-21
-category: tamil-blog
+category: []
 permalink: /tamil/blog/:title/
+
+date: 2010-06-21
+title: ரணம் சுகம் - புத்தகவிமர்சனம்
 ---
 
 "காயம் தந்த முட்களுக்கு நன்றி"

@@ -2,10 +2,11 @@
 layout: post
 lang: tamil
 type: blog
-title: பிரிவென்னும் ஒரு சொல்
-date: 2011-12-26
-category: tamil-blog
+category: []
 permalink: /tamil/blog/:title/
+
+date: 2011-12-26
+title: பிரிவென்னும் ஒரு சொல்
 ---
 
 பிரிவென்னும் ஒரு சொல்லின், அறியாத பொருளொன்று <br/>

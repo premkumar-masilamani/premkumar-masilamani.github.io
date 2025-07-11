@@ -2,12 +2,13 @@
 layout: post
 lang: tamil
 type: blog
+category: []
+permalink: /tamil/blog/:title/
+
+date: 2010-03-14
 title: விண்ணைத்தாண்டி வருவாயா - திரைவிமர்சனம்
 cover-image: vinnai-thandi-varuvaya-tamil-movie.jpeg
 cover-image-credit: Downloaded from Spotify Website
-date: 2010-03-14
-category: tamil-blog
-permalink: /tamil/blog/:title/
 ---
 
 கள்வனை காட்டிய கைகள் <br/>

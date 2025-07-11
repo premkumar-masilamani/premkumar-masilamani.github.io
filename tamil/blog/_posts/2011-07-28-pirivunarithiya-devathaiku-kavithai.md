@@ -2,10 +2,11 @@
 layout: post
 lang: tamil
 type: blog
-title: பிரிவுணர்த்திய தேவதைக்கு
-date: 2011-07-28
-category: tamil-blog
+category: []
 permalink: /tamil/blog/:title/
+
+date: 2011-07-28
+title: பிரிவுணர்த்திய தேவதைக்கு
 ---
 
 உலகத்தின் மறுபக்கம் நீ இருந்தாலும் <br/>

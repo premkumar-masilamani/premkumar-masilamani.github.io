@@ -2,10 +2,11 @@
 layout: post
 lang: tamil
 type: blog
-title: தேவதையே தேவதையே
-date: 2011-10-07
-category: tamil-blog
+category: []
 permalink: /tamil/blog/:title/
+
+date: 2011-10-07
+title: தேவதையே தேவதையே
 ---
 
 வானவில்லில் கருவண்ணம் காணாமல் போனதென்ன <br/>

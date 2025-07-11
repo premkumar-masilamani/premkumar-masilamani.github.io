@@ -2,10 +2,11 @@
 layout: post
 lang: tamil
 type: blog
-title: தொண்ணூறு வயசுல
-date: 2011-08-09
-category: tamil-blog
+category: []
 permalink: /tamil/blog/:title/
+
+date: 2011-08-09
+title: தொண்ணூறு வயசுல
 ---
 
 தொண்ணூறு வயசுல <br/>

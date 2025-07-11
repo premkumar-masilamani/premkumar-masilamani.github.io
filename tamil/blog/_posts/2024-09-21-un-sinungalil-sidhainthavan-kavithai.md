@@ -2,10 +2,11 @@
 layout: post
 lang: tamil
 type: blog
-title: உன் சிணுங்களில் சிதைந்தவன்
-date: 2024-09-21
-category: tamil-blog
+category: []
 permalink: /tamil/blog/:title/
+
+date: 2024-09-21
+title: உன் சிணுங்களில் சிதைந்தவன்
 ---
 
 சந்தனத் தமிழை <br/>

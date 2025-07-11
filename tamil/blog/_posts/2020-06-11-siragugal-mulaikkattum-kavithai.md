@@ -2,10 +2,11 @@
 layout: post
 lang: tamil
 type: blog
-title: சிறகுகள் முளைக்கட்டும்
-date: 2020-06-11
-category: tamil-blog
+category: []
 permalink: /tamil/blog/:title/
+
+date: 2020-06-11
+title: சிறகுகள் முளைக்கட்டும்
 ---
 
 பரந்த வானில் <br/>

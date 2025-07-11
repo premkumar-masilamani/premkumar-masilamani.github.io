@@ -2,10 +2,11 @@
 layout: post
 lang: tamil
 type: blog
-title: கனவோடு கலைபவளே
-date: 2010-09-09
-category: tamil-blog
+category: []
 permalink: /tamil/blog/:title/
+
+date: 2010-09-09
+title: கனவோடு கலைபவளே
 ---
 
 என் மார்பில் படுத்து நீ உறங்க <br/>

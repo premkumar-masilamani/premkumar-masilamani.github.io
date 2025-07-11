@@ -2,10 +2,11 @@
 layout: post
 lang: tamil
 type: blog
-title: இப்படிக்கு நான் - 4
-date: 2025-01-22
-category: tamil-blog
+category: []
 permalink: /tamil/blog/:title/
+
+date: 2025-01-22
+title: இப்படிக்கு நான் - 4
 ---
 
 என்னடா ஆச்சு உனக்கு?. முழு பைத்தியக்காரனாக ஆகவில்லையே இன்னும்?

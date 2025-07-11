@@ -2,10 +2,11 @@
 layout: post
 lang: tamil
 type: blog
-title: கிடைக்காத தருணங்கள்
-date: 2024-07-20
-category: tamil-blog
+category: []
 permalink: /tamil/blog/:title/
+
+date: 2024-07-20
+title: கிடைக்காத தருணங்கள்
 ---
 
 ஒரு பார்வை <br/>

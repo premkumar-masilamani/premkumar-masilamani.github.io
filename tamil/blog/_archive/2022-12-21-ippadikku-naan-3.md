@@ -2,10 +2,11 @@
 layout: post
 lang: tamil
 type: blog
-title: இப்படிக்கு நான் - 3
-date: 2022-12-21
-category: tamil-blog
+category: []
 permalink: /tamil/blog/:title/
+
+date: 2022-12-21
+title: இப்படிக்கு நான் - 3
 ---
 
 **நான்:** கேள்விகள் எப்படி மறையும்? நான் ஏன் கேள்வி கேட்க கூடாது? பதில் எப்படி கேள்விகளில்லாமல் அமையும்?

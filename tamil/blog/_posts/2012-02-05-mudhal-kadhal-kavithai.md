@@ -2,10 +2,11 @@
 layout: post
 lang: tamil
 type: blog
-title: முதல் காதல்
-date: 2012-02-05
-category: tamil-blog
+category: []
 permalink: /tamil/blog/:title/
+
+date: 2012-02-05
+title: முதல் காதல்
 ---
 
 மலர்கள் பூத்தூவும் மாலையிலே <br/>

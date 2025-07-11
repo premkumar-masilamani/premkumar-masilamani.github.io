@@ -2,10 +2,11 @@
 layout: post
 lang: tamil
 type: blog
-title: அவள்
-date: 2011-08-30
-category: tamil-blog
+category: []
 permalink: /tamil/blog/:title/
+
+date: 2011-08-30
+title: அவள்
 ---
 
 அணுவின் துகளை நெஞ்சில் வீசி <br/>

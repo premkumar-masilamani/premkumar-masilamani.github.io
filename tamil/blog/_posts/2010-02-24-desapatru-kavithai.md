@@ -2,10 +2,11 @@
 layout: post
 lang: tamil
 type: blog
-title: தேசபற்று
-date: 2010-02-24
-category: tamil-blog
+category: []
 permalink: /tamil/blog/:title/
+
+date: 2010-02-24
+title: தேசபற்று
 ---
 
 என் தாயின் கருவறையில் <br/>

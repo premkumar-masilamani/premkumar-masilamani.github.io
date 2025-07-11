@@ -2,10 +2,11 @@
 layout: post
 lang: tamil
 type: blog
-title: வெண்ணிலா கபடி குழு - திரைவிமர்சனம்
-date: 2009-03-15
-category: tamil-blog
+category: []
 permalink: /tamil/blog/:title/
+
+date: 2009-03-15
+title: வெண்ணிலா கபடி குழு - திரைவிமர்சனம்
 ---
 
 நான் பொதுவாக திரைப்படங்களுக்கு விமர்சனம் எழுதுவதில்லை. என் முதல் விமர்சனம் இது.

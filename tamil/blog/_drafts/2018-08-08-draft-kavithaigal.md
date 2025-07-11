@@ -2,10 +2,11 @@
 layout: post
 lang: tamil
 type: blog
-title: Draft - கவிதைகள்
-date: 2018-08-08
-category: tamil-blog
+category: []
 permalink: /tamil/blog/:title/
+
+date: 2018-08-08
+title: Draft - கவிதைகள்
 ---
 
 சின்னஞ்சிறு பாதங்கள் <br/>

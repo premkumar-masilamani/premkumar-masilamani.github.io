@@ -2,10 +2,11 @@
 layout: post
 lang: tamil
 type: blog
-title: தாயும் நீயும்
-date: 2010-09-19
-category: tamil-blog
+category: []
 permalink: /tamil/blog/:title/
+
+date: 2010-09-19
+title: தாயும் நீயும்
 ---
 
 தனித்திருந்தும், அன்பில் திளைத்திருந்தேன் <br/>

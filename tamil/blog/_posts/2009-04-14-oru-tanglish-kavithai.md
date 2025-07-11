@@ -2,10 +2,11 @@
 layout: post
 lang: tamil
 type: blog
-title: வைதேகிக்காக ஒரு tanglish கவிதை
-date: 2009-04-14
-category: tamil-blog
+category: []
 permalink: /tamil/blog/:title/
+
+date: 2009-04-14
+title: வைதேகிக்காக ஒரு tanglish கவிதை
 ---
 
 May மாதத்தில் ஒரு <br/>
