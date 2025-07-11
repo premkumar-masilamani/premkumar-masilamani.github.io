@@ -2,7 +2,6 @@
 layout: post
 lang: english
 type: blog
-category: []
 permalink: /english/blog/:title/
 
 date: 2025-03-07

@@ -2,7 +2,6 @@
 layout: post
 lang: tamil
 type: podcast
-category: []
 permalink: /tamil/podcast/:title/
 
 date: 2025-06-30

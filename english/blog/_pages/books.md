@@ -2,7 +2,6 @@
 layout: page
 lang: english
 type: blog
-category: []
 permalink: /english/blog/books/
 
 date: 2022-01-01

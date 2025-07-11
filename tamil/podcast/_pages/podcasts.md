@@ -2,7 +2,6 @@
 layout: page
 lang: tamil
 type: podcast
-category: []
 permalink: /tamil/podcast/podcasts-i-love/
 
 date: 2025-06-30

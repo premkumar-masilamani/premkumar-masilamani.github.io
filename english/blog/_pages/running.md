@@ -2,7 +2,6 @@
 layout: page
 lang: english
 type: blog
-category: []
 permalink: /english/blog/running/
 
 date: 2015-03-01

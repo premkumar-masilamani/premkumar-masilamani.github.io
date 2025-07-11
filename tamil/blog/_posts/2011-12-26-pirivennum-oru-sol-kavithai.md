@@ -2,7 +2,6 @@
 layout: post
 lang: tamil
 type: blog
-category: []
 permalink: /tamil/blog/:title/
 
 date: 2011-12-26

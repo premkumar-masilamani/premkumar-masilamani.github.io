@@ -2,7 +2,6 @@
 layout: page
 lang: tamil
 type: blog
-category: []
 permalink: /tamil/blog/books/
 
 date: 2022-01-01
