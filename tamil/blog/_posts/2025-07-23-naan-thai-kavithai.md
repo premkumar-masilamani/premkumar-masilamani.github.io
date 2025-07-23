@@ -4,7 +4,7 @@ lang: tamil
 type: blog
 permalink: /tamil/blog/:title/
 
-date: 2025-07-24
+date: 2025-07-23
 title: நான் தாய்
 ---
 
