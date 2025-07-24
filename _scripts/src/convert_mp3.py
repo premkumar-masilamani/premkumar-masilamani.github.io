@@ -15,7 +15,7 @@ def get_id3_tags():
     print("\n--- ID3 Tag Setup ---")
     defaults = {
         "artist": "பிரேம்குமார் மாசிலாமணி",
-        "album": "நிகழே அதுவாய்",
+        "album": "நிகழே அதுவே",
     }
 
     tags = {}

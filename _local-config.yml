@@ -40,7 +40,7 @@ tamil:
       home: முகப்பு
       item: வலைப்பதிவுகள்
   podcast:
-    title: நிகழே அதுவாய்
+    title: நிகழே அதுவே
     description: Test Description / Summary - TODO
     author: பிரேம்குமார் மாசிலாமணி
     url: http://localhost:4000/tamil/podcast
