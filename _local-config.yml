@@ -45,7 +45,7 @@ tamil:
     author: பிரேம்குமார் மாசிலாமணி
     url: http://localhost:4000/tamil/podcast
     downloads: http://localhost:4000/downloads/tamil/podcast
-    gcs_bucket: https://storage.googleapis.com/premkumar-masilamani-podcast-nigazhe-adhuvai
+    gcs_bucket: https://storage.googleapis.com/premkumar-masilamani-podcast-nigazhe-adhuve
     newsletter: https://eepurl.com/dE1xBb
     subscription_text: "Thanks for listening to my podcast! I hope it made you think. Stay updated with the latest episodes via:"
     breadcrumbs_texts:

@@ -6,17 +6,34 @@ layout: default
   <h1>{{ page.title }}</h1>
   <span class="page-date">{{ page.date | date_to_string }}</span>
   <br/><br/>
-  <a href="{{ site.home }}">{{ site[page.lang][page.type].breadcrumbs_texts.home }}</a>&nbsp;&gt;&nbsp;<a href="{{ site[page.lang][page.type].url }}">{{ site[page.lang][page.type].breadcrumbs_texts.item }}</a>
+  <a href="{{ site.home }}">{{ site[page.lang][page.type].breadcrumbs_texts.home }}</a>&nbsp;&gt;&nbsp;
+  <a href="{{ site[page.lang][page.type].url }}">{{ site[page.lang][page.type].breadcrumbs_texts.item }}</a>
+
   {% if page.cover-image %}
     <br/><br/>
     <div>
-        <img src="{{site[page.lang][page.type].downloads}}/{{ page.cover-image }}" alt="{{ page.title }}" {% if page.cover-image-orientation == 'portrait' %}class="portrait-style"{% endif %}/>
-        <div class="cover-image-credit"><small>{{ page.cover-image-credit }}</small></div>
+      <img src="{{site[page.lang][page.type].downloads}}/{{ page.cover-image }}" alt="{{ page.title }}"
+        {% if page.cover-image-orientation == 'portrait' %}class="portrait-style"{% endif %}/>
+      <div class="cover-image-credit"><small>{{ page.cover-image-credit }}</small></div>
     </div>
   {% endif %}
+
+  {% if page.audio-file %}
+    <br/>
+    <div class="audio-player">
+      <audio controls preload="none">
+        <source src="{{ site[page.lang][page.type].gcs_bucket }}/{{ page.audio-file }}" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </div>
+  {% endif %}
+
   {{ content }}
-  <a href="{{ site.home }}">{{ site[page.lang][page.type].breadcrumbs_texts.home }}</a>&nbsp;&gt;&nbsp;<a href="{{ site[page.lang][page.type].url }}">{{ site[page.lang][page.type].breadcrumbs_texts.item }}</a>
+
+  <a href="{{ site.home }}">{{ site[page.lang][page.type].breadcrumbs_texts.home }}</a>&nbsp;&gt;&nbsp;
+  <a href="{{ site[page.lang][page.type].url }}">{{ site[page.lang][page.type].breadcrumbs_texts.item }}</a>
 </div>
+
 <hr/>
 <div>
   {% include subscribe.html lang=page.lang type=page.type %}

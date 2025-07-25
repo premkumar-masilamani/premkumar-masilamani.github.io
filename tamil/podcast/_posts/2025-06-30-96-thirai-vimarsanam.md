@@ -10,8 +10,8 @@ cover-image: 96-tamil-movie.jpeg
 cover-image-credit: Downloaded from Spotify Website
 
 audio-file: episode-1-journey-of-ram.mp3
-audio-length: 547675
-duration: 0:00:27
+audio-length: 41158568
+duration: 00:42:52
 ---
 
 ஒவ்வொரு காட்சியும் <br/>
