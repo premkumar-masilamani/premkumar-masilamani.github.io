@@ -46,11 +46,11 @@ artwork: 96-tamil-movie.jpeg
       <item>
         <title><![CDATA[{{ post.title }}]]></title>
         <link><![CDATA[{{ site.home }}{{ post.url }}]]></link>
-        <description><![CDATA[{{ post.content | strip_html | normalize_whitespace }}]]></description>
-        <content:encoded><![CDATA[{{ post.content | strip_html | normalize_whitespace }}]]></content:encoded>
+        <description><![CDATA[{{ post.content | markdownify }}]]></description>
+        <content:encoded><![CDATA[{{ post.content | markdownify }}]]></content:encoded>
         <dc:creator><![CDATA[{{ site[page.lang][page.type].author }}]]></dc:creator>
         <itunes:author><![CDATA[{{ site[page.lang][page.type].author }}]]></itunes:author>
-        <itunes:summary><![CDATA[{{ post.content | strip_html | normalize_whitespace }}]]></itunes:summary>
+        <itunes:summary><![CDATA[{{ post.content | markdownify }}]]></itunes:summary>
         <itunes:explicit>false</itunes:explicit>
         {% if post.cover-image %}
           <itunes:image href="{{ site[page.lang][page.type].downloads }}/{{post.cover-image}}" />
