@@ -41,7 +41,7 @@ tamil:
       item: வலைப்பதிவுகள்
   podcast:
     title: நிகழே அதுவே
-    description: Test Description / Summary - TODO
+    description: இந்த நிமிஷம் என்ன தோணுதோ, அதையே பேசறேன் - நிகழே அதுவே
     author: பிரேம்குமார் மாசிலாமணி
     url: http://localhost:4000/tamil/podcast
     downloads: http://localhost:4000/downloads/tamil/podcast
