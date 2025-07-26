@@ -21,6 +21,10 @@ link:
 profanity:
 	python3 src/profanity_checker.py
 
+.PHONY: files
+files:
+	python3 src/files_checker.py ../
+
 .PHONY: mp3
 mp3:
 	python3 src/convert_mp3.py
