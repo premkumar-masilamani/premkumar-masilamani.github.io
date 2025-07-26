@@ -172,7 +172,7 @@ if __name__ == "__main__":
         import sys
 
         website_directory = os.path.abspath(
-            os.path.join(os.path.dirname(__file__), "..", "_site")
+            os.path.join(os.path.dirname(__file__), "../..", "_site")
         )
 
         if len(sys.argv) > 1:

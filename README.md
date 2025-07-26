@@ -1,29 +1,24 @@
 # Premkumar Masilamani – Personal Website
 
-This [website](http://www.premkumarmasilamani.com) is built with **Jekyll**, runs on **GitHub Pages**, and intentionally uses **HTML only** - no CSS or JavaScript.
+This is my digital home: [premkumarmasilamani.com](http://www.premkumarmasilamani.com). Built with **Jekyll**. Deployed via **GitHub Pages**.
 
-Everything in this repository is **open source**. Feel free to **fork, modify, and repurpose** the content as you wish.
-
-I’d appreciate a link back, though it’s not mandatory. Attribution is goodwill, not obligation.
+The content here is **open source**. Take what speaks to you. Fork it, adapt it, reshape it. No attribution needed, though it’s always appreciated.
 
 ---
 
-> If you have an apple and I have an apple and we exchange these apples then you and I will still each have one apple.
-But if you have an idea and I have an idea and we exchange these ideas, then each of us will have two ideas. - **George Bernard Shaw**
+> In giving, you receive. In loving, you expand. In sharing, you become whole.
 
-Let’s normalize open-source collaboration across every industry.
-
-Thanks for being here,
+Thank you for visiting.
 **Premkumar Masilamani**
 
 ---
 
 ## Local Development
 
-To run the site locally using Docker:
+To run it locally with Docker:
 
 ```bash
 make run
 ```
 
-That’s it.
+That’s all.

@@ -1,4 +1,3 @@
-import token
 import os
 import re
 import subprocess
@@ -104,7 +103,7 @@ def main():
         episode_number = input("Episode number: ").strip()
         episode_title = input("Episode title: ").strip()
         safe_title = slugify(episode_title)
-        filename = f"episode-{episode_number}-{safe_title}.mp3"
+        filename = f"ep-{episode_number}-{safe_title}.mp3"
 
         full_input = os.path.join(folder, m4a_file)
         full_output = os.path.join(folder, filename)
