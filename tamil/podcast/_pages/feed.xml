@@ -24,13 +24,13 @@ artwork: 96-tamil-movie.jpeg
     <atom:link href="{{ site[page.lang][page.type].url }}/feed.xml" rel="self" type="application/rss+xml" />
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <author><![CDATA[{{ site[page.lang][page.type].author }}]]></author>
-    <managingEditor><![CDATA[{{ site.email }} ({{ site[page.lang][page.type].author }})]]></managingEditor>
-    <webMaster><![CDATA[{{ site.email }} ({{ site[page.lang][page.type].author }})]]></webMaster>
+    <managingEditor><![CDATA[{{ site[page.lang][page.type].email }} ({{ site[page.lang][page.type].author }})]]></managingEditor>
+    <webMaster><![CDATA[{{ site[page.lang][page.type].email }} ({{ site[page.lang][page.type].author }})]]></webMaster>
     <itunes:author><![CDATA[{{ site[page.lang][page.type].author }}]]></itunes:author>
     <itunes:summary><![CDATA[{{ site[page.lang][page.type].description }}]]></itunes:summary>
     <itunes:owner>
       <itunes:name><![CDATA[{{ site[page.lang][page.type].author }}]]></itunes:name>
-      <itunes:email><![CDATA[{{ site.email }}]]></itunes:email>
+      <itunes:email><![CDATA[{{ site[page.lang][page.type].email }}]]></itunes:email>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="{{ site[page.lang][page.type].downloads }}/{{page.artwork}}" />
