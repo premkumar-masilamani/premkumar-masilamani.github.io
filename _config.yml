@@ -1,16 +1,15 @@
-title: Premkumar Masilamani
 home: https://www.premkumarmasilamani.com
 copyright: copyleft @ 2009.
 
 linkedin: https://www.linkedin.com/in/premkumar-masilamani/
 github: https://github.com/premkumar-masilamani
 coach: https://www.premkumarmasilamani.com/coach.html
-email: premkumar.masilamani.2020@gmail.com
 
 english:
   blog:
     title: The Unquiet Mind
     author: Premkumar Masilamani
+    email: premkumar.masilamani.2020@gmail.com
     url: https://www.premkumarmasilamani.com/english/blog
     downloads: https://www.premkumarmasilamani.com/downloads/english/blog
     newsletter: https://eepurl.com/dE1QD1
@@ -21,6 +20,7 @@ english:
   podcast:
     title: The Beautiful Contradiction
     author: Premkumar Masilamani
+    email: premkumar.masilamani.2020@gmail.com
     url: https://www.premkumarmasilamani.com/english/podcast
     downloads: https://www.premkumarmasilamani.com/downloads/english/podcast
     newsletter: https://eepurl.com/dE1QD1
@@ -32,6 +32,7 @@ tamil:
   blog:
     title: பேரன்பும் பெருங்கோபமும்
     author: பிரேம்குமார் மாசிலாமணி
+    email: premkumar.masilamani.2020@gmail.com
     url: https://www.premkumarmasilamani.com/tamil/blog
     downloads: https://www.premkumarmasilamani.com/downloads/tamil/blog
     newsletter: https://eepurl.com/dE1xBb
@@ -42,6 +43,7 @@ tamil:
   podcast:
     title: நிகழே அதுவே
     author: பிரேம்குமார் மாசிலாமணி
+    email: premkumar.masilamani.2020@gmail.com
     description: இந்த நிமிஷம் என்ன தோணுதோ, அதையே பேசறேன் - நிகழே அதுவே
     url: https://www.premkumarmasilamani.com/tamil/podcast
     downloads: https://www.premkumarmasilamani.com/downloads/tamil/podcast
