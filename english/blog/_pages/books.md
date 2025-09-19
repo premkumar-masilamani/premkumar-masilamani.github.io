@@ -16,6 +16,10 @@ I've decided not to write book reviews and possibly affect your experience - set
 - *Maybe You Should Talk To Someone* — **Lori Gottlieb**
 - *When Breath Becomes Air* — **Paul Kalanithi**
 
+## Coaching
+
+- *The Coaching Habit* — **Michael Bungay Stanier**
+
 ## Company Biography
 
 - *Kings of Crypto* — **Jeff John Roberts**
