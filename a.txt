@@ -1,6 +1,0 @@
-
-
-
-git merge --no-commit --no-ff  add-explanation-to-poem
-git merge --no-commit --no-ff  agananooru-poem-3
-git merge --no-commit --no-ff  agananooru-structure-change
