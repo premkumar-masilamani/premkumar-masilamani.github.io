@@ -11,4 +11,3 @@ git merge --no-commit --no-ff  fix-punctuation-agananooru
 git merge --no-commit --no-ff  github-actions
 git merge --no-commit --no-ff  main
 git merge --no-commit --no-ff  poem-agn-004
-git merge --no-commit --no-ff  remove-newsletters
