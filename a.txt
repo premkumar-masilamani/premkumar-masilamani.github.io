@@ -4,6 +4,3 @@
 git merge --no-commit --no-ff  add-explanation-to-poem
 git merge --no-commit --no-ff  agananooru-poem-3
 git merge --no-commit --no-ff  agananooru-structure-change
-git merge --no-commit --no-ff  agn-004
-git merge --no-commit --no-ff  agn-005
-git merge --no-commit --no-ff all-merged
