@@ -13,8 +13,8 @@ I've decided not to write book reviews and possibly affect your experience - set
 
 ## Biography
 
-- *Maybe You Should Talk To Someone* — **Lori Gottlieb**
-- *When Breath Becomes Air* — **Paul Kalanithi**
+- *Maybe You Should Talk To Someone* - **Lori Gottlieb**
+- *When Breath Becomes Air* - **Paul Kalanithi**
 
 ## Thinking
 
@@ -22,21 +22,21 @@ I've decided not to write book reviews and possibly affect your experience - set
 
 ## Coaching
 
-- *The Coaching Habit* — **Michael Bungay Stanier**
+- *The Coaching Habit* - **Michael Bungay Stanier**
 
 ## Company Biography
 
-- *Kings of Crypto* — **Jeff John Roberts**
-- *Invested* — **Charles Schwab**
-- *The Everything Store* — **Brad Stone**
+- *Kings of Crypto* - **Jeff John Roberts**
+- *Invested* - **Charles Schwab**
+- *The Everything Store* - **Brad Stone**
 
 ## Finance
 
-- *The Little Book of Common Sense Investing* — **John C. Bogle**
-- *The Bogleheads Guide to the Three-Fund Portfolio* — **Taylor Larimore**
-- *MONEY: Master the Game* — **Tony Robbins**
+- *The Little Book of Common Sense Investing* - **John C. Bogle**
+- *The Bogleheads Guide to the Three-Fund Portfolio* - **Taylor Larimore**
+- *MONEY: Master the Game* - **Tony Robbins**
 
 ## Crypto
 
-- *Mastering Bitcoin* — **Andreas M. Antonopoulos**
-- *The NFT Handbook* — **QuHarrison Terry, Matt Fortnow**
+- *Mastering Bitcoin* - **Andreas M. Antonopoulos**
+- *The NFT Handbook* - **QuHarrison Terry, Matt Fortnow**
