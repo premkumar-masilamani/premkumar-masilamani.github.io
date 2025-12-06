@@ -16,6 +16,10 @@ I've decided not to write book reviews and possibly affect your experience - set
 - *Maybe You Should Talk To Someone* - **Lori Gottlieb**
 - *When Breath Becomes Air* - **Paul Kalanithi**
 
+## Thinking
+
+- *Deep Work* - **Cal Newport**
+
 ## Coaching
 
 - *The Coaching Habit* - **Michael Bungay Stanier**
