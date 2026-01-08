@@ -12,6 +12,8 @@ Let's go back to 6th Aug 1945, 8 AM in Hiroshima or Nagasaki. Let's tell everyon
 
 What?.
 
+(Think)
+
 Don't want to travel back in time?
 
 Let's go to Palestine, Israel, Ukraine, or Russia and tell the young men, women, and children who are being tortured and killed for reasons beyond their control and tell them, "You are exactly where you need to be"
@@ -22,9 +24,9 @@ Unless you are a narcissistic psychopath, no sane human being would say such mea
 
 You could blame me for being negative.
 
-Tell the quote to American President Donald J. Trump, on the miraculous escape from the recent assassination attempts. He would probably be happy with the quote.
+Tell this exact quote to American President Donald J. Trump, on the miraculous escape from the recent assassination attempts. He would probably be happy with the quote. Yeah, you're right. 
 
-Yeah, you're right. But you won't tell the same quote to John F. Kennedy, would you?
+But you won't tell the same quote to our beloved American President John F. Kennedy, would you?
 
 > Depending on the context, the powerful positive quote would be considered the most negative quote.
 

@@ -12,23 +12,36 @@ category: home
 <h2>Coach | Writer | Software Craftsman</h2>
 
 <div>
-    <img src="{{site.english.blog.downloads}}/{{ page.cover-image }}" alt="{{ page.title }}"/>
-    <div class="cover-image-credit"><small>{{ page.cover-image-credit }}</small></div>
+    <img
+        src="{{site.english.blog.downloads}}/{{ page.cover-image }}"
+        alt="{{ page.title }}"
+    />
+    <div class="cover-image-credit">
+        <small>{{ page.cover-image-credit }}</small>
+    </div>
 </div>
 
 <p>As a coach, I’ll help you discover yourself.</p>
 
-<p>As a writer, I’ll make you fly with imagination and dive deep into the depths of knowledge.</p>
+<p>
+    As a writer, I’ll make you fly with imagination and dive deep into the
+    depths of knowledge.
+</p>
 
 <p>As a software craftsman, I bring ideas to life and craft clean software.</p>
 
 <p>Let’s connect and explore what’s possible!</p>
 
-<ul>
-    <li><a href="{{site.home}}/coach.html">Coaching</a> - Ready to discover yourself?</li>
-    <li><a href="{{site.english.blog.url}}">English Blog</a> - My thoughts in words!</li>
-    <!-- <li><a href="{{site.english.podcast.url}}">English Podcast</a> - Podcast under construction</li> -->
-    <li><a href="{{site.tamil.blog.url}}">Tamil Blog</a> - A world of love and literature!</li>
-    <!-- <li><a href="{{site.tamil.podcast.url}}">Tamil Podcast</a> - Podcast under construction</li> -->
-    <li><a href="{{site.linkedin}}">LinkedIn</a> - Have an idea?</li>
-</ul>
+<div class="links">
+    <a href="{{site.home}}/coach">Coaching</a>
+    <span>Ready to discover yourself?</span>
+    <a href="{{site.english.blog.url}}">English Blog</a>
+    <span>{{site.english.blog.title}}</span>
+    <!--<a href="{{site.english.podcast.url}}">English Podcast</a>
+    <span>{{site.english.podcast.title}}</span>-->
+    <a href="{{site.tamil.blog.url}}">Tamil Blog</a>
+    <span>{{site.tamil.blog.title}}</span>
+    <!--<a href="{{site.tamil.podcast.url}}">Tamil Podcast</a>
+    <span>{{site.tamil.podcast.title}}</span>-->
+    <a href="{{site.linkedin}}">LinkedIn</a> <span>Have an idea?</span>
+</div>
