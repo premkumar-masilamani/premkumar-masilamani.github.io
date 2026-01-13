@@ -27,12 +27,12 @@ With many different challenges that I completed this year, I slowly realized the
 
 Becoming a Writer is one of my big dreams. What do I want to accomplish?
 
-Write a personal development book? ― Yes.
-Write a fiction novel? ― Yes.
-Write a sci-fiction novel? ― Yes.
-Write a technical book? ― Yes.
-Write more in blogs? ― Yes.
-Change the world with my writings? ― Yes.
+Write a personal development book? ― Yes.  
+Write a fiction novel? ― Yes.  
+Write a sci-fiction novel? ― Yes.  
+Write a technical book? ― Yes.  
+Write more in blogs? ― Yes.  
+Change the world with my writings? ― Yes.  
 
 I want to do everything that a writer could do. That's me. When it comes to imagination, I never put a limit on my thoughts/goals (Simply that I am a reality-challenged person)
 

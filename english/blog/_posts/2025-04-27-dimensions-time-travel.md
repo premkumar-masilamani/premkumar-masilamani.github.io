@@ -122,7 +122,7 @@ What if I want to go to New York?. So, two versions of New York must exist. What
 
 For this to happen, the very first slice of time, the universe splits into two. The first one stays in the first time slice and the second one moves on with time. At the end of the second slice, universe splits into two again, creating a total of 3 universes. It must continue to split till the last slice of time. If we narrow the "slice of time" from "billions of years" to seconds or even narrower time period, we would have more copies of universes than the no.of atoms in each of them. That's an unfathomably large number of universes.
 
-There will be one copy of universes for each state change in the universe (i.e.) one electron moved a bit in one atom in the entire universe. This action of creating a copy of an universe would break all the existing laws of physics. And each copy of the universe has a real mass that occupies real space. So, we need infinite space to store the infinite copies of the universe.
+There will be one copy of universe for each state change in the universe (i.e.) one electron moved a bit in one atom in the entire universe. This action of creating a copy of an universe would break all the existing laws of physics. And each copy of the universe has a real mass that occupies real space. So, we need infinite space to store the infinite copies of the universe.
 
 > Every place in this universe at every slice of time must exist simultaneously. (i.e.) the past, the present, and the future - all must exist simultaneously.
 

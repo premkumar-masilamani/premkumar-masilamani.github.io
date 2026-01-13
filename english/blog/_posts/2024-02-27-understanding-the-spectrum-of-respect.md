@@ -10,9 +10,9 @@ title: Understanding the Spectrum of Respect
 
 Here is a recent conversation with my co-brother (paraphrased)
 
-**Him:** Do you respect him?
-**Me:** I respect him for certain qualities. I don't respect him for certain other attributes.
-**Him:** I understand, but overall, do you respect him?
+**Him:** Do you respect him?  
+**Me:** I respect him for certain qualities. I don't respect him for certain other attributes.  
+**Him:** I understand, but overall, do you respect him?  
 **Me:** I don't know how to answer that question. Do you need an average of the qualities I respect and the qualities I don't? If the result is positive, I respect him and if it's negative I don't. Is that what you are looking for?
 
 The conversation did not go anywhere. Both were reiterating our version of respecting someone. I failed to make him understand my point, while I consciously did not agree with his viewpoint.
@@ -47,18 +47,18 @@ Imagine you have a very skilled carpenter who works in your house regularly. You
 
 The point of this discussion is,
 
-> You don't have to RESPECT all of someone and you don't have to DISRESPECT all of someone.
+> You don't have to respect all of someone and you don't have to disrespect all of someone.
 
 The first part is probably easy, but the second part - most people cannot even comprehend. Almost 10 years ago, I wrote a [blog post]({{site[page.lang][page.type].url}}/what-inspires-you/) with a list of people who inspired me. Adolf Hitler and Jesus Christ were on that list. I am an atheist, and I respect Jesus Christ for some of his qualities - no problem. I am leaning toward an egalitarian society, and I respect Hitler for some of his qualities - a big No. Quite a few intense conversations from friends, back in the day.
 
 Here is President Trump's interview on CNN
 
-**Interviewer:** Do you respect Putin?
-**President Trump:** I do respect him
-**Interviewer:** Why?
-**President Trump:** I respect a lot of people, but that doesn't mean I am going to get along with them ...
-**Interviewer:** Putin's a killer
-**President Trump:** We have got a lot of killers. Do you think our country is so innocent?
+**Interviewer:** Do you respect Putin?  
+**President Trump:** I do respect him  
+**Interviewer:** Why?  
+**President Trump:** I respect a lot of people, but that doesn't mean I am going to get along with them ...  
+**Interviewer:** Putin's a killer  
+**President Trump:** We have got a lot of killers. Do you think our country is so innocent?  
 
 Now look at the media bias and stereotyping for him saying the truth. I feel him.
 
@@ -70,4 +70,6 @@ Once that's done. Look at you.
 
 Since you know the skeletons in your closet very well, it's easy for you to list down the qualities that you respect, tolerate, and can't tolerate. You will have newfound respect and understanding about yourself.
 
-Are you happy with your findings? Do you want to minimize/remove the qualities you can/can't tolerate? Do you want to maximize the qualities you respect?
+Are you happy with your findings?  
+Do you want to minimize/remove the qualities you can/can't tolerate?  
+Do you want to maximize the qualities you respect?

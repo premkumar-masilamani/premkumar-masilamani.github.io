@@ -43,5 +43,3 @@ I went to the terrace, thinking of climbing down to the balcony side, using the 
 Sean Stephenson's Facebook message in the morning made sense now. Dude, you are fantastic!
 
 Back in Sofia's home. Go to the first paragraph!
-
-**PS:** I wrote this when I was waiting for Arun to come back from the office. Just like that.

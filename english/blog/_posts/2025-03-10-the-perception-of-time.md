@@ -26,7 +26,7 @@ Time is a theoretical concept, we humans devised to make sense of the sequence o
 
 ## What is Time Dilation?
 
-> Time dilation is the phenomenon where time slows down relative to an observer due to high velocity (special relativity) or strong gravitational fields (general relativity).
+> Time dilation is the phenomenon where time slows down relative to an observer.
 
 I hope you have seen the Interstellar movie, where the lead character Cooper travels close to a black hole, and when he comes back, his daughter Murphy is much older than him. They say in the movie, time slows down near black holes. That's time dilation.
 
@@ -40,27 +40,7 @@ If I ask for your observation about this example, what would you say?.
 
 I'd say, the man moves faster on roller skates and moves slower underwater, due to the changes in the environment. I'd never ever in my wildest imagination, would say that the time moves faster for the man on roller skates and moves slower for the man underwater. You'd laugh. Yeah.
 
-Let's try a different example (lifespan is simplified),
-
-- A butterfly is born, reproduces, and dies in 1 week
-- A human is born, reproduces, and dies in 80 years
-- A tortoise is born, reproduces, and dies in 150 years
-
-What do you observe about the lifespan of these species?.
-
-I'd say, "Yeah, different species and different lifespans, what's there to say?". Fair enough.
-
-As a thought experiment, imagine the butterfly and tortoise have human form and live a human life, but in their own lifespan. You will not know what their origin species is. You will not be able to differentiate them from a regular human. If you ask each of them separately on their deathbed, they would say they have lived a happy, long life. What would be your observation now?.
-
-One lives normal, one lives fast and one lives slow. You can observe what's happening, but you can't explain because you don't know what's under the human form. You'd probably treat these as an anomaly.
-
-As a follow-up thought experiment, put the tortoise-human on a planet near a black hole and the butterfly-human on a small planet far away from any large objects, regular humans on the earth. Now, what do you have to say?
-
-When I observe from Earth, the human near the black hole lives longer and the human on a faraway planet lives shorter, when compared to the humans on earth. The same exact situation as before and you can't explain why.
-
-You can see the difference in lifespan (effect), but you don't know the reason (cause).
-
-When scientists say, "Time is relative. They observe time differently. Time slows down for the man near the black hole and moves faster for a man on a faraway planet".
+When scientists say, "Time is relative. They observe time differently. Time slows down for the man near the black hole and moves faster for a man on a far-away planet".
 
 The natural question would be, "Yeah, I see that. Can you explain why?"
 
@@ -68,7 +48,7 @@ All the explanations I have heard are based on the human perception of time in d
 
 How did Scientist verify this concept?. They flew around the world in an airplane with an atomic clock, and the atomic clock in the plane ticked slower than the one stationed on the earth.
 
-Again, the experiment proved the effect but didn't explain the cause. Why do gravity and velocity affect our perception of time?. You can also reframe the question as
+Again, the experiment proved the effect but didn't explain the cause. Why does gravity affect our perception of time?. You can also reframe the question as
 
 > Is time actually slowing down, or is the duration between events increasing?
 
@@ -90,7 +70,7 @@ All physical interactions/movements must slow down including the vibrations of a
 
 Oh wait, we have to exclude light from this list - otherwise, all our formulae will fail. All our experiments already proved that the light speed is constant. Hmm... Okay.
 
-I don't know anything more than this. If anyone has a clear explanation of the cause behind time dilation under gravity or high velocity, please let me know.
+If anyone has a clear explanation of the cause behind time dilation under gravity, please let me know.
 
 ## More Questions on Time Dilation
 

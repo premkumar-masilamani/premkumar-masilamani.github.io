@@ -14,14 +14,14 @@ We were watching a Tamil movie [Kaaka Muttai](https://www.imdb.com/title/tt39734
 
 The grandmother character dies in that movie, triggering a conversation between me and my 5-year-old daughter.
 
-**Aradhana (daughter):** Why did she die? (curious)
-**Premkumar (dad):** Everyone dies when they get old. (casual)
-**Aradhana (daughter):** You are old. You'll die soon. (mischief)
-**Premkumar (dad):** Yeah. Maybe. (casual)
+**Aradhana (daughter):** Why did she die? (curious)  
+**Premkumar (dad):** Everyone dies when they get old. (casual)  
+**Aradhana (daughter):** You are old. You'll die soon. (mischief)  
+**Premkumar (dad):** Yeah. Maybe. (casual)  
 
 She thinks deeply for a few moments and suddenly sadness engulfs her pretty face. She turned toward me and asked,
 
-**Aradhana (daughter):** Will you have more time with me? (crying)
+**Aradhana (daughter):** Will you have more time with me? (crying)  
 **Premkumar (dad):** ...
 
 I didn't know what to say. My world froze. Trembling words and tearful eyes. Am I happy or sad or confused? Or all of them together? I don't know. With mixed emotions, I said,
@@ -36,27 +36,27 @@ I could not sleep. I'm wide awake. I want to register this moment, hence this bl
 
 I had the whole of 2020, almost exclusively with my family, inside the house. But...
 
-**Aradhana (daughter):** Will you drop me at school, please?
-**Premkumar (dad):** Sorry Ara, Appa doesn't have time.
+**Aradhana (daughter):** Will you drop me at school, please?  
+**Premkumar (dad):** Sorry Ara, Appa doesn't have time.  
 
-**Aradhana (daughter):** Shall we go for a walk?
-**Premkumar (dad):** Sorry Ara, Appa is busy.
+**Aradhana (daughter):** Shall we go for a walk?  
+**Premkumar (dad):** Sorry Ara, Appa is busy.  
 
-**Aradhana (daughter):** Will you play with me for 5 minutes, please?
-**Premkumar (dad):** Sorry Ara, Appa has to work.
+**Aradhana (daughter):** Will you play with me for 5 minutes, please?  
+**Premkumar (dad):** Sorry Ara, Appa has to work.  
 
 **Aradhana (daughter):** I made your favorite place ready. Do you want to see your surprise?.
-(She arranges her favorite toys in the steps to lure me to play with her)
-**Premkumar (dad):** Sorry Ara, Appa has a call.
+(She arranges her favorite toys in the steps to lure me to play with her)  
+**Premkumar (dad):** Sorry Ara, Appa has a call.    
 
-**Aradhana (daughter):** Shall we cook french-fries?. I learned from YouTube.
-**Premkumar (dad):** Sorry Ara, Appa has to finish something important.
+**Aradhana (daughter):** Shall we cook french-fries?. I learned from YouTube.  
+**Premkumar (dad):** Sorry Ara, Appa has to finish something important.  
 
-**Aradhana (daughter):** I'm alone. I have no one to play with.
-**Premkumar (dad):** Sorry Ara, Appa has to work. Why don't you watch TV?
+**Aradhana (daughter):** I'm alone. I have no one to play with.  
+**Premkumar (dad):** Sorry Ara, Appa has to work. Why don't you watch TV?  
 
-**Aradhana (daughter):** Will you read me a story tonight?.
-**Premkumar (dad):** Sorry Ara, Appa is tired.
+**Aradhana (daughter):** Will you read me a story tonight?.  
+**Premkumar (dad):** Sorry Ara, Appa is tired.  
 
 ... and many more.
 

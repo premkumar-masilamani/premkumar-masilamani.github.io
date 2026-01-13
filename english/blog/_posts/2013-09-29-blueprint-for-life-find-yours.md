@@ -48,16 +48,16 @@ There may be some values in your blueprint that are imposed by others. There may
 
 Below are some of the core values in my blueprint, just to give an idea of what your list might look like. I did not publish everything, though. Neither should you. There will be some values so intimate to you. Keep it to yourself.
 
-1. Never lie in any situation (If I must, I choose NOT to say anything - but never lie)
+1. Never lie in any situation  
 2. Never fear anyone or any situation (If I fear something, voluntarily face it - till the fear fades away)
-3. Respect comes from within, never bother to respect everyone (this one formed during my adolescent years and I am trying to change it now)
-4. Eat Healthy & Nutritious Food (When I first read about Raw Vegan Lifestyle during my 7th grade)
-5. Avoid Junk foods & Carbonated Beverages (Formed after the previous value)
-6. Exercise regularly (Inspired by actor Surya in the Movie "Kakka Kakka")
-7. Wake up Early (Inspired by Robin Sharma's teachings)
-8. Stop Drinking & Smoking (Promised my sister and adhered to it for 5 years - changed now to a social drinker)
-....
-....
-....
+3. Respect must be earned, never bother to respect anyone by default
+4. Eat Healthy & Nutritious Food  
+5. Avoid Junk foods & Carbonated Beverages 
+6. Exercise regularly 
+7. Wake up Early 
+8. Stop Drinking & Smoking   
+....  
+....  
+....  
 
 **Did you find yours?**

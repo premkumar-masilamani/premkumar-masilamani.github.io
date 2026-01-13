@@ -8,9 +8,9 @@ date: 2013-06-14
 title: The Purpose of My Life
 ---
 
-**Theist:** God's purpose is your purpose.
-**Agnostic:** Should there be a purpose? I don't mind.
-**Atheist:** There is no purpose in your life. You just exist.
+**Theist:** God's purpose is your purpose.  
+**Agnostic:** Should there be a purpose? I don't mind.  
+**Atheist:** There is no purpose in your life. You just exist.  
 
 [Below four paragraphs are my life experiences. You can skip to the next section if you want to]
 

@@ -8,7 +8,7 @@ date: 2013-07-21
 title: The 3 Most Important Questions to Ask Yourself
 ---
 
-<br/>
+<span>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/f8eU5Pc-y0g?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 I used to watch a lot of videos, and audios related to the personal development/self-help genre. I used to be passive so far. (i.e) simply watching or listening. In recent times, I decided to follow along and act upon the concepts discussed by those personal development gurus. I began to explore so much of myself and decided to blog about it. I am not going to blog about every little video/audio. I will post only about the stuff that inspires me. So, if any of these blog posts helps at least one of you, the purpose of this blog is fulfilled.:)
@@ -22,7 +22,7 @@ Here is what I wrote in my journal, after completing the exercises mentioned in 
 |Write Self Development Books|Become a Speaker|Unite all the nations|
 |Six Pack Body|Become a Teacher|Eliminate spending on Military|
 |Bring up kids with rational thoughts|Grow in Meditation|Teach Kids in poor countries|
-|Long lasting friendship|Extra-ordinary physical feats|Teach the world about the right food|
+|Long lasting friendships|Extra-ordinary physical feats|Teach the world about the right food|
 
 Experience, Growth & Contribution - I never thought or planned my life in these terms. This seems to be a different and interesting way to look at my life goals. Even though I had only 90 seconds to think about each category, the output was surprising. Some of the items like *Learning Martial Arts* in the Growth category were forgotten long ago in my life. I am surprised to see that this is the second item where I want to grow. I can correlate the emotional burst I have, every time I watch an action movie and my irrational imagination of me being *Achilles (from the movie Troy - I watched that movie so many times)*. This one trait (imagining myself as a warrior) has never changed from my childhood. I think it's time that I feed the wild side of myself.
 

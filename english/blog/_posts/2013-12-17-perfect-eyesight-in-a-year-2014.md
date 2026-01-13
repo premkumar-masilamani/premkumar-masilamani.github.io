@@ -30,19 +30,19 @@ How can I be so confident that eye exercises help?. Because I know. I attended a
 
 Completing all the exercises would take around 45 minutes. Just to keep the ritual simple and consistent, I will not do all these exercises daily.
 
-Exercises 1 - reserved for sunny days.
-Exercises 2 - 7 daily.
-Exercises 8 & 9 - as and when time permits.
+Exercises 1 - reserved for sunny days.  
+Exercises 2 - 7 daily.  
+Exercises 8 & 9 - as and when time permits.  
 
 ## School For Perfect Eye Sight
 
-**Website:** https://eyecare.sriaurobindoashram.org/
-**Address:** 2A, Lally Tollendal St, White Town, Puducherry - 605002.
-**Contact Person:** Mr. Santhosh
-**Phone:** +91-413-223-3659
-**Email:** auroeyesight@yahoo.com
-**Working Hours:** 8 To 11 A.M. and 3 To 5 P.M. (IST)
-**Holidays:** Monday
+**Website:** https://eyecare.sriaurobindoashram.org/  
+**Address:** 2A, Lally Tollendal St, White Town, Puducherry - 605002.  
+**Contact Person:** Mr. Santhosh  
+**Phone:** +91-413-223-3659  
+**Email:** auroeyesight@yahoo.com  
+**Working Hours:** 8 To 11 A.M. and 3 To 5 P.M. (IST)  
+**Holidays:** Monday  
 
 ## During Office hours
 

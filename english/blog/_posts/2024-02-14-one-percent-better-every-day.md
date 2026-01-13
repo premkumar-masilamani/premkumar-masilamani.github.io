@@ -10,8 +10,8 @@ title: One Percent Better Everyday?
 
 If you are reading self-help books for a while, invariably every self-help guru would have said this at some point. After James Clear's "Atomic Habits" became a hit, it's now a mantra.
 
-> 1% better everyday 1.01^365 = 37.78
-> 1% worse everyday 0.99^365 = 0.03
+> 1% better everyday 1.01^365 = 37.78  
+> 1% worse everyday 0.99^365 = 0.03  
 
 This is a compound interest calculation. You start with $1 principal, you get 1% interest every day, you reinvest the interest every day, and after 365 days, you would have $37.78. Just that simple. I am not sure why these self-help gurus use exponents and fractions, which most people cannot grasp. Maybe that's the intention?. It has to be clear enough to make you feel good, but abstract enough that you don't question it?
 
@@ -51,4 +51,6 @@ To me,
 
 > It's all about showing up every day, it doesn't matter if you improve 0.5% or 1% or 10% or -10% on any given day. All that matters at the end is that you show up every day.
 
-How are you keeping up with your goals?. Are you showing up every day?. If not, are you aware of why you are not showing up?.
+How are you keeping up with your goals?.  
+Are you showing up every day?.  
+If not, are you aware of why you are not showing up?.

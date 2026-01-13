@@ -12,10 +12,10 @@ title: BMTC loses 6 lakhs/day to conductors?
 
 I was traveling from Coimbatore to Bangalore on 22-Nov-2011 and got down at Silk Board Bus Stop. I need to catch a local bus from Silk Board to Marathahalli. I generally prefer to travel by Volvo buses only. But there was none at the time. Early in the morning at 5 AM, with such a chill climate, I decided to hop onto the local bus.
 
-**Bus No:** D5 (Banashankari to Hebbal)
-**Boarded On:** Silk Board
-**Got down At:** Marathahalli Bridge
-**Time:** 22-Nov-2011 05:19:52 IST
+**Bus No:** D5 (Banashankari to Hebbal)  
+**Boarded On:** Silk Board  
+**Got down At:** Marathahalli Bridge  
+**Time:** 22-Nov-2011 05:19:52 IST  
 **Complaint:** Ticket was not given unless I asked for it.
 
 ![BMTC Bus Ticket D5]({{site[page.lang][page.type].downloads}}/bmtc-bus-ticket-d5.jpg)

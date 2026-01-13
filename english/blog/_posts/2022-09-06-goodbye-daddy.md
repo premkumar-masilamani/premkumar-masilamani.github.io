@@ -38,9 +38,9 @@ It took me five months to write my last respect to my father, this blog. One reg
 
 > Express your love while you can.
 
-I'm sorry.
-Please forgive me.
-Thank you.
-I love you.
+I'm sorry.  
+Please forgive me.  
+Thank you.  
+I love you.  
 
 Goodbye, Daddy!
