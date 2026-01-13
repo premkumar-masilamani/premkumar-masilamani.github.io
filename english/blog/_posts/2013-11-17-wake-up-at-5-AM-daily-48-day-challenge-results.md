@@ -60,8 +60,6 @@ Man being a social creature, must depend on others for life and love. I decided 
 
 * **Blogs** - I have written 10 blog posts during this period. Started writing posts on Personal Development.
 
-* **Emotional Freedom Technique** - I used to spend time regularly in EFT with Ho'oponopono in the morning. The frequency has been reduced in recent days. Planning to do this regularly.
-
 * **Personal Development** - I downloaded a lot of personal development workbooks / small booklets over some time. I spent a considerable amount of time working on myself. I cannot give the complete list of small PDFs here.
 
 * **BedTime Stories** - I know this is completely irrelevant to the context here. But, we started reading fiction stories to each other in bed, before we slept. We make sure we go to bed 30 minutes earlier than usual. I kinda like this. Rekindling the storyteller in each of us :)
@@ -70,7 +68,7 @@ Man being a social creature, must depend on others for life and love. I decided 
 
 I must tell you there are cons to this challenge.
 
-**Sleeping Time** - Due to commutations from work and other commitments, I was able to go to sleep at 11-12 every night. I hardly get 5-6 hrs of sleep daily. It was not a problem initially. But after a month - it begins to show its effect. I begin to feel awful and sleepy after lunch in the office. My productivity after lunch is less than 10%. There are days when I sleep for less than 3 hrs and I feel sleepy even when driving to the office. NOT AN ADVISABLE ACT WHILE DRIVING.
+**Sleeping Time** - Due to commute from work and other commitments, I was able to go to sleep only at 11-12 every night. I hardly get 5-6 hrs of sleep daily. It was not a problem initially. But after a month - it begins to show its effect. I begin to feel awful and sleepy after lunch in the office. My productivity after lunch is less than 10%. There are days when I sleep for less than 3 hrs and I feel sleepy even when driving to the office. NOT AN ADVISABLE ACT WHILE DRIVING.
 
 If you are planning to take up this challenge for some time, please make sure that you get adequate sleep.
 

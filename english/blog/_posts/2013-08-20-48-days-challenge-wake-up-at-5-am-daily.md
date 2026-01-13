@@ -26,9 +26,8 @@ It's not the waking up time that makes you successful, but what you do in those 
 1. Brush the teeth and empty the bowels.
 2. Drink one liter of water.
 3. Meditate for 30 minutes (I wanted to meditate for many many years)
-4. Emotional Freedom Technique with the Choices Method for 30 minutes (I want to test this on myself)
-5. Read a book or Listen to an audiobook or Write a blog post
-6. Work on any personal projects, either technical or personal development.
+4. Read a book or Listen to an audiobook or Write a blog post
+5. Work on any personal projects, either technical or personal development.
 
 This is not a final list of tasks. I will keep changing the tasks or reorganizing them as per my needs over time. I decided to spend 2 hrs compulsory for myself in the morning and additional time as the day permits. You can prepare your list. If lists overwhelm you, just do one simple thing like, listen to soothing music, learn an art, go to the gym, learn yoga, learn meditation, watch the sunrise, go for a walk on the beach, walk in the grass with barefoot, write a poem, etc., - Do whatever that makes you happy, as the first thing in the morning. Get it?
 
@@ -44,5 +43,3 @@ I may find some other distractions to my To-Do list in the coming 48 days. I wil
 ## Why this experiment?
 
 I am beginning to feel content with myself, and happy with my life. A thought of unknown origin tells me that it's time to give back. But, I don't know what to give or how to give. I am searching for a meaning for my life, even though my conscious atheist self says that there is no meaning. I want to organize my lifestyle and channel my energy in proper ways so I may find many excellent & exciting ideas/opportunities that my entire life would not be enough to complete. Feeling excited as I write this.
-
-**PS:** Today I woke up at 4.47 AM and did tasks 0 - 5 :)

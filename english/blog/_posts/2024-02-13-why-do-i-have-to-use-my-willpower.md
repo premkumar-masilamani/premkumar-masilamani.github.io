@@ -12,8 +12,8 @@ title: Why do I have to use my willpower?
 
 There is quite a list of items that I want to change in my life, typical ones are
 
-**Start** - diet, exercise, finish the courses and books (quite a lot)
-**Stop** - cigarettes, alcohol
+**Start** - diet, exercise, finish the courses and books (quite a lot)  
+**Stop** - cigarettes, alcohol  
 
 The plan of action is simple. Decide to change and stick to it. If there is an impulse against your decision, use your willpower to stick to the decision.
 
@@ -49,4 +49,6 @@ The objective here is to NOT have to use willpower. To get to that point, I have
 
 I'll try to keep posting my journey here. That's another thing that needs my willpower to sit down and write. Hopefully, I'll write effortlessly in the future.
 
-How is your swimming going on? How many stones have you untied already? Do you need help to understand yourself better?
+How is your swimming going on?  
+How many stones have you untied already?  
+Do you need help to understand yourself better?

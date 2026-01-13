@@ -28,11 +28,11 @@ Generally, I do not prefer Gold. My engagement ring is the first gold ornament o
 
 Most of the GoldSmiths print the word "916" or "916 KDM" on the Jewels without the logo. Many jewelers will show you these printed numbers and claim that they are 916 KDM Jewels. Do not listen to the jewelers. Just look for the above logo. If you do not find the logo in the Jewels, it means that the specific Jewel is NOT verified for the purity of gold and you are being cheated.
 
-*Please purchase the Gold Ornaments, ONLY if it is hallmarked with the BIS logo.*
+> Please purchase the Gold Ornaments, ONLY if it is hallmarked with the BIS logo.
 
 **Sovereign:** It is a gold coin of the United Kingdom issued way back in 1817, which is valued roughly at one Pound Sterling. The weight of the gold coin is roughly 7.988052 grams. Even after the British left India, we still use the term "Sovereign" as a unit to measure gold jewelry.
 
-1 Sovereign = 8 grams of Gold.
+> 1 Sovereign = 8 grams of Gold.
 
 **Wastage Charges:** When the Gold Smith makes the gold jewel, it is assumed that some portion of the gold is wasted. Technically he recovers everything from the chemicals, and the "assumed wastage" of gold is charged to the customers.
 
@@ -42,10 +42,11 @@ Most of the GoldSmiths print the word "916" or "916 KDM" on the Jewels without t
 
 **What percentage can you give?** Nowadays, the Jewellers combine both the charges into one, (either wastage or making charges) so that you feel you are being charged less. Just a psychological effect. With the information collected from my friends in Bangalore, Chennai, and other parts of Tamil Nadu, I can conclude that the combined charges of ...
 
-Less than 8% -- You are brilliant in negotiation. Please teach me the tricks!
-8% - 10% -- Average.
-10% - 13% -- The maximum you should give, however complicated the design is.
-More than 13% -- You are being cheated.
+|:---|:---|
+|Less than 8%|You are brilliant in negotiation. Please teach me the tricks!| 
+|8% - 10%|Average.|  
+|10% - 13%|The maximum you should give, however complicated the design is.|  
+|More than 13%|You are being cheated.|  
 
 It was like this when we bought *Thali Kodi* for my wife and a *Short Chain* for me. I saved my hard-earned money of Rs. 3,816 from the Jewellers.
 

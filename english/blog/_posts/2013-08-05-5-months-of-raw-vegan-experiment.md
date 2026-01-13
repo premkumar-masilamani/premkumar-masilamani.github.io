@@ -10,7 +10,7 @@ cover-image: 5-months-raw-vegan-transformation.jpg
 cover-image-credit: Photos by Premkumar Masilamani
 ---
 
-25th August 2012 - Some seemingly very unimportant events happened in my life. I couldn't tie my shoelaces while sitting in a chair. I was huffing & puffing when I was done. Yeah. I had a big belly. I could not believe the condition of my physique. I started thinking. Just like the butterfly effect in Chaos Theory, this event triggered a series of events in my life, which led me to change my lifestyle drastically. I started doing one little thing at a time.
+**25th August 2012** - Some seemingly very unimportant events happened in my life. I couldn't tie my shoelaces while sitting in a chair. I was huffing & puffing when I was done. Yeah. I had a big belly. I could not believe the condition of my physique. I started thinking. Just like the butterfly effect in Chaos Theory, this event triggered a series of events in my life, which led me to change my lifestyle drastically. I started doing one little thing at a time.
 
 The change - going raw vegan was drastic and very effective. I was a voracious meat eater. Switching immediately to the opposite side of the spectrum would be very tough. So, I stopped eating meat from Jan 1, 2013. After a month, I started eating raw vegan food for breakfast for two weeks, then for two weeks for dinner, and eventually for all three meals in the day. From 1st March 2013, I was on a 100% raw vegan diet. After being on this diet for 5 months, you can see the results in the above picture.
 

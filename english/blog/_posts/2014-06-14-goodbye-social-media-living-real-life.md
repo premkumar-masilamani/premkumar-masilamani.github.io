@@ -7,7 +7,7 @@ permalink: /english/blog/:title/
 date: 2014-06-14
 title: Goodbye, Social Media - I am going to live a Real Life
 ---
-
+<span>  
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Z7dLU6fk9QY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 When was the last time I spoke to the rose plants while watering them in the morning?
@@ -101,10 +101,10 @@ Losing contacts does not mean losing friends. I am merely severing one of the co
 No. I love writing. I will continue to blog at the below websites. You can subscribe to these blogs if you find them useful.
 
 1. [{{ site[page.lang][page.type].title }}]({{ site[page.lang][page.type].url }})
-2. [&#2965;&#2985;&#2997;&#3009;]({{ site[page.lang][page.type].url }})
+2. [{{ site['tamil'][page.type].title }}]({{ site['tamil'][page.type].url }})
 3. ~~Raw Vegan Recipes~~ - I deleted the website. I am no longer a raw vegan. I would suggest doing the opposite. Follow a Paleo lifestyle.
 
-I will also retain my [LinkedIn]({{site.social.links[0]}}) account for my professional growth.
+I will also retain my [LinkedIn]({{site.linkedin}}) account for my professional growth.
 
 ## When will I erase my digital presence?
 
