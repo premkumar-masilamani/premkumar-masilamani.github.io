@@ -58,3 +58,6 @@ plugins:
   - jekyll-sitemap
 
 paginate: 1000
+
+# Enable this setting when publishing from India.
+timezone: Asia/Kolkata
