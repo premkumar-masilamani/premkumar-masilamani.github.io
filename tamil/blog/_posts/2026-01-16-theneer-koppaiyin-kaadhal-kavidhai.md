@@ -4,7 +4,7 @@ lang: tamil
 type: blog
 permalink: /tamil/blog/:title/
 
-date: 2026-01-17
+date: 2026-01-16
 title: தேநீர் கோப்பையின் காதல்
 ---
 
