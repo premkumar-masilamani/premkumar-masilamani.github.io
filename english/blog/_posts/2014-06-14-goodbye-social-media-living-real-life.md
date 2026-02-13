@@ -116,4 +116,4 @@ I don't know. Maybe. But, not until the end of the year 2014.
 
 ## How can I be contacted?
 
-I will be available via the contact form on this website. If you know me personally, you would already have my mobile number. Just call me :)
+If you know me personally, you would already have my mobile number. Just call me :)
