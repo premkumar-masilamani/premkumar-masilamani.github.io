@@ -28,8 +28,6 @@ In the past few weeks, I could do
 
 I had no idea of the frameworks or libraries to use, and it took hardly a few hours each. It's like getting the job done and figuring out how it's done and learning from it.
 
-> I feel like an early Chinese engineer, reverse engineering American products.
-
 I don't think, I'll go back to the old ways of programming. The least I can accept is - I will not use LLMs on the internet and be OK with running them locally.
 
 I actually want to attend a technical interview and say, "I only do vibe coding !".
