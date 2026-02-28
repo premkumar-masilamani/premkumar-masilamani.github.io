@@ -1,11 +1,11 @@
 ---
 layout: post
 lang: tamil
-type: blog
-permalink: /tamil/blog/:title/
+type: a400
+permalink: /tamil/a400/:title/
 
-date: 2025-10-06
-title: அகநானூறு - அளிநிலை பொறா
+date: 2026-02-28
+title: 005 - அளிநிலை பொறா
 ---
 
 அளிநிலை பொறாஅ தமரிய முகத்தள் <br/>
