@@ -5,7 +5,7 @@ type: blog
 permalink: /tamil/blog/:title/
 
 date: 2026-02-13
-title: சொல்லடி சிவசக்தி
+title: மதிகெட்ட மானிடர்
 ---
 
 இனங்கண்டு உறவாடி  

@@ -7,37 +7,42 @@ date: 2024-09-29
 title: The Unquiet Mind
 ---
 
+<a href="{{ site.home }}"
+    >{{ site[page.lang][page.type].breadcrumbs_texts.home }}</a
+>&nbsp;&gt;&nbsp;
+<a href="{{ site[page.lang][page.type].url }}"
+    >{{ site[page.lang][page.type].breadcrumbs_texts.item }}</a
+>
+
 <h2>Blog Posts</h2>
 
-{% assign filtered_posts = site.posts | where: "lang", "english" | where: "type", "blog" %}
-{% assign posts_by_year = filtered_posts | group_by_exp: "post", "post.date | date: '%Y'" %}
-
-{% for year in posts_by_year %}
-  <h3>{{ year.name }} ({{ year.items | size }})</h3>
-  <ul>
+{% assign filtered_posts = site.posts | where: "lang", "english" | where:
+"type", "blog" %} {% assign posts_by_year = filtered_posts | group_by_exp:
+"post", "post.date | date: '%Y'" %} {% for year in posts_by_year %}
+<h3>{{ year.name }} ({{ year.items | size }})</h3>
+<ul>
     {% for post in year.items %}
-      <li>
+    <li>
         <p>
-          <span class="page-date">{{ post.date | date: '%d-%b-%Y' }}</span>&nbsp;&nbsp;
-          <a href="{{ post.url }}">{{ post.title }}</a>
+            <span class="page-date">{{ post.date | date: '%d-%b-%Y' }}</span
+            >&nbsp;&nbsp;
+            <a href="{{ post.url }}">{{ post.title }}</a>
         </p>
-      </li>
+    </li>
     {% endfor %}
-  </ul>
+</ul>
 {% endfor %}
 
 <h2>Pages</h2>
 
-{% assign exclude_pages = "404.md,feed.md,sitemap.xml,index.html" | split: "," %}
+{% assign exclude_pages = "404.md,feed.md,sitemap.xml,index.html" | split: ","
+%}
 <ul>
-  {% for page in site.pages %}
-    {% assign filename = page.path | split: "/" | last %}
-    {% unless exclude_pages contains filename %}
-      {% if page.lang == "english" and page.type == "blog" %}
-        <li>
-          <a href="{{ page.url }}">{{ page.title | default: filename }}</a>
-        </li>
-      {% endif %}
-    {% endunless %}
-  {% endfor %}
+    {% for page in site.pages %} {% assign filename = page.path | split: "/" |
+    last %} {% unless exclude_pages contains filename %} {% if page.lang ==
+    "english" and page.type == "blog" %}
+    <li>
+        <a href="{{ page.url }}">{{ page.title | default: filename }}</a>
+    </li>
+    {% endif %} {% endunless %} {% endfor %}
 </ul>
