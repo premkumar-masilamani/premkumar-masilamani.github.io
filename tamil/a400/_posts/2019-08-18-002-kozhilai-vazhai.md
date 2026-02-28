@@ -1,8 +1,8 @@
 ---
 layout: post
 lang: tamil
-type: blog
-permalink: /tamil/blog/:title/
+type: a400
+permalink: /tamil/a400/:title/
 
 date: 2019-08-18
 title: 002 - கோழிலை வாழை

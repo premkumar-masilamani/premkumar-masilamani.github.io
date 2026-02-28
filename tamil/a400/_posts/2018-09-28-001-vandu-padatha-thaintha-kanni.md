@@ -2,7 +2,7 @@
 layout: post
 lang: tamil
 type: a400
-permalink: /tamil/blog/:title/
+permalink: /tamil/a400/:title/
 
 date: 2018-09-28
 title: 001 - வண்டுபடத் ததைந்த கண்ணி

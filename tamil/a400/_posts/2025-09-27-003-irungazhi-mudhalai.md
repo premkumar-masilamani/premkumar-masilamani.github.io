@@ -2,7 +2,7 @@
 layout: post
 lang: tamil
 type: a400
-permalink: /tamil/blog/:title/
+permalink: /tamil/a400/:title/
 
 date: 2025-09-27
 title: 003 - இருங்கழி முதலை

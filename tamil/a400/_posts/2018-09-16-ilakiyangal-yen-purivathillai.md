@@ -2,7 +2,7 @@
 layout: post
 lang: tamil
 type: a400
-permalink: /tamil/blog/:title/
+permalink: /tamil/a400/:title/
 
 date: 2018-09-16
 title: தமிழ் இலக்கியங்கள் ஏன் புரிவதில்லை?

@@ -2,7 +2,7 @@
 layout: post
 lang: tamil
 type: a400
-permalink: /tamil/blog/:title/
+permalink: /tamil/a400/:title/
 
 date: 2018-09-21
 title: 000 - கார்விரி கொன்றை
