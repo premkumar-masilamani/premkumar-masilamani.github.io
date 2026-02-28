@@ -1,0 +1,31 @@
+---
+layout: page
+lang: tamil
+type: a400
+
+date: 2026-02-28
+title: அகநானூறு
+---
+
+<a href="{{ site.home }}"
+    >{{ site[page.lang][page.type].breadcrumbs_texts.home }}</a
+>&nbsp;&gt;&nbsp;
+<a href="{{ site[page.lang][page.type].url }}"
+    >{{ site[page.lang][page.type].breadcrumbs_texts.item }}</a
+>
+
+<h2>பாடல்கள்</h2>
+
+{% assign filtered_posts = site.posts | where: "lang", "tamil" | where: "type",
+"a400" %} {% assign sorted_posts = filtered_posts | sort: 'date' %}
+<ul>
+    {% for post in sorted_posts %}
+    <li>
+        <p>
+            <span class="page-date">{{ post.date | date: '%d-%b-%Y' }}</span
+            >&nbsp;&nbsp;
+            <a href="{{ post.url }}">{{ post.title }}</a>
+        </p>
+    </li>
+    {% endfor %}
+</ul>

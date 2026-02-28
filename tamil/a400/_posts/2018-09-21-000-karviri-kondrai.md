@@ -1,11 +1,11 @@
 ---
 layout: post
 lang: tamil
-type: blog
+type: a400
 permalink: /tamil/blog/:title/
 
 date: 2018-09-21
-title: அகநானூறு - கார்விரி கொன்றை
+title: 000 - கார்விரி கொன்றை
 ---
 
 கார்விரி கொன்றைப் பொன்னேர் புதுமலர்த்   

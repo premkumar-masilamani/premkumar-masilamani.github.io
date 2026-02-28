@@ -1,11 +1,11 @@
 ---
 layout: post
 lang: tamil
-type: blog
+type: a400
 permalink: /tamil/blog/:title/
 
 date: 2025-09-27
-title: அகநானூறு - இருங்கழி முதலை
+title: 003 - இருங்கழி முதலை
 ---
 
 இருங்கழி முதலை மேஎந்தோ லன்ன   

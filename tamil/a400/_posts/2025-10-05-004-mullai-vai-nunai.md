@@ -1,11 +1,11 @@
 ---
 layout: post
 lang: tamil
-type: blog
+type: a400
 permalink: /tamil/blog/:title/
 
 date: 2025-10-05
-title: அகநானூறு - முல்லை வைந்நுனை
+title: 004 - முல்லை வைந்நுனை
 ---
 
 முல்லை வைந்நுனை தோன்ற வில்லமொடு   

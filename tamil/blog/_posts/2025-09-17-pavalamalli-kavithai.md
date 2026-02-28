@@ -5,7 +5,7 @@ type: blog
 permalink: /tamil/blog/:title/
 
 date: 2025-09-17
-title: பவளமல்லி பூத்திருக்கு
+title: பவளமல்லி
 ---
 
 பவளமல்லி பூத்திருக்கு   

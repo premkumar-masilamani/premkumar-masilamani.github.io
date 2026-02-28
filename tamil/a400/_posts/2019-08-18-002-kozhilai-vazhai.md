@@ -5,7 +5,7 @@ type: blog
 permalink: /tamil/blog/:title/
 
 date: 2019-08-18
-title: அகநானூறு - கோழிலை வாழை
+title: 002 - கோழிலை வாழை
 ---
 
 கோழிலை வாழைக் கோண்மிகு பெருங்குலை   

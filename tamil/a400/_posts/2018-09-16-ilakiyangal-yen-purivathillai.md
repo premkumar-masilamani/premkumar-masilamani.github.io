@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: tamil
-type: blog
+type: a400
 permalink: /tamil/blog/:title/
 
 date: 2018-09-16

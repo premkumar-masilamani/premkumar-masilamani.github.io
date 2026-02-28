@@ -1,11 +1,11 @@
 ---
 layout: post
 lang: tamil
-type: blog
+type: a400
 permalink: /tamil/blog/:title/
 
 date: 2018-09-28
-title: அகநானூறு - வண்டுபடத் ததைந்த கண்ணி
+title: 001 - வண்டுபடத் ததைந்த கண்ணி
 ---
 
 வண்டுபடத் ததைந்த கண்ணி யொண்கழ   
