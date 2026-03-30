@@ -9,11 +9,23 @@ layout: default
   <a href="{{ site.home }}">{{ site[page.lang][page.type].breadcrumbs_texts.home }}</a>&nbsp;&gt;&nbsp;
   <a href="{{ site[page.lang][page.type].url }}">{{ site[page.lang][page.type].breadcrumbs_texts.item }}</a>
 
+  {% if page.video-id %}
+    <br/><br/>
+    <div class="video-container">
+      <iframe
+        src="https://www.youtube.com/embed/{{ page.video-id }}"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen></iframe>
+    </div>
+  {% endif %}
+
   {% if page.cover-image %}
     <br/><br/>
     <div>
-      <img src="{{site[page.lang][page.type].downloads}}/{{ page.cover-image }}" alt="{{ page.title }}"
-        {% if page.cover-image-orientation == 'portrait' %}class="portrait-style"{% endif %}/>
+      <img src="{{site[page.lang][page.type].downloads}}/{{ page.cover-image }}"
+          alt="{{ page.title }}"
+          class="{{ page.cover-image-orientation }}"/>
       <div class="cover-image-credit"><small>{{ page.cover-image-credit }}</small></div>
     </div>
   {% endif %}
