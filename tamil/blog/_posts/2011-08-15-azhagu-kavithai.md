@@ -5,7 +5,7 @@ type: blog
 permalink: /tamil/blog/:title/
 
 date: 2011-08-15
-title: ரொம்ப அழகா இருக்கு
+title: அழகு
 ---
 
 தமிழ் அழகா?   

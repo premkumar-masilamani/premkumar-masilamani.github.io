@@ -5,7 +5,7 @@ type: blog
 permalink: /tamil/blog/:title/
 
 date: 2025-07-23
-title: நான் தாய்
+title: சலனமில்லா பெருங்கூச்சல்
 ---
 
 இக்காட்டிடை பெருவெள்ளத்தில்   
