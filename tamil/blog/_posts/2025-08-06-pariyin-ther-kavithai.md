@@ -6,6 +6,7 @@ permalink: /tamil/blog/:title/
 
 date: 2025-08-07
 title: பாரியின் தேர்
+video-url: https://www.youtube.com/shorts/bjbmvo7-7jQ
 ---
 
 காவி நிறத்தவளே   
