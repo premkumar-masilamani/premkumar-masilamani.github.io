@@ -23,8 +23,9 @@ layout: default
   {% if page.cover-image %}
     <br/><br/>
     <div>
-      <img src="{{site[page.lang][page.type].downloads}}/{{ page.cover-image }}" alt="{{ page.title }}"
-        {% if page.cover-image-orientation == 'portrait' %}class="portrait"{% endif %}/>
+      <img src="{{site[page.lang][page.type].downloads}}/{{ page.cover-image }}"
+          alt="{{ page.title }}"
+          class="{{ page.cover-image-orientation }}"/>
       <div class="cover-image-credit"><small>{{ page.cover-image-credit }}</small></div>
     </div>
   {% endif %}
