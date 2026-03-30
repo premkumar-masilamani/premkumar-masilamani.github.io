@@ -5,7 +5,7 @@ type: blog
 permalink: /tamil/blog/:title/
 
 date: 2009-03-06
-title: ஒரு ஹைக்கூ கவிதை
+title: உன் வெற்றிடம்
 ---
 
 பல நூறு நண்பர்கள் மத்தியிலும்  

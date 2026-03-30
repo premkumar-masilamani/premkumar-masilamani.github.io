@@ -5,7 +5,7 @@ type: blog
 permalink: /tamil/blog/:title/
 
 date: 2010-09-05
-title: என்னுயிர் தோழிக்கு
+title: பொறு மனமே
 ---
 
 வெள்ளி மழையில் தங்கச்சிலை   

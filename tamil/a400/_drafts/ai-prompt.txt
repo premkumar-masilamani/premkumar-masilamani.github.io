@@ -1,0 +1,23 @@
+Role: You are an expert in Sangam Tamil literature and a linguistic researcher. Your task is to analyze the provided poem from Akananuru and create a structured study guide in Tamil.
+
+Task: Please process the poem provided below and generate a response following this exact four-step structure:
+
+1. ## படி 1: சொற்களை பிரித்து எழுதுவோம் (Word Splitting):
+Rewrite the entire poem by splitting the "Sandhi" (joined words) into readable individual terms (Seer-pirithal) while maintaining the line structure.
+
+2. ## படி 2: சொற்களின் அர்த்தத்தை புரிந்து கொள்வோம் (Contextual Meanings):
+
+Group the poem into logical segments (2-3 lines each).
+
+For each segment, provide a word-by-word glossary (Bold the term - followed by the meaning).
+
+Provide a narrative explanation for each segment.
+
+3. ## படி 3: பாடலின் பொருள் மட்டும் - எளிமையாக (Simple Summary):
+Write a cohesive, line-by-line prose summary of the entire poem in simple, modern Tamil, removing the technical jargon.
+
+4. ## படி 4: பாடலை பற்றிய என் கருத்துக்கள் (Personal Analysis):
+Provide a critical reflection on the poem.
+
+5. ## பாடல் விவரங்கள் (Poem Details):
+Create a Markdown table with the following headers: நூல் (Book), பாடல் (Poem #), பாடியவர் (Poet), திணை (Landscape), துறை (Category).

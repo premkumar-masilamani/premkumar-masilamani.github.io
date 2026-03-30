@@ -5,7 +5,7 @@ type: blog
 permalink: /tamil/blog/:title/
 
 date: 2010-04-25
-title: என் காதல்
+title: கருணைக்கொலை
 ---
 
 இறந்தே பிறந்த   

@@ -5,7 +5,7 @@ type: blog
 permalink: /tamil/blog/:title/
 
 date: 2023-01-19
-title: எனக்கு நானெழுதும் கடிதம்
+title: அலை மேல் இறகு
 ---
 
 உன்னுடன் பேசு   
