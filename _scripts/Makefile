@@ -1,12 +1,16 @@
 .PHONY: setup
 setup:
 	@echo "Creating virtual environment..."
-	pipenv shell
+	python3 -m venv .venv
+	@echo "Virtual environment created in .venv"
+	@echo "Installing dependencies..."
+	./.venv/bin/pip install -r requirements.txt
+	@echo "To activate the virtual environment, run: source .venv/bin/activate"
 
 .PHONY: show
 show:
 	@echo "Listing dependencies..."
-	pipenv graph
+	./.venv/bin/pip list
 
 .PHONY: check
 check:
@@ -15,16 +19,16 @@ check:
 
 .PHONY: link
 link:
-	python3 src/link_checker.py
+	./.venv/bin/python3 src/link_checker.py
 
 .PHONY: profanity
 profanity:
-	python3 src/profanity_checker.py
+	./.venv/bin/python3 src/profanity_checker.py
 
 .PHONY: files
 files:
-	python3 src/files_checker.py ../
+	./.venv/bin/python3 src/files_checker.py ../
 
 .PHONY: mp3
 mp3:
-	python3 src/convert_mp3.py
+	./.venv/bin/python3 src/convert_mp3.py

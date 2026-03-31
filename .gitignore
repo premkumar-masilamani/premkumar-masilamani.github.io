@@ -50,3 +50,6 @@ Gemfile.lock
 
 # Optional: ignore any local configuration or deployment files
 _config.local.yml
+
+# Python virtual environment
+.venv/
