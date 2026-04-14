@@ -2,10 +2,13 @@ Role: You are an expert in Sangam Tamil literature and a linguistic researcher. 
 
 Task: Please process the poem provided below and generate a response following this exact four-step structure:
 
-1. ## படி 1: சொற்களை பிரித்து எழுதுவோம் (Word Splitting):
+1. ## பாடல் விவரங்கள் (Poem Details):
+Create a Markdown table with the following headers: நூல் (Book), பாடல் (Poem #), பாடியவர் (Poet), திணை (Landscape), துறை (Category).
+
+2. ## படி 1: சொற்களை பிரித்து எழுதுவோம்:
 Rewrite the entire poem by splitting the "Sandhi" (joined words) into readable individual terms (Seer-pirithal) while maintaining the line structure.
 
-2. ## படி 2: சொற்களின் அர்த்தத்தை புரிந்து கொள்வோம் (Contextual Meanings):
+3. ## படி 2: சொற்களின் அர்த்தத்தை புரிந்து கொள்வோம் (Contextual Meanings):
 
 Group the poem into logical segments (2-3 lines each).
 
@@ -13,11 +16,37 @@ For each segment, provide a word-by-word glossary (Bold the term - followed by t
 
 Provide a narrative explanation for each segment.
 
-3. ## படி 3: பாடலின் பொருள் மட்டும் - எளிமையாக (Simple Summary):
+4. ## படி 3: பாடலின் பொருள் மட்டும் - எளிமையாக:
 Write a cohesive, line-by-line prose summary of the entire poem in simple, modern Tamil, removing the technical jargon.
 
-4. ## படி 4: பாடலை பற்றிய என் கருத்துக்கள் (Personal Analysis):
+5. ## படி 4: பாடலை பற்றிய என் கருத்துக்கள்:
 Provide a critical reflection on the poem.
 
-5. ## பாடல் விவரங்கள் (Poem Details):
-Create a Markdown table with the following headers: நூல் (Book), பாடல் (Poem #), பாடியவர் (Poet), திணை (Landscape), துறை (Category).
+
+அரிபெய் சிலம்பி னாம்பலந் தொடலை
+ய‌ரம்போ ழ‌வ்வளைப் பொலிந்த முன்கை
+யிழையணி பணைத்தோ ளையை தந்தை
+மழைவளந் தரூஉ மாவண் டித்தன்
+பிண்ட நெல்லி னுறந்தை யாங்கட்         5
+கழைநிலை பெறாஅக் காவிரி நீத்தங்
+குழைமா ணொள்ளிழை நீவெய் யோளொடு
+வேழ வெண்புணை தழீஇப் பூழியர்
+கயனா டியானையின் முகனமர்ந் தாஅங்
+கேந்தெழி லாகத்துப் பூந்தார் குழைய         10
+நெருந லாடினை புனலே யின்றுவந்
+தாக வனமுலை ய‌ரும்பிய சுணங்கின்
+மாசில் கற்பின் புதல்வன் றாயென,
+மாயப் பொய்ம்மொழி சாயினை பயிற்றியெம்
+முதுமை யெள்ளலஃ த‌மைகுந் தில்ல         15
+சுடர்ப்பூந் தாமரை நீர்முதிர் பழனத்
+தந்தூம்பு வள்ளை யாய்கொடி மயக்கி
+வாளை மேய்ந்த வள்ளெயிற்று நீர்நாய்
+முள்ளரைப் பிரம்பின் மூதரிற் செறியும்
+பல்வேன் மத்தி கழாஅ ர‌ன்னவெம்         20
+மிளமை சென்று தவத்தொல் லஃதே
+யினிமையெவன் செய்வது பொய்ம்மொழி யெமக்கே.
+
+        -பரணர்.
+
+திணை: ம‌ருத‌ம்.
+துறை: ப‌ர‌த்தையிற் பிரிந்து வ‌ந்த‌ த‌லைம‌க‌ற்குக் கிழ‌த்தி கூறிய‌து.
