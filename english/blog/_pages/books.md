@@ -20,6 +20,7 @@ I began to understand that reading books is a personal experience and the same b
 ## Personal Development
 - *Deep Work* - **Cal Newport**
 - *The Coaching Habit* - **Michael Bungay Stanier**
+- *The Courage to be Disliked* - **Ichiro Kishimi,Fumitake Koga**
 
 ## Business
 - *Kings of Crypto* - **Jeff John Roberts**
