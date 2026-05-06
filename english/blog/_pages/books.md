@@ -13,7 +13,6 @@ I understood that reading books is a personal experience. The same book would pr
 ## Memoir
 - *Maybe You Should Talk To Someone* - **Lori Gottlieb**
 - *When Breath Becomes Air* - **Paul Kalanithi**
-- *Careless People* - **Sarah Wynn-Williams**
 
 ## Fiction
 - *Daddy* - **Danielle Steel**
