@@ -13,7 +13,7 @@ I understood that reading books is a personal experience. The same book would pr
 ## Memoir
 - *Maybe You Should Talk To Someone* - **Lori Gottlieb**
 - *When Breath Becomes Air* - **Paul Kalanithi**
-- *Careless People: A Cautionary Tale Of Power, Greed And Lost Idealism* - **Sarah Wynn-Williams**
+- *Careless People* - **Sarah Wynn-Williams**
 
 ## Fiction
 - *Daddy* - **Danielle Steel**
@@ -31,7 +31,7 @@ I understood that reading books is a personal experience. The same book would pr
 ## Investing
 - *The Little Book Of Common Sense Investing* - **John C. Bogle**
 - *The Bogleheads Guide To The Three-Fund Portfolio* - **Taylor Larimore**
-- *Money: Master the Game* - **Tony Robbins**
+- *Money* - **Tony Robbins**
 
 ## Crypto
 - *Mastering Bitcoin* - **Andreas M. Antonopoulos**
