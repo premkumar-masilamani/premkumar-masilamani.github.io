@@ -21,6 +21,7 @@ I understood that reading books is a personal experience. The same book would pr
 - *Deep Work* - **Cal Newport**
 - *The Coaching Habit* - **Michael Bungay Stanier**
 - *The Courage To Be Disliked* - **Ichiro Kishimi, Fumitake Koga**
+- *Predictably Irrational* - **Dan Ariely**
 
 ## Business
 - *Kings Of Crypto* - **Jeff John Roberts**
