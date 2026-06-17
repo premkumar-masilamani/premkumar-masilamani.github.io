@@ -1,0 +1,24 @@
+{% if page.lang %}
+  {% assign home_text = site.breadcrumbs_texts.home[page.lang] %}
+  {% assign lang_text = site.breadcrumbs_texts.lang[page.lang] %}
+
+  <a href="{{ site.home }}">{{ home_text }}</a>
+  &nbsp;&gt;&nbsp;
+
+  {% if page.type %}
+    <a href="{{ site.home }}/{{ page.lang }}/">{{ lang_text }}</a>
+    &nbsp;&gt;&nbsp;
+
+    {% if page.layout == "post" %}
+      {% assign item_text = site[page.lang][page.type].breadcrumbs_texts.item %}
+      <a href="{{ site[page.lang][page.type].url }}">{{ item_text }}</a>
+      &nbsp;&gt;&nbsp;
+      <span>{{ page.title }}</span>
+    {% else %}
+      {% assign item_text = site[page.lang][page.type].breadcrumbs_texts.item %}
+      <span>{{ item_text }}</span>
+    {% endif %}
+  {% else %}
+    <span>{{ lang_text }}</span>
+  {% endif %}
+{% endif %}

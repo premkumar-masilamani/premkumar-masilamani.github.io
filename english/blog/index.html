@@ -7,9 +7,6 @@ date: 2024-09-29
 title: The Unquiet Mind
 ---
 
-<a href="{{ site.home }}">{{ site[page.lang][page.type].breadcrumbs_texts.home }}</a>&nbsp;&gt;&nbsp;
-<a href="{{ site[page.lang][page.type].url }}">{{ site[page.lang][page.type].breadcrumbs_texts.item }}</a>
-
 <h2>Blog Posts</h2>
 
 {% assign filtered_posts = site.posts | where: "lang", "english" | where: "type", "blog" %}

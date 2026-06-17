@@ -6,8 +6,7 @@ layout: default
   <h1>{{ page.title }}</h1>
   <span class="page-date">{{ page.date | date_to_string }}</span>
   <br/><br/>
-  <a href="{{ site.home }}">{{ site[page.lang][page.type].breadcrumbs_texts.home }}</a>&nbsp;&gt;&nbsp;
-  <a href="{{ site[page.lang][page.type].url }}">{{ site[page.lang][page.type].breadcrumbs_texts.item }}</a>
+  {% include breadcrumbs.html %}
 
   {% if page.video-id %}
     <br/><br/>
@@ -42,8 +41,7 @@ layout: default
 
   {{ content }}
 
-  <a href="{{ site.home }}">{{ site[page.lang][page.type].breadcrumbs_texts.home }}</a>&nbsp;&gt;&nbsp;
-  <a href="{{ site[page.lang][page.type].url }}">{{ site[page.lang][page.type].breadcrumbs_texts.item }}</a>
+  {% include breadcrumbs.html %}
 </div>
 
 <hr/>
