@@ -13,8 +13,6 @@
     {% if page.layout == "post" %}
       {% assign item_text = site[page.lang][page.type].breadcrumbs_texts.item %}
       <a href="{{ site[page.lang][page.type].url }}">{{ item_text }}</a>
-      &nbsp;&gt;&nbsp;
-      <span>{{ page.title }}</span>
     {% else %}
       {% assign item_text = site[page.lang][page.type].breadcrumbs_texts.item %}
       <span>{{ item_text }}</span>
