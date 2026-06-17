@@ -1,0 +1,24 @@
+{% if page.lang %}
+<div class="breadcrumbs">
+  {% assign home_text = site.breadcrumbs_texts.home[page.lang] %}
+  {% assign lang_text = site.breadcrumbs_texts.lang[page.lang] %}
+
+  <a href="{{ site.home }}">{{ home_text }}</a>
+  &nbsp;&gt;&nbsp;
+
+  {% if page.type %}
+    <a href="{{ site.home }}/{{ page.lang }}/">{{ lang_text }}</a>
+    &nbsp;&gt;&nbsp;
+
+    {% if page.layout == "post" %}
+      {% assign item_text = site.breadcrumbs_texts.channels[page.lang][page.type] %}
+      <a href="{{ site[page.lang][page.type].url }}">{{ item_text }}</a>
+    {% else %}
+      {% assign item_text = site.breadcrumbs_texts.channels[page.lang][page.type] %}
+      <span>{{ item_text }}</span>
+    {% endif %}
+  {% else %}
+    <span>{{ lang_text }}</span>
+  {% endif %}
+</div>
+{% endif %}

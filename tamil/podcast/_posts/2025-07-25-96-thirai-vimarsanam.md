@@ -6,7 +6,7 @@ permalink: /tamil/podcast/:title/
 
 date: 2025-07-25
 title: 96 - திரைவிமர்சனம்
-cover-image: 2025-premkumar-masilamani.jpg
+cover-image: 96-tamil-movie.jpeg
 cover-image-credit: Downloaded from Spotify Website
 
 audio-file: episode-1-journey-of-ram.mp3

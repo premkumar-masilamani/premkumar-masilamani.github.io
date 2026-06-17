@@ -1,0 +1,56 @@
+---
+layout: page
+
+date: 2026-06-17
+title: Downloads
+---
+
+<div class="breadcrumbs">
+  <a href="{{ site.home }}">home</a>&nbsp;&gt;&nbsp;<span>downloads</span>
+</div>
+
+{% assign sorted_static_files = site.static_files | sort: "path" %}
+
+{% comment %}
+Extract unique directory paths under /downloads/
+{% endcomment %}
+{% assign unique_dirs_str = "" %}
+{% for file in sorted_static_files %}
+  {% if file.path contains "/downloads/" %}
+    {% assign dir_path = file.path | replace: file.name, "" | replace: "/downloads/", "" %}
+    {% if dir_path != "" and dir_path != "/" %}
+      {% assign check_str = dir_path | append: "|" %}
+      {% unless unique_dirs_str contains check_str %}
+        {% assign unique_dirs_str = unique_dirs_str | append: check_str %}
+      {% endunless %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{% assign unique_dirs = unique_dirs_str | split: "|" | sort %}
+
+{% comment %}
+Render each directory group dynamically
+{% endcomment %}
+{% for dir in unique_dirs %}
+  {% assign parts = dir | split: "/" %}
+  {% assign capitalized_parts = "" %}
+  {% for part in parts %}
+    {% assign capitalized_part = part | capitalize %}
+    {% assign capitalized_parts = capitalized_parts | append: capitalized_part | append: " " %}
+  {% endfor %}
+  {% assign dir_title = capitalized_parts | strip %}
+
+  <h3>{{ dir_title }}</h3>
+  <ul>
+    {%- for file in sorted_static_files -%}
+      {%- assign file_dir = file.path | replace: file.name, "" -%}
+      {%- assign target_dir = "/downloads/" | append: dir -%}
+      {%- if file_dir == target_dir -%}
+        <li>
+          <a href="{{ file.path | relative_url }}" target="_blank">{{ file.name }}</a>
+        </li>
+      {%- endif -%}
+    {%- endfor -%}
+  </ul>
+{% endfor %}
