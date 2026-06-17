@@ -9,45 +9,48 @@ title: Downloads
 
 <p>Here you can find and download the individual attachments, documents, and assets from the website:</p>
 
-{% assign static_files = site.static_files | sort: "path" %}
+{% assign sorted_static_files = site.static_files | sort: "path" %}
 
-{% assign profile_files = static_files | where_exp: "file", "file.path contains '/downloads/profile/'" %}
-{% assign english_blog_files = static_files | where_exp: "file", "file.path contains '/downloads/english/blog/'" %}
-{% assign tamil_blog_files = static_files | where_exp: "file", "file.path contains '/downloads/tamil/blog/'" %}
-{% assign tamil_podcast_files = static_files | where_exp: "file", "file.path contains '/downloads/tamil/podcast/'" %}
+{% comment %}
+Extract unique directory paths under /downloads/
+{% endcomment %}
+{% assign unique_dirs_str = "" %}
+{% for file in sorted_static_files %}
+  {% if file.path contains "/downloads/" %}
+    {% assign dir_path = file.path | replace: file.name, "" | replace: "/downloads/", "" %}
+    {% if dir_path != "" and dir_path != "/" %}
+      {% assign check_str = dir_path | append: "|" %}
+      {% unless unique_dirs_str contains check_str %}
+        {% assign unique_dirs_str = unique_dirs_str | append: check_str %}
+      {% endunless %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
 
-<h3>Profile</h3>
-<ul>
-  {% for file in profile_files %}
-    <li>
-      <a href="{{ file.path | relative_url }}" target="_blank">{{ file.name }}</a>
-    </li>
+{% assign unique_dirs = unique_dirs_str | split: "|" | sort %}
+
+{% comment %}
+Render each directory group dynamically
+{% endcomment %}
+{% for dir in unique_dirs %}
+  {% assign parts = dir | split: "/" %}
+  {% assign capitalized_parts = "" %}
+  {% for part in parts %}
+    {% assign capitalized_part = part | capitalize %}
+    {% assign capitalized_parts = capitalized_parts | append: capitalized_part | append: " " %}
   {% endfor %}
-</ul>
+  {% assign dir_title = capitalized_parts | strip %}
 
-<h3>English Blog</h3>
-<ul>
-  {% for file in english_blog_files %}
-    <li>
-      <a href="{{ file.path | relative_url }}" target="_blank">{{ file.name }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
-<h3>Tamil Blog</h3>
-<ul>
-  {% for file in tamil_blog_files %}
-    <li>
-      <a href="{{ file.path | relative_url }}" target="_blank">{{ file.name }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
-<h3>Tamil Podcast</h3>
-<ul>
-  {% for file in tamil_podcast_files %}
-    <li>
-      <a href="{{ file.path | relative_url }}" target="_blank">{{ file.name }}</a>
-    </li>
-  {% endfor %}
-</ul>
+  <h3>{{ dir_title }}</h3>
+  <ul>
+    {%- for file in sorted_static_files -%}
+      {%- assign file_dir = file.path | replace: file.name, "" -%}
+      {%- assign target_dir = "/downloads/" | append: dir -%}
+      {%- if file_dir == target_dir -%}
+        <li>
+          <a href="{{ file.path | relative_url }}" target="_blank">{{ file.name }}</a>
+        </li>
+      {%- endif -%}
+    {%- endfor -%}
+  </ul>
+{% endfor %}
