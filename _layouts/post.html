@@ -48,5 +48,6 @@ layout: default
 
 <hr/>
 <div>
-  {% include subscribe.html lang=page.lang type=page.type %}
+  {% capture footer_file %}subscription/{{ page.lang }}_{{ page.type }}.html{% endcapture %}
+  {% include {{ footer_file }} %}
 </div>
