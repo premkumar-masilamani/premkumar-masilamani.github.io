@@ -11,6 +11,14 @@ breadcrumbs_texts:
   lang:
     english: "english"
     tamil: "தமிழ்"
+  channels:
+    english:
+      blog: "blog"
+      podcast: "podcast"
+    tamil:
+      blog: "வலைப்பதிவு"
+      a400: "அகநானூறு"
+      podcast: "வளையொலி"
 
 english:
   blog:
@@ -19,16 +27,12 @@ english:
     email: premkumar.masilamani.2020@gmail.com
     url: http://localhost:4000/english/blog
     downloads: http://localhost:4000/downloads/english/blog
-    breadcrumbs_texts:
-      item: blog
   podcast:
     title: The Beautiful Contradiction
     author: Premkumar Masilamani
     email: premkumar.masilamani.2020@gmail.com
     url: http://localhost:4000/english/podcast
     downloads: http://localhost:4000/downloads/english/podcast
-    breadcrumbs_texts:
-      item: podcast
 tamil:
   blog:
     title: பேரன்பும் பெருங்கோபமும்
@@ -36,16 +40,12 @@ tamil:
     email: premkumar.masilamani.2020@gmail.com
     url: http://localhost:4000/tamil/blog
     downloads: http://localhost:4000/downloads/tamil/blog
-    breadcrumbs_texts:
-      item: வலைப்பதிவு
   a400:
     title: அகநானூறு
     author: பிரேம்குமார் மாசிலாமணி
     email: premkumar.masilamani.2020@gmail.com
     url: http://localhost:4000/tamil/a400
     downloads: http://localhost:4000/downloads/tamil/a400
-    breadcrumbs_texts:
-      item: அகநானூறு
   podcast:
     title: நிகழே அதுவே
     description: இந்த நிமிஷம் என்ன தோணுதோ, அதையே பேசறேன் - நிகழே அதுவே
@@ -54,8 +54,6 @@ tamil:
     url: http://localhost:4000/tamil/podcast
     downloads: http://localhost:4000/downloads/tamil/podcast
     gcs_bucket: https://storage.googleapis.com/premkumar-masilamani-podcast-nigazhe-adhuve
-    breadcrumbs_texts:
-      item: வளையொலி
 
 include:
   - "_pages"

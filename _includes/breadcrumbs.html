@@ -11,10 +11,10 @@
     &nbsp;&gt;&nbsp;
 
     {% if page.layout == "post" %}
-      {% assign item_text = site[page.lang][page.type].breadcrumbs_texts.item %}
+      {% assign item_text = site.breadcrumbs_texts.channels[page.lang][page.type] %}
       <a href="{{ site[page.lang][page.type].url }}">{{ item_text }}</a>
     {% else %}
-      {% assign item_text = site[page.lang][page.type].breadcrumbs_texts.item %}
+      {% assign item_text = site.breadcrumbs_texts.channels[page.lang][page.type] %}
       <span>{{ item_text }}</span>
     {% endif %}
   {% else %}
