@@ -1,6 +1,2 @@
-<p>{{ site[include.lang][include.type].subscription_text }}</p>
-<ul>
-    <li>
-        <a href="{{ site[include.lang][include.type].url }}/feed.xml" target="_blank">RSS feed</a>
-    </li>
-</ul>
+{% capture footer_file %}footers/{{ include.lang }}_{{ include.type }}.html{% endcapture %}
+{% include {{ footer_file }} %}

@@ -11,7 +11,6 @@ english:
     email: premkumar.masilamani.2020@gmail.com
     url: http://localhost:4000/english/blog
     downloads: http://localhost:4000/downloads/english/blog
-    subscription_text: "Thanks for reading my blog post! I hope it made you think. Stay updated with the latest posts via:"
     breadcrumbs_texts:
       home: home
       item: blog
@@ -21,7 +20,6 @@ english:
     email: premkumar.masilamani.2020@gmail.com
     url: http://localhost:4000/english/podcast
     downloads: http://localhost:4000/downloads/english/podcast
-    subscription_text: "Thanks for listening to my podcast! I hope it made you think. Stay updated with the latest episodes via:"
     breadcrumbs_texts:
       home: home
       item: podcast
@@ -32,7 +30,6 @@ tamil:
     email: premkumar.masilamani.2020@gmail.com
     url: http://localhost:4000/tamil/blog
     downloads: http://localhost:4000/downloads/tamil/blog
-    subscription_text: "இந்த வலைப்பதிவை படித்ததற்கு நன்றி. இது உங்களை மகிழ்வித்து இருக்கும் அல்லது சிந்திக்க தூண்டியிருக்குமென நம்புகிறேன். தொடர்ந்து என்னுடைய பதிவுகளை பெற:"
     breadcrumbs_texts:
       home: முகப்பு
       item: வலைப்பதிவு
@@ -42,7 +39,6 @@ tamil:
     email: premkumar.masilamani.2020@gmail.com
     url: http://localhost:4000/tamil/a400
     downloads: http://localhost:4000/downloads/tamil/a400
-    subscription_text: "அகநானூறு உங்களை மகிழ்வித்து இருக்கும் அல்லது சிந்திக்க தூண்டியிருக்குமென நம்புகிறேன். தொடர்ந்து மற்ற பாடல்களை பெற:"
     breadcrumbs_texts:
       home: முகப்பு
       item: அகநானூறு
@@ -54,7 +50,6 @@ tamil:
     url: http://localhost:4000/tamil/podcast
     downloads: http://localhost:4000/downloads/tamil/podcast
     gcs_bucket: https://storage.googleapis.com/premkumar-masilamani-podcast-nigazhe-adhuve
-    subscription_text: "Thanks for listening to my podcast! I hope it made you think. Stay updated with the latest episodes via:"
     breadcrumbs_texts:
       home: முகப்பு
       item: வளையொலி
