@@ -31,7 +31,7 @@ title: RSS Feed
 			<item>
 				<title><![CDATA[{{ post.title }}]]></title>
 				<link><![CDATA[{{ site.home }}{{ post.url }}]]></link>
-				<description><![CDATA[{{ post.content | markdownify }}]]></description>
+				<description><![CDATA[{{ post.content | markdownify }}<hr/><p>This article was originally published on my website: <a href="{{ site.home }}{{ post.url }}">{{ site.home }}{{ post.url }}</a></p>]]></description>
 				{% if post.author-name %}
 					<author><![CDATA[{{ post.author-email }} ({{ post.author-name }})]]></author>
 				{% else %}
