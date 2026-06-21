@@ -34,7 +34,7 @@ All his friends and our relatives paid their last respects to my father. They ca
 
 I could not cry. I could not mourn. I could not eat. I could not sleep. I could not get out of bed. I could not forgive myself for not being with my father and family at the most crucial moment. I become irritated with everything all the time. I started getting into arguments with everyone I met. I am constantly filling my head with negative thoughts. I felt I was right and everyone else was wrong. I could not stop. I wanted to stop.
 
-I was introduced to a psychiatrist, Dr Shalini. I took six sessions of EMDR therapy with her. The therapy helped unburden some of my guilt and resentment. I accept that my father is gone, and we, three brothers, have to keep the family united for the rest of our lives.
+I was introduced to a psychiatrist, Dr Shalini. I took six sessions of EMDR therapy with her. It helped unburden some of my guilt and resentment. I accept that my father is gone, and we, three brothers, have to keep the family united for the rest of our lives.
 
 It took me five months to write my last respect to my father, this blog. One regret I would never get over is that, I never expressed my love to my father, not even once. I wish I had. Please don't be me.
 
