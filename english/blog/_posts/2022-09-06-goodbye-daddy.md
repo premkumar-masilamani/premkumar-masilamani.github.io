@@ -26,7 +26,7 @@ We reached home the next day around 3.30 AM IST. My father was lying in an icebo
 
 > Is he still breathing slowly, and these idiots could not see it?
 
-I was with my father throughout the rituals. When I lifted him, his body was chill, heavier than usual. His hands were wrinkled, void of life. The same hands that rubbed my feet to keep me warm during a fever, the same hands that fed me food whenever he got time, the same hands which held my vomit when I was sick, the same hands which carried me everywhere we went, the same hands which disciplined me when I was naughty, the same hands which were working non-stop, almost all seven days to get us out of poverty, the same hands which were paralyzed for twenty years, still held the family together. Those hands are gone.
+I was with my father throughout the rituals. When I lifted him, his body was chill, heavier than usual. His hands were wrinkled, void of life. The same hands that rubbed my feet to keep me warm during a fever, the same hands that fed me food whenever he got time, the same hands which carried me everywhere we went, the same hands which disciplined me when I was naughty, the same hands which were working non-stop, almost all seven days to get us out of poverty, the same hands which were paralyzed for twenty years, still held the family together. Those hands are gone.
 
 The walk from our home to the cemetery felt like an eternity. They fed his body through the blazing fire, head first. It was hot. I could feel the burning sensation throughout my body. This is the end. There is no way he can come back to us. The reality hit me. The pillar of our family is gone. All I could do was breathe.
 
