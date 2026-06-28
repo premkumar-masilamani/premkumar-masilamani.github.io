@@ -6,8 +6,6 @@ permalink: /english/blog/:title/
 
 date: 2024-12-08
 title: Bitcoin - Currency or Commodity?
-cover-image: bitcoin.jpg
-cover-image-credit: Generated using Meta AI in Whatsapp
 ---
 
 ## Satoshi's Vision
