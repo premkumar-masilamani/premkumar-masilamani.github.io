@@ -12,7 +12,7 @@ cover-image-credit: Screenshot from an archived post
 
 I told everyone, that I was an accidental Coach, that it happened out of nowhere.
 
-Below is a blog post I wrote 13 years ago. It seems that I wanted to become a Life Coach then.
+This is a blog post I wrote 13 years ago. It seems that I wanted to become a Life Coach then.
 
 Then life happened, dreams forgotten, successful career in Silicon Valley, running after new shiny goals and achieving them too. I had everything, but still, something was missing. It felt like I was repeating my yesterday in a loop. No matter what I do, I cannot be at peace. I was longing for something that I could not even describe. I quit my software job and came back to India to discover myself.
 

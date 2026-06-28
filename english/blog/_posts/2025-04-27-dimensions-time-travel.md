@@ -6,8 +6,6 @@ permalink: /english/blog/:title/
 
 date: 2025-04-27
 title: Dimensions and Time Travel
-cover-image: dimensions-time-travel.jpeg
-cover-image-credit: Generated using DALL-E in ChatGPT
 ---
 
 ## Dimensions
