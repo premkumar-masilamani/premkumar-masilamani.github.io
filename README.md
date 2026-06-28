@@ -1,12 +1,10 @@
 # Premkumar Masilamani – Personal Website
 
-This is my digital home: [premkumarmasilamani.com](http://www.premkumarmasilamani.com). Built with **Jekyll**. Deployed via **GitHub Pages**.
+This is my digital home: [premkumarmasilamani.com](http://www.premkumarmasilamani.com). 
 
-The content here is **open source**. Take what speaks to you. Fork it, adapt it, reshape it. No attribution needed, though it’s always appreciated.
+Built with **Jekyll**. Deployed via **GitHub Pages**.
 
----
-
-> In giving, you receive. In loving, you expand. In sharing, you become whole.
+The content here is **open source**. Use it as you like. No attribution needed.
 
 Thank you for visiting.
 **Premkumar Masilamani**
