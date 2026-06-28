@@ -6,8 +6,6 @@ permalink: /english/blog/:title/
 
 date: 2025-03-11
 title: The Inevitability of Entropy
-cover-image: entropy.jpg
-cover-image-credit: Generated using Meta AI in Whatsapp
 ---
 
 ## What is Entropy?
