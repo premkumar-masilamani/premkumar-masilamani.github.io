@@ -6,8 +6,6 @@ permalink: /english/blog/:title/
 
 date: 2025-03-10
 title: The Perception of Time
-cover-image: time-dilation.jpg
-cover-image-credit: Generated using Meta AI in Whatsapp
 ---
 
 ## What is time?
