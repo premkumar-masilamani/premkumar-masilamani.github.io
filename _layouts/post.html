@@ -8,7 +8,6 @@ layout: default
   {% include breadcrumbs.html %}
 
   {% if page.video-id %}
-    <br/><br/>
     <div class="video-container">
       <iframe
         src="https://www.youtube.com/embed/{{ page.video-id }}"
@@ -28,7 +27,6 @@ layout: default
   {% endif %}
 
   {% if page.audio-file %}
-    <br/>
     <div class="audio-player">
       <audio controls preload="none">
         <source src="{{ site[page.lang][page.type].gcs_bucket }}/{{ page.audio-file }}" type="audio/mpeg">

@@ -5,13 +5,16 @@ from collections import defaultdict
 
 def get_all_files_recursively(folder: Path, extensions=None):
     """Return all files with given extensions in folder, recursively."""
-    if extensions:
-        return [
-            f
-            for f in folder.rglob("*")
-            if f.is_file() and f.suffix.lower() in extensions
-        ]
-    return [f for f in folder.rglob("*") if f.is_file()]
+    files = []
+    for f in folder.rglob("*"):
+        if f.is_file():
+            # Exclude files in the _site directory
+            if "_site" in f.relative_to(folder).parts:
+                continue
+            if extensions and f.suffix.lower() not in extensions:
+                continue
+            files.append(f)
+    return files
 
 
 def is_file_referenced(file_name, text):

@@ -7,15 +7,11 @@ setup:
 	./.venv/bin/pip install -r requirements.txt
 	@echo "To activate the virtual environment, run: source .venv/bin/activate"
 
-.PHONY: show
-show:
-	@echo "Listing dependencies..."
-	./.venv/bin/pip list
-
 .PHONY: check
 check:
 	make link
 	make profanity
+	make files
 
 .PHONY: link
 link:
