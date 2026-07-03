@@ -1,0 +1,37 @@
+{% comment %}
+  Previous/next navigation scoped to the current post's section.
+  A "section" is the (lang, type) pair from the post's front matter.
+  site.posts is newest-first, so index-1 is the newer post and
+  index+1 is the older post. Prev = older, Next = newer.
+{% endcomment %}
+
+{% assign section_posts = site.posts | where: "lang", page.lang | where: "type", page.type %}
+
+{% assign current_index = nil %}
+{% for post in section_posts %}
+  {% if post.url == page.url %}
+    {% assign current_index = forloop.index0 %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+
+{% if current_index %}
+  {% assign newer_index = current_index | minus: 1 %}
+  {% assign older_index = current_index | plus: 1 %}
+
+  {% assign newer_post = nil %}
+  {% assign older_post = nil %}
+  {% if newer_index >= 0 %}{% assign newer_post = section_posts[newer_index] %}{% endif %}
+  {% if older_index < section_posts.size %}{% assign older_post = section_posts[older_index] %}{% endif %}
+
+  {% if older_post or newer_post %}
+    <nav class="post-nav">
+      <span class="post-nav-prev">
+        {% if older_post %}<a href="{{ older_post.url }}" rel="prev">&larr; {{ older_post.title }}</a>{% endif %}
+      </span>
+      <span class="post-nav-next">
+        {% if newer_post %}<a href="{{ newer_post.url }}" rel="next">{{ newer_post.title }} &rarr;</a>{% endif %}
+      </span>
+    </nav>
+  {% endif %}
+{% endif %}
