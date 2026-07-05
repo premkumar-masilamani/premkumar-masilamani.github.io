@@ -11,6 +11,7 @@ layout: default
     <div class="video-container">
       <iframe
         src="https://www.youtube.com/embed/{{ page.video-id }}"
+        loading="lazy"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen></iframe>
@@ -21,6 +22,7 @@ layout: default
     <div>
       <img src="{{site[page.lang][page.type].downloads}}/{{ page.cover-image }}"
           alt="{{ page.title }}"
+          decoding="async"
           class="{{ page.cover-image-orientation }}"/>
       <div class="cover-image-credit"><small>{{ page.cover-image-credit }}</small></div>
     </div>
