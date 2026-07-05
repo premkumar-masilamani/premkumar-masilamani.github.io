@@ -42,7 +42,7 @@ Generally, I do not prefer Gold. My engagement ring is the first gold ornament o
 **BIS Hallmark:** The Government of India formed the Bureau of Indian Standards (BIS) in the year 1987, which is the only institution in India, authorized to hallmark golden Jewelry. The Jewellers have to obtain a license from BIS for a fee and hallmark the jewel they make with the BIS logo. BIS maintains market surveillance on the certified jewelers, on a random basis. Market surveillance involves a collection of Hallmarked Gold Jewelry from the licensee's retail outlet/manufacturing premises and having it tested for conformity in the BIS-recognized hallmarking center. Deviations in the degree of purity of gold and operation not in conformance with the system may result in the cancellation of the BIS license.
 
 <div style="text-align: center;">
-  <img src="{{site[page.lang][page.type].downloads}}/BIS-logo.png" alt="BIS Logo" style="width: 50%; height: auto;">
+  <img src="{{site[page.lang][page.type].downloads}}/BIS-logo.png" alt="BIS Logo" decoding="async" style="width: 50%; height: auto;">
 </div>
 
 Most of the GoldSmiths print the word "916" or "916 KDM" on the Jewels without the logo. Many jewelers will show you these printed numbers and claim that they are 916 KDM Jewels. Do not listen to the jewelers. Just look for the above logo. If you do not find the logo in the Jewels, it means that the specific Jewel is NOT verified for the purity of gold and you are being cheated.
