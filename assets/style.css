@@ -85,10 +85,19 @@ pre code {
     row-gap: 6px;
 }
 
-/* Div wrapper to control image width */
+
 .img-wrapper-75 {
     width: 75%;
-    margin: 0 auto; /* center the div */
+    margin: 0 auto;
+}
+
+.img-wrapper-50 {
+    width: 50%;
+    height: auto;
+}
+
+.text-center {
+    text-align: center;
 }
 
 .cover-image-credit {
@@ -153,6 +162,7 @@ pre code {
     } /* Scale down on smaller screens */
 }
 
+/* Math Styles */
 .math-container {
   font-family: sans-serif;
   font-size: 1.2rem;
