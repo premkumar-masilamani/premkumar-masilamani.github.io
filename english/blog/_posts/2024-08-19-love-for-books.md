@@ -8,7 +8,6 @@ date: 2024-08-19
 title: Love for Books
 cover-image: ara-boookshelf-design.jpg
 cover-image-orientation: portrait
-cover-image-credit: Aradhana Premkumar on Amazon Kindle Scribe
 ---
 
 **Me**: Ara, You should read every day.

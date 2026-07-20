@@ -113,14 +113,7 @@ pre code {
 }
 
 .post-nav {
-    display: flex;
-    justify-content: space-between;
-    gap: 1rem;
     margin: 2rem 0 1.5rem 0;
-}
-
-.post-nav-next {
-    text-align: right;
 }
 
 /* Podcast Audio Controls */

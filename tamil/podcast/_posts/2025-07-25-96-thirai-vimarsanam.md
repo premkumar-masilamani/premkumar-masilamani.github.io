@@ -7,7 +7,6 @@ permalink: /tamil/podcast/:title/
 date: 2025-07-25
 title: 96 - திரைவிமர்சனம்
 cover-image: 96-tamil-movie.jpeg
-cover-image-credit: Downloaded from Spotify Website
 
 audio-file: episode-1-journey-of-ram.mp3
 audio-length: 41158568

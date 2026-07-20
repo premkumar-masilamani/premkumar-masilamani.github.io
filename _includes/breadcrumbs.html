@@ -1,5 +1,5 @@
 {% if page.lang %}
-<div class="breadcrumbs">
+<p class="breadcrumbs">
   {% assign home_text = site.breadcrumbs_texts.home[page.lang] %}
   {% assign lang_text = site.breadcrumbs_texts.lang[page.lang] %}
 
@@ -20,5 +20,5 @@
   {% else %}
     <span>{{ lang_text }}</span>
   {% endif %}
-</div>
+</p>
 {% endif %}

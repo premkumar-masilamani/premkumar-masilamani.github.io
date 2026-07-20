@@ -26,12 +26,16 @@
 
   {% if older_post or newer_post %}
     <nav class="post-nav">
-      <span class="post-nav-prev">
-        {% if older_post %}<a href="{{ older_post.url }}" rel="prev">&larr; {{ older_post.title }}</a>{% endif %}
-      </span>
-      <span class="post-nav-next">
-        {% if newer_post %}<a href="{{ newer_post.url }}" rel="next">{{ newer_post.title }} &rarr;</a>{% endif %}
-      </span>
+      {% if newer_post %}
+        <p class="post-nav-next">
+          <a href="{{ newer_post.url }}" rel="next">{{ newer_post.title }} &rarr;</a>
+        </p>
+      {% endif %}
+      {% if older_post %}
+        <p class="post-nav-prev">
+          <a href="{{ older_post.url }}" rel="prev">&larr; {{ older_post.title }}</a>
+        </p>
+      {% endif %}
     </nav>
   {% endif %}
 {% endif %}
