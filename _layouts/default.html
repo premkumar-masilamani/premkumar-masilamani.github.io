@@ -5,10 +5,12 @@
         {% include rss.html lang=page.lang type=page.type %}
     </head>
     <body>
+        {% if page.lang and page.type %}
+            {% include header.html %}
+            <hr />
+        {% endif %}
         {{ content }}
         <hr />
-        <div class="text-center">
-            {% include footer.html %}
-        </div>
+        {% include footer.html %}
     </body>
 </html>
