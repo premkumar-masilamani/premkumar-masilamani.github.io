@@ -6,16 +6,11 @@
     </head>
     <body>
         {% if page.lang and page.type %}
-        <div class="text-center">
-            <h3>{{ site[page.lang][page.type].title }}</h3>
-            <p><small>{{ site[page.lang][page.type].author }}</small></p>
-        </div>
-        <hr />
+            {% include header.html %}
+            <hr />
         {% endif %}
         {{ content }}
         <hr />
-        <div class="text-center">
-            {% include footer.html %}
-        </div>
+        {% include footer.html %}
     </body>
 </html>
