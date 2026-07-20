@@ -5,6 +5,15 @@
         {% include rss.html lang=page.lang type=page.type %}
     </head>
     <body>
+        {% if page.lang and page.type %}
+        <div class="text-center">
+            <p>
+                <strong>{{ site[page.lang][page.type].title }}</strong><br/>
+                <small>{{ site[page.lang][page.type].author }}</small>
+            </p>
+        </div>
+        <hr />
+        {% endif %}
         {{ content }}
         <hr />
         <div class="text-center">
