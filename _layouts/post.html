@@ -2,39 +2,37 @@
 layout: default
 ---
 
-<div>
   <h1>{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date_to_string }}</span>
+  <p class="post-date">{{ page.date | date_to_string }}</p>
   {% include breadcrumbs.html %}
 
   {% if page.video-id %}
-    <div class="video-container">
+    <p class="video-container">
       <iframe
         src="https://www.youtube.com/embed/{{ page.video-id }}"
         loading="lazy"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen></iframe>
-    </div>
+    </p>
   {% endif %}
 
   {% if page.cover-image %}
-    <div>
+    <p class="cover-image-container">
       <img src="{{site[page.lang][page.type].downloads}}/{{ page.cover-image }}"
           alt="{{ page.title }}"
           decoding="async"
           class="{{ page.cover-image-orientation }}"/>
-      <div class="cover-image-credit"><small>{{ page.cover-image-credit }}</small></div>
-    </div>
+    </p>
   {% endif %}
 
   {% if page.audio-file %}
-    <div class="audio-player">
+    <p class="audio-player">
       <audio controls preload="none">
         <source src="{{ site[page.lang][page.type].gcs_bucket }}/{{ page.audio-file }}" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
-    </div>
+    </p>
   {% endif %}
 
   {{ content }}
@@ -42,7 +40,6 @@ layout: default
   {% include post_nav.html %}
 
   {% include breadcrumbs.html %}
-</div>
 
 <hr/>
 <div>

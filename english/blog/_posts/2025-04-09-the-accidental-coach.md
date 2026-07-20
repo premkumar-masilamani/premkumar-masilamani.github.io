@@ -7,7 +7,6 @@ permalink: /english/blog/:title/
 date: 2025-04-09
 title: The Accidental Coach
 cover-image: accidental-coach.png
-cover-image-credit: Screenshot from an archived post
 ---
 
 I told everyone, that I was an accidental Coach, that it happened out of nowhere.
