@@ -35,7 +35,7 @@ english:
     downloads: http://localhost:4000/downloads/english/podcast
 tamil:
   blog:
-    title: பேரன்பும் பெருங்கோபமும்
+    title: சலனமில்லா பெருங்கூச்சல்
     author: பிரேம்குமார் மாசிலாமணி
     email: premkumar.masilamani.2020@gmail.com
     url: http://localhost:4000/tamil/blog

@@ -74,14 +74,6 @@ Please ignore the shape and size of the objects. Just count the numbers.
 
 When we divide a number, we are not just grouping the numbers. We split the numbers first and then grouped them. So, the number increases (multiplied).
 
-Let us see what happens when we invert the fraction and multiply.
-
-> 4 / (1/2) = 4 X 2 = 8
-
-| &#9634; &#9634; &#9634; &#9634; | multiply by 2 | &#9634; &#9634; &#9634; &#9634; + &#9634; &#9634; &#9634; &#9634; |
-|:---:|:---:|:---:|
-|4| &rarr; |8|
-
-Multiplication adds the number to itself. Division by a fraction splits the numbers and groups it. So, when we divide a number by a fraction or invert the fraction and multiply the number, the result is the same.
+**PS:** Replace the word **divide** with **group**. Instead of saying, "divide by 2", you could say, "group by 2", which is more intuitive in English.
 
 I hope this explanation helps.
