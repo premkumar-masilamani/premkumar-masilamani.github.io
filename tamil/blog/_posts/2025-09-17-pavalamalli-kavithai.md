@@ -6,6 +6,7 @@ permalink: /tamil/blog/:title/
 
 date: 2025-09-17
 title: பவளமல்லி
+video-id: Up1A1zz3zVc
 ---
 
 பவளமல்லி பூத்திருக்கு   
