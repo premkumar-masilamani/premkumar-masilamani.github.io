@@ -6,10 +6,16 @@ Built with **Jekyll**. Deployed via **GitHub Pages**.
 
 The content here is **open source**. Use it as you like. No attribution needed.
 
-To run it locally with Docker:
+To run it locally with Apple Container Runtime (default):
 
 ```bash
 make run
+```
+
+To run it locally with Docker:
+
+```bash
+make run-docker
 ```
 
 That’s all.
