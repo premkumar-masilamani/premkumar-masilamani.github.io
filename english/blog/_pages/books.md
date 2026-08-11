@@ -22,6 +22,7 @@ I understood that reading books is a personal experience. The same book would pr
 - *The Coaching Habit* - **Michael Bungay Stanier**
 - *The Courage To Be Disliked* - **Ichiro Kishimi, Fumitake Koga**
 - *Predictably Irrational* - **Dan Ariely**
+- *The Question Behind the Question* - **John G. Miller**
 
 ## Business
 - *Kings Of Crypto* - **Jeff John Roberts**
