@@ -14,7 +14,7 @@ For this conversation, let's assume
 - Software = deterministic output (same input produces same output)
 - AI = probabilistic output (same input DOES NOT produce the same output)
 
-## How is value created?
+## How do companies make money?
 
 In simple terms, 
 
@@ -27,7 +27,7 @@ Ex.
 - *Plow the land, sow the seeds, and make rice, corn, vegetables, etc. If more people want your produce, you created value.*
 - *Dig the soil and refine it to find or create diamonds, oil, coal, etc. If more people want your materials, you created value.*
 
-This is the only way value is created in this world. This is the base layer. There could be many layers of companies on top of this base layer. You can trace the supply chain of all the companies back to this base layer.
+This is the only way value is created in this world. This is how companies make money. This is the base layer. There could be many layers of companies on top of this base layer. You can trace the supply chain of all the companies back to this base layer.
 
 Ex. 
 - *Space X is in the business of making rockets. You need the materials supplied by this base layer to make rockets.*
@@ -55,7 +55,7 @@ So,
 
 > Software will not exist on its own. It exists to help other businesses make more profit.
 
-## Why were software companies so successful?
+## Why are software companies so successful?
 
 Make software once. Sell copies of the software to as many customers as possible. 
 
@@ -67,7 +67,7 @@ With the innovation of the Internet and the SaaS (Software as a Service) model a
 
 You could literally go from zero customers to a million customers in a day. This unprecedented growth was never possible with any other business, even today. You can't make an extra million bushels of rice, or barrels of oil in a day. Can you?
 
-In math, this is *Exponential*.
+In math, this is **Exponential**.
 
 So, 
 
@@ -79,7 +79,7 @@ By AI companies, I mean companies like OpenAI, Anthropic, etc, who rent the serv
 
 For every request from a user (like a simple "hello"), the AI model will run on the server and produce a response. No matter how efficient the model becomes, this is the baseline for AI business. For simplicity, I excluded the model training cost, caching, distillation, etc.
 
-In math, this is *Linear*.
+In math, this is **Linear**.
 
 With the current state of AI companies,
 
