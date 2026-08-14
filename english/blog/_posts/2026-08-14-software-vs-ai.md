@@ -89,7 +89,7 @@ Profits = $(Y - X)
 
 *(As of today the profits $(Y - X) are negative and are subsidized by VC money and software companies' balance sheets, in a race to capture market share.)*
 
-In the future, even if the profits become neutral + a decent markup for the software companies, that would be the ceiling of this business. Just like every other brick-and-mortar business. You want to make more money selling burgers, open more restaurants. Get it?.
+In the future, if the revenue is equal or slightly more than the expenses, that would be the ceiling of this business. The AI companies can’t charge a premium, because the customers will move to another provider. Just like every other brick-and-mortar business. 
 
 So,
 
