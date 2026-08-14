@@ -30,8 +30,8 @@ Ex.
 This is the only way value is created in this world. This is how companies make money. This is the base layer. There could be many layers of companies on top of this base layer. You can trace the supply chain of all the companies back to this base layer.
 
 Ex. 
-- *Space X is in the business of making rockets. You need the materials supplied by this base layer to make rockets.*
-- *NVIDIA builds the world's most advanced chips, but every transistor still traces back to mining raw sand (silicon) and metals from the earth.*
+- *Space X is in the business of making rockets. It needs the metals and fuel from the base layer to make rockets.*
+- *NVIDIA builds the world's most advanced chips. It needs the silica from the base layer to make chips.*
 
 ## How do software companies make money?
 
