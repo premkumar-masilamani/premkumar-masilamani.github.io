@@ -4,8 +4,8 @@ lang: tamil
 type: a400
 permalink: /tamil/a400/:title/
 
-date: 2026-04-08
-title: 006 - அரிபெய் சிலம்பி
+date: 2026-08-27
+title: DRAFT - 006 - அரிபெய் சிலம்பி
 ---
 
 |**நூல்**|அகநானூறு|
