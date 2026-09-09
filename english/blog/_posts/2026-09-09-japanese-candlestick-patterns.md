@@ -625,7 +625,7 @@ title: Japanese Candlestick Patterns
             </tr>
           </thead>
           <tbody>
-          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="long-white-body" data-searchable="long white body (1) long-white-body bullish reversal 1 bar bars structure: single tall green candle with a large body appearing after a decline. psychology: relentless buying pressure dominates from opening to close. outcome: bullish breakout toward overhead resistance.">
+          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="long-white-body" data-searchable="long white body (1) long-white-body bullish reversal 1 bar bars structure: single tall green candle with a large body appearing after a decline. psychology: relentless buying pressure dominates the session from opening to close. outcome: strong buying pressure; may signal continuation or, when appearing after a decline, a potential bullish reversal.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Long White Body (1)">
                 <line x1="75" y1="20" x2="75" y2="110" stroke="#2ecc71" stroke-width="2"/> <rect x="63" y="35" width="24" height="60" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/>
@@ -639,12 +639,12 @@ title: Japanese Candlestick Patterns
               </div>
               <div class="csp-pattern-body">
                 <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Single tall green candle with a large body appearing after a decline.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Relentless buying pressure dominates from opening to close.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Bullish breakout toward overhead resistance.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Relentless buying pressure dominates the session from opening to close.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Strong buying pressure; may signal continuation or, when appearing after a decline, a potential bullish reversal.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="hammer" data-searchable="hammer (1) hammer bullish reversal 1 bar bars structure: small body at the top of the range with a long lower shadow (&gt;= 2x body) and minimal upper shadow. psychology: severe intraday sell-off rejected violently by buyers. outcome: bullish reversal upon a higher close next session.">
+          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="hammer" data-searchable="hammer (1) hammer bullish reversal 1 bar bars structure: small body near the top of the range after a decline, with a long lower shadow (&gt;= 2x body) and minimal upper shadow. psychology: intraday sell-off is firmly rejected by buyers pushing price back near the session high. outcome: potential bullish reversal; confirmation above the hammer's high strengthens the signal.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Hammer (1)">
                 <line x1="75" y1="35" x2="75" y2="115" stroke="#2ecc71" stroke-width="2"/> <rect x="64" y="38" width="22" height="12" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/>
@@ -657,13 +657,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">1 Bar</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Small body at the top of the range with a long lower shadow (&gt;= 2x body) and minimal upper shadow.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Severe intraday sell-off rejected violently by buyers.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Bullish reversal upon a higher close next session.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Small body near the top of the range after a decline, with a long lower shadow (&gt;= 2x body) and minimal upper shadow.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Intraday sell-off is firmly rejected by buyers pushing price back near the session high.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Potential bullish reversal; confirmation above the hammer&#39;s high strengthens the signal.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="inverted-hammer" data-searchable="inverted hammer (1) inverted-hammer bullish reversal 1 bar bars structure: small body at the bottom of the range with a long upper shadow (&gt;= 2x body) and minimal lower shadow. psychology: bulls stage an intraday counter-attack, showing emerging demand. outcome: requires bullish confirmation candle next session.">
+          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="inverted-hammer" data-searchable="inverted hammer (1) inverted-hammer bullish reversal 1 bar bars structure: small body near the bottom of the range after a decline, with a long upper shadow (&gt;= 2x body) and minimal lower shadow. psychology: buyers attempt an intraday counter-attack; while rejected from highs, emerging demand is demonstrated. outcome: early sign of potential bullish reversal; a strong bullish candle above the pattern confirms improving demand.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Inverted Hammer (1)">
                 <line x1="75" y1="25" x2="75" y2="105" stroke="#2ecc71" stroke-width="2"/> <rect x="64" y="88" width="22" height="12" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/>
@@ -676,13 +676,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">1 Bar</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Small body at the bottom of the range with a long upper shadow (&gt;= 2x body) and minimal lower shadow.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Bulls stage an intraday counter-attack, showing emerging demand.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Requires bullish confirmation candle next session.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Small body near the bottom of the range after a decline, with a long upper shadow (&gt;= 2x body) and minimal lower shadow.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Buyers attempt an intraday counter-attack; while rejected from highs, emerging demand is demonstrated.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Early sign of potential bullish reversal; a strong bullish candle above the pattern confirms improving demand.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="bullish-belt-hold" data-searchable="belt hold (1) bullish-belt-hold bullish reversal 1 bar bars structure: opens on the absolute low of the day (shaved bottom) and rallies steadily to close near the high. psychology: bulls seize control instantly at the open without conceding ground. outcome: immediate floor established; upside continuation expected.">
+          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="bullish-belt-hold" data-searchable="belt hold (1) bullish-belt-hold bullish reversal 1 bar bars structure: tall green candle opening at or near its low after a decline and rallying to close near its high with little to no lower shadow. psychology: buyers take control from the open without conceding ground, sustaining upward pressure. outcome: strong buying from the open may mark a bullish reversal; follow-through above the candle high strengthens the signal.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Belt Hold (1)">
                 <line x1="75" y1="25" x2="75" y2="105" stroke="#2ecc71" stroke-width="2"/> <rect x="63" y="30" width="24" height="75" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/>
@@ -695,13 +695,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">1 Bar</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Opens on the absolute low of the day (shaved bottom) and rallies steadily to close near the high.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Bulls seize control instantly at the open without conceding ground.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Immediate floor established; upside continuation expected.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Tall green candle opening at or near its low after a decline and rallying to close near its high with little to no lower shadow.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Buyers take control from the open without conceding ground, sustaining upward pressure.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Strong buying from the open may mark a bullish reversal; follow-through above the candle high strengthens the signal.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="bullish-engulfing" data-searchable="engulfing pattern (2) bullish-engulfing bullish reversal 2 bar bars structure: small red body engulfed completely by a tall green real body. psychology: a lower open attracts massive demand, overwhelming supply. outcome: high reliability upward reversal; stop placed below day 2 low.">
+          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="bullish-engulfing" data-searchable="engulfing pattern (2) bullish-engulfing bullish reversal 2 bar bars structure: a small red body engulfed completely by a subsequent taller green body appearing after a downtrend. psychology: a lower open attracts strong demand, overwhelming prior selling pressure. outcome: sellers lose control as buyers overwhelm the prior session's body; a move above the engulfing candle's high confirms the reversal.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Engulfing Pattern (2)">
                 <line x1="55" y1="45" x2="55" y2="90" stroke="#e74c3c" stroke-width="2"/> <rect x="45" y="55" width="20" height="25" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="95" y1="25" x2="95" y2="105" stroke="#2ecc71" stroke-width="2"/> <rect x="83" y="35" width="24" height="53" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/>
@@ -714,13 +714,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">2 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Small red body engulfed completely by a tall green real body.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">A lower open attracts massive demand, overwhelming supply.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">High reliability upward reversal; stop placed below Day 2 low.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">A small red body engulfed completely by a subsequent taller green body appearing after a downtrend.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">A lower open attracts strong demand, overwhelming prior selling pressure.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Sellers lose control as buyers overwhelm the prior session&#39;s body; a move above the engulfing candle&#39;s high confirms the reversal.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="bullish-harami" data-searchable="harami (2) bullish-harami bullish reversal 2 bar bars structure: large red candle followed by a smaller green candle contained entirely inside day 1's body. psychology: downward momentum hits a sudden stop; sellers fail to expand range. outcome: trend deceleration; break above day 1 midpoint confirms reversal.">
+          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="bullish-harami" data-searchable="harami (2) bullish-harami bullish reversal 2 bar bars structure: large red candle followed by a smaller green candle whose body is contained entirely inside day 1's body. psychology: downward momentum stalls abruptly as sellers fail to expand the range. outcome: selling momentum weakens; a subsequent break above the pattern strengthens the bullish reversal signal.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Harami (2)">
                 <line x1="55" y1="25" x2="55" y2="105" stroke="#e74c3c" stroke-width="2"/> <rect x="43" y="35" width="24" height="60" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="95" y1="50" x2="95" y2="85" stroke="#2ecc71" stroke-width="2"/> <rect x="86" y="60" width="18" height="20" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/>
@@ -733,13 +733,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">2 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Large red candle followed by a smaller green candle contained entirely inside Day 1&#39;s body.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Downward momentum hits a sudden stop; sellers fail to expand range.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Trend deceleration; break above Day 1 midpoint confirms reversal.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Large red candle followed by a smaller green candle whose body is contained entirely inside Day 1&#39;s body.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Downward momentum stalls abruptly as sellers fail to expand the range.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Selling momentum weakens; a subsequent break above the pattern strengthens the bullish reversal signal.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="bullish-harami-cross" data-searchable="harami cross (2) bullish-harami-cross bullish reversal 2 bar bars structure: long red candle followed by a doji inside the boundaries of day 1's body. psychology: market reaches total equilibrium and indecision following intense selling. outcome: potent turning point; upside expansion expected.">
+          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="bullish-harami-cross" data-searchable="harami cross (2) bullish-harami-cross bullish reversal 2 bar bars structure: long red candle followed by a doji whose body is contained within the boundaries of day 1's body. psychology: selling pressure dissipates into balance and indecision following an extended decline. outcome: stronger form of the bullish harami, indicating indecision after a decline; bullish follow-through is needed for confirmation.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Harami Cross (2)">
                 <line x1="55" y1="25" x2="55" y2="105" stroke="#e74c3c" stroke-width="2"/> <rect x="43" y="35" width="24" height="60" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="95" y1="50" x2="95" y2="80" stroke="#f1c40f" stroke-width="2"/> <line x1="86" y1="65" x2="104" y2="65" stroke="#f1c40f" stroke-width="3"/>
@@ -752,13 +752,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">2 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Long red candle followed by a Doji inside the boundaries of Day 1&#39;s body.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Market reaches total equilibrium and indecision following intense selling.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Potent turning point; upside expansion expected.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Long red candle followed by a Doji whose body is contained within the boundaries of Day 1&#39;s body.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Selling pressure dissipates into balance and indecision following an extended decline.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Stronger form of the bullish Harami, indicating indecision after a decline; bullish follow-through is needed for confirmation.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="piercing-line" data-searchable="piercing line (2) piercing-line bullish reversal 2 bar bars structure: long red candle followed by a green candle that opens below day 1 low and closes above the 50% midpoint of day 1. psychology: heavy gap-down rejected; buyers recover over half of day 1 losses. outcome: institutional accumulation; upward test of resistance.">
+          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="piercing-line" data-searchable="piercing line (2) piercing-line bullish reversal 2 bar bars structure: long red candle followed by a green candle that opens below day 1's low and closes above the 50% midpoint of day 1 (but below day 1's open). psychology: an initial gap-down is rejected as buyers recover more than half of the prior session's losses. outcome: sellers lose control after a gap-down; recovery above the midpoint signals a potential bullish reversal.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Piercing Line (2)">
                 <line x1="55" y1="25" x2="55" y2="95" stroke="#e74c3c" stroke-width="2"/> <rect x="44" y="35" width="22" height="50" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="95" y1="40" x2="95" y2="110" stroke="#2ecc71" stroke-width="2"/> <rect x="84" y="55" width="22" height="45" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/>
@@ -771,13 +771,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">2 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Long red candle followed by a green candle that opens below Day 1 low and closes above the 50% midpoint of Day 1.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Heavy gap-down rejected; buyers recover over half of Day 1 losses.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Institutional accumulation; upward test of resistance.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Long red candle followed by a green candle that opens below Day 1&#39;s low and closes above the 50% midpoint of Day 1 (but below Day 1&#39;s open).</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">An initial gap-down is rejected as buyers recover more than half of the prior session&#39;s losses.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Sellers lose control after a gap-down; recovery above the midpoint signals a potential bullish reversal.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="bullish-doji-star" data-searchable="doji star (2) bullish-doji-star bullish reversal 2 bar bars structure: long red body followed by a doji that gaps down beneath day 1's body. psychology: sellers force a lower opening but are completely unable to follow through. outcome: early alert of trend exhaustion; look for a strong green candle to confirm.">
+          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="bullish-doji-star" data-searchable="doji star (2) bullish-doji-star bullish reversal 2 bar bars structure: long red candle followed by a doji that gaps down beneath day 1's body. psychology: sellers force a gap lower but fail to generate follow-through, leading to market balance. outcome: selling momentum stalls after a gap-down; a bullish confirmation candle increases the likelihood of a reversal.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Doji Star (2)">
                 <line x1="55" y1="25" x2="55" y2="85" stroke="#e74c3c" stroke-width="2"/> <rect x="44" y="35" width="22" height="40" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="95" y1="88" x2="95" y2="115" stroke="#f1c40f" stroke-width="2"/> <line x1="86" y1="100" x2="104" y2="100" stroke="#f1c40f" stroke-width="3"/>
@@ -790,13 +790,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">2 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Long red body followed by a Doji that gaps down beneath Day 1&#39;s body.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Sellers force a lower opening but are completely unable to follow through.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Early alert of trend exhaustion; look for a strong green candle to confirm.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Long red candle followed by a Doji that gaps down beneath Day 1&#39;s body.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Sellers force a gap lower but fail to generate follow-through, leading to market balance.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Selling momentum stalls after a gap-down; a bullish confirmation candle increases the likelihood of a reversal.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="bullish-meeting-lines" data-searchable="meeting lines (2) bullish-meeting-lines bullish reversal 2 bar bars structure: long red candle followed by a green candle opening sharply lower but closing at the exact same price as day 1's close. psychology: bulls counter-attack the gap-down with equal force to close level with day 1. outcome: downward trend halted cold; upward reversal anticipated.">
+          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="bullish-meeting-lines" data-searchable="meeting lines (2) bullish-meeting-lines bullish reversal 2 bar bars structure: long red candle followed by a green candle opening sharply lower but closing at approximately the same price as day 1's close. psychology: bulls counter-attack the gap-down with equal force to close level with day 1. outcome: selling pressure is met by strong buying, producing matching closes; subsequent upside confirmation supports a bullish reversal.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Meeting Lines (2)">
                 <line x1="55" y1="30" x2="55" y2="85" stroke="#e74c3c" stroke-width="2"/> <rect x="44" y="40" width="22" height="40" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="95" y1="75" x2="95" y2="115" stroke="#2ecc71" stroke-width="2"/> <rect x="84" y="80" width="22" height="30" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/>
@@ -809,13 +809,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">2 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Long red candle followed by a green candle opening sharply lower but closing at the exact same price as Day 1&#39;s close.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Long red candle followed by a green candle opening sharply lower but closing at approximately the same price as Day 1&#39;s close.</span></div>
                 <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Bulls counter-attack the gap-down with equal force to close level with Day 1.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Downward trend halted cold; upward reversal anticipated.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Selling pressure is met by strong buying, producing matching closes; subsequent upside confirmation supports a bullish reversal.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="three-white-soldiers" data-searchable="three white soldiers (3) three-white-soldiers bullish reversal 3 bar bars structure: three consecutive long green candles, each opening within the prior body and closing higher near highs. psychology: steady, overpowering institutional buying demolishing resistance. outcome: sustained bull run initiation.">
+          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="three-white-soldiers" data-searchable="three white soldiers (3) three-white-soldiers bullish reversal 3 bar bars structure: three consecutive long green candles after a decline, each opening within the prior body and closing near its high. psychology: consistent buying pressure dominates consecutive sessions without significant pullbacks. outcome: sustained buying pressure across three sessions signals a strong shift toward bullish control.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Three White Soldiers (3)">
                 <line x1="40" y1="65" x2="40" y2="110" stroke="#2ecc71" stroke-width="2"/> <rect x="31" y="70" width="18" height="30" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="75" y1="40" x2="75" y2="85" stroke="#2ecc71" stroke-width="2"/> <rect x="66" y="45" width="18" height="33" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="110" y1="18" x2="110" y2="60" stroke="#2ecc71" stroke-width="2"/> <rect x="101" y="22" width="18" height="30" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/>
@@ -828,13 +828,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">3 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Three consecutive long green candles, each opening within the prior body and closing higher near highs.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Steady, overpowering institutional buying demolishing resistance.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Sustained bull run initiation.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Three consecutive long green candles after a decline, each opening within the prior body and closing near its high.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Consistent buying pressure dominates consecutive sessions without significant pullbacks.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Sustained buying pressure across three sessions signals a strong shift toward bullish control.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="morning-star" data-searchable="morning star (3) morning-star bullish reversal 3 bar bars structure: long red candle, downward gapping small body, and a long green candle closing deeply into day 1. psychology: panic capitulation shifts into indecision, then aggressive buyer dominance. outcome: major cyclical bottom; high-probability upward trend.">
+          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="morning-star" data-searchable="morning star (3) morning-star bullish reversal 3 bar bars structure: long red candle, a downward-gapping small body, and a long green candle closing well into day 1's body (typically above its midpoint). psychology: selling pressure gives way to indecision, followed by decisive buyer dominance. outcome: selling pressure gives way to indecision and then strong buying; a close well into the first candle's body supports a bullish reversal.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Morning Star (3)">
                 <line x1="40" y1="25" x2="40" y2="85" stroke="#e74c3c" stroke-width="2"/> <rect x="30" y="35" width="20" height="45" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="75" y1="88" x2="75" y2="115" stroke="#2ecc71" stroke-width="2"/> <rect x="67" y="95" width="16" height="10" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="110" y1="30" x2="110" y2="95" stroke="#2ecc71" stroke-width="2"/> <rect x="100" y="40" width="20" height="45" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/>
@@ -847,13 +847,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">3 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Long red candle, downward gapping small body, and a long green candle closing deeply into Day 1.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Panic capitulation shifts into indecision, then aggressive buyer dominance.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Major cyclical bottom; high-probability upward trend.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Long red candle, a downward-gapping small body, and a long green candle closing well into Day 1&#39;s body (typically above its midpoint).</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Selling pressure gives way to indecision, followed by decisive buyer dominance.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Selling pressure gives way to indecision and then strong buying; a close well into the first candle&#39;s body supports a bullish reversal.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="morning-doji-star" data-searchable="morning doji star (3) morning-doji-star bullish reversal 3 bar bars structure: identical to morning star, but the middle candle is an isolated doji. psychology: perfect supply-demand equilibrium at the bottom before bulls launch a rally. outcome: extremely potent trend reversal.">
+          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="morning-doji-star" data-searchable="morning doji star (3) morning-doji-star bullish reversal 3 bar bars structure: long red candle, a downward-gapping isolated doji, and a long green candle closing deeply into day 1's body. psychology: a sharp decline transitions into acute market indecision, which buyers then resolve upward. outcome: a doji after a sharp decline signals strong indecision; bullish follow-through can confirm a reversal.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Morning Doji Star (3)">
                 <line x1="40" y1="25" x2="40" y2="85" stroke="#e74c3c" stroke-width="2"/> <rect x="30" y="35" width="20" height="45" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="75" y1="90" x2="75" y2="115" stroke="#f1c40f" stroke-width="2"/> <line x1="67" y1="102" x2="83" y2="102" stroke="#f1c40f" stroke-width="3"/> <line x1="110" y1="30" x2="110" y2="95" stroke="#2ecc71" stroke-width="2"/> <rect x="100" y="40" width="20" height="45" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/>
@@ -866,13 +866,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">3 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Identical to Morning Star, but the middle candle is an isolated Doji.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Perfect supply-demand equilibrium at the bottom before bulls launch a rally.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Extremely potent trend reversal.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Long red candle, a downward-gapping isolated Doji, and a long green candle closing deeply into Day 1&#39;s body.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">A sharp decline transitions into acute market indecision, which buyers then resolve upward.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">A Doji after a sharp decline signals strong indecision; bullish follow-through can confirm a reversal.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="bullish-abandoned-baby" data-searchable="abandoned baby (3) bullish-abandoned-baby bullish reversal 3 bar bars structure: long red candle, an isolated doji gapping below both neighboring candles' shadows, and a green candle gapping up. psychology: true island reversal; sellers trapped completely at the extreme low. outcome: rapid upward repricing via aggressive short covering.">
+          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="bullish-abandoned-baby" data-searchable="abandoned baby (3) bullish-abandoned-baby bullish reversal 3 bar bars structure: long red candle, an isolated doji gapping below both neighboring candles' shadows, and a green candle gapping up. psychology: an island formation occurs where selling exhausts on a gap-down, followed by an immediate upward gap. outcome: an isolated doji after a gap-down signals exhaustion; a gap-up reversal candle confirms a potential bullish turn.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Abandoned Baby (3)">
                 <line x1="40" y1="25" x2="40" y2="75" stroke="#e74c3c" stroke-width="2"/> <rect x="30" y="35" width="20" height="35" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="75" y1="92" x2="75" y2="112" stroke="#f1c40f" stroke-width="2"/> <line x1="67" y1="102" x2="83" y2="102" stroke="#f1c40f" stroke-width="3"/> <line x1="110" y1="25" x2="110" y2="75" stroke="#2ecc71" stroke-width="2"/> <rect x="100" y="35" width="20" height="35" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/>
@@ -886,12 +886,12 @@ title: Japanese Candlestick Patterns
               </div>
               <div class="csp-pattern-body">
                 <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Long red candle, an isolated Doji gapping below both neighboring candles&#39; shadows, and a green candle gapping up.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">True island reversal; sellers trapped completely at the extreme low.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Rapid upward repricing via aggressive short covering.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">An island formation occurs where selling exhausts on a gap-down, followed by an immediate upward gap.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">An isolated Doji after a gap-down signals exhaustion; a gap-up reversal candle confirms a potential bullish turn.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="bullish-tri-star" data-searchable="tri-star (3) bullish-tri-star bullish reversal 3 bar bars structure: three consecutive dojis with the middle doji gapping below the other two. psychology: rare sequence marking absolute exhaustion of selling drive. outcome: macro bottom signal; price pivots upward.">
+          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="bullish-tri-star" data-searchable="tri-star (3) bullish-tri-star bullish reversal 3 bar bars structure: three consecutive dojis appearing after a decline, with the middle doji gapping below the other two. psychology: selling momentum dissipates into extreme, sustained indecision across three sessions. outcome: rare sequence showing extreme indecision after a decline; upside follow-through may signal a bullish reversal.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Tri-Star (3)">
                 <line x1="40" y1="40" x2="40" y2="70" stroke="#f1c40f" stroke-width="2"/> <line x1="32" y1="55" x2="48" y2="55" stroke="#f1c40f" stroke-width="3"/> <line x1="75" y1="75" x2="75" y2="105" stroke="#f1c40f" stroke-width="2"/> <line x1="67" y1="90" x2="83" y2="90" stroke="#f1c40f" stroke-width="3"/> <line x1="110" y1="40" x2="110" y2="70" stroke="#f1c40f" stroke-width="2"/> <line x1="102" y1="55" x2="118" y2="55" stroke="#f1c40f" stroke-width="3"/>
@@ -904,13 +904,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">3 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Three consecutive Dojis with the middle Doji gapping below the other two.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Rare sequence marking absolute exhaustion of selling drive.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Macro bottom signal; price pivots upward.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Three consecutive Dojis appearing after a decline, with the middle Doji gapping below the other two.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Selling momentum dissipates into extreme, sustained indecision across three sessions.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Rare sequence showing extreme indecision after a decline; upside follow-through may signal a bullish reversal.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="bullish-breakaway" data-searchable="breakaway (5) bullish-breakaway bullish reversal 5 bar bars structure: long red candle, gap-down red, 3 smaller declining bodies, followed by a large green candle closing within the original gap. psychology: downward momentum fizzles out; big green candle traps late shorts. outcome: bullish reversal into overhead resistance.">
+          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="bullish-breakaway" data-searchable="breakaway (5) bullish-breakaway bullish reversal 5 bar bars structure: long red candle, downside gap to a red candle, three smaller declining bodies, followed by a strong green candle closing within the initial gap. psychology: downward momentum gradually weakens after an initial gap before buyers drive price back into the gap. outcome: downward momentum gradually weakens before a strong bullish candle breaks back into the gap, signaling a potential reversal.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Breakaway (5)">
                 <line x1="28" y1="20" x2="28" y2="60" stroke="#e74c3c" stroke-width="2"/> <rect x="21" y="25" width="14" height="30" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="50" y1="65" x2="50" y2="85" stroke="#e74c3c" stroke-width="2"/> <rect x="44" y="70" width="12" height="12" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="72" y1="80" x2="72" y2="98" stroke="#e74c3c" stroke-width="2"/> <rect x="66" y="83" width="12" height="11" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="94" y1="90" x2="94" y2="108" stroke="#e74c3c" stroke-width="2"/> <rect x="88" y="93" width="12" height="11" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="122" y1="45" x2="122" y2="105" stroke="#2ecc71" stroke-width="2"/> <rect x="114" y="50" width="16" height="50" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/>
@@ -923,13 +923,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">5 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Long red candle, gap-down red, 3 smaller declining bodies, followed by a large green candle closing within the original gap.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Downward momentum fizzles out; big green candle traps late shorts.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Bullish reversal into overhead resistance.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Long red candle, downside gap to a red candle, three smaller declining bodies, followed by a strong green candle closing within the initial gap.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Downward momentum gradually weakens after an initial gap before buyers drive price back into the gap.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Downward momentum gradually weakens before a strong bullish candle breaks back into the gap, signaling a potential reversal.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="three-inside-up" data-searchable="three inside up (3) three-inside-up bullish reversal 3 bar bars structure: bullish harami followed by a third green candle closing above day 2's high. psychology: follow-through confirmation validates that buyers have seized command. outcome: high-probability long trigger targeting recent swing highs.">
+          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="three-inside-up" data-searchable="three inside up (3) three-inside-up bullish reversal 3 bar bars structure: a bullish harami followed by a third green candle that closes above the second candle's high. psychology: selling pressure halts within the prior candle, and follow-through buying confirms buyers are gaining control. outcome: the harami signals weakening selling pressure; the third candle confirms that buyers are gaining control.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Three Inside Up (3)">
                 <line x1="40" y1="25" x2="40" y2="100" stroke="#e74c3c" stroke-width="2"/> <rect x="30" y="35" width="20" height="55" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="75" y1="50" x2="75" y2="85" stroke="#2ecc71" stroke-width="2"/> <rect x="67" y="60" width="16" height="20" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="110" y1="20" x2="110" y2="70" stroke="#2ecc71" stroke-width="2"/> <rect x="100" y="28" width="20" height="37" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/>
@@ -942,13 +942,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">3 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Bullish Harami followed by a third green candle closing above Day 2&#39;s high.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Follow-through confirmation validates that buyers have seized command.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">High-probability long trigger targeting recent swing highs.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">A Bullish Harami followed by a third green candle that closes above the second candle&#39;s high.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Selling pressure halts within the prior candle, and follow-through buying confirms buyers are gaining control.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">The Harami signals weakening selling pressure; the third candle confirms that buyers are gaining control.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="three-outside-up" data-searchable="three outside up (3) three-outside-up bullish reversal 3 bar bars structure: bullish engulfing pattern followed by a third candle closing higher. psychology: rapid confirmation attracts momentum buyers and triggers short stops. outcome: sustained trend reversal with upward acceleration.">
+          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="three-outside-up" data-searchable="three outside up (3) three-outside-up bullish reversal 3 bar bars structure: a bullish engulfing pattern followed by a third green candle closing higher than day 2. psychology: momentum shifts toward buyers during the engulfing session, with follow-through confirming demand. outcome: the engulfing pattern shifts momentum toward buyers, and the third candle provides bullish confirmation.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Three Outside Up (3)">
                 <line x1="40" y1="50" x2="40" y2="85" stroke="#e74c3c" stroke-width="2"/> <rect x="32" y="55" width="16" height="25" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="75" y1="30" x2="75" y2="100" stroke="#2ecc71" stroke-width="2"/> <rect x="64" y="40" width="22" height="48" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="110" y1="15" x2="110" y2="55" stroke="#2ecc71" stroke-width="2"/> <rect x="100" y="20" width="20" height="25" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/>
@@ -961,13 +961,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">3 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Bullish Engulfing pattern followed by a third candle closing higher.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Rapid confirmation attracts momentum buyers and triggers short stops.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Sustained trend reversal with upward acceleration.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">A Bullish Engulfing pattern followed by a third green candle closing higher than Day 2.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Momentum shifts toward buyers during the engulfing session, with follow-through confirming demand.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">The engulfing pattern shifts momentum toward buyers, and the third candle provides bullish confirmation.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="bullish-kicking" data-searchable="kicking (2) bullish-kicking bullish reversal 2 bar bars structure: red marubozu followed by a green marubozu that gaps up above day 1's open. psychology: sudden catalyst flips market sentiment 180 degrees overnight. outcome: powerful runaway bullish momentum; shallow pullbacks.">
+          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="bullish-kicking" data-searchable="kicking (2) bullish-kicking bullish reversal 2 bar bars structure: red marubozu followed by a green marubozu that gaps up above day 1's open. psychology: an immediate gap above the previous open reflects an abrupt shift in market balance. outcome: a sharp gap in the opposite direction shows an abrupt shift in market control and can produce a strong bullish reversal.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Kicking (2)">
                 <line x1="55" y1="60" x2="55" y2="110" stroke="#e74c3c" stroke-width="2"/> <rect x="43" y="60" width="24" height="50" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="95" y1="15" x2="95" y2="50" stroke="#2ecc71" stroke-width="2"/> <rect x="83" y="15" width="24" height="35" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/>
@@ -981,12 +981,12 @@ title: Japanese Candlestick Patterns
               </div>
               <div class="csp-pattern-body">
                 <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Red Marubozu followed by a green Marubozu that gaps up above Day 1&#39;s open.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Sudden catalyst flips market sentiment 180 degrees overnight.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Powerful runaway bullish momentum; shallow pullbacks.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">An immediate gap above the previous open reflects an abrupt shift in market balance.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">A sharp gap in the opposite direction shows an abrupt shift in market control and can produce a strong bullish reversal.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="unique-three-rivers-bottom" data-searchable="unique three rivers bottom (3) unique-three-rivers-bottom bullish reversal 3 bar bars structure: long red candle; red body with long lower shadow making a new low; small green body trading above the extreme low. psychology: final desperate sell push rejected; selling pressure dissipates. outcome: basing structure leads into an upward reversal.">
+          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="unique-three-rivers-bottom" data-searchable="unique three rivers bottom (3) unique-three-rivers-bottom bullish reversal 3 bar bars structure: long red candle, followed by a smaller red candle within day 1's body making a new low with a long lower shadow, then a small green candle whose low remains above day 2's low. psychology: a new downside extreme is rejected intraday, and subsequent stabilization indicates selling exhaustion. outcome: a new downside extreme is rejected, followed by stabilization; a bullish third candle signals a potential bottom.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Unique Three Rivers Bottom (3)">
                 <line x1="40" y1="30" x2="40" y2="90" stroke="#e74c3c" stroke-width="2"/> <rect x="30" y="35" width="20" height="50" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="75" y1="55" x2="75" y2="115" stroke="#e74c3c" stroke-width="2"/> <rect x="67" y="60" width="16" height="15" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="110" y1="70" x2="110" y2="95" stroke="#2ecc71" stroke-width="2"/> <rect x="102" y="78" width="16" height="12" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/>
@@ -999,13 +999,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">3 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Long red candle; red body with long lower shadow making a new low; small green body trading above the extreme low.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Final desperate sell push rejected; selling pressure dissipates.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Basing structure leads into an upward reversal.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Long red candle, followed by a smaller red candle within Day 1&#39;s body making a new low with a long lower shadow, then a small green candle whose low remains above Day 2&#39;s low.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">A new downside extreme is rejected intraday, and subsequent stabilization indicates selling exhaustion.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">A new downside extreme is rejected, followed by stabilization; a bullish third candle signals a potential bottom.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="three-stars-in-the-south" data-searchable="three stars in the south (3) three-stars-in-the-south bullish reversal 3 bar bars structure: three declining red candles with progressively smaller bodies and higher lows; day 1 has a long lower wick. psychology: bears make decreasing downward progress each session. outcome: seller burnout; upward bounce expected.">
+          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="three-stars-in-the-south" data-searchable="three stars in the south (3) three-stars-in-the-south bullish reversal 3 bar bars structure: three declining red candles: day 1 has a long lower shadow; day 2 has a smaller body and a higher low; day 3 is a small red body contained within day 2's range. psychology: sellers make progressively less downward progress each session, unable to force lower lows. outcome: successively weaker bearish candles show selling momentum fading; the pattern warns of a potential bullish reversal.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Three Stars in the South (3)">
                 <line x1="40" y1="30" x2="40" y2="110" stroke="#e74c3c" stroke-width="2"/> <rect x="30" y="35" width="20" height="45" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="75" y1="45" x2="75" y2="95" stroke="#e74c3c" stroke-width="2"/> <rect x="66" y="50" width="18" height="25" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="110" y1="55" x2="110" y2="75" stroke="#e74c3c" stroke-width="2"/> <rect x="102" y="58" width="16" height="14" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/>
@@ -1018,13 +1018,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">3 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Three declining red candles with progressively smaller bodies and higher lows; Day 1 has a long lower wick.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Bears make decreasing downward progress each session.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Seller burnout; upward bounce expected.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Three declining red candles: Day 1 has a long lower shadow; Day 2 has a smaller body and a higher low; Day 3 is a small red body contained within Day 2&#39;s range.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Sellers make progressively less downward progress each session, unable to force lower lows.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Successively weaker bearish candles show selling momentum fading; the pattern warns of a potential bullish reversal.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="concealing-swallow" data-searchable="concealing swallow (4) concealing-swallow bullish reversal 4 bar bars structure: four red candles: two falling marubozus, an inverted-hammer-like red candle gapping down, engulfed by a fourth red engulfing candle. psychology: climax selling frenzy completely exhausts all remaining supply. outcome: violent short-squeeze snapback rally.">
+          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="concealing-swallow" data-searchable="concealing swallow (4) concealing-swallow bullish reversal 4 bar bars structure: four red candles: two falling marubozus, an inverted-hammer-like red candle gapping down, engulfed by a fourth red engulfing candle. psychology: intense selling reaches an extreme climax as an attempted extension fails and the final candle consumes day 3's range. outcome: persistent selling becomes vulnerable after the third candle's failed downside extension; the fourth candle's engulfing action signals potential exhaustion and reversal.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Concealing Swallow (4)">
                 <line x1="35" y1="25" x2="35" y2="60" stroke="#e74c3c" stroke-width="2"/> <rect x="27" y="25" width="16" height="35" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="60" y1="50" x2="60" y2="85" stroke="#e74c3c" stroke-width="2"/> <rect x="52" y="50" width="16" height="35" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="85" y1="60" x2="85" y2="105" stroke="#e74c3c" stroke-width="2"/> <rect x="78" y="95" width="14" height="10" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="115" y1="45" x2="115" y2="115" stroke="#e74c3c" stroke-width="2"/> <rect x="106" y="50" width="18" height="60" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/>
@@ -1038,12 +1038,12 @@ title: Japanese Candlestick Patterns
               </div>
               <div class="csp-pattern-body">
                 <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Four red candles: two falling Marubozus, an inverted-hammer-like red candle gapping down, engulfed by a fourth red engulfing candle.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Climax selling frenzy completely exhausts all remaining supply.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Violent short-squeeze snapback rally.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Intense selling reaches an extreme climax as an attempted extension fails and the final candle consumes Day 3&#39;s range.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Persistent selling becomes vulnerable after the third candle&#39;s failed downside extension; the fourth candle&#39;s engulfing action signals potential exhaustion and reversal.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="bullish-stick-sandwich" data-searchable="stick sandwich (3) bullish-stick-sandwich bullish reversal 3 bar bars structure: two red candles with identical closing prices sandwiching a green candle. psychology: support level tested twice at the exact same tick and holds. outcome: micro double bottom; strong bounce expected.">
+          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="bullish-stick-sandwich" data-searchable="stick sandwich (3) bullish-stick-sandwich bullish reversal 3 bar bars structure: two red candles with approximately matching closing prices sandwiching a green candle in a downtrend. psychology: support is tested twice at the same price level with an interim bounce showing buying interest. outcome: repeated support at the matching closes suggests a possible bullish reversal; confirmation above the pattern is recommended.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Stick Sandwich (3)">
                 <line x1="40" y1="30" x2="40" y2="85" stroke="#e74c3c" stroke-width="2"/> <rect x="31" y="35" width="18" height="45" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="75" y1="25" x2="75" y2="80" stroke="#2ecc71" stroke-width="2"/> <rect x="66" y="35" width="18" height="40" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="110" y1="30" x2="110" y2="85" stroke="#e74c3c" stroke-width="2"/> <rect x="101" y="35" width="18" height="45" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/>
@@ -1056,13 +1056,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">3 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Two red candles with identical closing prices sandwiching a green candle.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Support level tested twice at the exact same tick and holds.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Micro double bottom; strong bounce expected.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Two red candles with approximately matching closing prices sandwiching a green candle in a downtrend.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Support is tested twice at the same price level with an interim bounce showing buying interest.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Repeated support at the matching closes suggests a possible bullish reversal; confirmation above the pattern is recommended.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="homing-pigeon" data-searchable="homing pigeon (2) homing-pigeon bullish reversal 2 bar bars structure: long red candle followed by a smaller red candle contained entirely inside day 1. psychology: sellers are unable to push beyond the prior body; selling momentum dries up. outcome: upward breakout above day 1 high triggers reversal.">
+          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="homing-pigeon" data-searchable="homing pigeon (2) homing-pigeon bullish reversal 2 bar bars structure: large red candle followed by a smaller red candle whose body is contained completely inside day 1's body. psychology: selling momentum contracts as the second red candle fails to extend lower, reflecting seller hesitation. outcome: selling momentum contracts as the second bearish candle remains inside the first; bullish follow-through is needed to confirm a reversal.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Homing Pigeon (2)">
                 <line x1="55" y1="25" x2="55" y2="105" stroke="#e74c3c" stroke-width="2"/> <rect x="44" y="35" width="22" height="60" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="95" y1="50" x2="95" y2="85" stroke="#e74c3c" stroke-width="2"/> <rect x="86" y="55" width="18" height="25" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/>
@@ -1075,13 +1075,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">2 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Long red candle followed by a smaller red candle contained entirely inside Day 1.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Sellers are unable to push beyond the prior body; selling momentum dries up.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Upward breakout above Day 1 high triggers reversal.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Large red candle followed by a smaller red candle whose body is contained completely inside Day 1&#39;s body.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Selling momentum contracts as the second red candle fails to extend lower, reflecting seller hesitation.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Selling momentum contracts as the second bearish candle remains inside the first; bullish follow-through is needed to confirm a reversal.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="ladder-bottom" data-searchable="ladder bottom (5) ladder-bottom bullish reversal 5 bar bars structure: three declining red bodies, a fourth body with a tall upper wick, followed by a strong green candle gapping up. psychology: downtrend decelerates; day 4 tests the upside and day 5 confirms bulls took over. outcome: structural reversal into sustained upward trend.">
+          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="ladder-bottom" data-searchable="ladder bottom (5) ladder-bottom bullish reversal 5 bar bars structure: three declining red candles, a fourth candle with an upper shadow showing hesitation, followed by a decisive green candle opening above day 4's body and closing strongly higher. psychology: downtrend momentum slows as buyers attempt an upside move on day 4, followed by strong buying follow-through on day 5. outcome: three declining candles are followed by weakening bearish momentum and then a strong bullish breakout, signaling a potential trend reversal.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Ladder Bottom (5)">
                 <line x1="28" y1="20" x2="28" y2="50" stroke="#e74c3c" stroke-width="2"/> <rect x="22" y="25" width="12" height="23" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="50" y1="42" x2="50" y2="68" stroke="#e74c3c" stroke-width="2"/> <rect x="44" y="46" width="12" height="19" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="72" y1="60" x2="72" y2="85" stroke="#e74c3c" stroke-width="2"/> <rect x="66" y="63" width="12" height="19" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="94" y1="62" x2="94" y2="98" stroke="#e74c3c" stroke-width="2"/> <rect x="88" y="80" width="12" height="15" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="122" y1="30" x2="122" y2="85" stroke="#2ecc71" stroke-width="2"/> <rect x="114" y="35" width="16" height="43" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/>
@@ -1094,13 +1094,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">5 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Three declining red bodies, a fourth body with a tall upper wick, followed by a strong green candle gapping up.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Downtrend decelerates; Day 4 tests the upside and Day 5 confirms bulls took over.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Structural reversal into sustained upward trend.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Three declining red candles, a fourth candle with an upper shadow showing hesitation, followed by a decisive green candle opening above Day 4&#39;s body and closing strongly higher.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Downtrend momentum slows as buyers attempt an upside move on Day 4, followed by strong buying follow-through on Day 5.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Three declining candles are followed by weakening bearish momentum and then a strong bullish breakout, signaling a potential trend reversal.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="matching-low" data-searchable="matching low (2) matching-low bullish reversal 2 bar bars structure: two consecutive red candles sharing the exact same closing price. psychology: bears fail to close even one tick lower, signaling a solid floor. outcome: support confirmed; expect an immediate relief rally.">
+          <tr class="csp-pattern-row" data-group="bullish-reversals" data-id="matching-low" data-searchable="matching low (2) matching-low bullish reversal 2 bar bars structure: two consecutive red candles in a downtrend sharing approximately the same closing price, typically with little to no lower shadow. psychology: sellers fail to push the close beneath the prior session's level, establishing a potential short-term floor. outcome: repeated support at the same closing price suggests selling pressure is losing strength; bullish confirmation is preferred before treating it as a reversal.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Matching Low (2)">
                 <line x1="55" y1="30" x2="55" y2="85" stroke="#e74c3c" stroke-width="2"/> <rect x="44" y="35" width="22" height="45" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="95" y1="45" x2="95" y2="80" stroke="#e74c3c" stroke-width="2"/> <rect x="84" y="50" width="22" height="30" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/>
@@ -1113,9 +1113,9 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">2 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Two consecutive red candles sharing the exact same closing price.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Bears fail to close even one tick lower, signaling a solid floor.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Support confirmed; expect an immediate relief rally.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Two consecutive red candles in a downtrend sharing approximately the same closing price, typically with little to no lower shadow.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Sellers fail to push the close beneath the prior session&#39;s level, establishing a potential short-term floor.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Repeated support at the same closing price suggests selling pressure is losing strength; bullish confirmation is preferred before treating it as a reversal.</span></div>
               </div>
             </td>
           </tr>
@@ -1140,7 +1140,7 @@ title: Japanese Candlestick Patterns
             </tr>
           </thead>
           <tbody>
-          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="long-black-body" data-searchable="long black body (1) long-black-body bearish reversal 1 bar bars structure: single tall red candle with a large body appearing after an advance. psychology: heavy selling pressure dominates the session from open to close. outcome: bearish breakdown toward lower support.">
+          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="long-black-body" data-searchable="long black body (1) long-black-body bearish reversal 1 bar bars structure: single tall red candle with a large body appearing after an advance. psychology: heavy selling pressure dominates the session from open to close. outcome: strong selling pressure; may signal continuation or, after an advance, a potential bearish reversal.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Long Black Body (1)">
                 <line x1="75" y1="20" x2="75" y2="110" stroke="#e74c3c" stroke-width="2"/> <rect x="63" y="35" width="24" height="60" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/>
@@ -1155,11 +1155,11 @@ title: Japanese Candlestick Patterns
               <div class="csp-pattern-body">
                 <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Single tall red candle with a large body appearing after an advance.</span></div>
                 <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Heavy selling pressure dominates the session from open to close.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Bearish breakdown toward lower support.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Strong selling pressure; may signal continuation or, after an advance, a potential bearish reversal.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="hanging-man" data-searchable="hanging man (1) hanging-man bearish reversal 1 bar bars structure: small body at the top of an uptrend with a long lower shadow (&gt;= 2x body) and minimal upper shadow. psychology: intraday sell-off reveals emerging supply despite late-session recovery. outcome: bearish reversal confirmed upon a lower close next session.">
+          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="hanging-man" data-searchable="hanging man (1) hanging-man bearish reversal 1 bar bars structure: small body near the top of an advance with a long lower shadow (&gt;= 2x body) and minimal upper shadow. psychology: intraday sell-off reveals sudden vulnerability; buyers recover the close, but supply is active. outcome: late-session recovery after a sharp sell-off warns of vulnerability; a lower close confirms bearish reversal pressure.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Hanging Man (1)">
                 <line x1="75" y1="35" x2="75" y2="115" stroke="#e74c3c" stroke-width="2"/> <rect x="64" y="38" width="22" height="12" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/>
@@ -1172,13 +1172,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">1 Bar</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Small body at the top of an uptrend with a long lower shadow (&gt;= 2x body) and minimal upper shadow.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Intraday sell-off reveals emerging supply despite late-session recovery.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Bearish reversal confirmed upon a lower close next session.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Small body near the top of an advance with a long lower shadow (&gt;= 2x body) and minimal upper shadow.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Intraday sell-off reveals sudden vulnerability; buyers recover the close, but supply is active.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Late-session recovery after a sharp sell-off warns of vulnerability; a lower close confirms bearish reversal pressure.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="shooting-star" data-searchable="shooting star (1) shooting-star bearish reversal 1 bar bars structure: small real body at the bottom of the range with a long upper shadow (&gt;= 2x body) following an uptrend. psychology: strong morning buying totally rejected by aggressive afternoon distribution. outcome: bearish reversal; short entries triggered beneath the star's low.">
+          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="shooting-star" data-searchable="shooting star (1) shooting-star bearish reversal 1 bar bars structure: small body near the bottom of the range after an advance, with a long upper shadow (&gt;= 2x body) and minimal lower shadow. psychology: buyers drive price sharply higher but fail to sustain the advance, retreating into the close. outcome: buyers push prices sharply higher but fail to hold the advance; a break below the candle's low strengthens the bearish signal.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Shooting Star (1)">
                 <line x1="75" y1="25" x2="75" y2="105" stroke="#e74c3c" stroke-width="2"/> <rect x="64" y="88" width="22" height="12" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/>
@@ -1191,13 +1191,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">1 Bar</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Small real body at the bottom of the range with a long upper shadow (&gt;= 2x body) following an uptrend.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Strong morning buying totally rejected by aggressive afternoon distribution.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Bearish reversal; short entries triggered beneath the star&#39;s low.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Small body near the bottom of the range after an advance, with a long upper shadow (&gt;= 2x body) and minimal lower shadow.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Buyers drive price sharply higher but fail to sustain the advance, retreating into the close.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Buyers push prices sharply higher but fail to hold the advance; a break below the candle&#39;s low strengthens the bearish signal.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="bearish-belt-hold" data-searchable="bearish belt hold (1) bearish-belt-hold bearish reversal 1 bar bars structure: opens on the absolute high of the day (shaved head) and falls steadily to close near the low. psychology: bears seize control immediately at the open with zero upside conceded. outcome: immediate resistance ceiling established; downward continuation expected.">
+          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="bearish-belt-hold" data-searchable="bearish belt hold (1) bearish-belt-hold bearish reversal 1 bar bars structure: tall red candle opening at or near its high after an advance and falling steadily to close near its low with little to no upper shadow. psychology: sellers take control immediately from the open and sustain downward pressure throughout the session. outcome: sellers take control from the open and dominate the session; the pattern warns of a potential bearish reversal.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Bearish Belt Hold (1)">
                 <line x1="75" y1="25" x2="75" y2="105" stroke="#e74c3c" stroke-width="2"/> <rect x="63" y="25" width="24" height="75" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/>
@@ -1210,13 +1210,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">1 Bar</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Opens on the absolute high of the day (shaved head) and falls steadily to close near the low.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Bears seize control immediately at the open with zero upside conceded.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Immediate resistance ceiling established; downward continuation expected.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Tall red candle opening at or near its high after an advance and falling steadily to close near its low with little to no upper shadow.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Sellers take control immediately from the open and sustain downward pressure throughout the session.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Sellers take control from the open and dominate the session; the pattern warns of a potential bearish reversal.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="bearish-engulfing" data-searchable="bearish engulfing (2) bearish-engulfing bearish reversal 2 bar bars structure: small green body engulfed completely by a tall red real body. psychology: higher open attracts an overwhelming flood of supply, trapping breakout buyers. outcome: high reliability downward reversal; stop placed above day 2 high.">
+          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="bearish-engulfing" data-searchable="bearish engulfing (2) bearish-engulfing bearish reversal 2 bar bars structure: a small green body engulfed completely by a subsequent taller red body appearing after an advance. psychology: an initial higher open attracts heavy supply, wiping out the prior session's advance. outcome: buyers lose control as sellers overwhelm the prior session's body; a break below the engulfing candle strengthens the reversal.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Bearish Engulfing (2)">
                 <line x1="55" y1="45" x2="55" y2="90" stroke="#2ecc71" stroke-width="2"/> <rect x="45" y="55" width="20" height="25" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="95" y1="25" x2="95" y2="105" stroke="#e74c3c" stroke-width="2"/> <rect x="83" y="35" width="24" height="55" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/>
@@ -1229,13 +1229,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">2 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Small green body engulfed completely by a tall red real body.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Higher open attracts an overwhelming flood of supply, trapping breakout buyers.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">High reliability downward reversal; stop placed above Day 2 high.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">A small green body engulfed completely by a subsequent taller red body appearing after an advance.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">An initial higher open attracts heavy supply, wiping out the prior session&#39;s advance.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Buyers lose control as sellers overwhelm the prior session&#39;s body; a break below the engulfing candle strengthens the reversal.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="bearish-harami" data-searchable="bearish harami (2) bearish-harami bearish reversal 2 bar bars structure: large green candle followed by a smaller red candle contained entirely inside day 1's body. psychology: uptrend hits a wall; buyers fail to expand range beyond prior levels. outcome: trend deceleration; break below day 1 midpoint confirms reversal.">
+          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="bearish-harami" data-searchable="bearish harami (2) bearish-harami bearish reversal 2 bar bars structure: large green candle followed by a smaller red candle whose body is contained entirely inside day 1's body. psychology: buying momentum stalls as buyers fail to expand the range beyond prior levels. outcome: buying momentum stalls as the smaller candle remains inside the prior body; downside follow-through supports a bearish reversal.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Bearish Harami (2)">
                 <line x1="55" y1="25" x2="55" y2="105" stroke="#2ecc71" stroke-width="2"/> <rect x="43" y="35" width="24" height="60" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="95" y1="50" x2="95" y2="85" stroke="#e74c3c" stroke-width="2"/> <rect x="86" y="55" width="18" height="20" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/>
@@ -1248,13 +1248,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">2 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Large green candle followed by a smaller red candle contained entirely inside Day 1&#39;s body.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Uptrend hits a wall; buyers fail to expand range beyond prior levels.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Trend deceleration; break below Day 1 midpoint confirms reversal.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Large green candle followed by a smaller red candle whose body is contained entirely inside Day 1&#39;s body.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Buying momentum stalls as buyers fail to expand the range beyond prior levels.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Buying momentum stalls as the smaller candle remains inside the prior body; downside follow-through supports a bearish reversal.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="bearish-harami-cross" data-searchable="bearish harami cross (2) bearish-harami-cross bearish reversal 2 bar bars structure: long green candle followed by a doji nested completely within day 1's body. psychology: complete standstill at peak prices; buyers and sellers lock in indecision. outcome: potent top turning point; downside break accelerates liquidation.">
+          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="bearish-harami-cross" data-searchable="bearish harami cross (2) bearish-harami-cross bearish reversal 2 bar bars structure: long green candle followed by a doji nested completely within day 1's body. psychology: strong buying momentum gives way to hesitation and equilibrium at the highs. outcome: strong buying momentum gives way to indecision; a bearish break after the doji confirms the potential reversal.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Bearish Harami Cross (2)">
                 <line x1="55" y1="25" x2="55" y2="105" stroke="#2ecc71" stroke-width="2"/> <rect x="43" y="35" width="24" height="60" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="95" y1="50" x2="95" y2="80" stroke="#f1c40f" stroke-width="2"/> <line x1="86" y1="65" x2="104" y2="65" stroke="#f1c40f" stroke-width="3"/>
@@ -1268,12 +1268,12 @@ title: Japanese Candlestick Patterns
               </div>
               <div class="csp-pattern-body">
                 <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Long green candle followed by a Doji nested completely within Day 1&#39;s body.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Complete standstill at peak prices; buyers and sellers lock in indecision.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Potent top turning point; downside break accelerates liquidation.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Strong buying momentum gives way to hesitation and equilibrium at the highs.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Strong buying momentum gives way to indecision; a bearish break after the Doji confirms the potential reversal.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="dark-cloud-cover" data-searchable="dark cloud cover (2) dark-cloud-cover bearish reversal 2 bar bars structure: long green candle followed by a red candle opening above day 1 high and closing below day 1's midpoint. psychology: gap-up to new highs fails; sellers erase more than 50% of prior gains. outcome: high-probability bearish reversal; institutional distribution confirmed.">
+          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="dark-cloud-cover" data-searchable="dark cloud cover (2) dark-cloud-cover bearish reversal 2 bar bars structure: long green candle followed by a red candle opening above day 1's high and closing below the midpoint of day 1's green body, but above its open. psychology: a gap-up to new highs is rejected as sellers push price below the midpoint of the prior advance. outcome: a gap-up fails as sellers push price below the midpoint of the prior bullish candle, warning of a bearish reversal.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Dark Cloud Cover (2)">
                 <line x1="55" y1="25" x2="55" y2="95" stroke="#2ecc71" stroke-width="2"/> <rect x="44" y="35" width="22" height="50" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="95" y1="18" x2="95" y2="80" stroke="#e74c3c" stroke-width="2"/> <rect x="84" y="25" width="22" height="45" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/>
@@ -1286,13 +1286,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">2 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Long green candle followed by a red candle opening above Day 1 high and closing below Day 1&#39;s midpoint.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Gap-up to new highs fails; sellers erase more than 50% of prior gains.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">High-probability bearish reversal; institutional distribution confirmed.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Long green candle followed by a red candle opening above Day 1&#39;s high and closing below the midpoint of Day 1&#39;s green body, but above its open.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">A gap-up to new highs is rejected as sellers push price below the midpoint of the prior advance.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">A gap-up fails as sellers push price below the midpoint of the prior bullish candle, warning of a bearish reversal.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="bearish-doji-star" data-searchable="bearish doji star (2) bearish-doji-star bearish reversal 2 bar bars structure: long green candle followed by a doji that gaps above day 1's body. psychology: bullish gap-up stalls completely; buyers fail to achieve any forward progress. outcome: early alert of top exhaustion; confirmation candle triggers short positions.">
+          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="bearish-doji-star" data-searchable="bearish doji star (2) bearish-doji-star bearish reversal 2 bar bars structure: long green candle followed by a doji that gaps above day 1's body. psychology: an opening gap-up stalls as buyers fail to generate further upward progress, resulting in balance. outcome: a gap-up doji shows that buying momentum has stalled; a bearish confirmation candle strengthens the reversal signal.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Bearish Doji Star (2)">
                 <line x1="55" y1="45" x2="55" y2="105" stroke="#2ecc71" stroke-width="2"/> <rect x="44" y="55" width="22" height="40" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="95" y1="15" x2="95" y2="42" stroke="#f1c40f" stroke-width="2"/> <line x1="86" y1="28" x2="104" y2="28" stroke="#f1c40f" stroke-width="3"/>
@@ -1306,12 +1306,12 @@ title: Japanese Candlestick Patterns
               </div>
               <div class="csp-pattern-body">
                 <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Long green candle followed by a Doji that gaps above Day 1&#39;s body.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Bullish gap-up stalls completely; buyers fail to achieve any forward progress.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Early alert of top exhaustion; confirmation candle triggers short positions.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">An opening gap-up stalls as buyers fail to generate further upward progress, resulting in balance.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">A gap-up Doji shows that buying momentum has stalled; a bearish confirmation candle strengthens the reversal signal.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="bearish-meeting-lines" data-searchable="bearish meeting lines (2) bearish-meeting-lines bearish reversal 2 bar bars structure: long green candle followed by a red candle opening sharply higher but closing at the exact same price as day 1's close. psychology: bullish opening surge is met with ferocious counter-selling returning price to parity. outcome: advance stopped cold; downward reversal expected.">
+          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="bearish-meeting-lines" data-searchable="bearish meeting lines (2) bearish-meeting-lines bearish reversal 2 bar bars structure: long green candle followed by a red candle opening sharply higher but closing at approximately the same price as day 1's close. psychology: an opening surge is met with selling pressure, returning price back to parity with the prior close. outcome: the gap-up advance is rejected and both sessions close near the same level, suggesting a potential bearish reversal.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Bearish Meeting Lines (2)">
                 <line x1="55" y1="45" x2="55" y2="100" stroke="#2ecc71" stroke-width="2"/> <rect x="44" y="50" width="22" height="40" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="95" y1="15" x2="95" y2="60" stroke="#e74c3c" stroke-width="2"/> <rect x="84" y="20" width="22" height="30" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/>
@@ -1324,13 +1324,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">2 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Long green candle followed by a red candle opening sharply higher but closing at the exact same price as Day 1&#39;s close.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Bullish opening surge is met with ferocious counter-selling returning price to parity.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Advance stopped cold; downward reversal expected.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Long green candle followed by a red candle opening sharply higher but closing at approximately the same price as Day 1&#39;s close.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">An opening surge is met with selling pressure, returning price back to parity with the prior close.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">The gap-up advance is rejected and both sessions close near the same level, suggesting a potential bearish reversal.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="three-black-crows" data-searchable="three black crows (3) three-black-crows bearish reversal 3 bar bars structure: three consecutive long red candles, each opening within the prior body and closing lower near lows. psychology: sustained institutional liquidation overwhelms all remaining buyers. outcome: powerful top reversal initiating an extended downward trend.">
+          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="three-black-crows" data-searchable="three black crows (3) three-black-crows bearish reversal 3 bar bars structure: three consecutive long red candles after an advance, each opening within the prior body and closing near its low. psychology: sellers consistently dominate consecutive sessions, overcoming buying interest without significant pullbacks. outcome: three consecutive strong bearish sessions demonstrate sustained selling pressure and signal a potential trend reversal or acceleration lower.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Three Black Crows (3)">
                 <line x1="40" y1="20" x2="40" y2="65" stroke="#e74c3c" stroke-width="2"/> <rect x="31" y="25" width="18" height="30" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="75" y1="45" x2="75" y2="90" stroke="#e74c3c" stroke-width="2"/> <rect x="66" y="50" width="18" height="33" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="110" y1="70" x2="110" y2="115" stroke="#e74c3c" stroke-width="2"/> <rect x="101" y="75" width="18" height="30" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/>
@@ -1343,13 +1343,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">3 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Three consecutive long red candles, each opening within the prior body and closing lower near lows.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Sustained institutional liquidation overwhelms all remaining buyers.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Powerful top reversal initiating an extended downward trend.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Three consecutive long red candles after an advance, each opening within the prior body and closing near its low.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Sellers consistently dominate consecutive sessions, overcoming buying interest without significant pullbacks.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Three consecutive strong bearish sessions demonstrate sustained selling pressure and signal a potential trend reversal or acceleration lower.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="evening-star" data-searchable="evening star (3) evening-star bearish reversal 3 bar bars structure: long green candle, upward gapping small body, and a long red candle closing deeply into day 1. psychology: bullish euphoria pauses in hesitation before sellers take firm control. outcome: major cyclical top reversal; high-probability short opportunity.">
+          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="evening-star" data-searchable="evening star (3) evening-star bearish reversal 3 bar bars structure: long green candle, an upward-gapping small body, and a long red candle closing well into day 1's body (generally below its midpoint). psychology: buying momentum pauses in hesitation before decisive selling takes control. outcome: buying momentum stalls, followed by decisive selling; a strong third candle supports a bearish reversal.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Evening Star (3)">
                 <line x1="40" y1="45" x2="40" y2="105" stroke="#2ecc71" stroke-width="2"/> <rect x="30" y="50" width="20" height="45" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="75" y1="15" x2="75" y2="42" stroke="#e74c3c" stroke-width="2"/> <rect x="67" y="22" width="16" height="10" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="110" y1="35" x2="110" y2="100" stroke="#e74c3c" stroke-width="2"/> <rect x="100" y="45" width="20" height="45" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/>
@@ -1362,13 +1362,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">3 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Long green candle, upward gapping small body, and a long red candle closing deeply into Day 1.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Bullish euphoria pauses in hesitation before sellers take firm control.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Major cyclical top reversal; high-probability short opportunity.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Long green candle, an upward-gapping small body, and a long red candle closing well into Day 1&#39;s body (generally below its midpoint).</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Buying momentum pauses in hesitation before decisive selling takes control.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Buying momentum stalls, followed by decisive selling; a strong third candle supports a bearish reversal.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="evening-doji-star" data-searchable="evening doji star (3) evening-doji-star bearish reversal 3 bar bars structure: identical to evening star, but the apex candle is an isolated doji. psychology: peak supply-demand equilibrium followed by swift long liquidation. outcome: very potent top reversal pattern; downward momentum expands rapidly.">
+          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="evening-doji-star" data-searchable="evening doji star (3) evening-doji-star bearish reversal 3 bar bars structure: long green candle, an isolated doji gapping above day 1's body, and a long red candle closing deeply into day 1's body. psychology: buying momentum reaches equilibrium at the top before sellers take control with a sharp decline. outcome: a doji at the top signals pronounced indecision after an advance; a strong bearish third candle confirms the potential reversal.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Evening Doji Star (3)">
                 <line x1="40" y1="45" x2="40" y2="105" stroke="#2ecc71" stroke-width="2"/> <rect x="30" y="50" width="20" height="45" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="75" y1="15" x2="75" y2="40" stroke="#f1c40f" stroke-width="2"/> <line x1="67" y1="28" x2="83" y2="28" stroke="#f1c40f" stroke-width="3"/> <line x1="110" y1="35" x2="110" y2="100" stroke="#e74c3c" stroke-width="2"/> <rect x="100" y="45" width="20" height="45" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/>
@@ -1381,13 +1381,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">3 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Identical to Evening Star, but the apex candle is an isolated Doji.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Peak supply-demand equilibrium followed by swift long liquidation.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Very potent top reversal pattern; downward momentum expands rapidly.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Long green candle, an isolated Doji gapping above Day 1&#39;s body, and a long red candle closing deeply into Day 1&#39;s body.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Buying momentum reaches equilibrium at the top before sellers take control with a sharp decline.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">A Doji at the top signals pronounced indecision after an advance; a strong bearish third candle confirms the potential reversal.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="bearish-abandoned-baby" data-searchable="bearish abandoned baby (3) bearish-abandoned-baby bearish reversal 3 bar bars structure: long green candle, isolated doji gapping above both neighbors' shadows, and a red candle gapping down. psychology: island reversal; buyers trapped on an island at the extreme high. outcome: panic selling and rapid downside cascade.">
+          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="bearish-abandoned-baby" data-searchable="bearish abandoned baby (3) bearish-abandoned-baby bearish reversal 3 bar bars structure: long green candle, an isolated doji gapping above both neighboring candles' shadows, and a red candle gapping down. psychology: an island formation develops where buying exhausts on a gap-up, followed by an immediate gap-down. outcome: an isolated doji after a gap-up signals exhaustion; a gap-down bearish candle confirms the potential reversal.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Bearish Abandoned Baby (3)">
                 <line x1="40" y1="55" x2="40" y2="105" stroke="#2ecc71" stroke-width="2"/> <rect x="30" y="60" width="20" height="35" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="75" y1="15" x2="75" y2="38" stroke="#f1c40f" stroke-width="2"/> <line x1="67" y1="26" x2="83" y2="26" stroke="#f1c40f" stroke-width="3"/> <line x1="110" y1="55" x2="110" y2="105" stroke="#e74c3c" stroke-width="2"/> <rect x="100" y="60" width="20" height="35" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/>
@@ -1400,13 +1400,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">3 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Long green candle, isolated Doji gapping above both neighbors&#39; shadows, and a red candle gapping down.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Island reversal; buyers trapped on an island at the extreme high.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Panic selling and rapid downside cascade.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Long green candle, an isolated Doji gapping above both neighboring candles&#39; shadows, and a red candle gapping down.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">An island formation develops where buying exhausts on a gap-up, followed by an immediate gap-down.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">An isolated Doji after a gap-up signals exhaustion; a gap-down bearish candle confirms the potential reversal.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="bearish-tri-star" data-searchable="bearish tri-star (3) bearish-tri-star bearish reversal 3 bar bars structure: three consecutive dojis with the middle doji gapping above the outer two. psychology: extreme exhaustion of buying power at resistance. outcome: macro top signal; price rotates downward.">
+          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="bearish-tri-star" data-searchable="bearish tri-star (3) bearish-tri-star bearish reversal 3 bar bars structure: three consecutive dojis appearing after an advance, with the middle doji gapping above the other two. psychology: buying momentum stalls into extreme indecision across three consecutive sessions. outcome: three dojis indicate extreme indecision near the top; a downside break can signal a bearish reversal.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Bearish Tri-Star (3)">
                 <line x1="40" y1="60" x2="40" y2="90" stroke="#f1c40f" stroke-width="2"/> <line x1="32" y1="75" x2="48" y2="75" stroke="#f1c40f" stroke-width="3"/> <line x1="75" y1="25" x2="75" y2="55" stroke="#f1c40f" stroke-width="2"/> <line x1="67" y1="40" x2="83" y2="40" stroke="#f1c40f" stroke-width="3"/> <line x1="110" y1="60" x2="110" y2="90" stroke="#f1c40f" stroke-width="2"/> <line x1="102" y1="75" x2="118" y2="75" stroke="#f1c40f" stroke-width="3"/>
@@ -1419,13 +1419,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">3 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Three consecutive Dojis with the middle Doji gapping above the outer two.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Extreme exhaustion of buying power at resistance.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Macro top signal; price rotates downward.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Three consecutive Dojis appearing after an advance, with the middle Doji gapping above the other two.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Buying momentum stalls into extreme indecision across three consecutive sessions.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Three Dojis indicate extreme indecision near the top; a downside break can signal a bearish reversal.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="bearish-breakaway" data-searchable="bearish breakaway (5) bearish-breakaway bearish reversal 5 bar bars structure: long green candle, gap-up green, 3 smaller advancing bodies, followed by a large red candle closing within the original gap. psychology: upward momentum decelerates until a large red candle traps late buyers. outcome: bearish reversal breaking into underlying support.">
+          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="bearish-breakaway" data-searchable="bearish breakaway (5) bearish-breakaway bearish reversal 5 bar bars structure: long green candle, upside gap to a green candle, three smaller advancing bodies, followed by a large red candle closing within the initial gap. psychology: upward momentum gradually decelerates following the initial gap before sellers drive price back into the gap. outcome: the advance loses momentum after the gap-up sequence, and the final bearish candle signals a potential reversal.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Bearish Breakaway (5)">
                 <line x1="28" y1="70" x2="28" y2="110" stroke="#2ecc71" stroke-width="2"/> <rect x="21" y="75" width="14" height="30" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="50" y1="45" x2="50" y2="65" stroke="#2ecc71" stroke-width="2"/> <rect x="44" y="48" width="12" height="12" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="72" y1="32" x2="72" y2="50" stroke="#2ecc71" stroke-width="2"/> <rect x="66" y="35" width="12" height="11" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="94" y1="22" x2="94" y2="40" stroke="#2ecc71" stroke-width="2"/> <rect x="88" y="25" width="12" height="11" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="122" y1="25" x2="122" y2="85" stroke="#e74c3c" stroke-width="2"/> <rect x="114" y="30" width="16" height="50" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/>
@@ -1438,13 +1438,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">5 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Long green candle, gap-up green, 3 smaller advancing bodies, followed by a large red candle closing within the original gap.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Upward momentum decelerates until a large red candle traps late buyers.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Bearish reversal breaking into underlying support.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Long green candle, upside gap to a green candle, three smaller advancing bodies, followed by a large red candle closing within the initial gap.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Upward momentum gradually decelerates following the initial gap before sellers drive price back into the gap.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">The advance loses momentum after the gap-up sequence, and the final bearish candle signals a potential reversal.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="three-inside-down" data-searchable="three inside down (3) three-inside-down bearish reversal 3 bar bars structure: bearish harami followed by a third red candle closing below day 2's low. psychology: follow-through confirmation validates that sellers hold full market control. outcome: high-probability short entry targeting recent swing support.">
+          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="three-inside-down" data-searchable="three inside down (3) three-inside-down bearish reversal 3 bar bars structure: a bearish harami followed by a third red candle closing below day 2's low. psychology: buying stalls inside the prior candle, and follow-through selling confirms sellers are gaining control. outcome: the harami signals weakening buying pressure; the third candle confirms renewed bearish momentum.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Three Inside Down (3)">
                 <line x1="40" y1="25" x2="40" y2="100" stroke="#2ecc71" stroke-width="2"/> <rect x="30" y="35" width="20" height="55" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="75" y1="45" x2="75" y2="80" stroke="#e74c3c" stroke-width="2"/> <rect x="67" y="50" width="16" height="20" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="110" y1="60" x2="110" y2="110" stroke="#e74c3c" stroke-width="2"/> <rect x="100" y="65" width="20" height="37" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/>
@@ -1457,13 +1457,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">3 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Bearish Harami followed by a third red candle closing below Day 2&#39;s low.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Follow-through confirmation validates that sellers hold full market control.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">High-probability short entry targeting recent swing support.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">A Bearish Harami followed by a third red candle closing below Day 2&#39;s low.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Buying stalls inside the prior candle, and follow-through selling confirms sellers are gaining control.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">The Harami signals weakening buying pressure; the third candle confirms renewed bearish momentum.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="three-outside-down" data-searchable="three outside down (3) three-outside-down bearish reversal 3 bar bars structure: bearish engulfing pattern followed by a third candle closing lower. psychology: immediate continuation prompts cascading stop-loss selling. outcome: sustained downward trend with acceleration.">
+          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="three-outside-down" data-searchable="three outside down (3) three-outside-down bearish reversal 3 bar bars structure: a bearish engulfing pattern followed by a third red candle closing lower than day 2. psychology: sellers take control during the engulfing session, and subsequent selling provides immediate confirmation. outcome: the engulfing candle shifts control toward sellers, while the third candle confirms continuation of the reversal.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Three Outside Down (3)">
                 <line x1="40" y1="45" x2="40" y2="80" stroke="#2ecc71" stroke-width="2"/> <rect x="32" y="50" width="16" height="25" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="75" y1="30" x2="75" y2="100" stroke="#e74c3c" stroke-width="2"/> <rect x="64" y="38" width="22" height="48" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="110" y1="75" x2="110" y2="115" stroke="#e74c3c" stroke-width="2"/> <rect x="100" y="80" width="20" height="25" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/>
@@ -1476,13 +1476,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">3 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Bearish Engulfing pattern followed by a third candle closing lower.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Immediate continuation prompts cascading stop-loss selling.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Sustained downward trend with acceleration.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">A Bearish Engulfing pattern followed by a third red candle closing lower than Day 2.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Sellers take control during the engulfing session, and subsequent selling provides immediate confirmation.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">The engulfing candle shifts control toward sellers, while the third candle confirms continuation of the reversal.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="bearish-kicking" data-searchable="bearish kicking (2) bearish-kicking bearish reversal 2 bar bars structure: green marubozu followed by a red marubozu that gaps down beneath day 1's open. psychology: severe overnight catalyst flips market sentiment completely downward. outcome: violent runaway bearish trend; any bounce is short-lived.">
+          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="bearish-kicking" data-searchable="bearish kicking (2) bearish-kicking bearish reversal 2 bar bars structure: green marubozu followed by a red marubozu that gaps down beneath day 1's open. psychology: an immediate downside gap below the prior open reflects an abrupt shift in market balance. outcome: a sharp downside gap between opposing marubozu candles signals an abrupt shift from bullish to bearish control.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Bearish Kicking (2)">
                 <line x1="55" y1="15" x2="55" y2="65" stroke="#2ecc71" stroke-width="2"/> <rect x="43" y="15" width="24" height="50" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="95" y1="75" x2="95" y2="115" stroke="#e74c3c" stroke-width="2"/> <rect x="83" y="75" width="24" height="40" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/>
@@ -1496,31 +1496,31 @@ title: Japanese Candlestick Patterns
               </div>
               <div class="csp-pattern-body">
                 <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Green Marubozu followed by a red Marubozu that gaps down beneath Day 1&#39;s open.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Severe overnight catalyst flips market sentiment completely downward.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Violent runaway bearish trend; any bounce is short-lived.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">An immediate downside gap below the prior open reflects an abrupt shift in market balance.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">A sharp downside gap between opposing Marubozu candles signals an abrupt shift from bullish to bearish control.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="latter-top" data-searchable="latter top (5) latter-top bearish reversal 5 bar bars structure: three advancing green bodies, a fourth body with a tall upper wick, followed by a red candle opening lower. psychology: uptrend exhausts on day 4; day 5 confirms rejection of higher prices. outcome: structural top; bearish trend reversal initiated.">
+          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="ladder-top" data-searchable="ladder top (5) ladder-top bearish reversal 5 bar bars structure: three advancing green candles, a fourth candle with an upper shadow showing hesitation, followed by a decisive red candle opening lower and closing down. psychology: the advance begins to lose momentum on day 4, followed by a strong bearish move on day 5 that confirms seller control. outcome: the advance begins to lose momentum before a strong bearish fifth candle confirms a potential top.">
             <td class="csp-cell-visual">
-              <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Latter Top (5)">
+              <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Ladder Top (5)">
                 <line x1="28" y1="80" x2="28" y2="110" stroke="#2ecc71" stroke-width="2"/> <rect x="22" y="82" width="12" height="23" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="50" y1="62" x2="50" y2="88" stroke="#2ecc71" stroke-width="2"/> <rect x="44" y="65" width="12" height="19" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="72" y1="45" x2="72" y2="70" stroke="#2ecc71" stroke-width="2"/> <rect x="66" y="48" width="12" height="19" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="94" y1="22" x2="94" y2="58" stroke="#2ecc71" stroke-width="2"/> <rect x="88" y="35" width="12" height="15" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="122" y1="45" x2="122" y2="100" stroke="#e74c3c" stroke-width="2"/> <rect x="114" y="52" width="16" height="43" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/>
               </svg>
             </td>
             <td class="csp-cell-desc">
               <div class="csp-pattern-header-row">
-                <h3 class="csp-pattern-title">Latter Top (5)</h3>
+                <h3 class="csp-pattern-title">Ladder Top (5)</h3>
                 <span class="csp-badge csp-badge-bear">Bearish Reversal</span>
                 <span class="csp-badge csp-badge-bars">5 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Three advancing green bodies, a fourth body with a tall upper wick, followed by a red candle opening lower.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Uptrend exhausts on Day 4; Day 5 confirms rejection of higher prices.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Structural top; bearish trend reversal initiated.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Three advancing green candles, a fourth candle with an upper shadow showing hesitation, followed by a decisive red candle opening lower and closing down.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">The advance begins to lose momentum on Day 4, followed by a strong bearish move on Day 5 that confirms seller control.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">The advance begins to lose momentum before a strong bearish fifth candle confirms a potential top.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="matching-high" data-searchable="matching high (2) matching-high bearish reversal 2 bar bars structure: two consecutive green candles sharing the exact same closing price. psychology: resistance proves impenetrable; buyers fail to close even one tick higher. outcome: double-top ceiling confirmed; downward correction expected.">
+          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="matching-high" data-searchable="matching high (2) matching-high bearish reversal 2 bar bars structure: two consecutive green candles in an uptrend sharing approximately the same closing price, typically opening higher with little to no upper shadow. psychology: buyers fail to push the close above the previous session's close, establishing a resistance level. outcome: repeated failure to close above the same level creates resistance and warns of a potential bearish reversal.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Matching High (2)">
                 <line x1="55" y1="35" x2="55" y2="90" stroke="#2ecc71" stroke-width="2"/> <rect x="44" y="40" width="22" height="45" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="95" y1="35" x2="95" y2="80" stroke="#2ecc71" stroke-width="2"/> <rect x="84" y="40" width="22" height="30" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/>
@@ -1533,13 +1533,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">2 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Two consecutive green candles sharing the exact same closing price.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Resistance proves impenetrable; buyers fail to close even one tick higher.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Double-top ceiling confirmed; downward correction expected.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Two consecutive green candles in an uptrend sharing approximately the same closing price, typically opening higher with little to no upper shadow.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Buyers fail to push the close above the previous session&#39;s close, establishing a resistance level.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Repeated failure to close above the same level creates resistance and warns of a potential bearish reversal.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="upside-gap-two-crows" data-searchable="upside gap two crows (3) upside-gap-two-crows bearish reversal 3 bar bars structure: long green candle, upward-gapping small red body, and a second red body engulfing day 2 while remaining above day 1 close. psychology: gap-up fails to hold; two consecutive down sessions reveal latent distribution. outcome: bearish reversal breaking into the gap zone.">
+          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="upside-gap-two-crows" data-searchable="upside gap two crows (3) upside-gap-two-crows bearish reversal 3 bar bars structure: long green candle, an upward-gapping small red body, and a second red body that engulfs day 2's body while closing above day 1's close. psychology: an upside gap fails to hold momentum; two consecutive down sessions show emerging supply above support. outcome: failure to sustain the gap warns of exhaustion; a subsequent break below the gap supports a bearish reversal.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Upside Gap Two Crows (3)">
                 <line x1="40" y1="40" x2="40" y2="105" stroke="#2ecc71" stroke-width="2"/> <rect x="30" y="45" width="20" height="50" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="75" y1="15" x2="75" y2="42" stroke="#e74c3c" stroke-width="2"/> <rect x="67" y="20" width="16" height="20" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="110" y1="15" x2="110" y2="44" stroke="#e74c3c" stroke-width="2"/> <rect x="101" y="18" width="18" height="24" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/>
@@ -1552,13 +1552,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">3 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Long green candle, upward-gapping small red body, and a second red body engulfing Day 2 while remaining above Day 1 close.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Gap-up fails to hold; two consecutive down sessions reveal latent distribution.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Bearish reversal breaking into the gap zone.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Long green candle, an upward-gapping small red body, and a second red body that engulfs Day 2&#39;s body while closing above Day 1&#39;s close.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">An upside gap fails to hold momentum; two consecutive down sessions show emerging supply above support.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Failure to sustain the gap warns of exhaustion; a subsequent break below the gap supports a bearish reversal.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="identical-three-crows" data-searchable="identical three crows (3) identical-three-crows bearish reversal 3 bar bars structure: three consecutive red candles where each candle opens at or very near the preceding candle's close. psychology: relentless cascade of selling pressure with zero intraday rebounds. outcome: severe bearish momentum; ongoing trend down.">
+          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="identical-three-crows" data-searchable="identical three crows (3) identical-three-crows bearish reversal 3 bar bars structure: three consecutive red candles where each candle opens at or very close to the preceding candle's close and finishes near its low. psychology: persistent selling with little to no recovery between sessions reflects strong downward pressure. outcome: persistent selling with little recovery between sessions signals strong bearish momentum and possible continuation lower.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Identical Three Crows (3)">
                 <line x1="40" y1="20" x2="40" y2="60" stroke="#e74c3c" stroke-width="2"/> <rect x="31" y="25" width="18" height="30" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="75" y1="50" x2="75" y2="90" stroke="#e74c3c" stroke-width="2"/> <rect x="66" y="55" width="18" height="30" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="110" y1="80" x2="110" y2="120" stroke="#e74c3c" stroke-width="2"/> <rect x="101" y="85" width="18" height="30" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/>
@@ -1571,13 +1571,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">3 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Three consecutive red candles where each candle opens at or very near the preceding candle&#39;s close.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Relentless cascade of selling pressure with zero intraday rebounds.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Severe bearish momentum; ongoing trend down.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Three consecutive red candles where each candle opens at or very close to the preceding candle&#39;s close and finishes near its low.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Persistent selling with little to no recovery between sessions reflects strong downward pressure.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Persistent selling with little recovery between sessions signals strong bearish momentum and possible continuation lower.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="deliberation" data-searchable="deliberation (3) deliberation bearish reversal 3 bar bars structure: two long green candles followed by a third small green body (or star) opening higher. psychology: rapid advance suddenly slows as buyers deliberate on valuation. outcome: trend exhaustion warning; imminent stall or sharp pullback.">
+          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="deliberation" data-searchable="deliberation (3) deliberation bearish reversal 3 bar bars structure: two strong green candles followed by a third small green candle that opens higher, displaying a noticeably smaller body. psychology: after two strong advancing sessions, buyers hesitate and upward progress contracts sharply. outcome: after two strong bullish candles, the smaller third candle shows slowing momentum and warns of a possible stall or reversal.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Deliberation (3)">
                 <line x1="40" y1="45" x2="40" y2="105" stroke="#2ecc71" stroke-width="2"/> <rect x="31" y="50" width="18" height="45" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="75" y1="25" x2="75" y2="75" stroke="#2ecc71" stroke-width="2"/> <rect x="66" y="30" width="18" height="40" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="110" y1="15" x2="110" y2="35" stroke="#2ecc71" stroke-width="2"/> <rect x="102" y="18" width="16" height="10" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/>
@@ -1590,13 +1590,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">3 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Two long green candles followed by a third small green body (or star) opening higher.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Rapid advance suddenly slows as buyers deliberate on valuation.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Trend exhaustion warning; imminent stall or sharp pullback.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Two strong green candles followed by a third small green candle that opens higher, displaying a noticeably smaller body.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">After two strong advancing sessions, buyers hesitate and upward progress contracts sharply.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">After two strong bullish candles, the smaller third candle shows slowing momentum and warns of a possible stall or reversal.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="advance-block" data-searchable="advance block (3) advance-block bearish reversal 3 bar bars structure: three consecutive green candles making new highs, with diminishing real bodies and expanding upper shadows. psychology: stiffening overhead supply repeatedly pushes buyers off the session highs. outcome: rally stalls; high probability of trend reversal.">
+          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="advance-block" data-searchable="advance block (3) advance-block bearish reversal 3 bar bars structure: three consecutive green candles making new highs, with progressively smaller bodies and longer upper shadows. psychology: selling pressure intensifies near session highs, repeatedly pushing price off intraday peaks. outcome: repeated rejection at higher prices shows weakening buying momentum and warns of a potential bearish reversal.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Advance Block (3)">
                 <line x1="40" y1="55" x2="40" y2="110" stroke="#2ecc71" stroke-width="2"/> <rect x="31" y="60" width="18" height="40" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="75" y1="35" x2="75" y2="90" stroke="#2ecc71" stroke-width="2"/> <rect x="66" y="45" width="18" height="30" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="110" y1="18" x2="110" y2="70" stroke="#2ecc71" stroke-width="2"/> <rect x="101" y="40" width="18" height="15" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/>
@@ -1609,13 +1609,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">3 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Three consecutive green candles making new highs, with diminishing real bodies and expanding upper shadows.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Stiffening overhead supply repeatedly pushes buyers off the session highs.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Rally stalls; high probability of trend reversal.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Three consecutive green candles making new highs, with progressively smaller bodies and longer upper shadows.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Selling pressure intensifies near session highs, repeatedly pushing price off intraday peaks.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Repeated rejection at higher prices shows weakening buying momentum and warns of a potential bearish reversal.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="two-crows" data-searchable="two crows (3) two-crows bearish reversal 3 bar bars structure: long green candle followed by an upward-gapping small red candle, and a second red candle that opens in day 2 and closes inside day 1. psychology: gap-up fails to hold; bears penetrate deeply into day 1 gains. outcome: trend reversal confirmed; sell-off toward baseline support.">
+          <tr class="csp-pattern-row" data-group="bearish-reversals" data-id="two-crows" data-searchable="two crows (3) two-crows bearish reversal 3 bar bars structure: long green candle, an upward-gapping small red candle, followed by a second red candle opening within day 2's body and closing well into day 1's body. psychology: an initial upside gap is rejected, and consecutive down candles show supply overcoming demand. outcome: the gap-up fails to hold and two bearish candles signal weakening demand; downside follow-through supports a bearish reversal.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Two Crows (3)">
                 <line x1="40" y1="40" x2="40" y2="105" stroke="#2ecc71" stroke-width="2"/> <rect x="30" y="45" width="20" height="50" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="75" y1="15" x2="75" y2="45" stroke="#e74c3c" stroke-width="2"/> <rect x="67" y="20" width="16" height="18" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="110" y1="25" x2="110" y2="70" stroke="#e74c3c" stroke-width="2"/> <rect x="101" y="28" width="18" height="32" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/>
@@ -1628,9 +1628,9 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">3 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Long green candle followed by an upward-gapping small red candle, and a second red candle that opens in Day 2 and closes inside Day 1.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Gap-up fails to hold; bears penetrate deeply into Day 1 gains.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Trend reversal confirmed; sell-off toward baseline support.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Long green candle, an upward-gapping small red candle, followed by a second red candle opening within Day 2&#39;s body and closing well into Day 1&#39;s body.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">An initial upside gap is rejected, and consecutive down candles show supply overcoming demand.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">The gap-up fails to hold and two bearish candles signal weakening demand; downside follow-through supports a bearish reversal.</span></div>
               </div>
             </td>
           </tr>
@@ -1655,7 +1655,7 @@ title: Japanese Candlestick Patterns
             </tr>
           </thead>
           <tbody>
-          <tr class="csp-pattern-row" data-group="bullish-continuations" data-id="bullish-separating-lines" data-searchable="bullish separating lines (2) bullish-separating-lines bullish continuation 2 bar bars structure: red candle in an uptrend followed by a green candle that opens at the exact same price as day 1's open and rallies. psychology: bears mount a counter-attack, but bulls instantly reclaim the open and surge higher. outcome: powerful bullish continuation; uptrend resumes with conviction.">
+          <tr class="csp-pattern-row" data-group="bullish-continuations" data-id="bullish-separating-lines" data-searchable="bullish separating lines (2) bullish-separating-lines bullish continuation 2 bar bars structure: in an uptrend, a red candle is followed by a green candle that opens at approximately the same opening price and closes higher. psychology: a brief bearish counter-move is immediately repelled at the open as buyers reassert dominance. outcome: a brief bearish counter-move fails as buyers reclaim control; upside continuation is favored.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Bullish Separating Lines (2)">
                 <line x1="55" y1="35" x2="55" y2="95" stroke="#e74c3c" stroke-width="2"/> <rect x="44" y="45" width="22" height="40" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="95" y1="15" x2="95" y2="55" stroke="#2ecc71" stroke-width="2"/> <rect x="84" y="20" width="22" height="25" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/>
@@ -1668,13 +1668,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">2 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Red candle in an uptrend followed by a green candle that opens at the exact same price as Day 1&#39;s open and rallies.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Bears mount a counter-attack, but bulls instantly reclaim the open and surge higher.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Powerful bullish continuation; uptrend resumes with conviction.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">In an uptrend, a red candle is followed by a green candle that opens at approximately the same opening price and closes higher.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">A brief bearish counter-move is immediately repelled at the open as buyers reassert dominance.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">A brief bearish counter-move fails as buyers reclaim control; upside continuation is favored.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bullish-continuations" data-id="rising-three-methods" data-searchable="rising three methods (5) rising-three-methods bullish continuation 5 bar bars structure: long green candle, 3 small declining red candles held within day 1's high-low range, followed by a strong green breakout candle. psychology: routine profit-taking is cleanly absorbed; buyers trigger the next expansion leg. outcome: classic continuation pattern; upward trend resumes immediately.">
+          <tr class="csp-pattern-row" data-group="bullish-continuations" data-id="rising-three-methods" data-searchable="rising three methods (5) rising-three-methods bullish continuation 5 bar bars structure: long green candle, followed by three small declining red candles contained within the first candle's range, and a final strong green candle closing above day 1's high. psychology: orderly consolidation is absorbed within the initial advance before buyers trigger a decisive breakout. outcome: consolidation within the trend is resolved to the upside; signals potential bullish continuation.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Rising Three Methods (5)">
                 <line x1="25" y1="25" x2="25" y2="105" stroke="#2ecc71" stroke-width="2"/> <rect x="18" y="30" width="14" height="65" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="48" y1="35" x2="48" y2="60" stroke="#e74c3c" stroke-width="2"/> <rect x="42" y="38" width="12" height="15" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="68" y1="45" x2="68" y2="70" stroke="#e74c3c" stroke-width="2"/> <rect x="62" y="48" width="12" height="15" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="88" y1="55" x2="88" y2="80" stroke="#e74c3c" stroke-width="2"/> <rect x="82" y="58" width="12" height="15" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="115" y1="15" x2="115" y2="95" stroke="#2ecc71" stroke-width="2"/> <rect x="108" y="20" width="14" height="65" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/>
@@ -1687,13 +1687,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">5 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Long green candle, 3 small declining red candles held within Day 1&#39;s high-low range, followed by a strong green breakout candle.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Routine profit-taking is cleanly absorbed; buyers trigger the next expansion leg.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Classic continuation pattern; upward trend resumes immediately.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Long green candle, followed by three small declining red candles contained within the first candle&#39;s range, and a final strong green candle closing above Day 1&#39;s high.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Orderly consolidation is absorbed within the initial advance before buyers trigger a decisive breakout.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Consolidation within the trend is resolved to the upside; signals potential bullish continuation.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bullish-continuations" data-id="upside-tasuki-gap" data-searchable="upside tasuki gap (3) upside-tasuki-gap bullish continuation 3 bar bars structure: green candle, upward-gapping green candle, followed by a red candle closing into the gap without completely filling it. psychology: mild pullback tests the gap support where aggressive buyers step in. outcome: unfilled gap validates strong upward momentum; buy on gap retest.">
+          <tr class="csp-pattern-row" data-group="bullish-continuations" data-id="upside-tasuki-gap" data-searchable="upside tasuki gap (3) upside-tasuki-gap bullish continuation 3 bar bars structure: green candle, followed by an upward-gapping green candle, and a red candle that closes partially into the gap without filling it completely. psychology: a mild pullback tests the gap zone as support, where buyers step in before the gap is closed. outcome: the pullback tests the gap as support; if the gap remains open and price resumes higher, the uptrend is likely to continue.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Upside Tasuki Gap (3)">
                 <line x1="40" y1="55" x2="40" y2="105" stroke="#2ecc71" stroke-width="2"/> <rect x="31" y="60" width="18" height="35" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="75" y1="18" x2="75" y2="55" stroke="#2ecc71" stroke-width="2"/> <rect x="66" y="22" width="18" height="28" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="110" y1="28" x2="110" y2="70" stroke="#e74c3c" stroke-width="2"/> <rect x="101" y="32" width="18" height="25" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/>
@@ -1706,13 +1706,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">3 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Green candle, upward-gapping green candle, followed by a red candle closing into the gap without completely filling it.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Mild pullback tests the gap support where aggressive buyers step in.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Unfilled gap validates strong upward momentum; buy on gap retest.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Green candle, followed by an upward-gapping green candle, and a red candle that closes partially into the gap without filling it completely.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">A mild pullback tests the gap zone as support, where buyers step in before the gap is closed.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">The pullback tests the gap as support; if the gap remains open and price resumes higher, the uptrend is likely to continue.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bullish-continuations" data-id="bullish-side-by-side-white-lines" data-searchable="bullish side-by-side white lines (3) bullish-side-by-side-white-lines bullish continuation 3 bar bars structure: green candle followed by two side-by-side green candles that gap up and share similar opens and body heights. psychology: demand remains robust at higher prices; sellers are completely absent. outcome: strong bullish continuation with upward targets.">
+          <tr class="csp-pattern-row" data-group="bullish-continuations" data-id="bullish-side-by-side-white-lines" data-searchable="bullish side-by-side white lines (3) bullish-side-by-side-white-lines bullish continuation 3 bar bars structure: green candle followed by an upside gap to two side-by-side green candles with approximately the same opening price and similar body sizes. psychology: price maintains elevated levels following a gap, with buyers defending the higher price plateau across two sessions. outcome: two similar bullish candles hold the higher gap level, suggesting the gap is being accepted and the uptrend may continue.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Bullish Side-by-Side White Lines (3)">
                 <line x1="40" y1="55" x2="40" y2="105" stroke="#2ecc71" stroke-width="2"/> <rect x="31" y="60" width="18" height="35" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="75" y1="15" x2="75" y2="55" stroke="#2ecc71" stroke-width="2"/> <rect x="66" y="20" width="18" height="28" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="110" y1="15" x2="110" y2="55" stroke="#2ecc71" stroke-width="2"/> <rect x="101" y="20" width="18" height="28" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/>
@@ -1725,13 +1725,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">3 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Green candle followed by two side-by-side green candles that gap up and share similar opens and body heights.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Demand remains robust at higher prices; sellers are completely absent.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Strong bullish continuation with upward targets.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Green candle followed by an upside gap to two side-by-side green candles with approximately the same opening price and similar body sizes.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Price maintains elevated levels following a gap, with buyers defending the higher price plateau across two sessions.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Two similar bullish candles hold the higher gap level, suggesting the gap is being accepted and the uptrend may continue.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bullish-continuations" data-id="bullish-three-line-strike" data-searchable="bullish three line strike (4) bullish-three-line-strike bullish continuation 4 bar bars structure: three advancing green candles followed by a massive red candle that engulfs all three prior bodies. psychology: sudden liquidity flush shakes out leveraged longs right before institutional continuation. outcome: counter-intuitive continuation pattern; uptrend typically restarts rapidly.">
+          <tr class="csp-pattern-row" data-group="bullish-continuations" data-id="bullish-three-line-strike" data-searchable="bullish three line strike (4) bullish-three-line-strike bullish continuation 4 bar bars structure: three consecutive green candles with higher closes, followed by a long red candle that opens above day 3's close and closes below day 1's open. psychology: a sharp single-session pullback rapidly unwinds three sessions of gains without establishing a new downtrend. outcome: despite the dramatic single-session drop, classical technical analysis treats this as a temporary resting phase favoring bullish continuation.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Bullish Three Line Strike (4)">
                 <line x1="30" y1="65" x2="30" y2="105" stroke="#2ecc71" stroke-width="2"/> <rect x="23" y="70" width="14" height="25" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="55" y1="45" x2="55" y2="85" stroke="#2ecc71" stroke-width="2"/> <rect x="48" y="50" width="14" height="25" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="80" y1="25" x2="80" y2="65" stroke="#2ecc71" stroke-width="2"/> <rect x="73" y="30" width="14" height="25" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="115" y1="18" x2="115" y2="110" stroke="#e74c3c" stroke-width="2"/> <rect x="107" y="25" width="16" height="78" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/>
@@ -1744,13 +1744,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">4 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Three advancing green candles followed by a massive red candle that engulfs all three prior bodies.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Sudden liquidity flush shakes out leveraged longs right before institutional continuation.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Counter-intuitive continuation pattern; uptrend typically restarts rapidly.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Three consecutive green candles with higher closes, followed by a long red candle that opens above Day 3&#39;s close and closes below Day 1&#39;s open.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">A sharp single-session pullback rapidly unwinds three sessions of gains without establishing a new downtrend.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Despite the dramatic single-session drop, classical technical analysis treats this as a temporary resting phase favoring bullish continuation.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bullish-continuations" data-id="upside-gap-three-methods" data-searchable="upside gap three methods (3) upside-gap-three-methods bullish continuation 3 bar bars structure: two rising green candles with an upside gap, followed by a red candle that completely fills the gap. psychology: healthy gap-filling pullback clears order book before the next rally leg. outcome: gap filled; strong upward resumption from newly tested support.">
+          <tr class="csp-pattern-row" data-group="bullish-continuations" data-id="upside-gap-three-methods" data-searchable="upside gap three methods (3) upside-gap-three-methods bullish continuation 3 bar bars structure: two advancing green candles separated by an upside gap, followed by a red candle that opens within the second body and closes to fill the gap. psychology: a brief corrective pullback fills the recent gap, allowing buyers an opportunity to re-enter at previous price levels. outcome: the gap is filled by a corrective bearish candle, but the prevailing uptrend remains intact; subsequent strength favors continuation.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Upside Gap Three Methods (3)">
                 <line x1="40" y1="55" x2="40" y2="105" stroke="#2ecc71" stroke-width="2"/> <rect x="31" y="60" width="18" height="35" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="75" y1="15" x2="75" y2="55" stroke="#2ecc71" stroke-width="2"/> <rect x="66" y="20" width="18" height="28" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="110" y1="25" x2="110" y2="85" stroke="#e74c3c" stroke-width="2"/> <rect x="101" y="30" width="18" height="45" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/>
@@ -1763,13 +1763,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">3 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Two rising green candles with an upside gap, followed by a red candle that completely fills the gap.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Healthy gap-filling pullback clears order book before the next rally leg.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Gap filled; strong upward resumption from newly tested support.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Two advancing green candles separated by an upside gap, followed by a red candle that opens within the second body and closes to fill the gap.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">A brief corrective pullback fills the recent gap, allowing buyers an opportunity to re-enter at previous price levels.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">The gap is filled by a corrective bearish candle, but the prevailing uptrend remains intact; subsequent strength favors continuation.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bullish-continuations" data-id="bullish-on-neck-line" data-searchable="bullish on neck line (2) bullish-on-neck-line bullish continuation 2 bar bars structure: red candle in an uptrend followed by a green candle opening lower and closing precisely at day 1's low. psychology: minor dip stabilizes cleanly at prior support; sellers fail to press lower. outcome: moderate bullish continuation once price crosses above day 1 high.">
+          <tr class="csp-pattern-row" data-group="bullish-continuations" data-id="bullish-on-neck-line" data-searchable="bullish on neck line (2) bullish-on-neck-line bullish continuation 2 bar bars structure: in an uptrend, a red candle is followed by a green candle that opens lower and closes precisely at day 1's low, testing support. psychology: a pullback tests prior support without breaking down; buyers absorb the dip and defend the neckline. outcome: modern uptrend continuation variant; upside follow-through above the pattern high confirms trend resumption.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Bullish On Neck Line (2)">
                 <line x1="55" y1="25" x2="55" y2="85" stroke="#e74c3c" stroke-width="2"/> <rect x="44" y="35" width="22" height="45" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="95" y1="75" x2="95" y2="110" stroke="#2ecc71" stroke-width="2"/> <rect x="84" y="80" width="22" height="22" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/>
@@ -1782,13 +1782,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">2 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Red candle in an uptrend followed by a green candle opening lower and closing precisely at Day 1&#39;s low.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Minor dip stabilizes cleanly at prior support; sellers fail to press lower.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Moderate bullish continuation once price crosses above Day 1 high.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">In an uptrend, a red candle is followed by a green candle that opens lower and closes precisely at Day 1&#39;s low, testing support.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">A pullback tests prior support without breaking down; buyers absorb the dip and defend the neckline.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Modern uptrend continuation variant; upside follow-through above the pattern high confirms trend resumption.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bullish-continuations" data-id="bullish-in-neck-line" data-searchable="bullish in neck line (2) bullish-in-neck-line bullish continuation 2 bar bars structure: red candle followed by a green candle opening lower and closing slightly inside day 1's real body. psychology: selling pressure falters quickly; buyers absorb shallow pullback. outcome: bullish continuation confirmed when price clears the day 1 high.">
+          <tr class="csp-pattern-row" data-group="bullish-continuations" data-id="bullish-in-neck-line" data-searchable="bullish in neck line (2) bullish-in-neck-line bullish continuation 2 bar bars structure: in an uptrend, a red candle is followed by a green candle that opens lower and closes slightly inside day 1's body. psychology: a pullback encounters buying interest that recovers slightly into the prior body, reflecting absorption of supply. outcome: modern uptrend continuation variant; confirmation above the pattern high supports bullish resumption.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Bullish In Neck Line (2)">
                 <line x1="55" y1="25" x2="55" y2="85" stroke="#e74c3c" stroke-width="2"/> <rect x="44" y="35" width="22" height="45" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="95" y1="65" x2="95" y2="110" stroke="#2ecc71" stroke-width="2"/> <rect x="84" y="70" width="22" height="30" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/>
@@ -1801,9 +1801,9 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">2 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Red candle followed by a green candle opening lower and closing slightly inside Day 1&#39;s real body.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Selling pressure falters quickly; buyers absorb shallow pullback.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Bullish continuation confirmed when price clears the Day 1 high.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">In an uptrend, a red candle is followed by a green candle that opens lower and closes slightly inside Day 1&#39;s body.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">A pullback encounters buying interest that recovers slightly into the prior body, reflecting absorption of supply.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Modern uptrend continuation variant; confirmation above the pattern high supports bullish resumption.</span></div>
               </div>
             </td>
           </tr>
@@ -1828,7 +1828,7 @@ title: Japanese Candlestick Patterns
             </tr>
           </thead>
           <tbody>
-          <tr class="csp-pattern-row" data-group="bearish-continuations" data-id="bearish-separating-lines" data-searchable="bearish separating lines (2) bearish-separating-lines bearish continuation 2 bar bars structure: green candle in a downtrend followed by a red candle that opens at the exact same price as day 1's open and falls. psychology: short-lived bounce is instantly crushed; sellers assert undisputed authority. outcome: reliable bearish continuation; downtrend accelerates into new lows.">
+          <tr class="csp-pattern-row" data-group="bearish-continuations" data-id="bearish-separating-lines" data-searchable="bearish separating lines (2) bearish-separating-lines bearish continuation 2 bar bars structure: in a downtrend, a green candle is followed by a red candle that opens at approximately the same opening price and closes lower. psychology: a brief counter-trend bounce is immediately repelled at the open as sellers reassert dominance. outcome: a brief bullish counter-move fails as sellers regain control, favoring continuation of the downtrend.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Bearish Separating Lines (2)">
                 <line x1="55" y1="25" x2="55" y2="85" stroke="#2ecc71" stroke-width="2"/> <rect x="44" y="35" width="22" height="40" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="95" y1="65" x2="95" y2="115" stroke="#e74c3c" stroke-width="2"/> <rect x="84" y="75" width="22" height="30" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/>
@@ -1841,13 +1841,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">2 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Green candle in a downtrend followed by a red candle that opens at the exact same price as Day 1&#39;s open and falls.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Short-lived bounce is instantly crushed; sellers assert undisputed authority.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Reliable bearish continuation; downtrend accelerates into new lows.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">In a downtrend, a green candle is followed by a red candle that opens at approximately the same opening price and closes lower.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">A brief counter-trend bounce is immediately repelled at the open as sellers reassert dominance.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">A brief bullish counter-move fails as sellers regain control, favoring continuation of the downtrend.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bearish-continuations" data-id="falling-three-methods" data-searchable="falling three methods (5) falling-three-methods bearish continuation 5 bar bars structure: long red candle, 3 small green candles held entirely within day 1's range, followed by a long red candle closing to a new low. psychology: feeble counter-trend rally runs out of steam; bears resume intense selling. outcome: textbook bearish continuation; breakdown below swing lows.">
+          <tr class="csp-pattern-row" data-group="bearish-continuations" data-id="falling-three-methods" data-searchable="falling three methods (5) falling-three-methods bearish continuation 5 bar bars structure: long red candle, followed by three small advancing green candles contained within the first candle's range, and a final strong red candle closing below day 1's low. psychology: a minor counter-trend pause is contained entirely within the initial sell-off before sellers resume the decline. outcome: a brief counter-trend rally remains contained within the first candle's range before sellers resume the decline.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Falling Three Methods (5)">
                 <line x1="25" y1="15" x2="25" y2="95" stroke="#e74c3c" stroke-width="2"/> <rect x="18" y="20" width="14" height="65" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="48" y1="55" x2="48" y2="80" stroke="#2ecc71" stroke-width="2"/> <rect x="42" y="58" width="12" height="15" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="68" y1="45" x2="68" y2="70" stroke="#2ecc71" stroke-width="2"/> <rect x="62" y="48" width="12" height="15" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="88" y1="35" x2="88" y2="60" stroke="#2ecc71" stroke-width="2"/> <rect x="82" y="38" width="12" height="15" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="115" y1="25" x2="115" y2="105" stroke="#e74c3c" stroke-width="2"/> <rect x="108" y="30" width="14" height="65" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/>
@@ -1860,13 +1860,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">5 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Long red candle, 3 small green candles held entirely within Day 1&#39;s range, followed by a long red candle closing to a new low.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Feeble counter-trend rally runs out of steam; bears resume intense selling.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Textbook bearish continuation; breakdown below swing lows.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Long red candle, followed by three small advancing green candles contained within the first candle&#39;s range, and a final strong red candle closing below Day 1&#39;s low.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">A minor counter-trend pause is contained entirely within the initial sell-off before sellers resume the decline.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">A brief counter-trend rally remains contained within the first candle&#39;s range before sellers resume the decline.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bearish-continuations" data-id="downside-tasuki-gap" data-searchable="downside tasuki gap (3) downside-tasuki-gap bearish continuation 3 bar bars structure: red candle, downward-gapping red candle, followed by a green candle closing into the gap without completely filling it. psychology: weak short-covering bounce stalls directly at gap resistance where fresh sellers reload. outcome: unfilled gap acts as rigid resistance; downward trend continues.">
+          <tr class="csp-pattern-row" data-group="bearish-continuations" data-id="downside-tasuki-gap" data-searchable="downside tasuki gap (3) downside-tasuki-gap bearish continuation 3 bar bars structure: red candle, followed by a downward-gapping red candle, and a green candle that closes partially into the gap without filling it completely. psychology: a corrective rebound pauses within the gap zone, where selling interest halts further upside. outcome: the corrective rally stalls within the gap, leaving the gap as resistance and favoring continuation lower.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Downside Tasuki Gap (3)">
                 <line x1="40" y1="18" x2="40" y2="65" stroke="#e74c3c" stroke-width="2"/> <rect x="31" y="22" width="18" height="35" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="75" y1="65" x2="75" y2="105" stroke="#e74c3c" stroke-width="2"/> <rect x="66" y="70" width="18" height="28" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="110" y1="50" x2="110" y2="90" stroke="#2ecc71" stroke-width="2"/> <rect x="101" y="55" width="18" height="25" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/>
@@ -1879,13 +1879,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">3 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Red candle, downward-gapping red candle, followed by a green candle closing into the gap without completely filling it.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Weak short-covering bounce stalls directly at gap resistance where fresh sellers reload.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Unfilled gap acts as rigid resistance; downward trend continues.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Red candle, followed by a downward-gapping red candle, and a green candle that closes partially into the gap without filling it completely.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">A corrective rebound pauses within the gap zone, where selling interest halts further upside.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">The corrective rally stalls within the gap, leaving the gap as resistance and favoring continuation lower.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bearish-continuations" data-id="bearish-side-by-side-white-lines" data-searchable="bearish side-by-side white lines (3) bearish-side-by-side-white-lines bearish continuation 3 bar bars structure: red candle followed by two side-by-side green candles that gap down below day 1's low and share matching levels. psychology: two consecutive green days cannot penetrate above the gap; bears retain total dominance. outcome: highly reliable bearish continuation; downward resumption expected.">
+          <tr class="csp-pattern-row" data-group="bearish-continuations" data-id="bearish-side-by-side-white-lines" data-searchable="bearish side-by-side white lines (3) bearish-side-by-side-white-lines bearish continuation 3 bar bars structure: red candle followed by a downside gap to two side-by-side green candles with approximately the same opening price and similar body sizes. psychology: two consecutive positive sessions fail to challenge or close the downside gap, showing weak rebound power. outcome: two similar bullish candles fail to reclaim the downside gap, suggesting the downtrend remains intact.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Bearish Side-by-Side White Lines (3)">
                 <line x1="40" y1="15" x2="40" y2="65" stroke="#e74c3c" stroke-width="2"/> <rect x="31" y="20" width="18" height="38" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="75" y1="65" x2="75" y2="105" stroke="#2ecc71" stroke-width="2"/> <rect x="66" y="72" width="18" height="25" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="110" y1="65" x2="110" y2="105" stroke="#2ecc71" stroke-width="2"/> <rect x="101" y="72" width="18" height="25" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/>
@@ -1898,13 +1898,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">3 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Red candle followed by two side-by-side green candles that gap down below Day 1&#39;s low and share matching levels.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Two consecutive green days cannot penetrate above the gap; bears retain total dominance.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Highly reliable bearish continuation; downward resumption expected.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Red candle followed by a downside gap to two side-by-side green candles with approximately the same opening price and similar body sizes.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Two consecutive positive sessions fail to challenge or close the downside gap, showing weak rebound power.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Two similar bullish candles fail to reclaim the downside gap, suggesting the downtrend remains intact.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bearish-continuations" data-id="bearish-three-line-strike" data-searchable="bearish three line strike (4) bearish-three-line-strike bearish continuation 4 bar bars structure: three declining red candles followed by a massive green candle that opens lower and engulfs all three prior bodies. psychology: violently squeezes short positions before the prevailing downward trend resumes. outcome: counter-intuitive continuation pattern; downtrend restarts quickly.">
+          <tr class="csp-pattern-row" data-group="bearish-continuations" data-id="bearish-three-line-strike" data-searchable="bearish three line strike (4) bearish-three-line-strike bearish continuation 4 bar bars structure: three consecutive red candles with lower closes, followed by a long green candle that opens below day 3's close and closes above day 1's open. psychology: a sharp single-session rally temporarily recovers the losses of the prior three sessions without confirming a structural reversal. outcome: a sharp counter-trend rally fails to reverse the broader decline; renewed selling below the pattern supports bearish continuation.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Bearish Three Line Strike (4)">
                 <line x1="30" y1="20" x2="30" y2="60" stroke="#e74c3c" stroke-width="2"/> <rect x="23" y="25" width="14" height="25" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="55" y1="40" x2="55" y2="80" stroke="#e74c3c" stroke-width="2"/> <rect x="48" y="45" width="14" height="25" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="80" y1="60" x2="80" y2="100" stroke="#e74c3c" stroke-width="2"/> <rect x="73" y="65" width="14" height="25" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="115" y1="15" x2="115" y2="105" stroke="#2ecc71" stroke-width="2"/> <rect x="107" y="20" width="16" height="78" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/>
@@ -1917,13 +1917,13 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">4 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Three declining red candles followed by a massive green candle that opens lower and engulfs all three prior bodies.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Violently squeezes short positions before the prevailing downward trend resumes.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Counter-intuitive continuation pattern; downtrend restarts quickly.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Three consecutive red candles with lower closes, followed by a long green candle that opens below Day 3&#39;s close and closes above Day 1&#39;s open.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">A sharp single-session rally temporarily recovers the losses of the prior three sessions without confirming a structural reversal.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">A sharp counter-trend rally fails to reverse the broader decline; renewed selling below the pattern supports bearish continuation.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bearish-continuations" data-id="downside-gap-three-methods" data-searchable="downside gap three methods (3) downside-gap-three-methods bearish continuation 3 bar bars structure: two falling red candles separated by a downward gap, followed by a green candle that rallies to close the gap completely. psychology: gap fill creates optimal shorting liquidity at resistance for institutional bears. outcome: gap resistance rejected; steep downtrend resumes.">
+          <tr class="csp-pattern-row" data-group="bearish-continuations" data-id="downside-gap-three-methods" data-searchable="downside gap three methods (3) downside-gap-three-methods bearish continuation 3 bar bars structure: two falling red candles separated by a downside gap, followed by a green candle that opens within the second body and closes to fill the gap. psychology: a corrective rebound rallies into the recent gap area, testing resistance created by the prior sell-off. outcome: the bullish gap-fill represents a corrective rebound; if sellers regain control afterward, the downtrend resumes.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Downside Gap Three Methods (3)">
                 <line x1="40" y1="15" x2="40" y2="65" stroke="#e74c3c" stroke-width="2"/> <rect x="31" y="20" width="18" height="35" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="75" y1="65" x2="75" y2="105" stroke="#e74c3c" stroke-width="2"/> <rect x="66" y="70" width="18" height="28" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="110" y1="35" x2="110" y2="95" stroke="#2ecc71" stroke-width="2"/> <rect x="101" y="40" width="18" height="45" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/>
@@ -1936,16 +1936,16 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">3 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Two falling red candles separated by a downward gap, followed by a green candle that rallies to close the gap completely.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Gap fill creates optimal shorting liquidity at resistance for institutional bears.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Gap resistance rejected; steep downtrend resumes.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Two falling red candles separated by a downside gap, followed by a green candle that opens within the second body and closes to fill the gap.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">A corrective rebound rallies into the recent gap area, testing resistance created by the prior sell-off.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">The bullish gap-fill represents a corrective rebound; if sellers regain control afterward, the downtrend resumes.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bearish-continuations" data-id="bearish-on-neck-line" data-searchable="bearish on neck line (2) bearish-on-neck-line bearish continuation 2 bar bars structure: in a downtrend, a green candle is met by a red candle opening higher and closing precisely at day 1's high. psychology: intraday rally gets completely repulsed right at the neckline resistance. outcome: downward continuation; failure to break through resistance resumes sell-off.">
+          <tr class="csp-pattern-row" data-group="bearish-continuations" data-id="bearish-on-neck-line" data-searchable="bearish on neck line (2) bearish-on-neck-line bearish continuation 2 bar bars structure: in a downtrend, a long red candle is followed by a smaller green candle that opens below day 1's low and closes near day 1's low. psychology: a minor rebound after a gap-down fails to make meaningful progress into the prior session's body, stalling at the neckline. outcome: failure of buyers to push price into the previous candle's body indicates persistent weakness, favoring downtrend continuation.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Bearish On Neck Line (2)">
-                <line x1="55" y1="35" x2="55" y2="95" stroke="#2ecc71" stroke-width="2"/> <rect x="44" y="40" width="22" height="45" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="95" y1="15" x2="95" y2="55" stroke="#e74c3c" stroke-width="2"/> <rect x="84" y="20" width="22" height="20" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/>
+                <line x1="55" y1="25" x2="55" y2="85" stroke="#e74c3c" stroke-width="2"/> <rect x="44" y="35" width="22" height="45" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="95" y1="75" x2="95" y2="110" stroke="#2ecc71" stroke-width="2"/> <rect x="84" y="80" width="22" height="22" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/>
               </svg>
             </td>
             <td class="csp-cell-desc">
@@ -1955,16 +1955,16 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">2 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">In a downtrend, a green candle is met by a red candle opening higher and closing precisely at Day 1&#39;s high.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Intraday rally gets completely repulsed right at the neckline resistance.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Downward continuation; failure to break through resistance resumes sell-off.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">In a downtrend, a long red candle is followed by a smaller green candle that opens below Day 1&#39;s low and closes near Day 1&#39;s low.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">A minor rebound after a gap-down fails to make meaningful progress into the prior session&#39;s body, stalling at the neckline.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Failure of buyers to push price into the previous candle&#39;s body indicates persistent weakness, favoring downtrend continuation.</span></div>
               </div>
             </td>
           </tr>
-          <tr class="csp-pattern-row" data-group="bearish-continuations" data-id="bearish-in-neck-line" data-searchable="bearish in neck line (2) bearish-in-neck-line bearish continuation 2 bar bars structure: green candle followed by a red candle opening higher and penetrating barely into day 1's real body. psychology: weak penetration fails to spark any buying conviction; bears maintain control. outcome: downtrend continuation; break below day 1 low initiates next leg lower.">
+          <tr class="csp-pattern-row" data-group="bearish-continuations" data-id="bearish-in-neck-line" data-searchable="bearish in neck line (2) bearish-in-neck-line bearish continuation 2 bar bars structure: in a downtrend, a long red candle is followed by a smaller green candle that opens below day 1's low and closes slightly inside day 1's body. psychology: buyers attempt a rebound after a gap-down but fail to penetrate significantly into the prior session's range. outcome: weak penetration into the prior candle reflects insufficient demand to reverse the decline, favoring downtrend continuation.">
             <td class="csp-cell-visual">
               <svg class="csp-pattern-svg" width="150" height="130" viewBox="0 0 150 130" aria-label="Bearish In Neck Line (2)">
-                <line x1="55" y1="35" x2="55" y2="95" stroke="#2ecc71" stroke-width="2"/> <rect x="44" y="40" width="22" height="45" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/> <line x1="95" y1="15" x2="95" y2="60" stroke="#e74c3c" stroke-width="2"/> <rect x="84" y="22" width="22" height="22" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/>
+                <line x1="55" y1="25" x2="55" y2="85" stroke="#e74c3c" stroke-width="2"/> <rect x="44" y="35" width="22" height="45" fill="#e74c3c" rx="1" stroke="#b30000" stroke-width="1"/> <line x1="95" y1="65" x2="95" y2="110" stroke="#2ecc71" stroke-width="2"/> <rect x="84" y="70" width="22" height="30" fill="#2ecc71" rx="1" stroke="#1b7a43" stroke-width="1"/>
               </svg>
             </td>
             <td class="csp-cell-desc">
@@ -1974,9 +1974,9 @@ title: Japanese Candlestick Patterns
                 <span class="csp-badge csp-badge-bars">2 Bars</span>
               </div>
               <div class="csp-pattern-body">
-                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">Green candle followed by a red candle opening higher and penetrating barely into Day 1&#39;s real body.</span></div>
-                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Weak penetration fails to spark any buying conviction; bears maintain control.</span></div>
-                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Downtrend continuation; break below Day 1 low initiates next leg lower.</span></div>
+                <div><span class="csp-label">Structure:</span> <span class="csp-desc-text">In a downtrend, a long red candle is followed by a smaller green candle that opens below Day 1&#39;s low and closes slightly inside Day 1&#39;s body.</span></div>
+                <div><span class="csp-label">Psychology:</span> <span class="csp-desc-text">Buyers attempt a rebound after a gap-down but fail to penetrate significantly into the prior session&#39;s range.</span></div>
+                <div><span class="csp-label">Outcome:</span> <span class="csp-desc-text">Weak penetration into the prior candle reflects insufficient demand to reverse the decline, favoring downtrend continuation.</span></div>
               </div>
             </td>
           </tr>
