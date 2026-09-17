@@ -5,7 +5,7 @@ type: blog
 permalink: /tamil/blog/:title/
 
 date: 2026-09-12
-title: கொன்றுவிட்டுப் போ
+title: காதல் கொல்லும்
 ---
 
 காதல் கொல்லும்  
