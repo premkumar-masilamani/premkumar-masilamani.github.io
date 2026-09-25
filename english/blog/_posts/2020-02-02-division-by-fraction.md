@@ -82,6 +82,4 @@ Check the shapes in the below table.
 
 > When we divide a number **with a fraction**, we **split** the numbers to **fractions** first and then **group** them. 
 
-Replace the word **divide** with **group**. Instead of saying, "**divide by 2**", we could say, "**group by 2**", which is more intuitive in English.
-
-**PS:** Instead of teaching the actual division process, we teach the kids to inverse the fraction and multiply (the reciprocal method).
+**PS:** Replace the word **divide** with **group**. Instead of saying, "**divide by 2**", we could say, "**group by 2**", which is more intuitive in English.
