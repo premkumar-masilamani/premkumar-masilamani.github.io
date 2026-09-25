@@ -8,7 +8,9 @@ date: 2020-02-02
 title: Division by Fraction
 ---
 
-I stumbled upon a question recently, *When dividing a number by a fraction, why do we invert and multiply?*. We all know the answer intuitively - *It produces the same result*. Do we know why it provides the same result?
+I stumbled upon a question recently, *When dividing a number by a fraction, why do we invert and multiply?*. We all know the answer intuitively - *It produces the same result*. 
+
+Do we know why it provides the same result?
 
 Let us get the basics straight.
 
@@ -20,60 +22,66 @@ Let us use even numbers to explain the concepts.
 
 ## Problem 1
 
-> 4/2 = 2
+> 4 &divide; 2 = 2
 
-(i.e.) If we split the number 4 into groups of 2, how many such groups can be created?
+If we split the number 4 into groups of 2, how many such groups can be created?
 
 | &#9634; &#9634; &#9634; &#9634; | divide by 2 | &#9634; &#9634; | &#9634; &#9634; |
 |:---:|:---:|:---:|:---:|
 |4| &rarr; |1|2|
 
-Four divided by two equals two.
+4 divided by 2 equals 2 groups. 
 
 ## Problem 2
 
-> 4/4 = 1
+> 4 &divide; 4 = 1
 
-(i.e.) If we split the number 4 into groups of 4, how many such groups can be created?
+If we split the number 4 into groups of 4, how many such groups can be created?
 
 | &#9634; &#9634; &#9634; &#9634; | divide by 4 | &#9634; &#9634; &#9634; &#9634; |
 |:---:|:---:|:---:|
 |4| &rarr; |1|
 
-Four divided by four equals one.
+4 divided by 4 equals 1 group.
 
 ## Problem 3
 
-> 4/1 = 4
+> 4 &divide; 1 = 4
 
-(i.e.) If we split the number 4 into groups of 1, how many such groups can be created?
+If we split the number 4 into groups of 1, how many such groups can be created?
 
 | &#9634; &#9634; &#9634; &#9634; | divide by 1 | &#9634; | &#9634; | &#9634; | &#9634; |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |4| &rarr; |1|2|3|4|
 
-Four divided by one equals four.
+4 divided by 1 equals 4 groups.
 
-So far, everything is clear. What happens when we divide the number by a fraction?
+So far, everything is clear. 
+
+What happens when we divide the number by **a fraction**?
 
 ## Problem 4
 
-> 4/(1/2) = 8
+> 4 &divide; (1/2) = 8
 
-(i.e.) If we split the number 4 into groups of halves, how many such groups can be created?
+If we split the number 4 into groups of halves, how many such groups can be created?
 
-What is a group of half numbers? Simple. Split a single number into two equal parts. Put one half in one group.
+Group of halves? We only have whole numbers. 
+
+Ok then, let's split the whole number in to halves and then group them by halves. 
+
+Check the shapes in the below table.
 
 | &#9634; &#9634; &#9634; &#9634; | divide by half (1/2) | &#9720; | &#9727; | &#9720; | &#9727; | &#9720; | &#9727; | &#9720; | &#9727; |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |4| &rarr; |1|2|3|4|5|6|7|8|
 
-Four divided by 1/2 equals eight.
+4 divided by 1/2 equals 8 groups.
 
-Please ignore the shape and size of the objects. Just count the numbers.
+> When we divide a number with **a whole number**, we just **group** the whole numbers.
 
-When we divide a number, we are not just grouping the numbers. We split the numbers first and then grouped them. So, the number increases (multiplied).
+> When we divide a number **with a fraction**, we **split** the numbers to **fractions** first and then **group** them. 
 
-**PS:** Replace the word **divide** with **group**. Instead of saying, "divide by 2", you could say, "group by 2", which is more intuitive in English.
+Replace the word **divide** with **group**. Instead of saying, "**divide by 2**", we could say, "**group by 2**", which is more intuitive in English.
 
-I hope this explanation helps.
+**PS:** Instead of teaching the actual division process, we teach the kids to inverse the fraction and multiply (the reciprocal method).
