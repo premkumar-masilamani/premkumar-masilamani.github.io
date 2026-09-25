@@ -78,8 +78,8 @@ Check the shapes in the below table.
 
 4 divided by 1/2 equals 8 groups.
 
-> When we divide a number with **a whole number**, we just **group** the whole numbers.
+> When we divide a number with **a whole number**, we just **group** by the whole number.
 
-> When we divide a number **with a fraction**, we **split** the numbers to **fractions** first and then **group** them. 
+> When we divide a number **with a fraction**, we **split** the number to **fractions** first and then **group** them. 
 
 **PS:** Replace the word **divide** with **group**. Instead of saying, "**divide by 2**", we could say, "**group by 2**", which is more intuitive in English.
