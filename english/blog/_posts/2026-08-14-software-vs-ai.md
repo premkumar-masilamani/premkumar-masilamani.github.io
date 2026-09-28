@@ -114,14 +114,4 @@ I hope the AI models will become more efficient, open source, and cheaper to run
 
 ## Where else would AI bring benefits to humanity?
 
-I can't comprehend all the possibilities. 
-
-- Faster drug discovery
-- Early diagnosis of diseases
-- Invention of new materials
-- Nuclear-Fusion, possibly
-- Real-time language translation
-- Better weather modeling
-- and many many more...
-
-When we use AI as a tool to help solve real-world problems, it has the immense potential to literally transform humanity.
+I can't comprehend all the possibilities. But, when we use AI as a tool to help solve real-world problems, it has the immense potential to literally transform humanity.
