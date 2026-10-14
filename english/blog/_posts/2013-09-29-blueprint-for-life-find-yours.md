@@ -18,7 +18,7 @@ For many people, the blueprint is set by the religion they adhere to or set by t
 
 ## Should I bother about my blueprint?
 
-Not required, if you are extremely happy and excited about your life and everything around you. After all, that is the only purpose of your life. Just enjoy the ride!... In case, your happiness begins to fade, then you are off the track and you must do something to get back on track. How?. Consciously evaluate and update your blueprint. Why?. Because your blueprint affects every little decision that you will make in your life.
+Not required, if you are extremely happy and excited about your life and everything around you. After all, that is the only purpose of your life. Just enjoy the ride!... In case, your happiness begins to fade, then you are off the track and you must do something to get back on track. How? Consciously evaluate and update your blueprint. Why? Because your blueprint affects every little decision that you will make in your life.
 
 ## How to list your Blueprint?
 

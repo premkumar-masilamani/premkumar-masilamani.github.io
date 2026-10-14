@@ -28,7 +28,7 @@ What has changed?
 |More Questions|Less Questions|
 |No Silence|Lot of Silence|
 
-What could be the next, in coaching?.
+What could be the next, in coaching?
 
 |Past|Present|Future|
 |:---|:---|:---|
@@ -40,7 +40,7 @@ I am imagining a futuristic version of coaching, where one person becomes a coac
 
 > They meet each other, exchange no words, only silence, pure non-verbal communication, the client gets the solution or clarity they were looking for, and the coach feels happiness and gratitude.
 
-Wouldn't that be a wonderful coaching session?. What would you name, such a practice?.
+Wouldn't that be a wonderful coaching session? What would you name, such a practice?
 
 What I realized from my coaching practice is that,
 

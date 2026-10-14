@@ -28,7 +28,7 @@ I am not bothered about the awesome SEO plugins / other helpful plugins that hel
 
 Except for the comments section, the rest of the blog is static. I am not bothered about the comments anyway. It takes too much of your time away from blogging. If you need them, there are client-side commenting systems available (like Disqus, Facebook comments, etc). So, I don't need a server-side code that connects to a database, executes the plugins, and creates the web page on the fly for every request to a web page (even with caching), when all I need is a set of a simple HTML file.
 
-There is an argument that says, *Infrastructure is cheap nowadays. The computing and storage abilities skyrocketed. We can use as much as we want*. Yes. It is. But, just because I have too much fuel, I would not travel 10 miles extra to the office every day. I always prefer the shortest possible route. How about you?. And again, that's a personal choice. I am not saying that what is being done is wrong, all I say is that I don't need all of those.
+There is an argument that says, *Infrastructure is cheap nowadays. The computing and storage abilities skyrocketed. We can use as much as we want*. Yes. It is. But, just because I have too much fuel, I would not travel 10 miles extra to the office every day. I always prefer the shortest possible route. How about you? And again, that's a personal choice. I am not saying that what is being done is wrong, all I say is that I don't need all of those.
 
 ## What I did not like in regular blogging systems?
 

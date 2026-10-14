@@ -13,15 +13,15 @@ If you are reading self-help books for a while, invariably every self-help guru 
 > 1% better everyday 1.01^365 = 37.78  
 > 1% worse everyday 0.99^365 = 0.03  
 
-This is a compound interest calculation. You start with $1 principal, you get 1% interest every day, you reinvest the interest every day, and after 365 days, you would have $37.78. Just that simple. I am not sure why these self-help gurus use exponents and fractions, which most people cannot grasp. Maybe that's the intention?. It has to be clear enough to make you feel good, but abstract enough that you don't question it?
+This is a compound interest calculation. You start with $1 principal, you get 1% interest every day, you reinvest the interest every day, and after 365 days, you would have $37.78. Just that simple. I am not sure why these self-help gurus use exponents and fractions, which most people cannot grasp. Maybe that's the intention? It has to be clear enough to make you feel good, but abstract enough that you don't question it?
 
-Did you really understand this concept and implement it in any aspect of your life?.
+Did you really understand this concept and implement it in any aspect of your life?
 
 I didn't. Actually, I couldn't. I simply don't know how.
 
 Let's take an example. You want to develop a reading habit. You decide 1% would be to read a single page. This magic "1% everyday" concept, requires you to start with one, not zero. If you start from zero, mathematically you will stay at zero. If you already don't read a page every day, I am sorry, you are not part of the club.
 
-Ok, let's ignore this glaring mathematical error. Let's assume you already read one page every day. What's one percent of one page?. Let's assume one line. You read one page and one line. What would you do the next day?. What's one percent of (one page + one line)? The calculation of 1% gets fuzzier every day and in a very few days, you will have a fraction that cannot be applied to reading anymore.
+Ok, let's ignore this glaring mathematical error. Let's assume you already read one page every day. What's one percent of one page? Let's assume one line. You read one page and one line. What would you do the next day? What's one percent of (one page + one line)? The calculation of 1% gets fuzzier every day and in a very few days, you will have a fraction that cannot be applied to reading anymore.
 
 Ok, let's ignore this as well. Instead of compound interest, let's switch to simple interest. (i.e) You start with $1 principal, you get 1% interest every day, you DON'T reinvest the interest, after 365 days, you would have $4.65. It's smaller than compound interest, but still better.
 
@@ -39,9 +39,9 @@ I believe some of these could be the reason...
 
 **Less Effort** - Like every other species, humans are lazy too. We prefer less effort to no effort. 1% doesn't sound like much. So, I would try.
 
-**Exponential Results** - With just 1% effort every day, I become 37 times better at the end of the year?. Wow. Who wouldn't want that?. So, I would try.
+**Exponential Results** - With just 1% effort every day, I become 37 times better at the end of the year? Wow. Who wouldn't want that? So, I would try.
 
-What else uses these three aspects?. **A pyramid scheme**. They use mathematical calculations to show that this scheme is accurate and possible, you will have to use little effort and reap exponential benefits. Hmm...
+What else uses these three aspects? **A pyramid scheme**. They use mathematical calculations to show that this scheme is accurate and possible, you will have to use little effort and reap exponential benefits. Hmm...
 
 No No No... You misunderstood the whole idea behind this concept. It's not about mathematics, it's about improving yourself every day.
 
@@ -51,6 +51,6 @@ To me,
 
 > It's all about showing up every day, it doesn't matter if you improve 0.5% or 1% or 10% or -10% on any given day. All that matters at the end is that you show up every day.
 
-How are you keeping up with your goals?.  
-Are you showing up every day?.  
-If not, are you aware of why you are not showing up?.
+How are you keeping up with your goals?  
+Are you showing up every day?  
+If not, are you aware of why you are not showing up?

@@ -50,7 +50,7 @@ I don't remember how many were in my college gang, but I know 1000+ friends on F
 
 When I pause and look back at my life, I remember only the events that made me truly happy from inside. Not the money I earned, the house I bought, the cars I drove, the friends on Facebook, or the followers on Twitter.
 
-In this finite life, why should I waste my time doing things that do not matter in the end?.
+In this finite life, why should I waste my time doing things that do not matter in the end?
 
 I am going after those precious little experiences that will make me smile on my deathbed.
 

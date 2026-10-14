@@ -8,7 +8,7 @@ date: 2013-11-17
 title: Wake Up at 5 AM Daily - 48 Day Challenge Results
 ---
 
-"Thank you" Robin Sharma for making me understand the importance of waking up early and Steve Pavlina for giving me the practical tip to wake up early. I started this challenge on 20-Aug-2013 and missed waking up early on 29-Sep-2013. I am human right?. I restarted the challenge and finished it successfully on 10-Nov-2013. The past few weeks were the most productive weeks of my life. I was able to achieve more than I thought was possible. Though I did not become a celebrity in the last few weeks (obviously that was not my goal), I am better/more mature than I was before.
+"Thank you" Robin Sharma for making me understand the importance of waking up early and Steve Pavlina for giving me the practical tip to wake up early. I started this challenge on 20-Aug-2013 and missed waking up early on 29-Sep-2013. I am human right? I restarted the challenge and finished it successfully on 10-Nov-2013. The past few weeks were the most productive weeks of my life. I was able to achieve more than I thought was possible. Though I did not become a celebrity in the last few weeks (obviously that was not my goal), I am better/more mature than I was before.
 
 I got roughly 2-3 hours daily, which I used mostly for learning purposes, tapping exercises, self-realization exercises (where I probe deeply into myself with a lot of questions and write down the answers in a paper), etc. It was simply awesome. One important deviation from the original plan was that I started using Facebook and the internet for leisure activities during these morning hours. (Roughly 30 - 45 minutes).
 

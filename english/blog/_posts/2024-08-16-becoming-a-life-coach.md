@@ -14,9 +14,9 @@ It was a confusing period of my life. Everything was going well and nothing was 
 
 The answer wasn't very fulfilling. At the same time, I have no idea what I am looking for... I reached out to a friend, and mentor coach Arvind Ramasundaram for help. He spoke to me for a while and suggested I become a Coach.
 
-"Coach?... Me?..." I was laughing hard. After many months of training and coaching 50+ people, here I am, a Coach...
+"Coach? Me?" I was laughing hard. After many months of training and coaching 50+ people, here I am, a Coach...
 
-Have I found my true calling?... Hell no... I am still searching, but this time with an awareness of who I am and what I can do... Yes. I coach and get coached regularly.
+Have I found my true calling? Hell no... I am still searching, but this time with an awareness of who I am and what I can do... Yes. I coach and get coached regularly.
 
 Every coaching session peels a layer of doubt, and uncertainty and brings you closer to the complete awareness about yourself...
 

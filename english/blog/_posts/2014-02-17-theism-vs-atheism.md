@@ -32,6 +32,6 @@ That "you" is me.
 
 Most of us are running a race, rather than enjoying the ride. A race is not limited only to religion but spans several non-essential aspects of life. The journey has started already and it is going to end eventually. I don't want to waste time running this race anymore. I simply want to enjoy the ride.
 
-How?. I don't know.
+How? I don't know.
 
 I hope I will be able to do it before the journey ends !!!

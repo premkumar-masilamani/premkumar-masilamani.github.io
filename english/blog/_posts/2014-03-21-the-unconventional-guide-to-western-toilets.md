@@ -12,7 +12,7 @@ Please read the article "[Indian Toilet vs Western Toilet]({{site[page.lang][pag
 
 Yeah. There are.
 
-For the past 10 months, I have been doing a secret experiment - "Instead of changing the toilets, why don't we change our posture while using them?". The whole idea is to bring the torso as close to the thighs as possible. Right?.
+For the past 10 months, I have been doing a secret experiment - "Instead of changing the toilets, why don't we change our posture while using them?". The whole idea is to bring the torso as close to the thighs as possible. Right?
 
 I started with squatting on top of the western toilets. I am very healthy and I didn't find it difficult to defecate in this position. I have been trying out this method for close to 5 months. On one of those busiest days in Sapient, I have to use the loo in the office. Unfortunately, my office had a wall-mounted western toilet. I was not even ready to attempt this posture in the new office. Just then I realized that this method has very serious drawbacks and is prone to accidents if you are heavy. I have to poo and get back to a meeting in 10 minutes and I don't want to sit on top of a wall-mounted western toilet. What to do?
 
@@ -22,7 +22,7 @@ Out of nowhere, I got the idea for the below posture. Theists can call it - "Div
 
 ![Western Toilets Posture 1]({{site[page.lang][page.type].downloads}}/using-western-toilets-posture-1.jpg)
 
-When you try this posture, please keep your legs as wide as possible. You can rest your palms on your legs or the floor if the floor is clean. Since you keep your legs wide, you will have to remove your pants. Yeah. Since you are alone in the loo, that should be OK. Right?. This posture is very comfortable and I use this posture most of the time. There is some minor inconvenience when you start this method.
+When you try this posture, please keep your legs as wide as possible. You can rest your palms on your legs or the floor if the floor is clean. Since you keep your legs wide, you will have to remove your pants. Yeah. Since you are alone in the loo, that should be OK. Right? This posture is very comfortable and I use this posture most of the time. There is some minor inconvenience when you start this method.
 
 1. If you are in this posture for a long time, you can feel the strain in your arms. I suggest sitting in a normal position and only when you get the urge, to move to this position to defecate. It's effective.
 2. If you have a big belly or high BP or are pregnant, please don't attempt this posture. This is not for you guys.

@@ -8,7 +8,7 @@ date: 2026-08-14
 title: Software vs AI
 ---
 
-Software vs AI?. AI is software. Yeah, kinda confusing, right?. 
+Software vs AI? AI is software. Yeah, kinda confusing, right? 
 
 For this conversation, let's assume 
 - Software = deterministic output (same input produces same output)

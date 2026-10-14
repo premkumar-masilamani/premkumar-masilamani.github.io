@@ -14,17 +14,17 @@ I am not here to review the movie or rate it. This movie triggered a lot of emot
 
 Why do most of us spend the youthful days of our lives in corporate cubicles hoping to have a peaceful life after we retire?
 
-Why do we content ourselves with three weeks of vacation per year and get into the rat race for the rest of the year?.
+Why do we content ourselves with three weeks of vacation per year and get into the rat race for the rest of the year?
 
-Why do we spend so much money in big houses, keeping ourselves locked to the mortgage?.
+Why do we spend so much money in big houses, keeping ourselves locked to the mortgage?
 
-Why do we get into bad relationships to keep others happy, knowing deep inside that we don't want this relationship?.
+Why do we get into bad relationships to keep others happy, knowing deep inside that we don't want this relationship?
 
-Why don't we take the road less traveled?.
+Why don't we take the road less traveled?
 
-Why can't we simply live for ourselves?.
+Why can't we simply live for ourselves?
 
-Why can't we simply live?.
+Why can't we simply live?
 
 I am not asking everyone to stop everything and backpack to Europe or Australia. I just wish everyone could do only the things that make them happy from the inside. (at least most of the time).
 

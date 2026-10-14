@@ -34,7 +34,7 @@ Let's take a simple example and build the concept from there
 - The same man roller skates a mile in 5 mins.
 - The same man walks a mile underwater, in the ocean bed in 2 hours.
 
-If I ask for your observation about this example, what would you say?.
+If I ask for your observation about this example, what would you say?
 
 I'd say, the man moves faster on roller skates and moves slower underwater, due to the changes in the environment. I'd never ever in my wildest imagination, would say that the time moves faster for the man on roller skates and moves slower for the man underwater. You'd laugh. Yeah.
 
@@ -44,9 +44,9 @@ The natural question would be, "Yeah, I see that. Can you explain why?"
 
 All the explanations I have heard are based on the human perception of time in different places in the universe. Literally, thought experiments. No one ever went to a black hole to verify it.
 
-How did Scientist verify this concept?. They flew around the world in an airplane with an atomic clock, and the atomic clock in the plane ticked slower than the one stationed on the earth.
+How did Scientist verify this concept? They flew around the world in an airplane with an atomic clock, and the atomic clock in the plane ticked slower than the one stationed on the earth.
 
-Again, the experiment proved the effect but didn't explain the cause. Why does gravity affect our perception of time?. You can also reframe the question as
+Again, the experiment proved the effect but didn't explain the cause. Why does gravity affect our perception of time? You can also reframe the question as
 
 > Is time actually slowing down, or is the duration between events increasing?
 
@@ -56,9 +56,9 @@ Let's take an extreme example. A person is born blind, mute, deaf, and completel
 
 There are no perceivable events in his life. So, there is no duration between the events. How would he perceive time?
 
-Forever?.
+Forever?
 
-Would he feel any difference in being near a black hole or a faraway planet?.
+Would he feel any difference in being near a black hole or a faraway planet?
 
 Explain to him in first principles, what exactly is happening, since he doesn't have a concept of time.
 
@@ -76,7 +76,7 @@ If time can move slower or faster depending on the speed and gravity, how far ca
 
 - If time can move slower, is there a place in the universe where time stops?
 - If time can move faster, is there a place in the universe where time is infinitely fast, to the point the concept of time breaks down? The time is so fast that the whole universe is born and dead infinitely in a vicious cycle before we could even conceive that this is happening. To an external observer, it would appear as if nothing is happening, the time stops.
-- If infinitely fast time and frozen time would look very similar, can we conceive this as a circle of time?. Infinitely fast -> Still -> Slow -> Fast -> Infinitely fast
+- If infinitely fast time and frozen time would look very similar, can we conceive this as a circle of time? Infinitely fast -> Still -> Slow -> Fast -> Infinitely fast
 - If the circle of time exists and the universe flows through the circle of time, Is there any possible way for us to observe this?
 - If any of the above is not possible due to physical constraints, what are the practical limits on how fast/slow time can go relative to time on Earth? Can we define a boundary for time dilation?
 

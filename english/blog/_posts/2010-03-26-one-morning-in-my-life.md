@@ -34,7 +34,7 @@ Suddenly I remembered Goundamani & Petromax Light and was laughing without reaso
 
 "What if they left already?". A question spurred in my mind as I approached the door and ringing the bell confirmed it. Is this called ESP or thin-slicing or snap judgment or fate or time-to-relax? A side effect of reading completely irrelevant books simultaneously.
 
-I went to the terrace, thinking of climbing down to the balcony side, using the pipe, and getting into the house. The fifth floor and the hot air through my lungi suggested not to do it!... "What?. A macho man backs out? ". I convinced my super-ego that I didn't do it because there was no rope. How clever. Hmm... I knocked next door and asked the guy if I could use his phone to call my roommates.
+I went to the terrace, thinking of climbing down to the balcony side, using the pipe, and getting into the house. The fifth floor and the hot air through my lungi suggested not to do it!... "What? A macho man backs out? ". I convinced my super-ego that I didn't do it because there was no rope. How clever. Hmm... I knocked next door and asked the guy if I could use his phone to call my roommates.
 
 "Hmm... I am expecting some important calls... hmm... I don't have a phone... My roommates also left. There is a phone booth on the main road. Why don't you go there and make a phone call?", he said.
 
