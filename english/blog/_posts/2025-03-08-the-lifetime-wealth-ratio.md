@@ -34,11 +34,11 @@ The Lifetime Wealth Ratio is calculated by dividing your **net worth** by the **
 
 Networth - yeah, I can calculate.
 
-How do I find my total income over my lifetime?.
+How do I find my total income over my lifetime?
 
 If you file taxes every year, this should be straightforward by checking all the tax returns of the previous years. If you have not filed taxes, it may be difficult. Please check if you have any records of income documented somewhere. We are not going to share this with anyone. It's for us to understand how efficient we are with our money. So, it's better if we get as close to the accurate lifetime income as possible.
 
-What about the unexpected financial situations?.
+What about the unexpected financial situations?
 
 - Unexpected windfall like winning a lottery or inheritance from an unknown dead aunt. That's an increase in your income. Include it.
 - Getting divorced and 50% of your net worth evaporates overnight. You could've done better. That's a decrease in your net worth. Include it.

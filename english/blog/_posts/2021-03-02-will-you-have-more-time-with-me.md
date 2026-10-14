@@ -45,17 +45,17 @@ I had the whole of 2020, almost exclusively with my family, inside the house. Bu
 **Aradhana (daughter):** Will you play with me for 5 minutes, please?  
 **Premkumar (dad):** Sorry Ara, Appa has to work.  
 
-**Aradhana (daughter):** I made your favorite place ready. Do you want to see your surprise?.
+**Aradhana (daughter):** I made your favorite place ready. Do you want to see your surprise?
 (She arranges her favorite toys in the steps to lure me to play with her)  
 **Premkumar (dad):** Sorry Ara, Appa has a call.    
 
-**Aradhana (daughter):** Shall we cook french-fries?. I learned from YouTube.  
+**Aradhana (daughter):** Shall we cook french-fries? I learned from YouTube.  
 **Premkumar (dad):** Sorry Ara, Appa has to finish something important.  
 
 **Aradhana (daughter):** I'm alone. I have no one to play with.  
 **Premkumar (dad):** Sorry Ara, Appa has to work. Why don't you watch TV?  
 
-**Aradhana (daughter):** Will you read me a story tonight?.  
+**Aradhana (daughter):** Will you read me a story tonight?  
 **Premkumar (dad):** Sorry Ara, Appa is tired.  
 
 ... and many more.

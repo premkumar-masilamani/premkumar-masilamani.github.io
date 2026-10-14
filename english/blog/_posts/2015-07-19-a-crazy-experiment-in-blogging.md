@@ -10,7 +10,7 @@ title: A Crazy Experiment In Blogging
 
 If I could read your thoughts.
 
-> Did I click the wrong link?. Why does this blog look like a 90's website?.
+> Did I click the wrong link? Why does this blog look like a 90's website?
 
 We'll get the answers soon. Before that - One question.
 

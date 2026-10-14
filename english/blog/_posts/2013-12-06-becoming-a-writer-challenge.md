@@ -10,7 +10,7 @@ title: Becoming a Writer - A Lifetime Challenge
 
 > "I hate writing, I love having written." ― **Dorothy Parker**
 
-Me?. Becoming a Writer? Yes. That has been in my mind for many years. I simply lived as Dorothy quoted above, wishing myself having written the best books that I read. I write only when I am inspired to write. Even then, there are times when I drift off from the original idea or my idea gets refined during the writing process and I no longer believe in that idea. Yes. This is true. You get clearer when you write down your ideas and proofread what you have written. I evaluate every blog post that I write, for two things.
+Me? Becoming a Writer? Yes. That has been in my mind for many years. I simply lived as Dorothy quoted above, wishing myself having written the best books that I read. I write only when I am inspired to write. Even then, there are times when I drift off from the original idea or my idea gets refined during the writing process and I no longer believe in that idea. Yes. This is true. You get clearer when you write down your ideas and proofread what you have written. I evaluate every blog post that I write, for two things.
 
 1. Does this blog post exhibit my happiness or convey a message?
 2. Will this article be relevant or useful after 10 years?
@@ -44,7 +44,7 @@ I want to keep my rituals simple, and realistic and do not demand a lot of my ti
 
 > I will write for 15 minutes a day, 4 days a week, until the penultimate week of 2014.
 
-**No Goals. Only one simple ritual.** Cool. Right?. This ritual roughly translates to 55 hrs of writing. This practice will instill a "dedicated writing habit" in me, which will help me to become a professional writer in the future.
+**No Goals. Only one simple ritual.** Cool. Right? This ritual roughly translates to 55 hrs of writing. This practice will instill a "dedicated writing habit" in me, which will help me to become a professional writer in the future.
 
 ## Other Questions
 

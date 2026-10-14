@@ -12,7 +12,7 @@ Science says *Love is a side effect of chemicals like oxytocin, vasopressin, dop
 
 But,
 
-Is that all?.
+Is that all?
 
 Is that all of this beautiful feeling called love?
 

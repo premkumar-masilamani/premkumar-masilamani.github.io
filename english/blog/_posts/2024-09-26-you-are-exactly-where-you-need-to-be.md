@@ -10,7 +10,7 @@ title: You are exactly where you need to be... What?
 
 Let's go back to 6th Aug 1945, 8 AM in Hiroshima or Nagasaki. Let's tell everyone, "You are exactly where you need to be".
 
-What?.
+What?
 
 (Think)
 
@@ -30,7 +30,7 @@ But you won't tell the same quote to our beloved American President John F. Kenn
 
 > Depending on the context, the powerful positive quote would be considered the most negative quote.
 
-I clearly see there is a boundary for this quote to be considered positive. What are those boundaries?. I am imagining,
+I clearly see there is a boundary for this quote to be considered positive. What are those boundaries? I am imagining,
 
 You should have a loss. (not too drastic, not too small, kinda Goldilocks zone)
 
@@ -42,7 +42,7 @@ The most important condition - This can be validated only by looking backward.
 
 Let's say a victim of violent gang rape, become a visionary and works to improve the safety of women across the world. She even received a Nobel Prize. Do you think, she was exactly where she needed to be, being gang raped by monsters? I don't think so.
 
-This doesn't work in all the situations and not in all the times. But the quote says, "EXACTLY". As if they know the whole journey of your life. How absurd?.
+This doesn't work in all the situations and not in all the times. But the quote says, "EXACTLY". As if they know the whole journey of your life. How absurd?
 
 Trust me, whoever says this to you, has no clue of where they are, or where they are going and they have blind faith that something good will happen. They expect you to have blind faith too.
 

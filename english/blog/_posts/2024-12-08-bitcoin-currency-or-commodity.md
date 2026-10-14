@@ -23,7 +23,7 @@ What's a currency? Let's think like a layman. You don't need an economics degree
 * **Moderated supply** - The currency gets damaged, lost, counterfeited, or even hoarded. There has to be a consistent supply of currency in the market to keep the economy functioning.
 * **Backed by the government** - There has to be a trusted institution that manages the value of the currency by appropriate controls (interest rates, economic policies, laws against counterfeiting, protection from fraud, etc).
 
-> What's the difference between US Dollars and Iranian Rials?. It's the US government's military power. Nothing more.
+> What's the difference between US Dollars and Iranian Rials? It's the US government's military power. Nothing more.
 
 Does bitcoin have these properties?
 * Available to everyone - No.
@@ -34,13 +34,13 @@ Does bitcoin have these properties?
 For any technology to be mass-adopted, it should either fix an existing problem or improve our lives. With fiat currencies, I can send money to anyone in the world or conduct a trade almost immediately (depending on the country you live). All of us are so used to credit/debit cards, mobile payments, UPI, etc.
 Bitcoin is nowhere close to that immediate transaction (minimum 10 mins).
 
-With the current state, Bitcoin can never replace the banking/payment institutions. So, what do we do?. Come up with a Layer-2 solution to improve the scale (rollups, sidechains, etc).
+With the current state, Bitcoin can never replace the banking/payment institutions. So, what do we do? Come up with a Layer-2 solution to improve the scale (rollups, sidechains, etc).
 
 **Q:**  What exactly are the differences between banking institutions and Layer 2 Scaling Solutions? Please ignore the emotional, political, and human greed aspects. Let's discuss only the functional elements.
 
 ## Bitcoin as a Commodity
 
-What's a commodity?. Let's think in layman's terms, again.
+What's a commodity? Let's think in layman's terms, again.
 
 It's a usable product produced with human effort, which can be consumed directly or used to produce other products. Ex., Rice, Wheat, Soy, and Coffee beans - which can be consumed directly. Gold, Silver, and Crude Oil - which can be used to produce other products (typically higher priced products)
 
@@ -70,7 +70,7 @@ I would prefer to use a digital currency which
 * integrates with the existing banking/payments systems to make the transition seamless.
 * provides offline usage of digital currency for backup during emergencies, internet/power outages, etc.
 
-We all know what the first car looked like, in the late 1800s. Would anyone want to drive that car for day-to-day usage today?. No. Definitely not me. Similarly, Satoshi showed us what's possible with digital currency. It's up to us to take it forward, improve it, evolve it to something practically usable, instead of religiously holding on to Bitcoin.
+We all know what the first car looked like, in the late 1800s. Would anyone want to drive that car for day-to-day usage today? No. Definitely not me. Similarly, Satoshi showed us what's possible with digital currency. It's up to us to take it forward, improve it, evolve it to something practically usable, instead of religiously holding on to Bitcoin.
 
 > Bitcoin did its job. Let's move on.
 

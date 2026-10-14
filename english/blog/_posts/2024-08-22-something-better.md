@@ -20,9 +20,9 @@ For this to be true, there has to be two conditions,
 
 **First Condition**: For this quote to be true, there has to be someone or something that must know your future in your current path (not so good) and must have the power to redirect you to a new path (very good), thus creating a new future for you.
 
-What's that someone or something?. A god or the universe (gas and dust). Yeah, there is a group of people who are not religious but believe that gas and dust can affect their lives.
+What's that someone or something? A god or the universe (gas and dust). Yeah, there is a group of people who are not religious but believe that gas and dust can affect their lives.
 
-What does that someone or something gain by doing you a favor?. No one knows.
+What does that someone or something gain by doing you a favor? No one knows.
 
 It's external. It's not in our control. People who believe in creationism will be offended. Ok, no problem. Let's ignore this first condition.
 

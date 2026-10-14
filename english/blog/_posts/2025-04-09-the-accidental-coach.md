@@ -23,6 +23,6 @@ I am surprised that even after forgetting my dream, I did achieve it. I didn't e
 
 Do you want to recall your forgotten dreams?
 
-Do you want to rediscover yourself?.
+Do you want to rediscover yourself?
 
 Let's do it, together!

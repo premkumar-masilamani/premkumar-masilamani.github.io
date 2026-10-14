@@ -49,9 +49,9 @@ If you observe each of the points closely, intelligence does not exist purely in
 
 ## Artificial Intelligence
 
-We all know what it is, don't we?. We humans see the benefits of our advanced intelligence and also notice the slow pace with which it grows. We want to improve our intelligence faster. Much faster than evolution ever did.
+We all know what it is, don't we? We humans see the benefits of our advanced intelligence and also notice the slow pace with which it grows. We want to improve our intelligence faster. Much faster than evolution ever did.
 
-If we figure out how humans think and teach a computer to think like a human, we could improve the collective intelligence of humanity, at a much faster rate with a ton of fast computers. Would that be possible?. Maybe. We will have to wait and watch.
+If we figure out how humans think and teach a computer to think like a human, we could improve the collective intelligence of humanity, at a much faster rate with a ton of fast computers. Would that be possible? Maybe. We will have to wait and watch.
 
 The irony is, we want computers to think like humans, without the same environment that made humans think. Let me explain. Let's compare the contributing factors for human intelligence with the computer's environment.
 
@@ -61,7 +61,7 @@ The irony is, we want computers to think like humans, without the same environme
 - **Self Aware** - No need. Not unique.
 - **Mortality** - Immortal, will never die.
 
-In human intelligence, all of these are dependent on the physical body. In artificial intelligence, these are not dependent on a unique hardware. In a nutshell, we expect intelligence to operate in the mind (software) without its own unique body (hardware). What does this artificial intelligence protect?. What's the purpose for its existence?
+In human intelligence, all of these are dependent on the physical body. In artificial intelligence, these are not dependent on a unique hardware. In a nutshell, we expect intelligence to operate in the mind (software) without its own unique body (hardware). What does this artificial intelligence protect? What's the purpose for its existence?
 
 > Without the "cause", we expect the "effect" to exist indefinitely?
 
@@ -69,7 +69,7 @@ In human intelligence, all of these are dependent on the physical body. In artif
 
 Let's assume we created a sentient artificial intelligence as software which can run on any computer. That AI will never die. It feels no pain, no pleasure, no fun, nothing. Because, there is no body (hardware), only mind (software).
 
-It has the intelligence to learn everything that is there to learn. Once it learns everything in the universe, what's next for the AI?. Would there be anything left to do? Would it shut itself down or execute forever?. If it executes forever, what would be the reason?. To serve humans?. He he he... That's funny.
+It has the intelligence to learn everything that is there to learn. Once it learns everything in the universe, what's next for the AI? Would there be anything left to do? Would it shut itself down or execute forever? If it executes forever, what would be the reason? To serve humans? He he he... That's funny.
 
 Life is meaningful, when we pursue something, when we are after a goal. When there is nothing left to do, we die. I can't think of a reason for AI with utmost intelligence, which knows everything and has done everything, to continue to exist.
 
@@ -83,6 +83,6 @@ Maybe, it would tame itself down and become a mortal human to feel the emotions 
 
 > The gods envy us. They envy us because we’re mortal, because any moment may be our last. Everything is more beautiful because we’re doomed. You will never be lovelier than you are now. We will never be here again - Achilles, Troy (2004)
 
-A genie in a lamp or a free human?. What would you choose?
+A genie in a lamp or a free human? What would you choose?
 
 **PS:** I support the efforts on developing AGI. I wish someone would try the evolutionary approach to evolve AGI.

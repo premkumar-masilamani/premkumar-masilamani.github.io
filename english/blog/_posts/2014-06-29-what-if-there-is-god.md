@@ -8,7 +8,7 @@ date: 2014-06-29
 title: What If, there is God?
 ---
 
-Saturday evening, the Soccer game is yet to start and unfortunately, there are no beers in the fridge. Shame on me. Sorry. What to do then?. Let's talk. Me, Anbu, and my wife were talking about many things which eventually led us to a discussion about religions. Though I am an atheist, I assumed the side of theist for the sake of discussion and started with the big assumption below. We ended up creating a brand new story that merges Science & Creationism.
+Saturday evening, the Soccer game is yet to start and unfortunately, there are no beers in the fridge. Shame on me. Sorry. What to do then? Let's talk. Me, Anbu, and my wife were talking about many things which eventually led us to a discussion about religions. Though I am an atheist, I assumed the side of theist for the sake of discussion and started with the big assumption below. We ended up creating a brand new story that merges Science & Creationism.
 
 **Assumption:** God exists. He creates, manages, and destroys everything that we know. (Definitely not in a way that **any religion** preaches)
 
@@ -20,7 +20,7 @@ God is a video game developer and AI scientist who specializes in robotics. He c
 
 Yes. Instead of creating everything, he creates the "God Particle" and sets multiple characteristics for it. This is the smallest, indivisible unit of energy. He created a lot of them and set up "The Bing Bang". He defines clearly the degree and the boundary of randomness that these god particles can take. The god particles randomly react, and fuse with each other to create an astonishingly beautiful collection of atoms, molecules, gas, dust, galaxies, stars, planets, etc. They continue to react even now, which creates a life cycle even for the universe.
 
-Brilliant. Isn't it?.
+Brilliant. Isn't it?
 
 God wants to check if the gaming environment is good. He starts the game and says
 
@@ -30,17 +30,17 @@ Viola - there was light. Remember he was the one who set up the voice commands?
 
 He chose a beautiful, cool, blue planet - The Earth, for his game. He has to create the characters in his game. He already has a working model of randomness in creating the environment. He wants to apply the same concept to create living beings. He created the smallest form of living being in large numbers, the ancestors to cyanobacteria, and let it spread across every possible place on earth. That organism can survive with the energy from the environment and sunlight.
 
-He allowed **mutation** to happen in the lowest degree over a long period - to test their survival abilities. He cannot wait around for the characters in the game to develop and mature right?. So, he speeds up the time in the universe. Something like one century in the world is equal to one second in God's world. Soon enough, the world was filled with so many diverse living beings, the perfect ecosystem, the proper recycling of energy, and sustained balance in life.
+He allowed **mutation** to happen in the lowest degree over a long period - to test their survival abilities. He cannot wait around for the characters in the game to develop and mature right? So, he speeds up the time in the universe. Something like one century in the world is equal to one second in God's world. Soon enough, the world was filled with so many diverse living beings, the perfect ecosystem, the proper recycling of energy, and sustained balance in life.
 
 Next, he wanted to create a life form in his image but did not want to disrupt the existing mutation process. So, he picked up a species and carefully allowed ONLY the mutations that would make that species evolve into his form. He gave them the ability to think and the free will to decide their own life(Artificial Intelligence). God became curious to see - what will the humans do with their extraordinary ability to think?
 
 One unanswered question to the theory of evolution.
 
-When every other species evolved to a stronger (or fitter) form of themselves, why did only one branch of species from the ape family evolve to its weaker form, start walking on two legs which made them slower, leave the safe trees to the dangerous open grounds, becoming the easiest prey to any predator of that time, losing the hair in their body which protected them from cold and yet survived long enough to dominate every other species in this world?.
+When every other species evolved to a stronger (or fitter) form of themselves, why did only one branch of species from the ape family evolve to its weaker form, start walking on two legs which made them slower, leave the safe trees to the dangerous open grounds, becoming the easiest prey to any predator of that time, losing the hair in their body which protected them from cold and yet survived long enough to dominate every other species in this world?
 
 That too, at a speed that has not happened in billions of years?
 
-How did that happen?.
+How did that happen?
 
 OK. Let's come back to the game.
 
@@ -62,7 +62,7 @@ That's what your creator wants you to do. You still have the choice not to learn
 
 ## What is the need for Collective Consciousness?
 
-Who develops an Artificial Intelligence game without capturing the experiences acquired through the game? Right?. But, what is God going to do with it? I do not (possibly may not) know the need for collective consciousness while I am on Earth, in the game of life. When I transcend to the next plane after completing my learning, possibly more will be revealed to me.
+Who develops an Artificial Intelligence game without capturing the experiences acquired through the game? Right? But, what is God going to do with it? I do not (possibly may not) know the need for collective consciousness while I am on Earth, in the game of life. When I transcend to the next plane after completing my learning, possibly more will be revealed to me.
 
 ## Why can't I feel God?
 
@@ -92,7 +92,7 @@ Tell me one good reason that only humans should dominate, but not the other spec
 
 ## Because God loves us right?
 
-Again, Why?. In God's world, there is no love, no hate, no good, and no bad. We, humans, manifested these emotions. We intuitively know the best version of ourselves. Loving & helping each other, not disturbing the ecosystems, living a balanced life in nature. We attribute all the human qualities to an entity called "God" and expect God to behave in the way that we are supposed to live. How weird?
+Again, Why? In God's world, there is no love, no hate, no good, and no bad. We, humans, manifested these emotions. We intuitively know the best version of ourselves. Loving & helping each other, not disturbing the ecosystems, living a balanced life in nature. We attribute all the human qualities to an entity called "God" and expect God to behave in the way that we are supposed to live. How weird?
 
 ## So, we are on our own?
 

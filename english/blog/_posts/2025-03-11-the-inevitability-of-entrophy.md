@@ -12,7 +12,7 @@ title: The Inevitability of Entropy
 
 > Entropy is a measure of disorder or randomness within a system
 
-Go to any beach, there would be kids building sand castles. You would see a beautiful castle made of sand, and the rest of the beach has loose sand. Which has more order?. Loose sand or the sand castle?. Of course, the sand castle.
+Go to any beach, there would be kids building sand castles. You would see a beautiful castle made of sand, and the rest of the beach has loose sand. Which has more order? Loose sand or the sand castle? Of course, the sand castle.
 
 We can say that
 - The sandcastle has low entropy because the sand particles are arranged in a structured, orderly way.
@@ -20,7 +20,7 @@ We can say that
 
 Yeah, this is another word, the physicists should have defined right. The inverse nature of this word makes it difficult to understand the concept of entropy. Let's continue.
 
-Let's say, nobody goes to the beach for the next 100 years. What do you think will probably happen?. Sand castle becoming loose sand (or) the loose sand becoming a sand castle?. Of course the former.
+Let's say, nobody goes to the beach for the next 100 years. What do you think will probably happen? Sand castle becoming loose sand (or) the loose sand becoming a sand castle? Of course the former.
 
 We could also generalize that, everything in this universe tends to move towards high entropy almost all the time. (i.e.) Order to Chaos.
 
@@ -28,7 +28,7 @@ We could also generalize that, everything in this universe tends to move towards
 
 ## What are Entropy Systems?
 
-Let's take an apple, clean it thoroughly (no bacteria or any other life forms), and keep it in a transparent vacuum box (no air). What do you think will happen to the apple?. It will stay the same for a really long time. If the vacuum box is intact, even for millions of years. We can call this **a low-entropy system** because the order is maintained.
+Let's take an apple, clean it thoroughly (no bacteria or any other life forms), and keep it in a transparent vacuum box (no air). What do you think will happen to the apple? It will stay the same for a really long time. If the vacuum box is intact, even for millions of years. We can call this **a low-entropy system** because the order is maintained.
 
 Let's take the same apple and give it to a man. He will eat the apple, digest it, transform into energy to be used by the body and discard the rest as bodily waste. Here, the apple is converted to energy and waste, and loses its form very quickly. We can call this **a high-entropy system**, because the order is lost quickly.
 
@@ -38,7 +38,7 @@ Now, we understand the concepts of Entropy and the Entropy Systems. Let's look a
 
 Our Earth receives energy from the Sun continuously in the form of light and heat (photons). Roughly 174 petawatts of energy every second, which could power the whole world for over an hour.
 
-Have you ever wondered what happens to that much energy from the sun?. About 30% is reflected back to space and 70% is absorbed by the atmosphere, land, and oceans.
+Have you ever wondered what happens to that much energy from the sun? About 30% is reflected back to space and 70% is absorbed by the atmosphere, land, and oceans.
 
 A large portion of the energy from the sun, are used by the plants along with nutrients from the soil and carbon from the atmosphere to grow (photosynthesis), the herbivores eat the plants, the carnivores eat the herbivores, and when the animals and plants die, they decompose and return as nutrients to the soil. The plants use nutrients from the soil, carbon from the air, and energy from the sun to grow again. The cycle continues.
 
@@ -106,7 +106,7 @@ Though capitalism starts as **a high entropy social system**, eventually the wea
 
 I am not here to advise which social system is best for humans. I am merely pointing out that you can also view social systems through the context of entropy. Instead of rejecting the idea of entropy, embrace it and figure out how to control the degree of disorder.
 
-What do you think of Entropy?.  Where else could you apply this entropy lens?. Philosophy?. Let me know if you find interesting viewpoints.
+What do you think of Entropy?  Where else could you apply this entropy lens? Philosophy? Let me know if you find interesting viewpoints.
 
 ## References
 - [The Most Misunderstood Concept in Physics](https://www.quantamagazine.org/a-new-thermodynamics-theory-of-the-origin-of-life-20140122/)

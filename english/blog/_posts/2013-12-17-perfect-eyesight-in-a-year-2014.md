@@ -16,7 +16,7 @@ There are too many products and procedures out there that claim to improve my ey
 
 ## Eye Exercises
 
-How can I be so confident that eye exercises help?. Because I know. I attended a week-long free training at [The School for Perfect Eyesight](https://eyecare.sriaurobindoashram.org/), Sri Aurobindo Ashram, Pondicherry, way back in Sep 2009. This training is based on Dr. Bates's Method. With the simple exercises mentioned below, my eyesight was improved from -3.00 diopters to -2.75 diopters in both eyes. In just one week!. The training required a little bit of determination (two times a day and no glasses are allowed throughout the week). The teachers advised me to continue the training for at least 6 months and avoid wearing glasses at all possible times. I did not follow that advice. Result? - Now with -3.5 diopters.
+How can I be so confident that eye exercises help? Because I know. I attended a week-long free training at [The School for Perfect Eyesight](https://eyecare.sriaurobindoashram.org/), Sri Aurobindo Ashram, Pondicherry, way back in Sep 2009. This training is based on Dr. Bates's Method. With the simple exercises mentioned below, my eyesight was improved from -3.00 diopters to -2.75 diopters in both eyes. In just one week!. The training required a little bit of determination (two times a day and no glasses are allowed throughout the week). The teachers advised me to continue the training for at least 6 months and avoid wearing glasses at all possible times. I did not follow that advice. Result? - Now with -3.5 diopters.
 
 1. SUN TREATMENT
 2. WASHING
