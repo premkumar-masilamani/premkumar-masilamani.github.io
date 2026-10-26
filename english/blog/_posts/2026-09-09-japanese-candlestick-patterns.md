@@ -7,6 +7,7 @@ permalink: /english/blog/:title/
 date: 2026-09-09
 title: Japanese Candlestick Patterns
 ---
+
 <style>
     .csp-wrapper {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
