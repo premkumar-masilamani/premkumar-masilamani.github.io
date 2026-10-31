@@ -9,11 +9,23 @@ title: RSS Feed
 artwork: 96-tamil-movie.jpeg
 ---
 
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
   <channel>
     <title><![CDATA[{{ site[page.lang][page.type].title }}]]></title>
     <link><![CDATA[{{ site[page.lang][page.type].url }}]]></link>
     <description><![CDATA[{{ site[page.lang][page.type].description }}]]></description>
+    <image>
+      <url>{{ site.home }}/assets/icon.png</url>
+      <title><![CDATA[{{ site[page.lang][page.type].title }}]]></title>
+      <link><![CDATA[{{ site[page.lang][page.type].url }}]]></link>
+      <width>144</width>
+      <height>144</height>
+    </image>
+    <atom:icon>{{ site.home }}/assets/icon.png</atom:icon>
+    <atom:logo>{{ site.home }}/assets/icon.png</atom:logo>
+    <webfeeds:icon>{{ site.home }}/assets/icon.png</webfeeds:icon>
+    <webfeeds:logo>{{ site.home }}/assets/icon.png</webfeeds:logo>
+    <webfeeds:accentColor>#3b2219</webfeeds:accentColor>
     <copyright><![CDATA[{{ site[page.lang][page.type].author }}]]></copyright>
     <language>ta</language>
     <category>Podcasts</category>

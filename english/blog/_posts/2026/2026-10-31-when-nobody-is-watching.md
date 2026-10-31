@@ -38,13 +38,15 @@ When someone tells me, “_Wow, you’re using mechanical keyboards!_” I feel 
 
 Many years later, I realized a simple membrane keyboard works just as well as mechanical keyboards. The differences didn’t affect my work.
 
-What’s the underlying emotional need behind all three incidents? 
+**What’s the underlying emotional need behind all three incidents?** 
 
 _I enjoyed using these products, and I also wanted to belong and feel special._
 
-What has changed in my life?
+**What has changed in my life?**
 
-My profession. I have been a life coach for the past 3 years. It’s a lonely profession. Most of my work is done virtually. There is no one to see my fountain pen, the mechanical keyboard, or the editor that I use. Lately, I realized 
+_My profession. I have been a life coach for the past 3 years. It’s a lonely profession. Most of my work is done virtually. There is no one to see my fountain pen, the mechanical keyboard, or the editor that I use._ 
+
+Lately, I realized 
 
 > The vanity vanishes when there are no observers.
 
@@ -52,4 +54,4 @@ This is a powerful realization for me.
 
 What are the things that no longer serve you?
 
-**PS:** This article is written on paper and a local fountain pen. The fountain pens, the mechanical keyboards, and the Vim editor are still amazing products. Just that their absence did not affect me or my work.
+**PS:** This article is written on paper with a local fountain pen. The fountain pens, the mechanical keyboards, and the Vim editor are still amazing products. Just that their absence did not affect me or my work.
