@@ -14,16 +14,16 @@ title: RSS Feed
 		<link><![CDATA[{{ site[page.lang][page.type].url }}]]></link>
 		<description><![CDATA[{{ site[page.lang][page.type].description }}]]></description>
 		<image>
-			<url>{{ site.home }}/downloads/assets/icon.png</url>
+			<url>{{ site.home }}/downloads/icons/icon.png</url>
 			<title><![CDATA[{{ site[page.lang][page.type].title }}]]></title>
 			<link><![CDATA[{{ site[page.lang][page.type].url }}]]></link>
 			<width>144</width>
 			<height>144</height>
 		</image>
-		<atom:icon>{{ site.home }}/downloads/assets/icon.png</atom:icon>
-		<atom:logo>{{ site.home }}/downloads/assets/icon.png</atom:logo>
-		<webfeeds:icon>{{ site.home }}/downloads/assets/icon.png</webfeeds:icon>
-		<webfeeds:logo>{{ site.home }}/downloads/assets/icon.png</webfeeds:logo>
+		<atom:icon>{{ site.home }}/downloads/icons/icon.png</atom:icon>
+		<atom:logo>{{ site.home }}/downloads/icons/icon.png</atom:logo>
+		<webfeeds:icon>{{ site.home }}/downloads/icons/icon.png</webfeeds:icon>
+		<webfeeds:logo>{{ site.home }}/downloads/icons/icon.png</webfeeds:logo>
 		<webfeeds:accentColor>#3b2219</webfeeds:accentColor>
 		<copyright><![CDATA[{{ site.copyright }}]]></copyright>
 		<category>Blogs</category>
