@@ -1,12 +1,3 @@
-{% if include.lang and include.type %}
 <link rel="alternate" type="application/rss+xml"
     title="{{ site[include.lang][include.type].title }} - RSS 2.0 Feed"
     href="{{ site[include.lang][include.type].url }}/feed.xml">
-{% else %}
-<link rel="alternate" type="application/rss+xml"
-    title="{{ site.english.blog.title }} - RSS 2.0 Feed"
-    href="{{ site.english.blog.url }}/feed.xml">
-<link rel="alternate" type="application/rss+xml"
-    title="{{ site.tamil.blog.title }} - RSS 2.0 Feed"
-    href="{{ site.tamil.blog.url }}/feed.xml">
-{% endif %}
