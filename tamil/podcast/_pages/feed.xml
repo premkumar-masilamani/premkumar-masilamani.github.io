@@ -54,7 +54,7 @@ artwork: 96-tamil-movie.jpeg
     {% assign filtered_posts = site.posts | where: "lang", "tamil" | where: "type", "podcast" %}
     {% assign sorted_posts = filtered_posts | sort: "date" | reverse %}
 
-    {% for post in sorted_posts %}
+    {% for post in sorted_posts limit: 25 %}
       <item>
         <title><![CDATA[{{ post.title }}]]></title>
         <link><![CDATA[{{ site.home }}{{ post.url }}]]></link>
