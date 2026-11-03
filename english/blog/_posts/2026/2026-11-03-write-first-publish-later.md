@@ -5,7 +5,7 @@ type: blog
 permalink: /english/blog/:title/
 
 date: 2026-11-03
-title: Write First, Judge Later
+title: Write First, Publish Later
 ---
 
 What is writer's block? 
