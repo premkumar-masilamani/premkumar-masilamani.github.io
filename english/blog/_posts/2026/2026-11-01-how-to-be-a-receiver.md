@@ -28,7 +28,9 @@ Just like us, they don’t know:
 2. If they are sending information
 3. If we send information, whether they would have the intelligence to receive and interpret it
 
-What do these SETI scientists do? They point radio telescopes towards selected regions of the sky, collect electromagnetic signals, and analyze them for artificial signals. Until they have credible, independently verified evidence, they are not going to accept the existence of aliens. At the same time, they will not stop receiving and analyzing the electromagnetic signals.
+What do these SETI scientists do? 
+
+They point radio telescopes towards selected regions of the sky, collect electromagnetic signals, and analyze them for artificial signals. Until they have credible, independently verified evidence, they are not going to accept the existence of aliens. At the same time, they will not stop receiving and analyzing the electromagnetic signals.
 
 This is very similar to our search for a sender. Isn’t it?
 
