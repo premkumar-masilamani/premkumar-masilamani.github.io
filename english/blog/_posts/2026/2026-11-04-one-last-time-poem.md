@@ -56,8 +56,8 @@ Fuck my yearnings.
 Why doesn’t she give a damn about me?  
 
 Love is all I offered.  
-Maybe that’s why she left.  
-
+Maybe...  
+That’s why she left.  
 Yeah...  
 That’s why she left.  
 
