@@ -8,74 +8,59 @@ date: 2026-11-04
 title: One Last Time
 ---
 
-I want to hug her, one last time.
+I wanna hug her, one last time.  
 
-I want to feel her warmth, feel her breath, feel her heart, feel her body.
+I wanna feel her warmth.  
+I wanna feel her breath.  
+I wanna feel her heart.  
+I wanna feel her body.  
 
-Feel myself. Again.
+Feel myself. Again.  
+That won’t happen. I know.  
+My life is right here, without me.  
+What a pathetic life!  
 
-That won’t happen.
+Why can’t I feel myself?  
+Why do I need her?  
+Why does her smile make me happy?  
+Why do her tears tear me apart?  
 
-My life is right here, without me.
+I don’t know.  
 
-What a pathetic life!
+Why still?  
+That’s the mystery.  
 
-Why can’t I feel myself?
+I knew.  
+I knew.  
+I knew.   
+Only I knew.  
 
-Why do I need her?
+What a tragedy!  
 
-Why does her smile make me happy?
+Expressed my love to the void.  
+I’m lovably challenged.  
+A loveless life is much kinder.  
 
-Why do her tears tear me apart?
+Fuck it.  
+Fuck me.  
+Fuck her.  
 
-I don’t know.
+I wanna fuck her all day, all night.  
+Fuse the bodies with love. Inseparable.  
+A new element in the periodic table.  
 
-Why still?
+Fuck my language.  
+Fuck my feelings.  
+Fuck my yearnings.  
 
-That’s the mystery.
+Why doesn’t she give a damn about me?  
 
-I knew. I knew. I knew.
+Love is all I offered.  
+Maybe...  
+That’s why she left.  
+Yeah...  
+That’s why she left.  
 
-Only I knew.
-
-What a tragedy!
-
-Expressed my love to the void.
-
-I’m lovably challenged.
-
-A loveless life is much kinder.
-
-Fuck it.
-
-Fuck me.
-
-Fuck her.
-
-I want to fuck her all day, all night.
-
-Fuse the bodies with love.
-
-Inseparable.
-
-A new element in the periodic table.
-
-Fuck my language.
-
-Fuck the reader.
-
-Why doesn’t she give a damn about me?
-
-Love is all I offered.
-
-Maybe that's why she left.
-
-Yeah…
-
-That's why she left.
-
-Still, 
-
-I want to hug her… 
-
-One last time.
+Still,  
+I wanna hug her...  
+One last time!
