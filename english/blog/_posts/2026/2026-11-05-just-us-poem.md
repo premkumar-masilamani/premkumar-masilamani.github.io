@@ -28,11 +28,11 @@ Let's eat all the apples
 and the snakes too.  
 
 Let's do all the good.  
-In all its glory, 
+In all its glory,  
 we love.  
 
 Let's do all the bad.  
-In all its shame, 
+In all its shame,  
 we love.  
 
 There is no evil without love.  
