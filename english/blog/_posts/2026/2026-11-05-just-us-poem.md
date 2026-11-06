@@ -17,7 +17,7 @@ in here and now?
 Forgive this world  
 that caged our love.  
 Let's find another  
-to forge our love.  
+to forge our souls.  
 
 No gods.  
 No commandments.  
