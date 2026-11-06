@@ -8,7 +8,8 @@ date: 2026-11-04
 title: One Last Time
 ---
 
-I wanna hug her, one last time.  
+I wanna hug her.  
+One last time.  
 
 I wanna feel her warmth.  
 I wanna feel her breath.  
