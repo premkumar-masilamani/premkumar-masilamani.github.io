@@ -43,8 +43,6 @@ I’m lovably challenged.
 A loveless life is much kinder.  
 
 Fuck it.  
-Fuck me.  
-Fuck her.  
 
 I wanna fuck her all day, all night.  
 Fuse the bodies with love. Inseparable.  
