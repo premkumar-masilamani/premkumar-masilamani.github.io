@@ -1,3 +1,5 @@
+@import "https://use.typekit.net/kmj5qkr.css";
+
 html {
     display: table;
     margin: auto;
@@ -181,4 +183,111 @@ pre code {
 .brace {
   font-size: 2rem;
   line-height: 1;
+}
+
+/* Certification Badges */
+.cert-badges {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 16px;
+    margin: 0.75rem 0 1.25rem 0;
+}
+
+.cert-badges a {
+    display: inline-flex;
+    align-items: center;
+    text-decoration: none;
+    transition: transform 0.2s ease-in-out;
+}
+
+.cert-badges a:hover {
+    transform: scale(1.08);
+}
+
+.cert-badges img {
+    height: 48px;
+    width: auto;
+    max-height: 48px;
+    border-radius: 4px;
+    display: inline-block;
+    margin: 0;
+    vertical-align: middle;
+}
+
+/* Toptal Talent Badge */
+:root {
+    --h: polygon(50% 0, 100% 24%, 100% 76%, 50% 100%, 0 76%, 0 24%);
+}
+
+.toptal-badge-container {
+    margin: 1.25rem 0 1.5rem 0;
+}
+
+.toptal-badge-container .h {
+    display: inline-block;
+    background: #25a9ef;
+    padding: 6px;
+    clip-path: var(--h);
+}
+
+.toptal-badge-container .a {
+    width: 200px;
+    padding: 24px 0 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    color: #204ecf;
+    text-align: center;
+    background: radial-gradient(circle at 20% -10%, #00c3ff -80%, #fff 30%),
+                radial-gradient(circle at -20% 20%, #00c3ff -80%, #fff 30%),
+                radial-gradient(circle at 70% 100%, #00c3ff -80%, #fff 30%),
+                radial-gradient(circle at 120% 80%, #00c3ff -80%, #fff 30%);
+    background-blend-mode: multiply;
+    clip-path: var(--h);
+    box-shadow: 0 28px 50px rgba(6, 30, 96, .35);
+}
+
+.toptal-badge-container #r {
+    font-family: proxima-nova, Arial, sans-serif;
+}
+
+.toptal-badge-container .b {
+    margin: 0;
+    font-size: 19px;
+    font-weight: 700;
+    line-height: 1;
+}
+
+.toptal-badge-container .c {
+    width: 120px;
+    height: 1px;
+    background: #25a9ef;
+}
+
+.toptal-badge-container .d {
+    font-size: 16px;
+    margin-bottom: -6px;
+}
+
+.toptal-badge-container .f {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 4px 20px;
+    border-radius: 6px;
+    background: #296bff;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+    text-decoration-thickness: .5px;
+    text-underline-offset: 2px;
+}
+
+.toptal-badge-container .f:hover {
+    color: #fff;
+    background: #1e56d8;
+    text-decoration: none;
 }

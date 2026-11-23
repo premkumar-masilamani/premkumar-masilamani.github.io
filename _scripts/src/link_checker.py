@@ -17,6 +17,7 @@ SPECIAL_DOMAINS = [
     "x.com",
     "toptal.com",
     "substack.com",
+    "topmate.io",
 ]
 
 

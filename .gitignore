@@ -4,7 +4,8 @@
 .LSOverride
 
 # Icon file on custom folder attributes
-Icon?
+Icon
+!downloads/icons/**
 
 # Thumbnails
 ._*
