@@ -15,6 +15,8 @@ SPECIAL_DOMAINS = [
     "facebook.com",
     "twitter.com",
     "x.com",
+    "toptal.com",
+    "substack.com",
 ]
 
 
