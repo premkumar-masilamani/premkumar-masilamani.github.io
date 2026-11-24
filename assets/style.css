@@ -206,9 +206,9 @@ pre code {
 }
 
 .cert-badges img {
-    height: 144px;
+    height: 120px;
     width: auto;
-    max-height: 144px;
+    max-height: 120px;
     border-radius: 4px;
     display: inline-block;
     margin: 0;
