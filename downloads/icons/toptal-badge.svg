@@ -24,13 +24,13 @@
   </g>
 
   <!-- Top 3% Talent -->
-  <text x="106" y="58" font-family="proxima-nova, Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="0.5">TOP 3% TALENT</text>
+  <text x="106" y="58" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="0.5">TOP 3% TALENT</text>
 
   <!-- Divider Line -->
   <line x1="46" y1="68" x2="166" y2="68" stroke="#25a9ef" stroke-width="1"/>
 
   <!-- Vetted by -->
-  <text x="106" y="84" font-family="proxima-nova, Arial, Helvetica, sans-serif" font-size="13" opacity="0.8" fill="#ffffff" text-anchor="middle">Vetted by</text>
+  <text x="106" y="84" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" opacity="0.8" fill="#ffffff" text-anchor="middle">Vetted by</text>
 
   <!-- Toptal Wordmark Logo -->
   <g transform="translate(56, 94)">
@@ -45,6 +45,6 @@
   <!-- Button: Hire me -->
   <g transform="translate(56, 134)">
     <rect width="100" height="32" rx="6" fill="#296bff"/>
-    <text x="50" y="21" font-family="proxima-nova, Arial, Helvetica, sans-serif" font-size="15" font-weight="500" fill="#ffffff" text-anchor="middle">Hire me</text>
+    <text x="50" y="21" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="500" fill="#ffffff" text-anchor="middle">Hire me</text>
   </g>
 </svg>
