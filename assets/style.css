@@ -182,3 +182,33 @@ pre code {
   font-size: 2rem;
   line-height: 1;
 }
+
+/* Certification Badges */
+.cert-badges {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 16px;
+    margin: 0.75rem 0 1.25rem 0;
+}
+
+.cert-badges a {
+    display: inline-flex;
+    align-items: center;
+    text-decoration: none;
+    transition: transform 0.2s ease-in-out;
+}
+
+.cert-badges a:hover {
+    transform: scale(1.06);
+}
+
+.cert-badges img {
+    height: 120px;
+    width: auto;
+    max-height: 120px;
+    border-radius: 4px;
+    display: inline-block;
+    margin: 0;
+    vertical-align: middle;
+}
